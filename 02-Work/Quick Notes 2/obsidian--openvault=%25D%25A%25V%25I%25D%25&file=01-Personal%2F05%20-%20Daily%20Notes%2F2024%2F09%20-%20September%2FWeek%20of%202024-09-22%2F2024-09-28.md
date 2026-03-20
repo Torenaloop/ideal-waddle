@@ -1,0 +1,1 @@
+obsidian://open?vault=%25D%25A%25V%25I%25D%25&file=01-Personal%2F05%20-%20Daily%20Notes%2F2024%2F09%20-%20September%2FWeek%20of%202024-09-22%2F2024-09-28

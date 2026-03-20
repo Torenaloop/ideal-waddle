@@ -1,0 +1,31 @@
+# Table
+
+filters:
+  and:
+    - note["base"] == link("Table.base")
+properties:
+  file.name:
+    displayName: Name
+  Solution:
+    displayName: Solution
+  SQ. FT.:
+    displayName: SQ. FT.
+  Region:
+    displayName: Region
+  MW:
+    displayName: MW
+  Stage:
+    displayName: Stage
+  Client:
+    displayName: Client
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Solution
+      - SQ. FT.
+      - Region
+      - MW
+      - Stage
+      - Client

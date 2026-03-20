@@ -1,0 +1,1 @@
+[https://www.amazon.com/dp/B08FCPDH64?ref_=cm_sw_r_cp_ud_dp_BZXE2SAY3QH5EMWH0QXS](https://www.amazon.com/dp/B08FCPDH64?ref_=cm_sw_r_cp_ud_dp_BZXE2SAY3QH5EMWH0QXS) - Dell Laptop $219

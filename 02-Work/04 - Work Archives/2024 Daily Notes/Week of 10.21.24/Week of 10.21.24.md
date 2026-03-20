@@ -1,0 +1,12 @@
+Things that will get accomplished this week:
+ 
+- [ ] Incident Management AP Learning Team Check In  
+- [x] Ryan Arthur - Gap Analysis  
+- [x] Travis Gilbert - Report Template  
+- [x] Matt DeZinno - Report Template
+ 
+- [ ] AR Glasses Business Case - Address Donna comments
+
+- Meeting set up for 10/22 to discuss specific financial estimates
+ 
+- [ ] ERP and all that it entails

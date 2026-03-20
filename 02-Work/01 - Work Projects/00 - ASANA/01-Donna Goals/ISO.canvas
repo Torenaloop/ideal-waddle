@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1face8298c8a5836","x":-980,"y":-60,"width":250,"height":60,"type":"text","text":"Programs (to be refined)"},
+		{"id":"af3db0083df97623","x":-540,"y":-60,"width":250,"height":60,"type":"text","text":"Communication"},
+		{"id":"591833c1cfbc0fc3","x":-160,"y":-60,"width":250,"height":60,"type":"text","text":"Competence/Trainings"},
+		{"id":"4dc1eee5fca6eb0a","x":200,"y":-60,"width":250,"height":60,"type":"text","text":"Metrics/Monitoring"},
+		{"id":"daedd49245e8ce33","x":-1340,"y":-60,"width":250,"height":60,"type":"text","text":"Risk Management"},
+		{"id":"409e9cf3fcafd68b","x":-540,"y":120,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ec275414c3274375","x":-540,"y":340,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

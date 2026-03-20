@@ -1,0 +1,19 @@
+# YouTube
+
+filters:
+  and:
+    - note["base"] == link("YouTube.base")
+properties:
+  file.name:
+    displayName: Topic
+  Number:
+    displayName: Number
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Number
+      - Tags

@@ -1,0 +1,7 @@
+- Ladder mystery
+    - Tow truck driver showed up to get the truck and took the later after people at site said they don’t' want it
+- Electrical Shock?
+    - Shock doesn't always cause burns.
+    - Static can be related with systems he was exposed to
+- Height of Fall?
+    - Believes he as around 10' or less when he fell

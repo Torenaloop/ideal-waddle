@@ -1,0 +1,96 @@
+**NVA06A D2D Checklist Meeting**  
+Fri, Jul 11, 10:00 AM - 10:25 AM  
+Microsoft Teams Meeting  
+[Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAFRAAgI3cAN4ReAAEYAAAAACsqfmNv17UuKi99AXxuPkQcAsMLFN5kkLUu1hKjvSWQ4fgAAAAABDQAAsMLFN5kkLUu1hKjvSWQ4fgABg0C6%2BQAAEA%3D%3D&exvsurl=1&path=/calendar/item)  
+**Invitation Message**  
+   
+   
+-----Original Appointment-----  
+**From:** Janine Womac \<jwomac@stackinfra.com\>  
+**Sent:** Monday, March 3, 2025 12:17 PM  
+**To:** Janine Womac; Jonathan Calata; Kaitlyn Lail; Andrew Hassl; Jason Welsh; Josh Lloyd; John Brillant; Gary Forbes; Edward Olson; Sean Liesegang; Brandy Fischer  
+**Cc:** Alan Roche; Casey Vanderbeek; Rich Fernicola; Ted Travis; Mario Villena; China Mansfield; Ryan Arthur; Joe Kendra; Lauren Dalton; Megan Switzer; Rick Wilson; Taylor Muvrin; Jerome De Armas  
+**Subject:** NVA06A D2D Checklist Meeting  
+**When:** Occurs every Friday effective 2/7/2025 until 8/1/2025 from 10:00 AM to 10:25 AM (UTC-05:00) Eastern Time (US & Canada).  
+**Where:** Microsoft Teams Meeting  
+   
+   
+   
+-----Original Appointment-----  
+**From:** Janine Womac \<[jwomac@stackinfra.com](mailto:jwomac@stackinfra.com)\>  
+**Sent:** Tuesday, May 6, 2025 1:52 PM  
+**To:** Janine Womac; Andrew Hassl; Jason Welsh; Josh Lloyd; John Brillant; Gary Forbes; Edward Olson; Sean Liesegang; Brandy Fischer  
+**Cc:** Alan Roche; Casey Vanderbeek; Rich Fernicola; Ted Travis; Mario Villena; China Mansfield; Ryan Arthur; Jonathan Calata; Kaitlyn Lail; Joe Kendra; Lauren Dalton; Megan Switzer; Rick Wilson; Taylor Muvrin; Jerome De Armas  
+**Subject:** NVA06A D2D Checklist Meeting  
+**When:** Occurs every Friday effective 2/7/2025 until 8/1/2025 from 10:00 AM to 10:25 AM (UTC-05:00) Eastern Time (US & Canada).  
+**Where:** Microsoft Teams Meeting  
+   
+   
+   
+-----Original Appointment-----  
+**From:** Janine Womac \<[jwomac@stackinfra.com](mailto:jwomac@stackinfra.com)\>  
+**Sent:** Thursday, February 20, 2025 10:24 AM  
+**To:** Janine Womac; Andrew Hassl; Jason Welsh; Josh Lloyd; John Brillant; Gary Forbes; Edward Olson; Sean Liesegang; Brandy Fischer  
+**Cc:** Alan Roche; Casey Vanderbeek; Rich Fernicola; Ted Travis; Mario Villena; China Mansfield; Ryan Arthur; Jonathan Calata; Kaitlyn Lail; Joe Kendra; Lauren Dalton; Megan Switzer; Rick Wilson  
+**Subject:** NVA06A D2D Checklist Meeting  
+**When:** Occurs every Friday effective 2/7/2025 until 8/1/2025 from 10:00 AM to 10:25 AM (UTC-05:00) Eastern Time (US & Canada).  
+**Where:** Microsoft Teams Meeting  
+   
+   
+Bi-weekly D2D checklist sync to work through  
+   
+[D2D checklist link](https://stackinfrastructure.sharepoint.com/:x:/g/EQdnZthpfJdLi1_wZ4RzHIkBIVpYzXKA-yUxH1SlBMvJuQ?e=6nzgZI&xsdata=MDV8MDJ8ZG51Y2tvbGxzQHN0YWNraW5mcmEuY29tfGVkZWU3MDg5ZWVhZjQ5NDZhNGJkMDhkZDhjZGJhOGQxfDQyOTA5NDE2NGJhODQxOTVhNTk1NmFlNjQwMjkwYzdkfDB8MHw2Mzg4MjE1OTcyNDE5OTA0NDJ8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYYVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&sdata=QktORDZlWmxmZlpOVFVsc2NnYkxOazk3azc1OWJBaEpFMnRHOVNBU0p5ND0%3d)  
+   
+2/7 Agenda: 
+
+- Kickoff introduction
+- Expectations
+- AOB
+
+   
+________________________________________________________________________________  
+**Microsoft Teams** [Need help?](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cedee7089eeaf4946a4bd08dd8cdba8d1%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638821597242005086%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BzGfuTTYPO7H84BB%2B9553oToKUWCy%2BaQ74LhhCYCvMw%3D&reserved=0)  
+**Join the meeting now**  
+Meeting ID: 241 546 595 936  
+Passcode: XP68fb9Q
+ 
+**Dial in by phone**  
+[+1 949-543-0776,,81994031#](tel:+19495430776,,81994031) United States, Irvine  
+[Find a local number](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F9cb5dcda-ef1a-476f-ab8a-7e0a8b5fedc4%3Fid%3D81994031&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cedee7089eeaf4946a4bd08dd8cdba8d1%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638821597242040358%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Wt%2BoSW1BOI7tpSGnYfM865CWneS0m5%2Fr%2BEPdiNdzgt4%3D&reserved=0)  
+Phone conference ID: 819 940 31#  
+For organizers: [Meeting options](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3Ddf0cb95a-ddf1-4cf9-b7b3-4f4626618a4c%26tenantId%3D42909416-4ba8-4195-a595-6ae640290c7d%26threadId%3D19_meeting_NWQ3NTI5NDgtZDAwNC00NzgxLWJmYWUtOWJhNWEyMTI3YTEy%40thread.v2%26messageId%3D0%26language%3Den-US&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cedee7089eeaf4946a4bd08dd8cdba8d1%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638821597242063834%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=smUc0eYG%2Fw3v%2BU3%2BCP5Ph%2FywD43PIzxOGdT%2FkXqAUiw%3D&reserved=0) | [Reset dial-in PIN](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cedee7089eeaf4946a4bd08dd8cdba8d1%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638821597242079880%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBvcyqZo2l9Vc0ey275PkgBD7JGhBSuYoCCmIvEWX7Y%3D&reserved=0)  
+________________________________________________________________________________   **Participants (27)**  
+[Craig Zinck](mailto:czinck@stackinfra.com) #discuss-with-person-a  
+[Janine Womac](mailto:jwomac@stackinfra.com) (Meeting Organizer) #discuss-with-person-a  
+[Andrew Hassl](mailto:ahassl@stackinfra.com) #discuss-with-person-a  
+[Jason Welsh](mailto:jwelsh@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Josh Lloyd](mailto:jlloyd@stackinfra.com) #discuss-with-person-a  
+[John Brillant](mailto:jbrillant@stackinfra.com) #discuss-with-person-a  
+[Gary Forbes](mailto:gforbes@stackinfra.com) #discuss-with-person-a  
+[Edward Olson](mailto:eolson@stackinfra.com) #discuss-with-person-a  
+[Sean Liesegang](mailto:sliesegang@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Brandy Fischer](mailto:bfischer@stackinfra.com) #discuss-with-person-a  
+[Alan Roche](mailto:aroche@stackinfra.com) #discuss-with-person-a  
+[Casey Vanderbeek](mailto:cvanderbeek@stackinfra.com) #discuss-with-person-a  
+[Rich Fernicola](mailto:rfernicola@stackinfra.com) #discuss-with-person-a  
+[Ted Travis](mailto:ttravis@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Mario Villena](mailto:mvillena@stackinfra.com) #discuss-with-person-a  
+[China Mansfield](mailto:cmansfield@stackinfra.com) #discuss-with-person-a  
+[Ryan Arthur](mailto:rarthur@stackinfra.com) #discuss-with-person-a  
+[Jonathan Calata](mailto:jcalata@stackinfra.com) #discuss-with-person-a  
+[Kaitlyn Lail](mailto:klail@stackinfra.com) #discuss-with-person-a  
+[Lauren Dalton](mailto:ldalton@stackinfra.com) #discuss-with-person-a  
+[Megan Switzer](mailto:mswitzer@stackinfra.com) #discuss-with-person-a  
+[Rick Wilson](mailto:rwilson@stackinfra.com) #discuss-with-person-a  
+[Taylor Muvrin](mailto:tmuvrin@stackinfra.com) #discuss-with-person-a  
+[Jerome De Armas](mailto:jdearmas@stackinfra.com) #discuss-with-person-a  
+[David Nuckolls](mailto:dnuckolls@stackinfra.com) #discuss-with-person-a  
+[Nicholas Mansberger](mailto:nmansberger@stackinfra.com) #discuss-with-person-a  
+[Joe Kendra](mailto:jkendra@stackinfra.com) #discuss-with-person-a  
+**Meeting Collaterals (1)**
+
+- [NVA06A-EXP-DEV-1166_D2D Checklist.xlsx](https://stackinfrastructure.sharepoint.com/STACK%20Corporate%20Data/14.%20Development/11%20-%20Dirt-to-Delivery%20Checklists/NVA06A-EXP-DEV-1166_D2D%20Checklist.xlsx)
+ 
+Notes
+ 
+//

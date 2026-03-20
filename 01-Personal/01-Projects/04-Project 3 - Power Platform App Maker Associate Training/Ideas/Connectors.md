@@ -1,0 +1,1 @@
+Data connectors make it easy to connect to data across different services.

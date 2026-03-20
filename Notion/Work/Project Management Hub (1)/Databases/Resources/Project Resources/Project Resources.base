@@ -1,0 +1,22 @@
+# Project Resources
+
+filters:
+  and:
+    - note["base"] == link("Project Resources.base")
+properties:
+  file.name:
+    displayName: Name
+  Type:
+    displayName: Type
+  URL:
+    displayName: URL
+  Projects:
+    displayName: Projects
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Type
+      - URL
+      - Projects

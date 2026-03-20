@@ -1,0 +1,16 @@
+# META
+
+filters:
+  and:
+    - note["base"] == link("META.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags

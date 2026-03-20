@@ -1,0 +1,7 @@
+---
+base: "[[Tasks (Personal).base]]"
+Created time: 2024-01-29T02:11:00
+Assignee: []
+Status: Done
+Summary: ""
+---

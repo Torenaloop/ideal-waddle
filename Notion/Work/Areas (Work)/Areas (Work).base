@@ -1,0 +1,52 @@
+filters:
+  and:
+    - note["base"] == link("Areas (Work).base")
+properties:
+  file.name:
+    displayName: Name
+  Region:
+    displayName: Region
+  "SQ. FT. ":
+    displayName: "SQ. FT. "
+  Client:
+    displayName: Client
+  Solution:
+    displayName: Solution
+  Stage:
+    displayName: Stage
+  MW:
+    displayName: MW
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Region
+      - Client
+      - MW
+      - Solution
+      - Stage
+      - "SQ. FT. "
+    columnSize:
+      note.MW: 151
+      "note.SQ. FT. ": 191
+  - type: cards
+    name: Card
+    order:
+      - file.name
+      - Region
+      - "SQ. FT. "
+      - Client
+      - Solution
+      - Stage
+      - MW
+  - type: list
+    name: List
+    order:
+      - file.name
+      - Region
+      - "SQ. FT. "
+      - Client
+      - Solution
+      - Stage
+      - MW

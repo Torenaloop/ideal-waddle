@@ -1,0 +1,31 @@
+# LinkedIn
+
+filters:
+  and:
+    - note["base"] == link("LinkedIn.base")
+properties:
+  file.name:
+    displayName: Topic
+  Tags:
+    displayName: Tags
+  Date:
+    displayName: Date
+  Notes:
+    displayName: Notes
+  Viewed:
+    displayName: Viewed
+  Link:
+    displayName: Link
+  Author:
+    displayName: Author
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Date
+      - Notes
+      - Viewed
+      - Link
+      - Author

@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Clippings")
+        - file.name.contains("Cookies")
+    order:
+      - file.name
+      - created
+      - file.path
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Created: 109
+  - type: cards
+    name: Card
+    filters:
+      and:
+        - file.name.contains("Cookies")
+    order:
+      - file.name
+      - created
+    image: note.Cover

@@ -1,0 +1,3 @@
+Clipped from: [https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/?utm_brand=wired&utm_medium=social&mbid=social_twitter&utm_social-type=owned&utm_source=twitter](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/?utm_brand=wired&utm_medium=social&mbid=social_twitter&utm_social-type=owned&utm_source=twitter)
+
+![Skl to mam content Open Navigation Menu Sign In SU...](Files/Exported%20image%2020260126155944-0.jpeg)

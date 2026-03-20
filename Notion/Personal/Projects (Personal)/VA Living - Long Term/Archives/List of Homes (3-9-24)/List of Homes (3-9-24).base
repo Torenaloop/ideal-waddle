@@ -1,0 +1,40 @@
+# List of Homes (3-9-24)
+
+filters:
+  and:
+    - note["base"] == link("List of Homes (3-9-24).base")
+properties:
+  file.name:
+    displayName: Address
+  Listing Date:
+    displayName: Listing Date
+  Bedrooms:
+    displayName: Bedrooms
+  Garage:
+    displayName: Garage
+  City:
+    displayName: City
+  Rank:
+    displayName: Rank
+  Sq. Ft.:
+    displayName: Sq. Ft.
+  Price:
+    displayName: Price
+  Bathrooms:
+    displayName: Bathrooms
+  URL:
+    displayName: URL
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Listing Date
+      - Bedrooms
+      - Garage
+      - City
+      - Rank
+      - Sq. Ft.
+      - Price
+      - Bathrooms
+      - URL

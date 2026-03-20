@@ -1,0 +1,40 @@
+# Meetings
+
+filters:
+  and:
+    - note["base"] == link("Meetings.base")
+properties:
+  file.name:
+    displayName: Name
+  Sub-item:
+    displayName: Sub-item
+  Parent item:
+    displayName: Parent item
+  Attendees:
+    displayName: Attendees
+  Created by:
+    displayName: Created by
+  Created time:
+    displayName: Created time
+  Event time:
+    displayName: Event time
+  Type:
+    displayName: Type
+  Last edited by:
+    displayName: Last edited by
+  Last edited time:
+    displayName: Last edited time
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Sub-item
+      - Parent item
+      - Attendees
+      - Created by
+      - Created time
+      - Event time
+      - Type
+      - Last edited by
+      - Last edited time

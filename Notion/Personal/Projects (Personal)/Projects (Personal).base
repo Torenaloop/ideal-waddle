@@ -1,0 +1,37 @@
+# Projects (Personal)
+
+filters:
+  and:
+    - note["base"] == link("Projects (Personal).base")
+properties:
+  file.name:
+    displayName: Project name
+  Owner:
+    displayName: Owner
+  Status:
+    displayName: Status
+  Priority:
+    displayName: Priority
+  Dates:
+    displayName: Dates
+  Summary:
+    displayName: Summary
+  Tasks:
+    displayName: Tasks
+  Is Blocking:
+    displayName: Is Blocking
+  Blocked By:
+    displayName: Blocked By
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Owner
+      - Status
+      - Priority
+      - Dates
+      - Summary
+      - Tasks
+      - Is Blocking
+      - Blocked By

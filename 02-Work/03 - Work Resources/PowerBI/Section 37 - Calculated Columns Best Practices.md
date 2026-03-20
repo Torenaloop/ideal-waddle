@@ -1,0 +1,1 @@
+![CALCULATED COLUMN BEST PRACTICES As a best practic...](Files/Exported%20image%2020260127131049-0.png)

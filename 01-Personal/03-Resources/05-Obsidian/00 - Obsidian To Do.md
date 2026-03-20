@@ -1,0 +1,4 @@
+- [x] Created a "Work Task" template (see Asana for examples)
+- [x] Need to create a "Work People" template (see Outlook contacts for examples) ✅ 2025-07-24
+- [x] Need to create a "Work Meetings" template (See Outlook and Teams for examples) ✅ 2025-07-24
+- [x] Need to create "Web Clippings" template ✅ 2025-07-24

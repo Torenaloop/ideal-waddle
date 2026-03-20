@@ -1,0 +1,26 @@
+formulas:
+  Rhett Notes: |-
+    Filter: #Rhett
+    Columns: File, PARA, Status, Priority, Date
+    Sort: Priority (High first), then Date
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Rhett")
+    groupBy:
+      property: PARA
+      direction: ASC
+    order:
+      - file.name
+      - formula.Rhett Notes
+      - PARA
+      - Status
+      - Priority
+      - Date
+    sort:
+      - property: Priority
+        direction: DESC
+      - property: Date
+        direction: ASC

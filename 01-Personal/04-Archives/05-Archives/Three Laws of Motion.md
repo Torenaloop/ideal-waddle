@@ -1,0 +1,1 @@
+ The laws of motion are three laws stated by [[01-Personal/04-Archives/05-Archives/Isaac Newton]], that describe the relationship between the motion of an object, and the forces acting on it.

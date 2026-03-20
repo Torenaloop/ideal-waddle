@@ -1,0 +1,14 @@
+- Vault
+  - Work
+    - Project 1
+      - Notes
+    - Project 2
+      - Notes
+    - Tasks
+    - Meetings
+    - ...
+  - Personal
+    - Daily Journal
+    - Ideas
+    - ...
+  - ...

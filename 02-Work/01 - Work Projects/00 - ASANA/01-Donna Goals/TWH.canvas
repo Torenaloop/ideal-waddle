@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"947a60a1ea260720","x":-125,"y":-320,"width":250,"height":60,"type":"text","text":"Governance & Process"},
+		{"id":"033089772f0066f9","x":-600,"y":-320,"width":250,"height":60,"type":"text","text":"Innovation & Tech"},
+		{"id":"8ced40f5e34dcfc9","x":375,"y":-320,"width":250,"height":60,"type":"text","text":"Culture & Communications"},
+		{"id":"a9e348c0ebde1184","x":-125,"y":-160,"width":250,"height":220,"type":"text","text":"SOSPES\nMetrics\nPolicies\nVendor Mngmet\nDashboards"},
+		{"id":"bcb288a1fe29bcc7","x":375,"y":-160,"width":250,"height":220,"type":"text","text":"Training\nObservation Reporting\nEmployee Engagement\nGreat Catch\nSafety Champ\nTWH"},
+		{"id":"037648ee5b4801c3","x":-580,"y":-160,"width":250,"height":220,"type":"text","text":"Alert Media\nDCSC\nSafety in Design"}
+	],
+	"edges":[]
+}

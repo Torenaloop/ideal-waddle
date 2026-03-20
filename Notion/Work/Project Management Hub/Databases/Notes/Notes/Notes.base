@@ -1,0 +1,31 @@
+# Notes
+
+filters:
+  and:
+    - note["base"] == link("Notes.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  "EQW ":
+    displayName: "EQW "
+  Shift:
+    displayName: Shift
+  EHS Training Completion:
+    displayName: EHS Training Completion
+  Projects:
+    displayName: Projects
+  SOSPES Participation:
+    displayName: SOSPES Participation
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - "EQW "
+      - Shift
+      - EHS Training Completion
+      - Projects
+      - SOSPES Participation

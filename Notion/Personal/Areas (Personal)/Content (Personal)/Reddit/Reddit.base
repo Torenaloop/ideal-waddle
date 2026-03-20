@@ -1,0 +1,31 @@
+# Reddit
+
+filters:
+  and:
+    - note["base"] == link("Reddit.base")
+properties:
+  file.name:
+    displayName: Topic
+  Viewed:
+    displayName: Viewed
+  Notes:
+    displayName: Notes
+  Date:
+    displayName: Date
+  Tags:
+    displayName: Tags
+  Author:
+    displayName: Author
+  Link:
+    displayName: Link
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Viewed
+      - Notes
+      - Date
+      - Tags
+      - Author
+      - Link

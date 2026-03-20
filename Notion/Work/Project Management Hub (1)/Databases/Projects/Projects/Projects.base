@@ -1,0 +1,36 @@
+# Projects
+
+filters:
+  and:
+    - note["base"] == link("Projects.base")
+formulas:
+  Tasks Completed: 'note["Tasks Status"] + " Tasks Completed" '
+  Completion rate: (note["Tasks"].filter(current.{{notion:block_property:~aiQ:2373f2e6-7fac-81c9-af35-000b55123f7a:4524d0a9-3403-4e45-aabb-eb821f2fccd9}} == "Done").length / note["Tasks"].length *10000).round()/10000
+properties:
+  file.name:
+    displayName: Project Name
+  Start date:
+    displayName: Start date
+  End date:
+    displayName: End date
+  Priority:
+    displayName: Priority
+  Status:
+    displayName: Status
+  Tasks:
+    displayName: Tasks
+  Duration:
+    displayName: Duration
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Start date
+      - End date
+      - Priority
+      - Status
+      - Tasks
+      - Duration
+      - formula.Tasks Completed
+      - formula.Completion rate

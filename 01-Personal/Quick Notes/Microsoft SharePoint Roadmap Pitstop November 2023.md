@@ -1,0 +1,1 @@
+[https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-november-2023/ba-p/3992175](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-roadmap-pitstop-november-2023/ba-p/3992175)

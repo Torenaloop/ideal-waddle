@@ -1,0 +1,3 @@
+Clipped from: [https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad?ocid=cmm2nuwf7j7](https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad?ocid=cmm2nuwf7j7)
+
+![Microsoft Support Microsoft 365 Office Products De...](Files/Exported%20image%2020260127090234-0.jpeg)

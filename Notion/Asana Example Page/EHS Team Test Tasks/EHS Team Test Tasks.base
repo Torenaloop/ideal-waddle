@@ -1,0 +1,37 @@
+# EHS Team Test Tasks
+
+filters:
+  and:
+    - note["base"] == link("EHS Team Test Tasks.base")
+properties:
+  file.name:
+    displayName: Title
+  Due At:
+    displayName: Due At
+  Project:
+    displayName: Project
+  Section:
+    displayName: Section
+  Assignee:
+    displayName: Assignee
+  Completed:
+    displayName: Completed
+  Created At:
+    displayName: Created At
+  Updated At:
+    displayName: Updated At
+  Description:
+    displayName: Description
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Due At
+      - Project
+      - Section
+      - Assignee
+      - Completed
+      - Created At
+      - Updated At
+      - Description

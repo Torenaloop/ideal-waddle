@@ -1,0 +1,42 @@
+# OKRs
+
+filters:
+  and:
+    - note["base"] == link("OKRs.base")
+formulas:
+  Status: if(note["Progress to date"]=="100%","⭐  Achieved","⏩ In progress")
+  Progress to date: (note["Progress"]/note["Target"]*100).round()/100
+properties:
+  file.name:
+    displayName: Milestone
+  Category:
+    displayName: Category
+  Notes 1:
+    displayName: Notes 1
+  Progress:
+    displayName: Progress
+  Projects:
+    displayName: Projects
+  Review Date:
+    displayName: Review Date
+  Notes:
+    displayName: Notes
+  Group:
+    displayName: Group
+  Target:
+    displayName: Target
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Category
+      - Notes 1
+      - Progress
+      - Projects
+      - Review Date
+      - Notes
+      - Group
+      - Target
+      - formula.Status
+      - formula.Progress to date

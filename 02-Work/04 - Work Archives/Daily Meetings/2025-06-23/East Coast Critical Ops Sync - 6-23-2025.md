@@ -1,0 +1,55 @@
+**East Coast Critical Ops Sync**  
+Mon, Jun 23, 8:00 AM - 8:25 AM  
+Microsoft Teams Meeting  
+[Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAFRAAgI3bHo5agAAEYAAAAACsqfmNv17UuKi99AXxuPkQcAsMLFN5kkLUu1hKjvSWQ4fgAAAAABDQAAsMLFN5kkLUu1hKjvSWQ4fgABYjYptgAAEA%3D%3D&exvsurl=1&path=/calendar/item)  
+**Invitation Message**  
+All   
+This will replace our regular Ops sync meeting, which was previously organized by Rich. 
+   
+
+________________________________________________________________________________  
+**Microsoft Teams** [Need help?](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cc272f0a2cb9e4a779e5708dd64a3f028%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638777377454423469%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OdgN99bh%2FiJXpRd0bCMC3lRXUGu%2F4odRsOO%2FHkU5h5w%3D&reserved=0)  
+[Join the meeting now](https://nam10.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MTA2YmQwN2ItOGNmYS00YWVmLTlkMzEtYWYzMjljNWUzMWIy%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252242909416-4ba8-4195-a595-6ae640290c7d%2522%252c%2522Oid%2522%253a%25221cf85599-43f0-478e-a67b-89f486ebc851%2522%257d&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cc272f0a2cb9e4a779e5708dd64a3f028%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638777377454441872%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=nTxLwmk5iL89ZVxZaE0IwiELqZ2cm3%2FVSnsZiNqrn5E%3D&reserved=0)  
+Meeting ID: 265 597 394 75  
+Passcode: Rq34sV3Y
+ 
+Dial in by phone  
+[+1 949-543-0776,,41388940#](tel:+19495430776,,41388940#) United States, Irvine  
+[Find a local number](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F9cb5dcda-ef1a-476f-ab8a-7e0a8b5fedc4%3Fid%3D41388940&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cc272f0a2cb9e4a779e5708dd64a3f028%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638777377454484959%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BHrCQXyXF9VgjnpTlK7bzNks4dWk8EhCbf%2BIovhbCB4%3D&reserved=0)  
+Phone conference ID: 413 889 40#  
+For organizers: [Meeting options](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3D1cf85599-43f0-478e-a67b-89f486ebc851%26tenantId%3D42909416-4ba8-4195-a595-6ae640290c7d%26threadId%3D19_meeting_MTA2YmQwN2ItOGNmYS00YWVmLTlkMzEtYWYzMjljNWUzMWIy%40thread.v2%26messageId%3D0%26language%3Den-US&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cc272f0a2cb9e4a779e5708dd64a3f028%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638777377454502478%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Tu%2FEgnm2w%2BEInzorQNNyf4yrKGB%2Fi3poq6RPx2Tfu4I%3D&reserved=0) | [Reset dial-in PIN](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cdnuckolls%40stackinfra.com%7Cc272f0a2cb9e4a779e5708dd64a3f028%7C429094164ba84195a5956ae640290c7d%7C0%7C0%7C638777377454517319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jWBn8hd6Hz8NIqlzs15TuH0JT8r0egWZVl4n3eV6Xoc%3D&reserved=0)  
+________________________________________________________________________________   **Participants (28)**  
+[Joe Kendra](mailto:jkendra@stackinfra.com) (Meeting Organizer) #discuss-with-person-a  
+[Andrew Van Kleeck](mailto:avankleeck@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Austin Greenbacker](mailto:agreenbacker@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Jason Welsh](mailto:jwelsh@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Justin Lloyd](mailto:julloyd@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[James Crane](mailto:jcrane@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Anthony Antonellis](mailto:aantonellis@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Todd Lipcsey](mailto:tlipcsey@stackinfra.com) #discuss-with-person-a  
+[William Arrington](mailto:warrington@stackinfra.com) #discuss-with-person-a  
+[Isaac Canales](mailto:icanales@stackinfra.com) #discuss-with-person-a  
+[Daniel Stevenson](mailto:dstevenson@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Matt Honaker](mailto:mhonaker@stackinfra.com) #discuss-with-person-a  
+[Jack Gillian](mailto:jgillian@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Bleau Bryant](mailto:bbryant@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[TJ Ciccone](mailto:tciccone@stackinfra.com) #discuss-with-person-a  
+[James Hubert](mailto:jhubert@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[David Nuckolls](mailto:dnuckolls@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Tyler Morrow](mailto:tmorrow@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Tony Badolato](mailto:tbadolato@stackinfra.com) #discuss-with-person-a  
+[China Mansfield](mailto:cmansfield@stackinfra.com) #discuss-with-person-a  
+[Seann McWilliams](mailto:smcwilliams@stackinfra.com) #discuss-with-person-a  
+[Jonathan Calata](mailto:jcalata@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Reid Thomas](mailto:rthomas@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Dennis Caleodis](mailto:dcaleodis@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Kaitlyn Lail](mailto:klail@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Madeline Parker](mailto:mparker@stackinfra.com) #discuss-with-person-a  
+[Bryan Day](mailto:bday@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+[Christopher Lynch](mailto:clynch@stackinfra.com) #discuss-with-person-a  
+**Meeting Collaterals (1)**
+
+- [STACK NVA02D - Electrical Shock - MERDP-P3-120.docx](https://stackinfrastructure.sharepoint.com/sites/Operations/Event%20Report%20Library/STACK%20NVA02D%20-%20Electrical%20Shock%20-%20MERDP-P3-120.docx)
+ 
+Notes
+ ![Exported image](Files/Exported%20image%2020260127125024-0.png)

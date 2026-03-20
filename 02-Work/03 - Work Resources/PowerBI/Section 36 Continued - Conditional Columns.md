@@ -1,0 +1,1 @@
+![Home Transform Add Column Conditional Column Index...](Files/Exported%20image%2020260127130942-0.png)

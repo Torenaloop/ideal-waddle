@@ -1,0 +1,44 @@
+filters:
+  and:
+    - note["base"] == link("Business Tasks.base")
+properties:
+  file.name:
+    displayName: Task name
+  Start Date:
+    displayName: Start Date
+  Parent item:
+    displayName: Parent item
+  Sub-item:
+    displayName: Sub-item
+  Related Simple Tasks:
+    displayName: Related Simple Tasks
+  Created time:
+    displayName: Created time
+  Meetings:
+    displayName: Meetings
+  Tags:
+    displayName: Tags
+  Assignee:
+    displayName: Assignee
+  Status:
+    displayName: Status
+  Due:
+    displayName: Due
+  Priority:
+    displayName: Priority
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Start Date
+      - Parent item
+      - Sub-item
+      - Related Simple Tasks
+      - Created time
+      - Meetings
+      - Tags
+      - Assignee
+      - Status
+      - Due
+      - Priority

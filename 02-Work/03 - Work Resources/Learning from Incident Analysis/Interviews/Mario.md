@@ -1,0 +1,6 @@
+- Talked to Jason's wife
+- Medical Update/report
+    - No burns…
+    - He's not AS injured as once thought
+- What Jason remembers
+    - Felt a shock and let go his hand from the ladder

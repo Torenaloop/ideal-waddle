@@ -1,0 +1,15 @@
+- [x] Paper plates  
+- [x] Paper towels  
+- [x] Trash bags (small)  
+- [x] Weeks' worth of packets  
+- [x] Weeks' worth of Celsius  
+- [x] La Croix  
+- [x] Laundry bags  
+- [x] Brush  
+- [x] Q-tips
+ 
+- [x] Monday Dinner  
+- [x] Tuesday Dinner  
+- [x] Wednesday Dinner  
+- [x] Thursday Dinner  
+- [x] Friday Dinner

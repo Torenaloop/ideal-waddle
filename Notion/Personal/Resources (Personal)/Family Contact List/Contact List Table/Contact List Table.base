@@ -1,0 +1,31 @@
+# Contact List Table
+
+filters:
+  and:
+    - note["base"] == link("Contact List Table.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  Address:
+    displayName: Address
+  Text:
+    displayName: Text
+  Multi-select:
+    displayName: Multi-select
+  Number:
+    displayName: Number
+  Email Address:
+    displayName: Email Address
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Address
+      - Text
+      - Multi-select
+      - Number
+      - Email Address

@@ -1,0 +1,6 @@
+---
+tags:
+  - weeklyreview
+  - PKM
+  - obsidian
+---

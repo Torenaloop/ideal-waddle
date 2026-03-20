@@ -1,0 +1,3 @@
+Crux of the issue for me this time around is less to do with THIS particular job and more to do with "do we allow other companies to override our interpretation of a confined space being permit required vs. re-classifiable"?
+ 
+Ex: On the NVA02D CS Inventory, electrical vaults and electrical manholes are listed a Permit-required. A vendor for Pearl has a posture of only making the determination after the space is opened to see into for evaluation. Also, you can guarantee their interpretation of the space will be that of "non-permit required".

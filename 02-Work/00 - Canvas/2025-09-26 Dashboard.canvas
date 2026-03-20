@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"be257841fe2e2a83","type":"link","url":"https://app.asana.com/1/1181033344075385/home","x":-360,"y":-440,"width":1140,"height":700},
+		{"id":"6a3e30e82a55f619","type":"file","file":"02-Work/05 - Work Meetings/MOC - Asana Implementation.md","x":820,"y":-440,"width":660,"height":700},
+		{"id":"5c3931c9a4e9d5c4","type":"file","file":"01-Personal/00-Daily Notes/09-September/2025-09-24.md","x":-1100,"y":-440,"width":700,"height":700},
+		{"id":"15c0e635427ecb9b","type":"file","file":"02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md","x":-1100,"y":320,"width":540,"height":400},
+		{"id":"af48a78585f46fb7","type":"file","file":"02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md","x":980,"y":320,"width":500,"height":400},
+		{"id":"b223b9af6e1f4bad","type":"file","file":"02-Work/05 - Work Meetings/2025-10-21 SOSPES Lessons Learned.md","x":10,"y":320,"width":400,"height":700},
+		{"id":"d8118c0752beda82","type":"file","file":"02-Work/06-Work Person/STACK People/Eric Hinson.md","x":500,"y":320,"width":400,"height":700},
+		{"id":"140c2e8f2c19fa65","type":"file","file":"02-Work/06-Work Person/STACK People/Jesse Kenser.md","x":-480,"y":320,"width":400,"height":700}
+	],
+	"edges":[]
+}

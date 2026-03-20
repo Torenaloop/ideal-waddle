@@ -1,0 +1,40 @@
+# Notion Projects (Work)
+
+filters:
+  and:
+    - note["base"] == link("Notion Projects (Work).base")
+properties:
+  file.name:
+    displayName: Project name
+  Principle:
+    displayName: Principle
+  Owner:
+    displayName: Owner
+  Status:
+    displayName: Status
+  Priority:
+    displayName: Priority
+  Dates:
+    displayName: Dates
+  Summary:
+    displayName: Summary
+  Tasks:
+    displayName: Tasks
+  Is Blocking:
+    displayName: Is Blocking
+  Blocked By:
+    displayName: Blocked By
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Principle
+      - Owner
+      - Status
+      - Priority
+      - Dates
+      - Summary
+      - Tasks
+      - Is Blocking
+      - Blocked By

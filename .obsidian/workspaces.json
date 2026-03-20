@@ -1,0 +1,2110 @@
+{
+  "workspaces": {
+    "Asana Strategy Map": {
+      "main": {
+        "id": "a41996cef3e03720",
+        "type": "split",
+        "children": [
+          {
+            "id": "322a9dc168495c2c",
+            "type": "split",
+            "children": [
+              {
+                "id": "6beaa57c8de4386e",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "39984e3c2b8624fa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/01 - Daily Notes/2025-07-10.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-10"
+                    }
+                  },
+                  {
+                    "id": "486bc5468708e27c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                        "viewState": {
+                          "x": -2983.216598465462,
+                          "y": 1872.5272642486907,
+                          "zoom": -4
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "Asana Strategy Map"
+                    }
+                  }
+                ],
+                "stacked": true
+              },
+              {
+                "id": "56d36d2a6f726659",
+                "type": "split",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "b6d86e4104d54966",
+                    "type": "tabs",
+                    "dimension": 52.84090909090909,
+                    "children": [
+                      {
+                        "id": "717d873a0aaabf7f",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/Work Projects Kanban.md"
+                          },
+                          "icon": "lucide-trello",
+                          "title": "Work Projects Kanban"
+                        }
+                      },
+                      {
+                        "id": "ec29b7269014cfb9",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "02-Work/04 - Work Archives/D - Environmental, Health & Safety - AMR EHS Operations SharePoint/2.02 Matt's Folder.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "2.02 Matt's Folder"
+                        }
+                      }
+                    ],
+                    "currentTab": 1
+                  },
+                  {
+                    "id": "07c1848ddb53f9c4",
+                    "type": "tabs",
+                    "dimension": 47.159090909090914,
+                    "children": [
+                      {
+                        "id": "eedf9c833129b798",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "02-Work/02 - Work Areas/Work Areas Kanban.md"
+                          },
+                          "icon": "lucide-trello",
+                          "title": "Work Areas Kanban"
+                        }
+                      },
+                      {
+                        "id": "4bafef1d4985dd71",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/Work Projects Kanban.md"
+                          },
+                          "icon": "lucide-trello",
+                          "title": "Work Projects Kanban"
+                        }
+                      },
+                      {
+                        "id": "3103a2542a7c4e8a",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/2025 EHS Organization Goals.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "2025 EHS Organization Goals"
+                        }
+                      }
+                    ],
+                    "currentTab": 2
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7c4a7b4501ca5359",
+        "type": "split",
+        "children": [
+          {
+            "id": "b6f102c556b01f4a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b1ec47a45678d3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f141410211bf1812",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "735842235311a592",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "8d5a04d703fd05af",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd86da7907d6c5a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ed93d5b417b5ee7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Work/02 - Work Areas/Work Areas Kanban.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Work Areas Kanban"
+                }
+              },
+              {
+                "id": "63b11bf38c820135",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02-Work/02 - Work Areas/Work Areas Kanban.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Work Areas Kanban"
+                }
+              },
+              {
+                "id": "966a409433a1dd10",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ceaab4f696e4f6bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Work/02 - Work Areas/Work Areas Kanban.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Work Areas Kanban"
+                }
+              },
+              {
+                "id": "eeb455be4853f7b0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "e09813931aff087e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "138c95203649c5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 345.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes...": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "templates:Insert template": false,
+          "workspaces:Manage workspace layouts": false,
+          "zk-prefixer:Create new unique note": false
+        }
+      },
+      "floating": {
+        "id": "df4c4b87b0a45ca6",
+        "type": "floating",
+        "children": [
+          {
+            "id": "187c7180b43234ea",
+            "type": "window",
+            "children": [
+              {
+                "id": "fd3a940132912807",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "d043027d188aa379",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "91d52ec28985c5b8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "canvas",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                            "viewState": {
+                              "x": -737.6840492150186,
+                              "y": 1771.7532016234718,
+                              "zoom": -4
+                            }
+                          },
+                          "icon": "lucide-layout-dashboard",
+                          "title": "Asana Strategy Map"
+                        }
+                      },
+                      {
+                        "id": "f21738b42c446ca2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Untitled 1.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "Untitled 1"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3f7f6eefe6559e17",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "8059282aefb9281c",
+                        "type": "leaf",
+                        "state": {
+                          "type": "canvas",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                            "viewState": {
+                              "x": -1776.4818598601744,
+                              "y": 1847.6919129606613,
+                              "zoom": -4
+                            }
+                          },
+                          "icon": "lucide-layout-dashboard",
+                          "title": "Asana Strategy Map"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical",
+            "x": 3,
+            "y": 147,
+            "width": 956,
+            "height": 800,
+            "maximize": true,
+            "zoom": 0.5
+          }
+        ]
+      },
+      "active": "4b1ec47a45678d3a",
+      "mtime": "2025-07-10T20:54:52-04:00"
+    },
+    "Asana Hierarchy Presentation": {
+      "main": {
+        "id": "a41996cef3e03720",
+        "type": "split",
+        "children": [
+          {
+            "id": "322a9dc168495c2c",
+            "type": "split",
+            "children": [
+              {
+                "id": "6beaa57c8de4386e",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "486bc5468708e27c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                        "viewState": {
+                          "x": 180.91529759421746,
+                          "y": 231.10946718456097,
+                          "zoom": -3.39141940337597
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "Asana Strategy Map"
+                    }
+                  }
+                ],
+                "stacked": true
+              },
+              {
+                "id": "56d36d2a6f726659",
+                "type": "split",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "b6d86e4104d54966",
+                    "type": "tabs",
+                    "dimension": 50,
+                    "children": [
+                      {
+                        "id": "ec29b7269014cfb9",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "02-Work/04 - Work Archives/D - Environmental, Health & Safety - AMR EHS Operations SharePoint/2.02 Matt's Folder.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "2.02 Matt's Folder"
+                        }
+                      },
+                      {
+                        "id": "088006bde6374821",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Our Mission.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "Our Mission"
+                        }
+                      },
+                      {
+                        "id": "717d873a0aaabf7f",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/Work Projects Kanban.md"
+                          },
+                          "icon": "lucide-trello",
+                          "title": "Work Projects Kanban"
+                        }
+                      }
+                    ],
+                    "currentTab": 1
+                  },
+                  {
+                    "id": "70e9d8bffac826fc",
+                    "type": "tabs",
+                    "dimension": 50,
+                    "children": [
+                      {
+                        "id": "bad7283e3f4abeb4",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.7345863357173033,
+                              "close": true
+                            }
+                          },
+                          "icon": "lucide-git-fork",
+                          "title": "Graph of Our Mission"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7c4a7b4501ca5359",
+        "type": "split",
+        "children": [
+          {
+            "id": "b6f102c556b01f4a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b1ec47a45678d3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f141410211bf1812",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "735842235311a592",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "8d5a04d703fd05af",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd86da7907d6c5a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ed93d5b417b5ee7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Work/01 - Work Projects/Work Projects Kanban.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Work Areas Kanban"
+                }
+              },
+              {
+                "id": "63b11bf38c820135",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02-Work/01 - Work Projects/Work Projects Kanban.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Work Areas Kanban"
+                }
+              },
+              {
+                "id": "966a409433a1dd10",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ceaab4f696e4f6bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02-Work/02 - Work Areas/Work Areas Kanban.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Work Areas Kanban"
+                }
+              },
+              {
+                "id": "eeb455be4853f7b0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "e09813931aff087e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "138c95203649c5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 345.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:Publish changes...": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "templates:Insert template": false,
+          "workspaces:Manage workspace layouts": false,
+          "zk-prefixer:Create new unique note": false
+        }
+      },
+      "floating": {
+        "id": "df4c4b87b0a45ca6",
+        "type": "floating",
+        "children": [
+          {
+            "id": "187c7180b43234ea",
+            "type": "window",
+            "children": [
+              {
+                "id": "fd3a940132912807",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "d043027d188aa379",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "91d52ec28985c5b8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "canvas",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                            "viewState": {
+                              "x": -33.2910215260581,
+                              "y": 653.3548858178522,
+                              "zoom": -2.738612684808135
+                            }
+                          },
+                          "icon": "lucide-layout-dashboard",
+                          "title": "Asana Strategy Map"
+                        }
+                      },
+                      {
+                        "id": "f21738b42c446ca2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Untitled 1.md",
+                            "mode": "source",
+                            "source": false,
+                            "backlinks": true,
+                            "backlinkOpts": {
+                              "collapseAll": false,
+                              "extraContext": false,
+                              "sortOrder": "alphabetical",
+                              "showSearch": false,
+                              "searchQuery": "",
+                              "backlinkCollapsed": false,
+                              "unlinkedCollapsed": true
+                            }
+                          },
+                          "icon": "lucide-file",
+                          "title": "Untitled 1"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3f7f6eefe6559e17",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "8059282aefb9281c",
+                        "type": "leaf",
+                        "state": {
+                          "type": "canvas",
+                          "state": {
+                            "file": "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+                            "viewState": {
+                              "x": -1776.4818598601744,
+                              "y": 1847.6919129606613,
+                              "zoom": -4
+                            }
+                          },
+                          "icon": "lucide-layout-dashboard",
+                          "title": "Asana Strategy Map"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical",
+            "x": 3,
+            "y": 147,
+            "width": 956,
+            "height": 800,
+            "maximize": true,
+            "zoom": 0.5
+          }
+        ]
+      },
+      "active": "486bc5468708e27c",
+      "mtime": "2025-07-11T13:41:04-04:00"
+    },
+    "2025-08-28 Workspace": {
+      "main": {
+        "id": "b3edb5280100e16b",
+        "type": "split",
+        "children": [
+          {
+            "id": "f9b9c22ebaef37bf",
+            "type": "tabs",
+            "dimension": 72.54797441364606,
+            "children": [
+              {
+                "id": "7a8084aedc76464a",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "02-Work/00 - Canvas/Dashboard.canvas",
+                    "viewState": {
+                      "x": -37.3105565170153,
+                      "y": 583.0676002728592,
+                      "zoom": -0.7368023229720269
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "e6f335f9039f163c",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-asana-frame",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "Asana Frame"
+                }
+              }
+            ]
+          },
+          {
+            "id": "825f7319031cb6d9",
+            "type": "split",
+            "dimension": 27.452025586353944,
+            "children": [
+              {
+                "id": "f7ab52eecb8b1ee2",
+                "type": "tabs",
+                "dimension": 70.15503875968993,
+                "children": [
+                  {
+                    "id": "485373a43cd2b666",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-25"
+                    }
+                  },
+                  {
+                    "id": "70cca14b87fec0bc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-26.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-26"
+                    }
+                  },
+                  {
+                    "id": "22f2ca4642e13ecc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-27.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-27"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "62cac9005610b492",
+                "type": "tabs",
+                "dimension": 29.844961240310074,
+                "children": [
+                  {
+                    "id": "b2791121ba83cb2c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.3628873693012119,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of 2025-08-25"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "613dbc61c78598b6",
+        "type": "split",
+        "children": [
+          {
+            "id": "ddcb14438ea8dc26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81db4e4ba41e9262",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ae515482708055e2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "canvas",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "ed005f27569e8f4f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "94b05d7fb9600a43",
+        "type": "split",
+        "children": [
+          {
+            "id": "c03e252ff4257193",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4bfb5dda7c9c95f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-08-25"
+                }
+              },
+              {
+                "id": "f39a7233b93dba4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-08-25"
+                }
+              },
+              {
+                "id": "b7ac887697092bef",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e1bb1b94d2365fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-08-25"
+                }
+              },
+              {
+                "id": "96c7d4a56857cde4",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "1754f8664606f2b2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 369.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open SOSPES": false,
+          "obsidian-custom-frames:Open To Do Frame": false,
+          "obsidian-custom-frames:Open Asana Frame": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false,
+          "random-note:Open random note": false
+        }
+      },
+      "active": "485373a43cd2b666",
+      "mtime": "2025-08-28T11:10:43-04:00"
+    },
+    "Workspace 1.0": {
+      "main": {
+        "id": "b3edb5280100e16b",
+        "type": "split",
+        "children": [
+          {
+            "id": "f9b9c22ebaef37bf",
+            "type": "tabs",
+            "dimension": 39.97867803837953,
+            "children": [
+              {
+                "id": "7a8084aedc76464a",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "02-Work/00 - Canvas/Dashboard.canvas",
+                    "viewState": {
+                      "x": -528.9215839395581,
+                      "y": 614.7306833949887,
+                      "zoom": -0.7368023229720269
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "e6f335f9039f163c",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-asana-frame",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "Asana Frame"
+                }
+              }
+            ]
+          },
+          {
+            "id": "825f7319031cb6d9",
+            "type": "split",
+            "dimension": 60.021321961620465,
+            "children": [
+              {
+                "id": "f7ab52eecb8b1ee2",
+                "type": "tabs",
+                "dimension": 59.883720930232556,
+                "children": [
+                  {
+                    "id": "485373a43cd2b666",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-25"
+                    }
+                  },
+                  {
+                    "id": "70cca14b87fec0bc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-26.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-26"
+                    }
+                  },
+                  {
+                    "id": "22f2ca4642e13ecc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-27.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-27"
+                    }
+                  },
+                  {
+                    "id": "4e59afd9be7dffe9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-netsuite",
+                      "state": {},
+                      "icon": "documents",
+                      "title": "NetSuite"
+                    }
+                  },
+                  {
+                    "id": "5bc390c10c20cc72",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-sospes",
+                      "state": {},
+                      "icon": "documents",
+                      "title": "SOSPES"
+                    }
+                  },
+                  {
+                    "id": "c9dc4a86f3adb3a9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-to-do-frame",
+                      "state": {},
+                      "icon": "documents",
+                      "title": "To Do Frame"
+                    }
+                  },
+                  {
+                    "id": "fe581e857aa53f7c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-asana-frame",
+                      "state": {},
+                      "icon": "documents",
+                      "title": "Asana Frame"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "1a46bb2f2e74d20b",
+                "type": "split",
+                "dimension": 40.116279069767444,
+                "children": [
+                  {
+                    "id": "62cac9005610b492",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "b2791121ba83cb2c",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.3628873693012119,
+                              "close": true
+                            }
+                          },
+                          "icon": "lucide-git-fork",
+                          "title": "Graph of 2025-08-25"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "82edb8dc58c5c586",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "8e1cead647af0100",
+                        "type": "leaf",
+                        "state": {
+                          "type": "mindmap",
+                          "state": {},
+                          "icon": "dot-network",
+                          "title": "Mind Map of 2025-08-25"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "613dbc61c78598b6",
+        "type": "split",
+        "children": [
+          {
+            "id": "ddcb14438ea8dc26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81db4e4ba41e9262",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ae515482708055e2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "canvas",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "ed005f27569e8f4f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "94b05d7fb9600a43",
+        "type": "split",
+        "children": [
+          {
+            "id": "c03e252ff4257193",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4bfb5dda7c9c95f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-08-25"
+                }
+              },
+              {
+                "id": "f39a7233b93dba4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-08-25"
+                }
+              },
+              {
+                "id": "b7ac887697092bef",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e1bb1b94d2365fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/08-August/2025-08-25.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-08-25"
+                }
+              },
+              {
+                "id": "96c7d4a56857cde4",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "1754f8664606f2b2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 369.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open NetSuite": false,
+          "obsidian-custom-frames:Open SOSPES": false,
+          "obsidian-custom-frames:Open To Do Frame": false,
+          "obsidian-custom-frames:Open Asana Frame": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false,
+          "random-note:Open random note": false
+        }
+      },
+      "active": "485373a43cd2b666",
+      "mtime": "2025-08-28T12:17:12-04:00"
+    },
+    "Workspace 2.0 - D.V.": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "02-Work/00 - Canvas/Dashboard.canvas",
+                    "viewState": {
+                      "x": -474.63137935532467,
+                      "y": 487.087121325952,
+                      "zoom": -0.9110701323512558
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "275f6297283f4833",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-asana-frame",
+                  "state": {},
+                  "icon": "documents",
+                  "title": "Asana Frame"
+                }
+              },
+              {
+                "id": "39cc74e2a639e126",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "00-Bases/Base 2.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Base 2"
+                }
+              }
+            ]
+          },
+          {
+            "id": "50c9c8312555c6a6",
+            "type": "split",
+            "children": [
+              {
+                "id": "0ecae4c041ddd9bb",
+                "type": "tabs",
+                "dimension": 66.56050955414013,
+                "children": [
+                  {
+                    "id": "e32e89e3b5b7382f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-25.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-25"
+                    }
+                  },
+                  {
+                    "id": "9a8195b67b60c8ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-26.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-26"
+                    }
+                  },
+                  {
+                    "id": "c29b9209fbde7789",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-27.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-08-27"
+                    }
+                  }
+                ],
+                "stacked": true
+              },
+              {
+                "id": "511ae0f0cd954d40",
+                "type": "split",
+                "dimension": 33.43949044585987,
+                "children": [
+                  {
+                    "id": "4f7be8f8d18e76e2",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "78510c143d4ab4f8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-25.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 1,
+                              "close": true
+                            }
+                          },
+                          "icon": "lucide-git-fork",
+                          "title": "Graph of 2025-08-25"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "33e38e0153c0809c",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "6d35cf78d2254de7",
+                        "type": "leaf",
+                        "state": {
+                          "type": "mindmap",
+                          "state": {},
+                          "icon": "dot-network",
+                          "title": "Mind Map of 2025-08-25"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aba7d2a3af157e42",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d695ca89f55f82d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4af7060e6bda9882",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d3d26d7e41c388eb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "5fb326a2359d2095",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f10f2dd2b80c791b",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4a37582fa8f26e7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99008ea2879b8021",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02-Work/00 - Canvas/Dashboard.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dashboard"
+                }
+              },
+              {
+                "id": "195f36763495bed0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-25.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-08-25"
+                }
+              },
+              {
+                "id": "eb9ad78b3defe656",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "a162b7d93c8691a5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ae4bdf9f01113136",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-Personal/01-Daily Notes/07-July/2025-08-05.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-08-05"
+                }
+              },
+              {
+                "id": "b1b7a7be81731621",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "3c22654826dafc94",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "01-Personal/02-Areas/00-Daily Notes/08-August/2025-08-25.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5396170846225746,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 2025-08-25"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 400.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open NetSuite": false,
+          "obsidian-custom-frames:Open SOSPES": false,
+          "obsidian-custom-frames:Open MSFT To Do": false,
+          "obsidian-custom-frames:Open Asana Frame": false,
+          "markdown-importer:Open format converter": false,
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "daily-notes:Open today's daily note": false,
+          "zk-prefixer:Create new unique note": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "templates:Insert template": false,
+          "random-note:Open random note": false,
+          "publish:Publish changes...": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "e32e89e3b5b7382f",
+      "mtime": "2025-08-28T15:24:32-04:00"
+    }
+  },
+  "active": "Workspace 2.0 - D.V."
+}

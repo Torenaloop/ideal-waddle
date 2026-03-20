@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0c7a4c22cfb5047c","type":"text","text":"Personal PARA Review\n\n","x":-380,"y":-260,"width":250,"height":80,"color":"5"},
+		{"id":"bf912fba92208eee","type":"text","text":"Need to see better use cases for this feature....","x":-125,"y":63,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"d895d6fd56f5b5b7","fromNode":"0c7a4c22cfb5047c","fromSide":"bottom","toNode":"bf912fba92208eee","toSide":"left"}
+	]
+}

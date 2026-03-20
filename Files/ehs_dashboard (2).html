@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EHS Metrics Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0b0f1a;
+    --surface: #131929;
+    --surface2: #1a2338;
+    --border: #1f2f4a;
+    --accent: #00d4a8;
+    --accent2: #ff6b6b;
+    --accent3: #ffc857;
+    --accent4: #4a9eff;
+    --text: #e8eef7;
+    --muted: #7a8fa8;
+    --danger: #ff4757;
+    --warn: #ffa502;
+    --good: #2ed573;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Syne', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 0 0 60px 0;
+  }
+
+  /* HEADER */
+  .header {
+    padding: 48px 48px 32px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, #0b0f1a 0%, #0d1625 60%, #0f1e35 100%);
+    position: relative;
+    overflow: hidden;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -80px; right: -80px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(0,212,168,0.07) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .header-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .header-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  h1 {
+    font-size: clamp(28px, 4vw, 46px);
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--text);
+  }
+  h1 span { color: var(--accent); }
+  .header-sub {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 10px;
+    letter-spacing: 0.04em;
+  }
+  .badge {
+    background: rgba(0,212,168,0.1);
+    border: 1px solid rgba(0,212,168,0.3);
+    color: var(--accent);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 6px 14px;
+    border-radius: 4px;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    align-self: flex-start;
+  }
+
+  /* KPI STRIP */
+  .kpi-strip {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .kpi-card {
+    padding: 24px 28px;
+    border-right: 1px solid var(--border);
+    transition: background 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .kpi-card:last-child { border-right: none; }
+  .kpi-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--kpi-color, var(--accent));
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .kpi-card:hover::after { opacity: 1; }
+  .kpi-card:hover { background: var(--surface2); }
+  .kpi-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .kpi-value {
+    font-size: clamp(24px, 3vw, 36px);
+    font-weight: 800;
+    color: var(--kpi-color, var(--text));
+    line-height: 1;
+  }
+  .kpi-sub {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 6px;
+  }
+
+  /* MAIN GRID */
+  .grid {
+    display: grid;
+    gap: 1px;
+    background: var(--border);
+    margin-top: 1px;
+  }
+  .grid-2 { grid-template-columns: 1fr 1fr; }
+  .grid-3 { grid-template-columns: 1fr 1fr 1fr; }
+  .grid-1-2 { grid-template-columns: 1fr 2fr; }
+  .grid-2-1 { grid-template-columns: 2fr 1fr; }
+
+  .card {
+    background: var(--surface);
+    padding: 32px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card-title {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .card-headline {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 24px;
+    line-height: 1.3;
+  }
+  .chart-wrap {
+    position: relative;
+    width: 100%;
+  }
+
+  /* OBSERVATION BREAKDOWN — donut */
+  .donut-wrap {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+  }
+  .donut-canvas { flex-shrink: 0; }
+  .donut-legend { flex: 1; }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .legend-dot {
+    width: 10px; height: 10px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+  .legend-name {
+    font-size: 13px;
+    color: var(--text);
+    flex: 1;
+  }
+  .legend-val {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .legend-pct {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    margin-left: 4px;
+  }
+
+  /* INCIDENT FUNNEL */
+  .funnel {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 8px;
+  }
+  .funnel-row {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .funnel-label-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .funnel-name {
+    font-size: 13px;
+    color: var(--text);
+    font-weight: 600;
+  }
+  .funnel-count {
+    font-family: 'DM Mono', monospace;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .funnel-bar-bg {
+    height: 14px;
+    background: rgba(255,255,255,0.04);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .funnel-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 1.2s cubic-bezier(0.4,0,0.2,1);
+  }
+  .funnel-note {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+
+  /* CATEGORY HORIZONTAL BARS */
+  .cat-list {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    max-height: 420px;
+    overflow-y: auto;
+  }
+  .cat-list::-webkit-scrollbar { width: 4px; }
+  .cat-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+  .cat-row {
+    display: grid;
+    grid-template-columns: 180px 1fr 48px;
+    align-items: center;
+    gap: 12px;
+  }
+  .cat-name {
+    font-size: 12px;
+    color: var(--text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .cat-bar-bg {
+    height: 8px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .cat-bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    background: var(--accent4);
+  }
+  .cat-val {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    text-align: right;
+  }
+
+  /* FACILITY SCATTER / BAR */
+  .facility-chart-wrap { height: 340px; }
+
+  /* PROACTIVE vs REACTIVE */
+  .pvr-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 8px;
+  }
+  .pvr-row {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .pvr-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .pvr-name { font-size: 14px; font-weight: 600; }
+  .pvr-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .pvr-bar-bg {
+    height: 20px;
+    background: rgba(255,255,255,0.04);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .pvr-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 1.4s cubic-bezier(0.4,0,0.2,1);
+  }
+  .pvr-note {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    line-height: 1.6;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+
+  /* CLOSE CALLS & STOP WORK */
+  .safety-signals {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 8px;
+  }
+  .signal-card {
+    background: var(--surface2);
+    border-radius: 6px;
+    padding: 20px 22px;
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .signal-icon {
+    font-size: 32px;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+  .signal-content { flex: 1; }
+  .signal-num {
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .signal-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  .signal-desc {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+
+  /* ACTIONABLE LEVELS */
+  .action-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 8px;
+  }
+  .action-box {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: center;
+  }
+  .action-num {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .action-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-top: 8px;
+  }
+  .action-desc {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 8px;
+    line-height: 1.5;
+  }
+
+  /* TOP FACILITIES TABLE */
+  .fac-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+  }
+  .fac-table th {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+  }
+  .fac-table th:not(:first-child) { text-align: right; }
+  .fac-table td {
+    font-size: 13px;
+    padding: 10px 12px;
+    border-bottom: 1px solid rgba(31,47,74,0.5);
+    vertical-align: middle;
+  }
+  .fac-table tr:last-child td { border-bottom: none; }
+  .fac-table td:not(:first-child) {
+    text-align: right;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+  }
+  .fac-table tr:hover td { background: var(--surface2); }
+  .fac-name { font-weight: 600; }
+  .dot-red { color: var(--danger); }
+  .dot-warn { color: var(--warn); }
+  .dot-good { color: var(--good); }
+  .dot-zero { color: var(--muted); }
+
+  /* INSIGHT BOX */
+  .insights {
+    background: linear-gradient(135deg, #0d1a2e, #0f2040);
+    border-top: 1px solid var(--border);
+    padding: 40px 48px;
+  }
+  .insights-title {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 24px;
+  }
+  .insights-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .insight-item {
+    padding: 20px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+  .insight-marker {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  .marker-risk { background: rgba(255,71,87,0.15); color: var(--danger); }
+  .marker-watch { background: rgba(255,165,2,0.15); color: var(--warn); }
+  .marker-pos { background: rgba(46,213,115,0.15); color: var(--good); }
+  .insight-text {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--text);
+  }
+
+  /* SECTION DIVIDER */
+  .section-label {
+    padding: 20px 48px 0;
+    background: var(--bg);
+  }
+  .section-label-inner {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ANIMATE */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .card, .kpi-card {
+    animation: fadeUp 0.5s ease both;
+  }
+
+  @media (max-width: 1100px) {
+    .kpi-strip { grid-template-columns: repeat(3, 1fr); }
+    .grid-2, .grid-3, .grid-1-2, .grid-2-1 { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 700px) {
+    .header { padding: 28px 20px; }
+    .kpi-strip { grid-template-columns: repeat(2, 1fr); }
+    .kpi-card { padding: 18px; }
+    .card { padding: 22px; }
+    .insights { padding: 28px 20px; }
+    .insights-grid { grid-template-columns: 1fr; }
+    .cat-row { grid-template-columns: 130px 1fr 38px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <div>
+      <div class="header-label">Environmental · Health · Safety</div>
+      <h1>EHS Metrics <span>Overview</span></h1>
+      <div class="header-sub">Operational (Non-Dev) Sites &nbsp;·&nbsp; 23 Facilities &nbsp;·&nbsp; All Locations</div>
+    </div>
+    <div class="badge">PRODUCTION SITES ONLY</div>
+  </div>
+</div>
+
+<!-- KPI STRIP -->
+<div class="kpi-strip">
+  <div class="kpi-card" style="--kpi-color: var(--accent4)">
+    <div class="kpi-label">Total Observations</div>
+    <div class="kpi-value" style="color:var(--accent4)">601</div>
+    <div class="kpi-sub">across 23 facilities</div>
+  </div>
+  <div class="kpi-card" style="--kpi-color: var(--accent3)">
+    <div class="kpi-label">Audits Completed</div>
+    <div class="kpi-value" style="color:var(--accent3)">1,008</div>
+    <div class="kpi-sub">compliance checks</div>
+  </div>
+  <div class="kpi-card" style="--kpi-color: var(--danger)">
+    <div class="kpi-label">Total Incidents</div>
+    <div class="kpi-value" style="color:var(--danger)">16</div>
+    <div class="kpi-sub">1 OSHA recordable</div>
+  </div>
+  <div class="kpi-card" style="--kpi-color: var(--warn)">
+    <div class="kpi-label">Close Calls</div>
+    <div class="kpi-value" style="color:var(--warn)">26</div>
+    <div class="kpi-sub">near-miss events</div>
+  </div>
+  <div class="kpi-card" style="--kpi-color: var(--accent)">
+    <div class="kpi-label">Stop Work Events</div>
+    <div class="kpi-value" style="color:var(--accent)">32</div>
+    <div class="kpi-sub">authority exercised</div>
+  </div>
+  <div class="kpi-card" style="--kpi-color: var(--good)">
+    <div class="kpi-label">Positive Behaviors</div>
+    <div class="kpi-value" style="color:var(--good)">219</div>
+    <div class="kpi-sub">recognized behaviors</div>
+  </div>
+</div>
+
+<!-- ROW 1: Observation Breakdown + Incident Funnel -->
+<div class="section-label"><div class="section-label-inner">Observation & Incident Analysis</div></div>
+<div class="grid grid-2">
+  <div class="card">
+    <div class="card-title">Observation Type</div>
+    <div class="card-headline">What Are Teams Reporting?</div>
+    <div class="donut-wrap">
+      <canvas id="obsDonut" width="200" height="200" class="donut-canvas"></canvas>
+      <div class="donut-legend" id="obsLegend"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Incident Severity Cascade</div>
+    <div class="card-headline">From Incidents to Recordables</div>
+    <div class="funnel">
+      <div class="funnel-row">
+        <div class="funnel-label-row">
+          <span class="funnel-name">Total Incidents</span>
+          <span class="funnel-count" style="color:var(--accent2)">16</span>
+        </div>
+        <div class="funnel-bar-bg">
+          <div class="funnel-bar-fill" style="width:100%; background:var(--accent2)"></div>
+        </div>
+        <div class="funnel-note">All reported incident events</div>
+      </div>
+      <div class="funnel-row">
+        <div class="funnel-label-row">
+          <span class="funnel-name">First Aid Incidents</span>
+          <span class="funnel-count" style="color:var(--warn)">5</span>
+        </div>
+        <div class="funnel-bar-bg">
+          <div class="funnel-bar-fill" style="width:31.25%; background:var(--warn)"></div>
+        </div>
+        <div class="funnel-note">31% of total incidents required first aid</div>
+      </div>
+      <div class="funnel-row">
+        <div class="funnel-label-row">
+          <span class="funnel-name">OSHA Recordable</span>
+          <span class="funnel-count" style="color:var(--danger)">1</span>
+        </div>
+        <div class="funnel-bar-bg">
+          <div class="funnel-bar-fill" style="width:6.25%; background:var(--danger)"></div>
+        </div>
+        <div class="funnel-note">6% escalated to OSHA recordable status</div>
+      </div>
+      <div class="funnel-row" style="margin-top:16px; padding-top:16px; border-top:1px solid var(--border)">
+        <div class="funnel-label-row">
+          <span class="funnel-name">Close Calls (Near-Miss)</span>
+          <span class="funnel-count" style="color:var(--accent3)">26</span>
+        </div>
+        <div class="funnel-bar-bg">
+          <div class="funnel-bar-fill" style="width:100%; background:var(--accent3)"></div>
+        </div>
+        <div class="funnel-note">Separate from incidents — leading safety indicator</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ROW 2: Category Bar + Proactive vs Reactive -->
+<div class="section-label"><div class="section-label-inner">Hazard Categories & Safety Culture</div></div>
+<div class="grid grid-2-1">
+  <div class="card">
+    <div class="card-title">Observation Categories</div>
+    <div class="card-headline">Top Hazard Areas Identified</div>
+    <div class="cat-list" id="catList"></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Safety Culture Signals</div>
+    <div class="card-headline">Proactive vs. Reactive</div>
+    <div class="pvr-wrap">
+      <div class="pvr-row">
+        <div class="pvr-header">
+          <span class="pvr-name" style="color:var(--good)">Proactive</span>
+          <span class="pvr-num" style="color:var(--good)">108</span>
+        </div>
+        <div class="pvr-bar-bg">
+          <div class="pvr-bar-fill" style="width:41.2%; background:var(--good)"></div>
+        </div>
+      </div>
+      <div class="pvr-row">
+        <div class="pvr-header">
+          <span class="pvr-name" style="color:var(--accent2)">Reactive</span>
+          <span class="pvr-num" style="color:var(--accent2)">154</span>
+        </div>
+        <div class="pvr-bar-bg">
+          <div class="pvr-bar-fill" style="width:58.8%; background:var(--accent2)"></div>
+        </div>
+      </div>
+      <div class="pvr-note">
+        Reactive actions (58.8%) currently outpace proactive (41.2%). A target ratio of ≥50% proactive signals a mature safety culture. Trending toward more proactive identification is a key improvement area.
+      </div>
+
+      <div style="margin-top:20px; padding-top:20px; border-top: 1px solid var(--border)">
+        <div class="card-title" style="margin-bottom:16px">Actionable Findings</div>
+        <div class="action-grid">
+          <div class="action-box">
+            <div class="action-num" style="color:var(--accent4)">182</div>
+            <div class="action-label">Level 1</div>
+            <div class="action-desc">Immediate corrective actions required</div>
+          </div>
+          <div class="action-box">
+            <div class="action-num" style="color:var(--accent3)">75</div>
+            <div class="action-label">Level 2</div>
+            <div class="action-desc">Escalated or systemic corrective actions</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ROW 3: Facility Chart + Close Calls/Stop Work -->
+<div class="section-label"><div class="section-label-inner">Facility-Level Performance</div></div>
+<div class="grid grid-2">
+  <div class="card">
+    <div class="card-title">Observations vs. Incidents by Facility</div>
+    <div class="card-headline">Activity Volume & Safety Outcomes</div>
+    <div class="facility-chart-wrap">
+      <canvas id="facChart"></canvas>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Leading Safety Indicators</div>
+    <div class="card-headline">Stop Work & Close Calls by Facility</div>
+    <div class="facility-chart-wrap">
+      <canvas id="swChart"></canvas>
+    </div>
+  </div>
+</div>
+
+<!-- ROW 4: Full Facility Table -->
+<div class="section-label"><div class="section-label-inner">Complete Facility Scorecard</div></div>
+<div class="grid">
+  <div class="card">
+    <div class="card-title">All Facilities</div>
+    <div class="card-headline">Ranked by Observation Volume</div>
+    <table class="fac-table" id="facTable"></table>
+  </div>
+</div>
+
+<!-- INSIGHTS -->
+<div class="insights">
+  <div class="insights-title">// Key Findings & Recommendations</div>
+  <div class="insights-grid">
+    <div class="insight-item">
+      <div class="insight-marker marker-risk">⚠ Risk Focus</div>
+      <div class="insight-text"><strong>POR 02A leads in incidents (5)</strong> with 4 close calls, making it the highest-risk operational site. DFW 01B also shows 4 incidents. These sites warrant immediate enhanced oversight and investigation.</div>
+    </div>
+    <div class="insight-item">
+      <div class="insight-marker marker-watch">◈ Watch</div>
+      <div class="insight-text"><strong>Electrical, Housekeeping, PPE, and Walking Surfaces</strong> account for over 60% of all categorized observations. These four categories should be the focus of targeted training campaigns and audit programs.</div>
+    </div>
+    <div class="insight-item">
+      <div class="insight-marker marker-pos">✓ Positive</div>
+      <div class="insight-text"><strong>32 Stop Work events</strong> reflect an active safety culture where workers feel empowered to halt unsafe conditions. CHI 01A (6), DFW 01B (1), and NVA 05A (5) lead this important metric.</div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────────────────────
+const OBS_DATA = {
+  labels: ['Substandard Condition','Positive Behavior','At-Risk Behavior','Suggestions'],
+  values: [231, 219, 79, 72],
+  colors: ['#ff6b6b','#2ed573','#ffc857','#4a9eff']
+};
+
+const CAT_DATA = [
+  ['Electrical', 129], ['Housekeeping', 119], ['PPE', 110],
+  ['Walking & Working Surfaces', 105], ['Fire/Life Safety', 73],
+  ['Work at Heights', 60], ['Environmental', 55],
+  ['Energy Isolation (LOTO)', 40], ['Material Handling', 40],
+  ['Other', 40], ['Safety In Design', 30], ['Hazardous Materials', 29],
+  ['Lifting Operations', 29], ['Coaching Opportunity', 25],
+  ['Mobile Equipment', 23], ['Temperature Extremes', 17],
+  ['Driving & Traffic', 14], ['Noise', 12],
+  ['Security', 8], ['Confined Spaces', 7],
+  ['Fatigue Management', 7], ['Hot Work', 6],
+  ['Wildlife', 4], ['Ground Disturbance', 2]
+];
+
+const FAC_DATA = [
+  { name: 'CHI 01A',          obs: 132, inc: 0,  cc: 2, osha: 0, sw: 6  },
+  { name: 'CHI 01B',          obs: 74,  inc: 0,  cc: 4, osha: 0, sw: 2  },
+  { name: 'POR 02A',          obs: 54,  inc: 5,  cc: 4, osha: 0, sw: 0  },
+  { name: 'NVA 05A',          obs: 51,  inc: 0,  cc: 3, osha: 0, sw: 5  },
+  { name: 'POR 03B',          obs: 36,  inc: 1,  cc: 0, osha: 0, sw: 2  },
+  { name: 'SVY 01A',          obs: 35,  inc: 0,  cc: 1, osha: 0, sw: 4  },
+  { name: 'POR 03A',          obs: 34,  inc: 0,  cc: 2, osha: 0, sw: 4  },
+  { name: 'POR 01A',          obs: 31,  inc: 2,  cc: 3, osha: 0, sw: 1  },
+  { name: 'SVY 01B',          obs: 30,  inc: 3,  cc: 1, osha: 1, sw: 1  },
+  { name: 'NVA 01A',          obs: 22,  inc: 0,  cc: 0, osha: 0, sw: 0  },
+  { name: 'DFW 01B',          obs: 16,  inc: 4,  cc: 2, osha: 0, sw: 1  },
+  { name: 'NVA 02D',          obs: 15,  inc: 0,  cc: 1, osha: 0, sw: 1  },
+  { name: 'NAL 01A',          obs: 14,  inc: 1,  cc: 0, osha: 0, sw: 1  },
+  { name: 'NVA 02E',          obs: 12,  inc: 0,  cc: 1, osha: 0, sw: 0  },
+  { name: 'DFW 01A',          obs: 11,  inc: 0,  cc: 0, osha: 0, sw: 2  },
+  { name: 'TOR 01A',          obs: 11,  inc: 0,  cc: 0, osha: 0, sw: 1  },
+  { name: 'Denver HQ Office', obs: 11,  inc: 0,  cc: 1, osha: 0, sw: 1  },
+  { name: 'NVA 05D',          obs: 7,   inc: 0,  cc: 0, osha: 0, sw: 0  },
+  { name: 'ATL 01A',          obs: 2,   inc: 0,  cc: 0, osha: 0, sw: 0  },
+  { name: 'NVA 06A',          obs: 2,   inc: 0,  cc: 0, osha: 0, sw: 0  },
+  { name: 'SFO',              obs: 1,   inc: 0,  cc: 1, osha: 0, sw: 0  },
+];
+
+// ── DONUT CHART ───────────────────────────────────────────────────────────────
+const total = OBS_DATA.values.reduce((a,b)=>a+b,0);
+new Chart(document.getElementById('obsDonut'), {
+  type: 'doughnut',
+  data: {
+    labels: OBS_DATA.labels,
+    datasets: [{
+      data: OBS_DATA.values,
+      backgroundColor: OBS_DATA.colors,
+      borderWidth: 0,
+      hoverOffset: 6
+    }]
+  },
+  options: {
+    cutout: '68%',
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: ctx => ` ${ctx.label}: ${ctx.raw} (${Math.round(ctx.raw/total*100)}%)`
+        }
+      }
+    }
+  }
+});
+
+// Legend
+const legendEl = document.getElementById('obsLegend');
+OBS_DATA.labels.forEach((l, i) => {
+  const pct = Math.round(OBS_DATA.values[i]/total*100);
+  legendEl.innerHTML += `
+    <div class="legend-item">
+      <div class="legend-dot" style="background:${OBS_DATA.colors[i]}"></div>
+      <span class="legend-name">${l}</span>
+      <span class="legend-val">${OBS_DATA.values[i]}</span>
+      <span class="legend-pct">${pct}%</span>
+    </div>`;
+});
+
+// ── CATEGORY BARS ─────────────────────────────────────────────────────────────
+const maxCat = CAT_DATA[0][1];
+const catEl = document.getElementById('catList');
+const catColors = ['#4a9eff','#00d4a8','#ffc857','#ff6b6b','#a855f7','#4a9eff','#00d4a8'];
+CAT_DATA.forEach(([name, val], i) => {
+  const pct = (val/maxCat*100).toFixed(1);
+  const color = i < 4 ? catColors[i] : (i < 8 ? catColors[i%4] : 'var(--muted)');
+  catEl.innerHTML += `
+    <div class="cat-row">
+      <span class="cat-name" title="${name}">${name}</span>
+      <div class="cat-bar-bg">
+        <div class="cat-bar-fill" style="width:${pct}%; background:${color}"></div>
+      </div>
+      <span class="cat-val">${val}</span>
+    </div>`;
+});
+
+// ── FACILITY OBSERVATIONS vs INCIDENTS ────────────────────────────────────────
+const top10 = FAC_DATA.filter(d => d.obs > 0).slice(0,12);
+new Chart(document.getElementById('facChart'), {
+  type: 'bar',
+  data: {
+    labels: top10.map(d => d.name),
+    datasets: [
+      {
+        label: 'Observations',
+        data: top10.map(d => d.obs),
+        backgroundColor: 'rgba(74,158,255,0.75)',
+        borderRadius: 3,
+        order: 2
+      },
+      {
+        label: 'Incidents',
+        data: top10.map(d => d.inc),
+        backgroundColor: 'rgba(255,71,87,0.85)',
+        borderRadius: 3,
+        order: 1,
+        yAxisID: 'y2'
+      }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        labels: { color: '#7a8fa8', font: { family: 'DM Mono', size: 11 }, boxWidth: 12 }
+      },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: {
+        ticks: { color: '#7a8fa8', font: { family: 'DM Mono', size: 10 }, maxRotation: 35 },
+        grid: { color: 'rgba(31,47,74,0.5)' }
+      },
+      y: {
+        position: 'left',
+        ticks: { color: '#7a8fa8', font: { family: 'DM Mono', size: 10 } },
+        grid: { color: 'rgba(31,47,74,0.4)' },
+        title: { display: true, text: 'Observations', color: '#7a8fa8', font: { size: 10, family: 'DM Mono' } }
+      },
+      y2: {
+        position: 'right',
+        ticks: { color: '#ff6b6b', font: { family: 'DM Mono', size: 10 } },
+        grid: { drawOnChartArea: false },
+        title: { display: true, text: 'Incidents', color: '#ff6b6b', font: { size: 10, family: 'DM Mono' } }
+      }
+    }
+  }
+});
+
+// ── STOP WORK + CLOSE CALLS ────────────────────────────────────────────────────
+const swFacs = FAC_DATA.filter(d => d.sw > 0 || d.cc > 0).sort((a,b) => (b.sw+b.cc)-(a.sw+a.cc)).slice(0,12);
+new Chart(document.getElementById('swChart'), {
+  type: 'bar',
+  data: {
+    labels: swFacs.map(d => d.name),
+    datasets: [
+      {
+        label: 'Stop Work',
+        data: swFacs.map(d => d.sw),
+        backgroundColor: 'rgba(0,212,168,0.8)',
+        borderRadius: 3
+      },
+      {
+        label: 'Close Calls',
+        data: swFacs.map(d => d.cc),
+        backgroundColor: 'rgba(255,200,87,0.8)',
+        borderRadius: 3
+      }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        labels: { color: '#7a8fa8', font: { family: 'DM Mono', size: 11 }, boxWidth: 12 }
+      },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: {
+        stacked: false,
+        ticks: { color: '#7a8fa8', font: { family: 'DM Mono', size: 10 }, maxRotation: 35 },
+        grid: { color: 'rgba(31,47,74,0.5)' }
+      },
+      y: {
+        ticks: { color: '#7a8fa8', font: { family: 'DM Mono', size: 10 }, stepSize: 1 },
+        grid: { color: 'rgba(31,47,74,0.4)' }
+      }
+    }
+  }
+});
+
+// ── FACILITY TABLE ─────────────────────────────────────────────────────────────
+const tbl = document.getElementById('facTable');
+tbl.innerHTML = `
+  <thead>
+    <tr>
+      <th>Facility</th>
+      <th>Obs.</th>
+      <th>Incidents</th>
+      <th>OSHA Rec.</th>
+      <th>Close Calls</th>
+      <th>Stop Work</th>
+    </tr>
+  </thead>
+  <tbody>
+    ${FAC_DATA.map(d => `
+      <tr>
+        <td class="fac-name">${d.name}</td>
+        <td>${d.obs}</td>
+        <td class="${d.inc >= 4 ? 'dot-red' : d.inc > 0 ? 'dot-warn' : 'dot-zero'}">${d.inc}</td>
+        <td class="${d.osha > 0 ? 'dot-red' : 'dot-zero'}">${d.osha > 0 ? d.osha : '—'}</td>
+        <td class="${d.cc >= 3 ? 'dot-warn' : d.cc > 0 ? 'dot-good' : 'dot-zero'}">${d.cc > 0 ? d.cc : '—'}</td>
+        <td class="${d.sw >= 4 ? 'dot-good' : d.sw > 0 ? 'dot-good' : 'dot-zero'}">${d.sw > 0 ? d.sw : '—'}</td>
+      </tr>`).join('')}
+  </tbody>`;
+</script>
+</body>
+</html>

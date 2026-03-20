@@ -1,0 +1,25 @@
+# Sample EHS Deliverables Table
+
+filters:
+  and:
+    - note["base"] == link("Sample EHS Deliverables Table.base")
+properties:
+  file.name:
+    displayName: Name
+  RACI:
+    displayName: RACI
+  Project or Area:
+    displayName: Project or Area
+  Cadence:
+    displayName: Cadence
+  Leading or Lagging Indicator:
+    displayName: Leading or Lagging Indicator
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - RACI
+      - Project or Area
+      - Cadence
+      - Leading or Lagging Indicator

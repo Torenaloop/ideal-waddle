@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"83e675ed2f0873cc","type":"file","file":"00-Bases/Goals Base.base","x":-920,"y":680,"width":2640,"height":640},
+		{"id":"707a74988ed998ca","type":"link","url":"https://stackinfrastructure.sharepoint.com/STACK%20Corporate%20Data/Forms/AllItems.aspx?id=%2FSTACK%20Corporate%20Data%2F23%2E%20Safety&viewid=7d54d865%2D87af%2D4497%2D9257%2D91d5b272fe73","x":440,"y":-20,"width":1280,"height":660},
+		{"id":"2d12d13d8b44c56f","type":"link","url":"https://go.sospes.com/Supervisor/Supervisor","x":-920,"y":-20,"width":1320,"height":660},
+		{"id":"9941c57d6d0d7e76","type":"link","url":"https://app.asana.com/1/1181033344075385/home","x":-920,"y":-1032,"width":1320,"height":952},
+		{"id":"e6d3ac1cb200998b","x":440,"y":-1032,"width":1280,"height":952,"type":"link","url":"https://5891471.app.netsuite.com/app/common/search/searchresults.nl?searchtype=Case&Case_STAGE=%40ALL%40&Case_ASSIGNED=%40ALL%40&Case_AWAITINGREPLY=ANY&Case_STATUS=11%057%056%0512&style=NORMAL&report=&grid=&searchid=8338&dle=&sortcol=Case_STATUS_raw&sortdir=ASC&csv=HTML&OfficeXML=F&pdf=&size=50&_csrf=Bilq8B2Zf2dzY-TTACUEjm2lHP8Wr5vvAwMdQwOdJpn0HL4P3JP6DS4D9Dl_AZ0DQJeQWDFsx_h1WsHvEjocJD4Kx8nvK7W1kOd3TIEF4l0fZbK6aH_V8-Mn5RqYV1CA2txcqh1GyhddYFnUQWlcM7nDWn6-KTPBx2kp2RKY43Y%3D&twbx=F"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,28 @@
+**Drew/David 1:1**  
+Tue, Jan 7, 1:30 PM - 2:00 PM  
+Microsoft Teams Meeting  
+[Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAFRAAgI3SkuEceAAEYAAAAACsqfmNv17UuKi99AXxuPkQcAsMLFN5kkLUu1hKjvSWQ4fgAAAAABDQAAsMLFN5kkLUu1hKjvSWQ4fgAA5WSx6wAAEA%3D%3D&exvsurl=1&path=/calendar/item)  
+**Invitation Message**  
+Hi Drew - Setting up this monthly 1:1 for you and I to discuss EHS-related items associated with NVA05A.
+   
+
+________________________________________________________________________________  
+**Microsoft Teams** [Need help?](https://aka.ms/JoinTeamsMeeting?omkt=en-US)  
+[Join the meeting now](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2OGNhOWUtZDIzZi00OGUzLTg3ODEtMmVhYzE5OTAyZmU0%40thread.v2/0?context=%7b%22Tid%22%3a%2242909416-4ba8-4195-a595-6ae640290c7d%22%2c%22Oid%22%3a%227c1badbf-5954-4b7c-bd46-71ada43dc6d1%22%7d)  
+Meeting ID: 282 420 175 012  
+Passcode: Rv9aTP
+ 
+Dial in by phone  
+[+1 949-543-0776,,475101008#](tel:+19495430776,,475101008#) United States, Irvine  
+[Find a local number](https://dialin.teams.microsoft.com/9cb5dcda-ef1a-476f-ab8a-7e0a8b5fedc4?id=475101008)  
+Phone conference ID: 475 101 008#  
+For organizers: [Meeting options](https://teams.microsoft.com/meetingOptions/?organizerId=7c1badbf-5954-4b7c-bd46-71ada43dc6d1&tenantId=42909416-4ba8-4195-a595-6ae640290c7d&threadId=19_meeting_ZmI2OGNhOWUtZDIzZi00OGUzLTg3ODEtMmVhYzE5OTAyZmU0@thread.v2&messageId=0&language=en-US) | [Reset dial-in PIN](https://dialin.teams.microsoft.com/usp/pstnconferencing)  
+________________________________________________________________________________   **Participants (2)**  
+[David Nuckolls](mailto:dnuckolls@stackinfra.com) (Meeting Organizer) #discuss-with-person-a  
+[Andrew Van Kleeck](mailto:avankleeck@stackinfra.com) #discuss-with-person-a  
+**Loop Collaborative Notes**
+
+![Exported image](Files/Exported%20image%2020260127123350-0.png)   
+
+Notes  
+ggg

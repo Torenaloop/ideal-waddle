@@ -1,0 +1,10 @@
+- - [x] EOS Report - End of Shift Report
+- - [x] SIR - Safety Improvement Report
+- - [x] REF - Reference
+- - [x] WI - Work instructions
+- - [x] F - Forms
+- - [x] TRN - Training
+- - [x] EMT - Emergency Management Team (Inventory Control, not Safety related)
+- - [x] JDI - Just Do It - a scalable change, but doesn’t fit the purpose of a formal MOC (management of change)/Chartered Project
+- - [x] INS - Flagged for Inspection
+-

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"6e7333bb231ecaa4","type":"file","file":"01-Personal/04-Archives/Vault is just a local folder.md","x":-360,"y":0,"width":400,"height":400},
+		{"id":"62c50fbe75322065","x":-700,"y":-70,"width":250,"height":60,"type":"text","text":"Let make a connection"},
+		{"id":"ec585f4e471b90c5","type":"file","file":"01-Personal/04-Archives/Start Here.md","x":-360,"y":-440,"width":400,"height":400},
+		{"id":"b280c184f44dfd45","type":"text","text":"Can I make a connection","x":140,"y":-70,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"fe3cb7ae668a520c","fromNode":"b280c184f44dfd45","fromSide":"top","toNode":"ec585f4e471b90c5","toSide":"right"},
+		{"id":"ee17307076392dd7","fromNode":"b280c184f44dfd45","fromSide":"bottom","toNode":"6e7333bb231ecaa4","toSide":"right"},
+		{"id":"fddb0a7009c45f6a","fromNode":"62c50fbe75322065","fromSide":"top","toNode":"ec585f4e471b90c5","toSide":"left"},
+		{"id":"686242d0e0809082","fromNode":"62c50fbe75322065","fromSide":"bottom","toNode":"6e7333bb231ecaa4","toSide":"left"}
+	]
+}

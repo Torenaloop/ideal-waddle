@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a4ec03b7c4ee3b92","x":-780,"y":-220,"width":250,"height":60,"type":"text","text":"Policies & Procedures"},
+		{"id":"dcac536281b7df94","x":-375,"y":-220,"width":250,"height":60,"type":"text","text":"Communications/Collabs"},
+		{"id":"3f82299b56f0023c","x":-20,"y":-220,"width":250,"height":60,"type":"text","text":"Inspections & Audits"},
+		{"id":"364ead06942b4ce9","x":400,"y":-220,"width":250,"height":60,"type":"text","text":"Vendor Management"},
+		{"id":"47787f5863d4206d","x":-375,"y":-60,"width":250,"height":50,"type":"text","text":"EXAMPLE: Employee Engagement"},
+		{"id":"4488b12c4095e973","x":-1180,"y":-220,"width":250,"height":60,"type":"text","text":"Training"},
+		{"id":"a2a6ea91d9c1daf0","x":-375,"y":80,"width":250,"height":60,"type":"text","text":"EXAMPLE: DC Engagement"},
+		{"id":"8fbfc4df00aeb17c","x":-1640,"y":-220,"width":250,"height":60,"type":"text","text":"Incident Management"},
+		{"id":"b298d601a3f077f0","x":760,"y":-220,"width":250,"height":60,"type":"text","text":"Environmental Management\n"},
+		{"id":"fbc5a731d4687424","x":-375,"y":280,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"8c80b10f775e3fd7","fromNode":"dcac536281b7df94","fromSide":"bottom","toNode":"47787f5863d4206d","toSide":"top"}
+	]
+}

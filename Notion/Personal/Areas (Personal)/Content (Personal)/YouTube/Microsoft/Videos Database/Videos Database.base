@@ -1,0 +1,25 @@
+# Videos Database
+
+filters:
+  and:
+    - note["base"] == link("Videos Database.base")
+properties:
+  file.name:
+    displayName: Name
+  Author:
+    displayName: Author
+  Link:
+    displayName: Link
+  Topic:
+    displayName: Topic
+  Watched:
+    displayName: Watched
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Author
+      - Link
+      - Topic
+      - Watched

@@ -1,0 +1,3 @@
+Clipped from: [https://outlook.office.com/mail/inbox/id/AAQkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAAQACErE1lOAwNCjPykLoXv%2Bow%3D?realm=stackinfra.com](https://outlook.office.com/mail/inbox/id/AAQkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAAQACErE1lOAwNCjPykLoXv%2Bow%3D?realm=stackinfra.com)
+
+![Clorece To O David Nuckolls Retentiorc STACX Reten...](Files/Exported%20image%2020260127105541-0.png)

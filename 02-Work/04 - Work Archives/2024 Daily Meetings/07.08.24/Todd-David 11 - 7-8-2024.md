@@ -1,0 +1,27 @@
+**Todd/David 1:1**  
+Mon, Jul 8, 2:00 PM - 2:30 PM  
+Microsoft Teams Meeting  
+[Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NAFRAAgI3JY8FohAAEYAAAAACsqfmNv17UuKi99AXxuPkQcAsMLFN5kkLUu1hKjvSWQ4fgAAAAABDQAAsMLFN5kkLUu1hKjvSWQ4fgAAI2%2BRywAAEA%3D%3D&exvsurl=1&path=/calendar/item)  
+**Invitation Message**
+    
+________________________________________________________________________________  
+Microsoft Teams meeting  
+**Join on your computer, mobile app or room device**  
+[Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRkZTZjZTItMTYzNi00YTNiLTkyNTMtYWNkNTM1ODQ5N2Ez%40thread.v2/0?context=%7b%22Tid%22%3a%2242909416-4ba8-4195-a595-6ae640290c7d%22%2c%22Oid%22%3a%227c1badbf-5954-4b7c-bd46-71ada43dc6d1%22%7d)  
+Meeting ID: 284 054 579 495  
+Passcode: cqs5J4  
+[Download Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app) | [Join on the web](https://www.microsoft.com/microsoft-teams/join-a-meeting)  
+**Or call in (audio only)**  
+[+1 949-543-0776,,7449630#](tel:+19495430776,,7449630#)   United States, Irvine  
+Phone Conference ID: 744 963 0#  
+[Find a local number](https://dialin.teams.microsoft.com/9cb5dcda-ef1a-476f-ab8a-7e0a8b5fedc4?id=7449630) | [Reset PIN](https://dialin.teams.microsoft.com/usp/pstnconferencing)  
+[Learn More](https://aka.ms/JoinTeamsMeeting) | [Meeting options](https://teams.microsoft.com/meetingOptions/?organizerId=7c1badbf-5954-4b7c-bd46-71ada43dc6d1&tenantId=42909416-4ba8-4195-a595-6ae640290c7d&threadId=19_meeting_ZTRkZTZjZTItMTYzNi00YTNiLTkyNTMtYWNkNTM1ODQ5N2Ez@thread.v2&messageId=0&language=en-US)  
+________________________________________________________________________________
+ 
+**Participants (2)**  
+[David Nuckolls](mailto:dnuckolls@stackinfra.com) (Meeting Organizer) #discuss-with-person-a  
+[Todd Lipcsey](mailto:tlipcsey@stackinfra.com) (Accepted Meeting) #discuss-with-person-a  
+**Loop Collaborative Notes**  
+[Open in Loop](https://stackinfrastructure-my.sharepoint.com/:fl:/g/personal/dnuckolls_stackinfra_com/EY17902r701IjyfSpMShYRoB6ZUdI8hTiA_f6nJDV1cZJQ?nav=cz0lMkZwZXJzb25hbCUyRmRudWNrb2xsc19zdGFja2luZnJhX2NvbSZkPWIhRDZ3YnpmS2xka0NpakNNajBTdnpoSHVGN2xKM3gzRkdoeC1ZSk1UWDZRUlNLdkgwZkpIYlRLd2RwVG5KaG1zNSZmPTAxUDJJTVZSNE5QUDNVM0s3UEpWRUk2SjZTVVRDS0NZSTImYz0lMkY1YzZiNTYxOC04YmQ0LTQ2MTMtODIzNS00ZDk0MzQxZWYxMGMmZmx1aWQ9MSZhPVRlYW1zJnA9JTQwbXMlMkZvbmVub3RlLW1lZXRpbmdz&isCSL=true)
+ 
+Notes

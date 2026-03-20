@@ -1,0 +1,22 @@
+# Sprints
+
+filters:
+  and:
+    - note["base"] == link("Sprints.base")
+properties:
+  file.name:
+    displayName: Sprint name
+  Dates:
+    displayName: Dates
+  Tasks:
+    displayName: Tasks
+  Is Current Sprint:
+    displayName: Is Current Sprint
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Dates
+      - Tasks
+      - Is Current Sprint

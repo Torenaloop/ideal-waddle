@@ -1,0 +1,28 @@
+# Tasks (Personal)
+
+filters:
+  and:
+    - note["base"] == link("Tasks (Personal).base")
+properties:
+  file.name:
+    displayName: Task name
+  Created time:
+    displayName: Created time
+  Assignee:
+    displayName: Assignee
+  Status:
+    displayName: Status
+  Due:
+    displayName: Due
+  Summary:
+    displayName: Summary
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Created time
+      - Assignee
+      - Status
+      - Due
+      - Summary

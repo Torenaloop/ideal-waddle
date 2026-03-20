@@ -1,0 +1,12 @@
+---
+Status: ⏩ In progress
+Category: Exceeds
+Notes 1: ""
+Progress to date: 0
+Projects:
+  - "[[Notion/ATL01A|ATL01A]]"
+Notes: ""
+Group: Environmental Compliance
+---
+> [!tip] 💡
+> EXCEEDED

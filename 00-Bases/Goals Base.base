@@ -1,0 +1,36 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Donna Goals")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - 2025 Goal
+      - tags
+      - file.links
+      - Mission Pillar
+    sort:
+      - property: Mission Pillar
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 149
+      note.2025 Goal: 9
+      note.tags: 526
+      file.links: 826
+      note.Mission Pillar: 122
+  - type: cards
+    name: View
+    cardSize: 170
+    imageFit: ""

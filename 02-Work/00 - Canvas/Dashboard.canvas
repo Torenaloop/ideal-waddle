@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"142ee02053e19200","type":"file","file":"01-Personal/00-Daily Notes/00-Daily Notes/08-August/2025-08-25.md","x":-1140,"y":-157,"width":540,"height":1477},
+		{"id":"c7b1b9127a95a8a5","x":-540,"y":-157,"width":400,"height":477,"type":"file","file":"02-Work/07 - Work Tasks/Work Tasks MOC.md"},
+		{"id":"b5cab273613b3a00","type":"file","file":"00-Bases/Goals Base.base","x":-140,"y":-157,"width":760,"height":477},
+		{"id":"a81ce833541a236c","type":"file","file":"02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas","x":-540,"y":380,"width":760,"height":580}
+	],
+	"edges":[]
+}

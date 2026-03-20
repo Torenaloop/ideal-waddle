@@ -1,0 +1,1 @@
+![TYPES OF ACCIDENTFREE SITUATIONS 1, 2, As it is us...](Files/Exported%20image%2020260127140450-0.jpeg)

@@ -1,0 +1,19 @@
+# Intinerary
+
+filters:
+  and:
+    - note["base"] == link("Intinerary.base")
+properties:
+  file.name:
+    displayName: Name
+  Date:
+    displayName: Date
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date
+      - Tags

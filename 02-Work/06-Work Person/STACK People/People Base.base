@@ -1,0 +1,31 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "02-Work/06-Work Person/STACK People"
+    groupBy:
+      property: location
+      direction: ASC
+    order:
+      - file.name
+      - Location
+      - Job Title
+      - Reports to
+      - Org
+      - tags
+      - Company
+    sort:
+      - property: Location
+        direction: ASC
+      - property: Reports to
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      note.Org: 143
+      note.Reports to: 130
+  - type: list
+    name: View

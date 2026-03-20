@@ -1,0 +1,3 @@
+---
+base: "[[New database.base]]"
+---

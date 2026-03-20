@@ -1,0 +1,17 @@
+filters:
+  and:
+    - note["base"] == link("2024 K Xmas Gifts.base")
+properties:
+  file.name:
+    displayName: Name
+  Link:
+    displayName: Link
+  Ordered:
+    displayName: Ordered
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Link
+      - Ordered

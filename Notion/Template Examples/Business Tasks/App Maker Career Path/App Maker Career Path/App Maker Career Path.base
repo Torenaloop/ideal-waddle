@@ -1,0 +1,17 @@
+filters:
+  and:
+    - note["base"] == link("App Maker Career Path.base")
+properties:
+  file.name:
+    displayName: Course Name
+  Duration:
+    displayName: Duration
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Duration
+      - Status

@@ -1,0 +1,19 @@
+# Tweets ideas
+
+filters:
+  and:
+    - note["base"] == link("Tweets ideas.base")
+properties:
+  file.name:
+    displayName: Name
+  Topic:
+    displayName: Topic
+  Tweet Date:
+    displayName: Tweet Date
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Topic
+      - Tweet Date

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"c099c1a538cad2e8","type":"text","text":"# Resolved","x":1060,"y":-300,"width":250,"height":60},
+		{"id":"db7333d19197a9d2","type":"file","file":"Files/Pasted image 20250807060759.png","x":985,"y":-151,"width":400,"height":170},
+		{"id":"7ddcd868157336e6","type":"file","file":"Files/Pasted image 20250807084521.png","x":985,"y":130,"width":400,"height":120},
+		{"id":"ed844c14b5c45e17","type":"text","text":"# Open","x":-85,"y":-300,"width":250,"height":60},
+		{"id":"61cbb4178a396c91","type":"file","file":"Files/Pasted image 20250806135253.png","x":985,"y":357,"width":400,"height":58},
+		{"id":"56f9f8db1f4eab6f","type":"file","file":"Files/Pasted image 20250806140525.png","x":986,"y":480,"width":399,"height":64},
+		{"id":"c77df3b591eedc31","type":"file","file":"Files/Pasted image 20250807092012.png","x":986,"y":600,"width":400,"height":177},
+		{"id":"8f0fc036df1e9d4a","type":"file","file":"Files/Pasted image 20250807112015.png","x":986,"y":890,"width":400,"height":249},
+		{"id":"3f5d06aba2734707","type":"file","file":"Files/Pasted image 20250807110159.png","x":987,"y":1201,"width":399,"height":149},
+		{"id":"41e8415c0e58cbc8","type":"text","text":"RESOLVED  - STACK gear for Gerald","x":460,"y":1440,"width":250,"height":60},
+		{"id":"fa03833abfa20cbd","type":"text","text":"RESOLVED - Coordinating getting to 06A","x":460,"y":1350,"width":250,"height":60},
+		{"id":"f1c695265fa13bfb","type":"text","text":"OPEN - Asking [[Justin Lloyd]] about coordinating on 02E rounds for Gerald","x":460,"y":1201,"width":280,"height":94},
+		{"id":"07b6c8cc78182a37","type":"text","text":"~~RESOLVED - Asking Jesse for guidance on getting access for Gerald quicker~~ ","x":460,"y":1109,"width":250,"height":60},
+		{"id":"abbb9d700ed15863","type":"text","text":"~~RESOLVED~~ - ~~Asking Gloria which meeting to call into~~ ","x":460,"y":1015,"width":250,"height":60},
+		{"id":"8fdd1200c827a15e","type":"file","file":"Files/Pasted image 20250829094503.png","x":-454,"y":-58,"width":987,"height":188},
+		{"id":"6105dcc60f1cf1a2","type":"file","file":"Files/Pasted image 20250902095750.png","x":-454,"y":190,"width":399,"height":202},
+		{"id":"adef5cfc13358ac8","type":"file","file":"Files/Pasted image 20250902105226.png","x":-454,"y":480,"width":399,"height":187}
+	],
+	"edges":[
+		{"id":"219cc6934dac3cd0","fromNode":"abbb9d700ed15863","fromSide":"right","toNode":"db7333d19197a9d2","toSide":"left"},
+		{"id":"3d60a360c4395406","fromNode":"c099c1a538cad2e8","fromSide":"bottom","toNode":"db7333d19197a9d2","toSide":"top"},
+		{"id":"ec86b87bc7fb0fbf","fromNode":"07b6c8cc78182a37","fromSide":"right","toNode":"7ddcd868157336e6","toSide":"left"},
+		{"id":"33797b0a50b5bc2f","fromNode":"f1c695265fa13bfb","fromSide":"right","toNode":"61cbb4178a396c91","toSide":"left"},
+		{"id":"4fe8b1c54db25394","fromNode":"f1c695265fa13bfb","fromSide":"right","toNode":"56f9f8db1f4eab6f","toSide":"left"},
+		{"id":"b8b5f86f8a573e33","fromNode":"fa03833abfa20cbd","fromSide":"right","toNode":"c77df3b591eedc31","toSide":"left"},
+		{"id":"b4be4f8070c5b818","fromNode":"fa03833abfa20cbd","fromSide":"right","toNode":"8f0fc036df1e9d4a","toSide":"left"},
+		{"id":"ee23261bfdb659d2","fromNode":"41e8415c0e58cbc8","fromSide":"right","toNode":"3f5d06aba2734707","toSide":"left"}
+	]
+}

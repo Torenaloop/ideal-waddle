@@ -1,0 +1,57 @@
+# Tasks
+
+filters:
+  and:
+    - note["base"] == link("Tasks.base")
+formulas:
+  Project duration: note["Projects"].map(value.asFile().properties["Duration"])
+  Tasks per project: note["Projects"].map(value.asFile().properties["Tasks"]).flat().length
+properties:
+  file.name:
+    displayName: Task Name
+  Description:
+    displayName: Description
+  Priority:
+    displayName: Priority
+  Work Scope:
+    displayName: Work Scope
+  OKRs:
+    displayName: OKRs
+  Urgency:
+    displayName: Urgency
+  Assigned To:
+    displayName: Assigned To
+  Due Date:
+    displayName: Due Date
+  "Vendors ":
+    displayName: "Vendors "
+  Projects:
+    displayName: Projects
+  Overdue:
+    displayName: Overdue
+  HRAs:
+    displayName: HRAs
+  Status:
+    displayName: Status
+  EHS Needed:
+    displayName: EHS Needed
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Description
+      - Priority
+      - Work Scope
+      - OKRs
+      - Urgency
+      - Assigned To
+      - Due Date
+      - "Vendors "
+      - Projects
+      - Overdue
+      - HRAs
+      - Status
+      - EHS Needed
+      - formula.Project duration
+      - formula.Tasks per project

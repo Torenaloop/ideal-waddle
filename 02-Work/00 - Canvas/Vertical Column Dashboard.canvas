@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"68e95cf83bc414cc","type":"file","file":"02-Work/05 - Work Meetings/September 2026 Meetings MOC.md","x":-960,"y":-440,"width":340,"height":660},
+		{"id":"ca3a589f0f1e158c","type":"file","file":"02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md","x":-620,"y":-440,"width":620,"height":660},
+		{"id":"dfa7426dd0c49603","type":"file","file":"00-Bases/Base 2.base","x":0,"y":-440,"width":1620,"height":660},
+		{"id":"cba679945f9586ae","type":"link","url":"https://app.asana.com/1/1181033344075385/home","x":-960,"y":220,"width":2580,"height":1000}
+	],
+	"edges":[]
+}

@@ -1,0 +1,28 @@
+# New database
+
+filters:
+  and:
+    - note["base"] == link("New database.base")
+properties:
+  file.name:
+    displayName: Name
+  Management Approval:
+    displayName: Management Approval
+  Peer Review:
+    displayName: Peer Review
+  Document Approval:
+    displayName: Document Approval
+  Review By:
+    displayName: Review By
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Management Approval
+      - Peer Review
+      - Document Approval
+      - Review By
+      - Tags

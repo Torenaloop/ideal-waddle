@@ -1,0 +1,3 @@
+Clipped from: [https://www.onenote.com/clipper/installed?clientType=EdgeExtension&clipperId=ON-a373dbbc-7f9f-41c6-8e7f-ff8f7a2a2f92&clipperVersion=3.9.4&inlineInstall=false](https://www.onenote.com/clipper/installed?clientType=EdgeExtension&clipperId=ON-a373dbbc-7f9f-41c6-8e7f-ff8f7a2a2f92&clipperVersion=3.9.4&inlineInstall=false)
+
+![OneNote Congratulations! OneNote Web Clipper is re...](Files/Exported%20image%2020260127090015-0.jpeg)

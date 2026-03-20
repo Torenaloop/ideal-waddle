@@ -1,0 +1,10 @@
+
+
+
+- IT WILL send a free headset, keyboard, mouse, screens
+
+- Ducky 1 - 2nd iteration? 
+
+- Keychron 
+
+- Bluebeam is an Adobe competitor

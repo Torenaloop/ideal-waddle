@@ -1,0 +1,31 @@
+# Reading List
+
+filters:
+  and:
+    - note["base"] == link("Reading List.base")
+properties:
+  file.name:
+    displayName: Name
+  Score:
+    displayName: Score
+  Type:
+    displayName: Type
+  Status:
+    displayName: Status
+  Link:
+    displayName: Link
+  Completed:
+    displayName: Completed
+  Author:
+    displayName: Author
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Score
+      - Type
+      - Status
+      - Link
+      - Completed
+      - Author

@@ -1,0 +1,2 @@
+![Exported image](Files/Exported%20image%2020260127125956-0.jpeg)  
+![](https://graph.microsoft.com/v1.0/users\('dtnuckolls@gmail.com'\)/onenote/resources/0-ebecdce0f9a3046e2dc3852be24c0172!1-A46786577B2ED72C!se785c9f895b04ead9eaf42c8b8160c16/$value)

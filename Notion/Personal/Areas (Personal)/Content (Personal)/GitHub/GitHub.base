@@ -1,0 +1,31 @@
+# GitHub
+
+filters:
+  and:
+    - note["base"] == link("GitHub.base")
+properties:
+  file.name:
+    displayName: Topic
+  Notes:
+    displayName: Notes
+  Viewed:
+    displayName: Viewed
+  Date:
+    displayName: Date
+  Author:
+    displayName: Author
+  Link:
+    displayName: Link
+  Tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Notes
+      - Viewed
+      - Date
+      - Author
+      - Link
+      - Tags

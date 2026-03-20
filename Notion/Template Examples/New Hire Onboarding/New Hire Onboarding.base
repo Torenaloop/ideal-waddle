@@ -1,0 +1,25 @@
+# New Hire Onboarding
+
+filters:
+  and:
+    - note["base"] == link("New Hire Onboarding.base")
+properties:
+  file.name:
+    displayName: Name
+  Start Date:
+    displayName: Start Date
+  Photo:
+    displayName: Photo
+  Status:
+    displayName: Status
+  Department:
+    displayName: Department
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Start Date
+      - Photo
+      - Status
+      - Department

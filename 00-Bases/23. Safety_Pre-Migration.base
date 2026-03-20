@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("02-Work/04 - Work Archives/C - OneSource - 23. Safety")
+    order:
+      - file.name
+      - file.backlinks
+      - file.links
+      - file.basename
+      - file.tags
+      - Created by
+      - Modified By
+      - Modified Date
+      - File Size
+      - Folder Child Count
+      - Item Child Count
+    columnSize:
+      file.tags: 300

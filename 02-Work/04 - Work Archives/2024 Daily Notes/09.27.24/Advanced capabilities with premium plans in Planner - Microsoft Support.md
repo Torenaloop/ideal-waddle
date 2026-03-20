@@ -1,0 +1,3 @@
+Clipped from: [https://support.microsoft.com/en-us/office/advanced-capabilities-with-premium-plans-in-planner-6cdba2aa-da06-4e08-be4c-baaa4fda17ba#bkmk_conditional_coloring](https://support.microsoft.com/en-us/office/advanced-capabilities-with-premium-plans-in-planner-6cdba2aa-da06-4e08-be4c-baaa4fda17ba#bkmk_conditional_coloring)
+
+![Microsoft Support Microsoft 365 Office Products De...](Files/Exported%20image%2020260127151147-0.jpeg)
