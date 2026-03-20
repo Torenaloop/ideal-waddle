@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Claude Code + Obsidian Sandbox Vault interactions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -155,11 +155,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Claude Code + Obsidian Sandbox Vault interactions"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -371,16 +371,17 @@
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
       "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05717ad082893e5c",
+  "active": "a0b40e556b7890f2",
   "lastOpenFiles": [
-    "Clippings/Introducing the new full-stack vibe coding experience in Google AI Studio.md",
     "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
+    "Clippings/Introducing the new full-stack vibe coding experience in Google AI Studio.md",
     "02-Work/Running Notes.md",
     "Clippings/Templates - WebClipper.md",
-    "Untitled 1.md",
+    "Claude Code + Obsidian Sandbox Vault interactions.md",
     "02-Work/06-Work Person/STACK People/Ted Travis.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "04-Templates/Email Template.md",
