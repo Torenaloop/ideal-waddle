@@ -121,26 +121,12 @@
             }
           },
           {
-            "id": "ec388dbb7b25d421",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://outlook.office.com/mail/?msalAuthRedirect=true",
-                "title": "Mail - David Nuckolls - Outlook",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mail - David Nuckolls - Outlook"
-            }
-          },
-          {
             "id": "a0b40e556b7890f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Code + Obsidian Sandbox Vault interactions.md",
+                "file": "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -155,11 +141,12 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Claude Code + Obsidian Sandbox Vault interactions"
+              "title": "2026-03-21"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -377,11 +365,14 @@
   },
   "active": "a0b40e556b7890f2",
   "lastOpenFiles": [
+    "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
     "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
-    "Clippings/Introducing the new full-stack vibe coding experience in Google AI Studio.md",
+    "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-31.md",
+    "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-01.md",
     "02-Work/Running Notes.md",
-    "Clippings/Templates - WebClipper.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "Clippings/Introducing the new full-stack vibe coding experience in Google AI Studio.md",
+    "Clippings/Templates - WebClipper.md",
     "02-Work/06-Work Person/STACK People/Ted Travis.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "04-Templates/Email Template.md",
@@ -407,11 +398,8 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/JESSE_2025_GOALS_GUIDE.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
-    "02-Work/05 - Work Meetings/September 2026 Meetings MOC.md",
-    "02-Work/06-Work Person/STACK People/STACK People MOC.md",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
-    "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "00-Bases/Rhett Base.base",

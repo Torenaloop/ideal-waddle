@@ -1,3 +1,5 @@
+# 2026-03-21
+- [[2026-03-21]] 
 # 2026-03-20 | No Meeting Friday
 - place holder
 - ---
