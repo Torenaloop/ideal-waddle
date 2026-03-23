@@ -1,7 +1,11 @@
 # 2026-03-23
-- Book flight to Austin through Cain | 1-8003464747
-- Reschedule [[James Sedoruk]] 1:1 due to DMV appointment
-- Waiting on PO question response from #jesse-kenser 
+- Save air permit or tier II or SPCC  to proper folder per [[02-Work/06-Work Person/STACK People/Donna Lynch|Donna Lynch]] request (see email)
+- Apply for mentorship program
+- Book flight to Austin through Cain | 1-8003464747 
+- ~~Reschedule [[James Sedoruk]] 1:1 due to DMV appointment~~
+- ~~Waiting on PO question response from~~ #jesse-kenser 
+	- **$8K** 
+	- [ ] Ping J Lloyd
 - Working on Q2 toolbox talks
 	- [[2026.03.30 Toolbox Talk - Nationwide Theme]]
 	- [[2026.04.06 Toolbox Talk - Mental Health Theme]]
@@ -10,13 +14,17 @@
 	- **STILL NEED 1 MORE TOOLBOX TALK** 
 - Getting ready for assessment batch processing
 - [[NVA06B]] has 1 MOP going to #CAB 
-	- 177443
+	- 177443 - ALREADY REVIEWED - [[02-Work/06-Work Person/STACK People/Jon Calata|Jon Calata]] will be presenting
 - [[NVA05D]] has 4 crane MOPs going to #CAB 
+	- [[Matt Bassett]] will be presenting
+	- Each case no./lift needs a crane checklist completed 
 	- 178681
 	- 178683
 	- 178684
 	- 178339
 - [[NVA06A]] #CAB 
+	- [ ] Check in w/[[02-Work/06-Work Person/STACK People/Kaitlyn Lail|Kaitlyn Lail]] about these (listed on Mansberger's spreadsheet)
+	
 	- 179250: UPS-P3-110-01 Battery Cabinet 2 and 3 Replacement
 
 	- 178726: CRAH.E-1217-01 Restoration

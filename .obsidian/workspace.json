@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toolbox 3-23-26.md",
+                "file": "Clippings/Hyatt  View Reservation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Toolbox 3-23-26"
+              "title": "Hyatt  View Reservation"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -369,17 +368,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23de42bf1b692c88",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "Clippings/Hyatt  View Reservation.md",
+    "02-Work/Running Notes.md",
+    "Toolbox 3-23-26.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
-    "Toolbox 3-23-26.md",
     "Clippings/Templates - WebClipper.md",
     "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
     "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
-    "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "02-Work/Toolbox Talks/Q2 2026",
