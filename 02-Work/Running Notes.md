@@ -1,5 +1,5 @@
 # 2026-03-23
-- Save air permit or tier II or SPCC  to proper folder per [[02-Work/06-Work Person/STACK People/Donna Lynch|Donna Lynch]] request (see email)
+- ~~Save air permit or tier II or SPCC  to proper folder per [[02-Work/06-Work Person/STACK People/Donna Lynch|Donna Lynch]] request (see email)~~
 - ~~Apply for mentorship program~~
 - Book flight to Austin through Cain | 1-8003464747 
 - ~~Reschedule [[James Sedoruk]] 1:1 due to DMV appointment~~
