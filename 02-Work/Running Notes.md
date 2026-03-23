@@ -14,7 +14,7 @@
 	- **STILL NEED 1 MORE TOOLBOX TALK** 
 - Getting ready for assessment batch processing
 - [[NVA06B]] has 1 MOP going to #CAB 
-	- 177443 - ALREADY REVIEWED - [[02-Work/06-Work Person/STACK People/Jon Calata|Jon Calata]] will be presenting
+	- 177443 - ✅ALREADY REVIEWED - [[02-Work/06-Work Person/STACK People/Jon Calata|Jon Calata]] will be presenting
 - [[NVA05D]] has 4 crane MOPs going to #CAB 
 	- [[Matt Bassett]] will be presenting
 	- Each case no./lift needs a crane checklist completed 
