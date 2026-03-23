@@ -8,71 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f257c6db2bfcf5a9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.6"
-            }
-          },
-          {
-            "id": "8547598a2ef456d7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
-                "viewState": {
-                  "x": 400,
-                  "y": -108.21132075471701,
-                  "zoom": -1.439330412580788
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Goals_Projects_Tasks"
-            }
-          },
-          {
-            "id": "a835fca67f0cd5ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TRANSCRIPT Workin' Sesh 2026-03-18"
-            }
-          },
-          {
-            "id": "4bd8dacc44c332f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Electrical Qualified Workshop Oral Board Question Bank"
-            }
-          },
-          {
             "id": "bd9b1aafa6169531",
             "type": "leaf",
             "state": {
@@ -143,10 +78,105 @@
               "icon": "lucide-file",
               "title": "2026-03-21"
             }
+          },
+          {
+            "id": "d59bc2b4370b4e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026.03.30 Toolbox Talk - Nationwide Theme"
+            }
+          },
+          {
+            "id": "5ed08bd82312d36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026.04.06 Toolbox Talk - Mental Health Theme"
+            }
+          },
+          {
+            "id": "50ae6609cac790e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026.04.13 Toolbox Talk - Health & Safety Theme"
+            }
+          },
+          {
+            "id": "a9d24d8cac9b5739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026.04.20 Toolbox Talk - Environmental-Office Theme"
+            }
           }
         ],
-        "currentTab": 6,
-        "stacked": true
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +195,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -345,7 +375,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 479.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,6 +395,12 @@
   },
   "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
+    "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
+    "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
+    "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
+    "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
+    "02-Work/Toolbox Talks/Q2 2026",
+    "02-Work/Toolbox Talks",
     "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
     "Clippings/Templates - WebClipper.md",
     "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
@@ -392,11 +429,7 @@
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
     "02-Work/01 - Work Projects/BATCH_8_ENHANCEMENT_GUIDE.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/Jack_Gillian_Contact_Note_ENHANCED.md",
-    "01-Personal/00-Daily Notes/00-Daily Notes/07-July/Data Center Industry Update - 202507300648.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/2025_WORK_GOALS_GUIDE.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/JESSE_2025_GOALS_GUIDE.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
@@ -415,8 +448,6 @@
     "Files/Pasted image 20260308192327.png",
     "00-Bases/23. Safety_Pre-Migration.base",
     "Files/Quick Start Checklist (1).pdf",
-    "Files/423923984Prompting-101-Cheat-Sheet.pdf",
-    "23. Safety_Pre-Migration.base",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
