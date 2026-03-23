@@ -2,14 +2,35 @@
 - Reschedule [[James Sedoruk]] 1:1 due to DMV appointment
 - Waiting on PO question response from #jesse-kenser 
 - Working on Q2 toolbox talks
+	- [[2026.03.30 Toolbox Talk - Nationwide Theme]]
+	- [[2026.04.06 Toolbox Talk - Mental Health Theme]]
+	- [[2026.04.13 Toolbox Talk - Health & Safety Theme]]
+	- [[2026.04.20 Toolbox Talk - Environmental-Office Theme]] 
+	- **STILL NEED 1 MORE TOOLBOX TALK** 
 - Getting ready for assessment batch processing
-- [[NVA06A]] has 1 MOP going to #CAB 
+- [[NVA06B]] has 1 MOP going to #CAB 
 	- 177443
 - [[NVA05D]] has 4 crane MOPs going to #CAB 
 	- 178681
 	- 178683
 	- 178684
 	- 178339
+- [[NVA06A]] #CAB 
+	- 179250: UPS-P3-110-01 Battery Cabinet 2 and 3 Replacement
+
+	- 178726: CRAH.E-1217-01 Restoration
+	
+	- 177658:CRAH.E-1138-01 Isolation, Inspection and Remediation
+	
+	- 177660: CRAH.E-1217-02 Isolation, Inspection and Remediation
+	
+	- 177664: CRAH.E-1138-02 Isolation, Inspection and Remediation
+	
+	- 178258: 1CHP1 Isolation and Restoration
+	
+	- 178263: 1CHP2 Isolation and Restoration
+	
+	- 177663: HF-P3-110 Inspection and Remediation
 # 2026-03-21
 - [[2026-03-21]] 
 # 2026-03-20 | No Meeting Friday
