@@ -32,61 +32,13 @@
             }
           },
           {
-            "id": "05717ad082893e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b"
-            }
-          },
-          {
-            "id": "a0b40e556b7890f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-21"
-            }
-          },
-          {
             "id": "d59bc2b4370b4e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -110,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -134,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -158,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -200,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -336,26 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/05 - Work Meetings/East Region CAB/CAB - 168200 - IR Scan DH110 APM.md",
+                "file": "Toolbox 3-23-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CAB - 168200 - IR Scan DH110 APM"
-            }
-          },
-          {
-            "id": "f3ff6e7336505026",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/People Base.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "People Base"
+              "title": "Outline of Toolbox 3-23-26"
             }
           },
           {
@@ -383,6 +322,19 @@
             }
           },
           {
+            "id": "f3ff6e7336505026",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/People Base.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "People Base"
+            }
+          },
+          {
             "id": "11f878c7aaea156d",
             "type": "leaf",
             "state": {
@@ -396,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -417,19 +369,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "23de42bf1b692c88",
   "lastOpenFiles": [
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
-    "02-Work/Running Notes.md",
-    "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
     "Toolbox 3-23-26.md",
-    "02-Work/Toolbox Talks/Q2 2026",
-    "02-Work/Toolbox Talks",
     "Clippings/Templates - WebClipper.md",
     "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
+    "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
+    "02-Work/Running Notes.md",
+    "00-Bases/People Base.base",
+    "00-Bases/Goals Base.base",
+    "02-Work/Toolbox Talks/Q2 2026",
+    "02-Work/Toolbox Talks",
     "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-31.md",
     "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-01.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
@@ -442,8 +396,6 @@
     "Compass Creek D2D.md",
     "VA Air Permits.md",
     "Vertiv - EHS Pre-QUAL Interview.md",
-    "00-Bases/Goals Base.base",
-    "00-Bases/People Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "Clippings/A bit of praise for Bases (as an alternative and a replacement for Notion).md",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
@@ -452,7 +404,6 @@
     "02-Work/Storage Tank Info - East Sites.md",
     "02-Work/Arc Flash Playbook.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
-    "02-Work/01 - Work Projects/BATCH_8_ENHANCEMENT_GUIDE.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",

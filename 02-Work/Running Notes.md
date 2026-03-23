@@ -1,4 +1,5 @@
 # 2026-03-23
+- Book flight to Austin through Cain | 1-8003464747
 - Reschedule [[James Sedoruk]] 1:1 due to DMV appointment
 - Waiting on PO question response from #jesse-kenser 
 - Working on Q2 toolbox talks
