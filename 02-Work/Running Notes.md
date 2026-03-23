@@ -1,3 +1,15 @@
+# 2026-03-23
+- Reschedule [[James Sedoruk]] 1:1 due to DMV appointment
+- Waiting on PO question response from #jesse-kenser 
+- Working on Q2 toolbox talks
+- Getting ready for assessment batch processing
+- [[NVA06A]] has 1 MOP going to #CAB 
+	- 177443
+- [[NVA05D]] has 4 crane MOPs going to #CAB 
+	- 178681
+	- 178683
+	- 178684
+	- 178339
 # 2026-03-21
 - [[2026-03-21]] 
 # 2026-03-20 | No Meeting Friday
