@@ -164,9 +164,33 @@
               "icon": "lucide-file",
               "title": "Hyatt  View Reservation"
             }
+          },
+          {
+            "id": "8bd25339a227d470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Templates/Medium CAB Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Medium CAB Template"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -382,8 +406,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d59bc2b4370b4e22",
+  "active": "8bd25339a227d470",
   "lastOpenFiles": [
+    "04-Templates/Job Details.md",
+    "04-Templates/Folder Data.md",
+    "04-Templates/AP Review Template.md",
+    "04-Templates/Work Meeting.md",
+    "04-Templates/Work Contact Card.md",
+    "04-Templates/Work Task.md",
+    "04-Templates/Weekly Review 2.0.md",
+    "04-Templates/People.md",
+    "04-Templates/Project Note Template.md",
+    "04-Templates/Standard Note.md",
+    "04-Templates/Evergreen-Concept Note.md",
+    "04-Templates/Meeting Note.md",
+    "04-Templates/Reference Note.md",
+    "04-Templates/Project Note.md",
+    "04-Templates/Person Note.md",
+    "04-Templates/Obsidian_Web_Clipper_Work_Email_Template.md",
+    "04-Templates/Jesse Kenser 1 on 1.md",
+    "04-Templates/Email Template.md",
+    "04-Templates/Medium CAB Template.md",
     "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Toolbox_Talk_Distracted_Driving_April.docx",
@@ -394,30 +437,11 @@
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
     "02-Work/Toolbox 3-23-26.md",
-    "02-Work/Compass Creek D2D.md",
-    "02-Work/VA Air Permits.md",
-    "02-Work/Vertiv - EHS Pre-QUAL Interview.md",
-    "Clippings/Hyatt  View Reservation.md",
-    "Toolbox 3-23-26.md",
-    "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
-    "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
-    "Clippings/Templates - WebClipper.md",
-    "Clippings/httpspreview.redd.itvisual-guide-for-cowork-skills-commands-plugins-v0-sd731ic0fvmg1.pngwidth=2550&format=png&auto=webp&s=f60dc67069d700743af332ff0f84b55534a6819b.md",
-    "01-Personal/00-Daily Notes/09-September/2026-03-21.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "02-Work/Toolbox Talks/Q2 2026",
     "02-Work/Toolbox Talks",
-    "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-31.md",
-    "01-Personal/00-Daily Notes/01-January/Week of 2025-01-01/2025-01-01.md",
-    "Clippings/Introducing the new full-stack vibe coding experience in Google AI Studio.md",
-    "02-Work/06-Work Person/STACK People/Ted Travis.md",
-    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
-    "04-Templates/Email Template.md",
     "02-Work/06-Work Person/STACK People/People Base.base",
-    "Compass Creek D2D.md",
-    "VA Air Permits.md",
-    "Vertiv - EHS Pre-QUAL Interview.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
