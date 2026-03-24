@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Code + Obsidian Sandbox Vault interactions.md",
+                "file": "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Claude Code + Obsidian Sandbox Vault interactions"
+              "title": "Case - NetSuite (STACK INFRASTRUCTURE, INC.)"
+            }
+          },
+          {
+            "id": "8cf60e1762d445b6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/help/plugins/search",
+                "title": "Search - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Search - Obsidian Help"
             }
           },
           {
@@ -184,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: canvas",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -209,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 298.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -370,8 +384,12 @@
   },
   "active": "d59bc2b4370b4e22",
   "lastOpenFiles": [
-    "02-Work/Running Notes.md",
+    "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "Toolbox_Talk_Distracted_Driving_April.docx",
+    "NVA06A-MOP-Electrical-Construction Support-UPS-P3-110-01 Battery Cabinet Replacement.docx",
+    "JSA - UPS-P3-110-01 Batt Cab 01&02 Inspection.docx",
+    "02-Work/Running Notes.md",
     "Untitled.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
@@ -401,7 +419,6 @@
     "VA Air Permits.md",
     "Vertiv - EHS Pre-QUAL Interview.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
-    "Clippings/A bit of praise for Bases (as an alternative and a replacement for Notion).md",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
@@ -410,7 +427,6 @@
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "00-Bases/Rhett Base.base",
-    "02-Work/05 - Work Meetings/East Region CAB",
     "Files/Pasted image 20260318081046.png",
     "Files/Pasted image 20260317114411.png",
     "Files/Pasted image 20260317114351.png",
@@ -421,8 +437,6 @@
     "Files/Pasted image 20260308192806.png",
     "Files/Pasted image 20260308192533.png",
     "Files/Pasted image 20260308192327.png",
-    "00-Bases/23. Safety_Pre-Migration.base",
-    "Files/Quick Start Checklist (1).pdf",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
