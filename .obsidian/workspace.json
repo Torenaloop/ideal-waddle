@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Claude Code + Obsidian Sandbox Vault interactions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Claude Code + Obsidian Sandbox Vault interactions"
             }
           },
           {
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 247.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -370,11 +370,11 @@
   },
   "active": "d59bc2b4370b4e22",
   "lastOpenFiles": [
+    "02-Work/Running Notes.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Untitled.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
-    "02-Work/Running Notes.md",
     "02-Work/Toolbox 3-23-26.md",
     "02-Work/Compass Creek D2D.md",
     "02-Work/VA Air Permits.md",
