@@ -3,6 +3,7 @@
 	- [[September 2026 Meetings MOC]]
 - [[MOC - Weekly Working Session]]
 - [[MOC - Asana Implementation]]
+- [[AP UPDATE - Operational Risk Classification Standard Now in Effect]] 
 - [[Marvin Wells EQW Board]] 
 # 2026-03-23
 - ~~Save air permit or tier II or SPCC  to proper folder per [[02-Work/06-Work Person/STACK People/Donna Lynch|Donna Lynch]] request (see email)~~
