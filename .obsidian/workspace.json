@@ -383,9 +383,19 @@
               "icon": "lucide-table",
               "title": "Goals Base"
             }
+          },
+          {
+            "id": "8545f794aedbd149",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
