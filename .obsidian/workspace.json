@@ -152,7 +152,8 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 5,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -379,15 +380,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "c8c796565a0ad2fc",
   "lastOpenFiles": [
-    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
+    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
+    "Untitled 1.md",
+    "02-Work/Running Notes.md",
+    "02-Work/05 - Work Meetings/September 2026 Meetings MOC.md",
+    "02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md",
+    "MOC- Weekly CAB East.md",
     "Untitled.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
     "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
@@ -404,11 +410,6 @@
     "04-Templates/Work Meeting.md",
     "04-Templates/Work Contact Card.md",
     "04-Templates/Work Task.md",
-    "04-Templates/Weekly Review 2.0.md",
-    "04-Templates/People.md",
-    "04-Templates/Project Note Template.md",
-    "04-Templates/Standard Note.md",
-    "04-Templates/Evergreen-Concept Note.md",
     "Toolbox_Talk_Distracted_Driving_April.docx",
     "NVA06A-MOP-Electrical-Construction Support-UPS-P3-110-01 Battery Cabinet Replacement.docx",
     "JSA - UPS-P3-110-01 Batt Cab 01&02 Inspection.docx",

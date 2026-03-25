@@ -8,8 +8,8 @@ tags:
   - cab
   - procedure-review
 Procedure ID: "177443"
-Procedure Title:
-Procedure Version:
+Procedure Title: NVA06A - FTE of U3-MVS-02 & U4-MVS-01
+Procedure Version: "-"
 Document Category:
   - Maintenance
 Site: NVA06A

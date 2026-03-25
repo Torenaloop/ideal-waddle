@@ -8,8 +8,8 @@ tags:
   - cab
   - procedure-review
 Procedure ID: "178339"
-Procedure Title:
-Procedure Version:
+Procedure Title: NVA05D - P&K - Crane Lift - Day 4
+Procedure Version: "-"
 Document Category:
   - Maintenance
 Site: NVA05D
