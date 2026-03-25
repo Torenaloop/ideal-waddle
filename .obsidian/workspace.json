@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -387,7 +386,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,10 +403,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50b4bb714ada5ea4",
+  "active": "8545f794aedbd149",
   "lastOpenFiles": [
-    "02-Work/Running Notes.md",
+    "00-Bases/Rhett Base.base",
     "AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
+    "02-Work/Running Notes.md",
     "Files/Pasted image 20260325121628.png",
     "Clippings/Templates - WebClipper.md",
     "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
@@ -448,7 +448,6 @@
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
-    "00-Bases/Rhett Base.base",
     "Files/Pasted image 20260318081046.png",
     "Files/Pasted image 20260317114411.png",
     "Files/Pasted image 20260317114351.png",
