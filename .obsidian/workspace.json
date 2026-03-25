@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "d59bc2b4370b4e22",
+            "id": "7aa544f9a4f7c414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
+                "file": "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,102 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Case - NetSuite (STACK INFRASTRUCTURE, INC.)"
+              "title": "NVA05D - P&K - Crane Lift - Day 1"
             }
           },
           {
-            "id": "8cf60e1762d445b6",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://obsidian.md/help/plugins/search",
-                "title": "Search - Obsidian Help",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Search - Obsidian Help"
-            }
-          },
-          {
-            "id": "5ed08bd82312d36b",
+            "id": "0e3be3bfdb8af336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026.04.06 Toolbox Talk - Mental Health Theme"
-            }
-          },
-          {
-            "id": "50ae6609cac790e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026.04.13 Toolbox Talk - Health & Safety Theme"
-            }
-          },
-          {
-            "id": "a9d24d8cac9b5739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026.04.20 Toolbox Talk - Environmental-Office Theme"
-            }
-          },
-          {
-            "id": "23de42bf1b692c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Microsoft and Nvidia team up on AI nuclear push.md",
+                "file": "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -162,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Microsoft and Nvidia team up on AI nuclear push"
+              "title": "NVA05D - P&K - Crane Lift - Day 2"
             }
           },
           {
-            "id": "8bd25339a227d470",
+            "id": "083105449a07480d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Templates/Medium CAB Template.md",
+                "file": "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -186,10 +100,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Medium CAB Template"
+              "title": "NVA05D - P&K - Crane Lift - Day 3"
+            }
+          },
+          {
+            "id": "bde5c53857bbce44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NVA05D - P&K - Crane Lift - Day 4"
+            }
+          },
+          {
+            "id": "c8c796565a0ad2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NVA06A - FTE of U3-MVS-02 & U4-MVS-01"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
+    "width": 376.5,
     "collapsed": true
   },
   "right": {
@@ -395,7 +358,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -416,15 +379,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd9b1aafa6169531",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
+    "Untitled.md",
+    "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
     "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.13 Toolbox Talk - Health & Safety Theme.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.20 Toolbox Talk - Environmental-Office Theme.md",
+    "04-Templates/Medium CAB Template.md",
+    "00-Bases/Goals Base.base",
+    "00-Bases/People Base.base",
+    "Clippings/Templates - WebClipper.md",
     "Clippings/Microsoft and Nvidia team up on AI nuclear push.md",
     "Clippings/Hyatt  View Reservation.md",
-    "04-Templates/Medium CAB Template.md",
     "04-Templates/Job Details.md",
     "04-Templates/Folder Data.md",
     "04-Templates/AP Review Template.md",
@@ -436,19 +409,9 @@
     "04-Templates/Project Note Template.md",
     "04-Templates/Standard Note.md",
     "04-Templates/Evergreen-Concept Note.md",
-    "04-Templates/Meeting Note.md",
-    "04-Templates/Reference Note.md",
-    "04-Templates/Project Note.md",
-    "04-Templates/Person Note.md",
-    "04-Templates/Obsidian_Web_Clipper_Work_Email_Template.md",
-    "04-Templates/Jesse Kenser 1 on 1.md",
-    "04-Templates/Email Template.md",
-    "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Toolbox_Talk_Distracted_Driving_April.docx",
     "NVA06A-MOP-Electrical-Construction Support-UPS-P3-110-01 Battery Cabinet Replacement.docx",
     "JSA - UPS-P3-110-01 Batt Cab 01&02 Inspection.docx",
-    "00-Bases/People Base.base",
-    "00-Bases/Goals Base.base",
     "02-Work/Toolbox Talks/Q2 2026",
     "02-Work/Toolbox Talks",
     "02-Work/06-Work Person/STACK People/People Base.base",

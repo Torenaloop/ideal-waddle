@@ -167,6 +167,10 @@
     "Writers": "multitext",
     "Deadline": "date",
     "Publication Date": "date",
-    "Editors": "multitext"
+    "Editors": "multitext",
+    "Review Due Date": "date",
+    "CAB Meeting Date": "date",
+    "CAB Decision": "multitext",
+    "Decision Date": "date"
   }
 }
