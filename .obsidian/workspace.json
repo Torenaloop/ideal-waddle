@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "NVA06A - FTE of U3-MVS-02 & U4-MVS-01"
             }
+          },
+          {
+            "id": "50b4bb714ada5ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AP UPDATE - Operational Risk Classification Standard Now in Effect"
+            }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -380,13 +404,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8c796565a0ad2fc",
+  "active": "50b4bb714ada5ea4",
   "lastOpenFiles": [
+    "Files/Pasted image 20260325121628.png",
+    "Clippings/Templates - WebClipper.md",
+    "AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
+    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
-    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
     "Untitled 1.md",
     "02-Work/Running Notes.md",
     "02-Work/05 - Work Meetings/September 2026 Meetings MOC.md",
@@ -401,15 +428,12 @@
     "04-Templates/Medium CAB Template.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
-    "Clippings/Templates - WebClipper.md",
     "Clippings/Microsoft and Nvidia team up on AI nuclear push.md",
     "Clippings/Hyatt  View Reservation.md",
     "04-Templates/Job Details.md",
     "04-Templates/Folder Data.md",
     "04-Templates/AP Review Template.md",
     "04-Templates/Work Meeting.md",
-    "04-Templates/Work Contact Card.md",
-    "04-Templates/Work Task.md",
     "Toolbox_Talk_Distracted_Driving_April.docx",
     "NVA06A-MOP-Electrical-Construction Support-UPS-P3-110-01 Battery Cabinet Replacement.docx",
     "JSA - UPS-P3-110-01 Batt Cab 01&02 Inspection.docx",
