@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
+                "file": "02-Work/05 - Work Meetings/East Region CAB/NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "NVA06A - FTE of U3-MVS-02 & U4-MVS-01"
             }
-          },
-          {
-            "id": "50b4bb714ada5ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AP UPDATE - Operational Risk Classification Standard Now in Effect"
-            }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -312,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toolbox 3-23-26.md",
+                "file": "02-Work/Running Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Toolbox 3-23-26"
+              "title": "Outline of Running Notes"
             }
           },
           {
@@ -382,7 +358,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -403,23 +379,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8545f794aedbd149",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
-    "00-Bases/Rhett Base.base",
-    "AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
-    "02-Work/Running Notes.md",
-    "Files/Pasted image 20260325121628.png",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
     "Clippings/Templates - WebClipper.md",
-    "NVA06A - FTE of U3-MVS-02 & U4-MVS-01.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 1.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 2.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
+    "02-Work/Ted Travis NVA06A D2D Message.md",
+    "02-Work/Running Notes.md",
+    "02-Work/MOC- Weekly CAB East.md",
     "Untitled 1.md",
+    "02-Work/AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
+    "00-Bases/Rhett Base.base",
+    "Files/Pasted image 20260325121628.png",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
     "02-Work/05 - Work Meetings/September 2026 Meetings MOC.md",
     "02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md",
-    "MOC- Weekly CAB East.md",
-    "Untitled.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
     "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
