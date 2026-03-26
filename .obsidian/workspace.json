@@ -15,37 +15,13 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 1410.2809007423728,
-                  "y": 21.95262790662821,
-                  "zoom": -0.6767908839403742
+                  "x": 856.0198841282801,
+                  "y": -426.55092643279215,
+                  "zoom": -0.9390592629978043
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
-            }
-          },
-          {
-            "id": "c07c951f661d1315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nicholas Mansberger 1 on 1 MOC"
             }
           }
         ],
@@ -106,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
