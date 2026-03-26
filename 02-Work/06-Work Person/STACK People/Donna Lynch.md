@@ -2,7 +2,7 @@
 Company: STACK Infrastructure
 Org: EHS
 Location: Park City, UT
-Job Title: VP
+Job Title: SR VP-EHS
 Email: dlynch@stackinfra.com
 Phone: 720-810-4708
 tags:

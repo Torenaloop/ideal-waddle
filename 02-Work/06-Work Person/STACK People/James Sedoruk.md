@@ -2,7 +2,7 @@
 Company: STACK Infrastructure
 Org: Critical Operations
 Location:
-Job Title: VP
+Job Title: VP Ops East
 Email:
 Phone:
 tags:

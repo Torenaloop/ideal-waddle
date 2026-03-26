@@ -2,7 +2,7 @@
 Company: STACK Infrastructure
 Org: EHS
 Location: Phoenix, AZ
-Job Title: Director
+Job Title: Director-Ops EHS
 Email: jkenser@stackinfra.com
 Phone: 303-550-2872
 tags:

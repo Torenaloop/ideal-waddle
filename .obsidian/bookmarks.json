@@ -294,6 +294,26 @@
       "type": "file",
       "ctime": 1768347335472,
       "path": "Clippings/Templates - WebClipper.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1774484155218,
+      "path": "00-Bases/Clippings Base.base"
+    },
+    {
+      "type": "file",
+      "ctime": 1774484161987,
+      "path": "00-Bases/Meetings Base.base"
+    },
+    {
+      "type": "file",
+      "ctime": 1774484170170,
+      "path": "00-Bases/Daily.base"
+    },
+    {
+      "type": "file",
+      "ctime": 1774484179367,
+      "path": "00-Bases/Attachments Base.base"
     }
   ]
 }

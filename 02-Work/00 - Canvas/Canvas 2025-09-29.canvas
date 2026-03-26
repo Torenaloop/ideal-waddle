@@ -1,15 +1,20 @@
 {
 	"nodes":[
-		{"id":"123c463b479f68a0","type":"file","file":"02-Work/05 - Work Meetings/MOC - East Coast Critical Ops Sync.md","x":-860,"y":300,"width":460,"height":580},
-		{"id":"7264838abd426408","type":"file","file":"02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md","x":-370,"y":300,"width":450,"height":580},
-		{"id":"22955302b4792346","type":"file","file":"02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md","x":120,"y":300,"width":400,"height":580},
-		{"id":"3068d7f903592b5e","type":"file","file":"02-Work/05 - Work Meetings/MOC - Asana Implementation.md","x":560,"y":300,"width":400,"height":580},
-		{"id":"74cc9ac7b3f17234","type":"text","text":"# Topics for Leadership\n\n## January \n- New Albany New Project in May\n\n- [[Joe Kendra]] mentioned [[China Wolf]] /TechOps working on a BOM - this is an opportunity for us to codify our EHS-material needs by turnover ","x":1000,"y":300,"width":445,"height":580},
-		{"id":"60e8d85a4750ea6d","type":"file","file":"02-Work/06-Work Person/STACK People/Gerald Aldajuste.md","x":560,"y":920,"width":885,"height":580},
-		{"id":"34848345808fdfa8","type":"file","file":"02-Work/05 - Work Meetings/Weekly EHS AI Collab MOC.md","x":-860,"y":920,"width":460,"height":580},
-		{"id":"a3cf26c98b4bcb65","type":"file","file":"02-Work/Work Folder Open Tasks.md","x":-370,"y":920,"width":450,"height":580},
-		{"id":"95646b9bfb5e50ba","type":"text","text":"Once every 2 months\n- [x] James\n- [x] Nick\n- [x] Joe\n- [x] Jack\n- [ ] Seann\n- [ ] Kait\n- [ ] Todd\n- [x] Daniel\n- [x] Justin\n- [ ] Tony A\n","x":120,"y":920,"width":400,"height":580},
-		{"id":"657bd57504298ad7","type":"link","url":"https://app.asana.com/1/1181033344075385/project/1210070254869857/list/1210070254869870","x":-860,"y":-800,"width":2305,"height":1040}
+		{"id":"a1a97513299cb8f0","type":"group","x":-900,"y":-920,"width":1860,"height":2840,"label":"Task Management "},
+		{"id":"945ee2f496dc6f6c","x":-900,"y":2040,"width":2940,"height":1230,"type":"group","label":"People & Cadence "},
+		{"id":"1ea30eb4d405ab0b","type":"group","x":1040,"y":-920,"width":1000,"height":1420,"label":"Reoccurring Meetings"},
+		{"id":"971b260e6f218be0","x":1040,"y":560,"width":1000,"height":1360,"type":"group","label":"Reference & Idea"},
+		{"id":"657bd57504298ad7","type":"link","url":"https://app.asana.com/1/1181033344075385/project/1210070254869857/list/1210070254869870","x":-860,"y":-800,"width":1660,"height":1040},
+		{"id":"a3cf26c98b4bcb65","type":"file","file":"02-Work/Work Folder Open Tasks.md","x":-853,"y":310,"width":1653,"height":730},
+		{"id":"c73cbb746017d988","type":"file","file":"00-Bases/Goals Base.base","x":-846,"y":1089,"width":1646,"height":751},
+		{"id":"22955302b4792346","type":"file","file":"02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md","x":1120,"y":-800,"width":400,"height":580},
+		{"id":"7264838abd426408","type":"file","file":"02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md","x":1120,"y":-80,"width":400,"height":529},
+		{"id":"123c463b479f68a0","type":"file","file":"02-Work/05 - Work Meetings/MOC - East Coast Critical Ops Sync.md","x":1540,"y":-800,"width":360,"height":580},
+		{"id":"3068d7f903592b5e","type":"file","file":"02-Work/05 - Work Meetings/MOC - Asana Implementation.md","x":1540,"y":-80,"width":380,"height":529},
+		{"id":"34848345808fdfa8","type":"file","file":"02-Work/05 - Work Meetings/Weekly EHS AI Collab MOC.md","x":1120,"y":630,"width":400,"height":580},
+		{"id":"74cc9ac7b3f17234","type":"text","text":"# Topics for Leadership\n\n## January \n- New Albany New Project in May\n\n- [[Joe Kendra]] mentioned [[China Wolf]] /TechOps working on a BOM - this is an opportunity for us to codify our EHS-material needs by turnover ","x":-846,"y":2110,"width":600,"height":580},
+		{"id":"60e8d85a4750ea6d","type":"file","file":"02-Work/06-Work Person/STACK People/Gerald Aldajuste.md","x":-200,"y":2110,"width":640,"height":580},
+		{"id":"95646b9bfb5e50ba","type":"text","text":"Once every 2 months\n- [x] James\n- [x] Nick\n- [x] Joe\n- [x] Jack\n- [ ] Seann\n- [ ] Kait\n- [ ] Todd\n- [x] Daniel\n- [x] Justin\n- [ ] Tony A\n","x":480,"y":2110,"width":640,"height":580}
 	],
 	"edges":[]
 }
