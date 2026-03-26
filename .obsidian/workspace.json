@@ -387,7 +387,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 479.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -406,6 +407,9 @@
   },
   "active": "c9daf7bde24b5038",
   "lastOpenFiles": [
+    "00-Bases/Daily.base",
+    "00-Bases/Evergreen.base",
+    "01-Personal/00-Daily Notes/09-September/2026-03-25.md",
     "Files/Recording 20260325151647.m4a",
     "Untitled.md",
     "02-Work/Running Notes.md",
@@ -435,14 +439,11 @@
     "Clippings/Hyatt  View Reservation.md",
     "04-Templates/Job Details.md",
     "04-Templates/Folder Data.md",
-    "04-Templates/AP Review Template.md",
     "Toolbox_Talk_Distracted_Driving_April.docx",
     "NVA06A-MOP-Electrical-Construction Support-UPS-P3-110-01 Battery Cabinet Replacement.docx",
     "JSA - UPS-P3-110-01 Batt Cab 01&02 Inspection.docx",
     "02-Work/Toolbox Talks/Q2 2026",
     "02-Work/Toolbox Talks",
-    "02-Work/06-Work Person/STACK People/People Base.base",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
