@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -18.77600597672,
-                  "y": -237.62435486481496,
-                  "zoom": -0.3434575506070409
+                  "x": 1410.2809007423728,
+                  "y": 21.95262790662821,
+                  "zoom": -0.6767908839403742
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "75b68aea1afcb01b",
+            "id": "c07c951f661d1315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Visualization Ideas for Asana Project Dashboard.md",
+                "file": "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,87 +45,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Visualization Ideas for Asana Project Dashboard"
-            }
-          },
-          {
-            "id": "2184cbdfac1c880c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Goals Base.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Goals Base"
-            }
-          },
-          {
-            "id": "d1e584eb9fc8c7fa",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Projects Status Board.base",
-                "viewName": "All Projects"
-              },
-              "icon": "lucide-table",
-              "title": "Projects Status Board"
-            }
-          },
-          {
-            "id": "3d3aca5882d80c89",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Rhett Base.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Rhett Base"
-            }
-          },
-          {
-            "id": "0d90ef97d4a342b4",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Work Site Tracker.base",
-                "viewName": "All Site Content"
-              },
-              "icon": "lucide-table",
-              "title": "Work Site Tracker"
-            }
-          },
-          {
-            "id": "82138602e113cc72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Canvas Upgrades - Claude.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Canvas Upgrades - Claude"
+              "title": "Nicholas Mansberger 1 on 1 MOC"
             }
           }
         ],
-        "currentTab": 6
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -182,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 555.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -334,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 479.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,19 +277,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d02cb1c6dae8f19",
+  "active": "bd9b1aafa6169531",
   "lastOpenFiles": [
+    "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Canvas Upgrades - Claude.md",
-    "02-Work/Running Notes.md",
     "00-Bases/Work Site Tracker.base",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
+    "02-Work/06-Work Person/STACK People/Nicholas Mansberger.md",
+    "Nicholas Mansberger 1 on 1 MOC.md",
+    "00-Bases/People Base.base",
+    "02-Work/Running Notes.md",
     "00-Bases/Rhett Base.base",
     "00-Bases/Projects Status Board.base",
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Email Inbox.base",
     "00-Bases/Discussion Items.base",
     "00-Bases/Goals Base.base",
-    "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction-Ops_EHS_Gap.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115183_03-Saucedo_Goals.md",
@@ -383,10 +313,6 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115184_Saucedo_2025_Goal_1.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768775_Ops-COMs_EHS_Goals.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_2.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768775_Ops-ACOMs___COTs_EHS_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115186_Saucedo_2025_Goal_5.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115185_Saucedo_2025_Goal_3.md",
     "Files/Pasted image 20260326083946.png",
     "00-Bases/Clippings Base.base",
     "00-Bases/Attachments Base.base",

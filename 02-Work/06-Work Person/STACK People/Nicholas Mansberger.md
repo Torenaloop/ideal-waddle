@@ -23,7 +23,7 @@ Reports to:
 
 
 # Meetings
-- [[Nicholas Mansberger 1 on 1]]
+- [[02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC]] 
 
 ### 2025-10-21
 - See Gillian's loop template
