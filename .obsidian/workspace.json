@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 557.2873155373136,
-                  "y": -794.3050348205511,
-                  "zoom": -0.6767908839403742
+                  "x": -18.77600597672,
+                  "y": -237.62435486481496,
+                  "zoom": -0.3434575506070409
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -60,8 +60,72 @@
               "icon": "lucide-table",
               "title": "Goals Base"
             }
+          },
+          {
+            "id": "d1e584eb9fc8c7fa",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Projects Status Board.base",
+                "viewName": "All Projects"
+              },
+              "icon": "lucide-table",
+              "title": "Projects Status Board"
+            }
+          },
+          {
+            "id": "3d3aca5882d80c89",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Rhett Base.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Rhett Base"
+            }
+          },
+          {
+            "id": "0d90ef97d4a342b4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Work Site Tracker.base",
+                "viewName": "All Site Content"
+              },
+              "icon": "lucide-table",
+              "title": "Work Site Tracker"
+            }
+          },
+          {
+            "id": "82138602e113cc72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canvas Upgrades - Claude.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Canvas Upgrades - Claude"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 555.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -288,59 +351,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "d2f3bffed5cc371e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c40d1057231fef10",
-        "type": "window",
-        "children": [
-          {
-            "id": "f02239886d573d9d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b24b4f3a1bae1675",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Canvas Upgrades - Claude.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Canvas Upgrades - Claude"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1589,
-        "y": 39,
-        "width": 1287,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "82bf9a9226cdb1ca",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Canvas Upgrades - Claude.md",
+    "02-Work/Running Notes.md",
+    "00-Bases/Work Site Tracker.base",
+    "00-Bases/Rhett Base.base",
+    "00-Bases/Projects Status Board.base",
+    "00-Bases/Meeting Tracker.base",
+    "00-Bases/Email Inbox.base",
+    "00-Bases/Discussion Items.base",
     "00-Bases/Goals Base.base",
+    "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction-Ops_EHS_Gap.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115183_03-Saucedo_Goals.md",
@@ -364,19 +387,10 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115186_Saucedo_2025_Goal_5.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115185_Saucedo_2025_Goal_3.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115185_Saucedo_2025_Goal_2.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409083_Goetz_2025_Goal_5.md",
     "Files/Pasted image 20260326083946.png",
     "00-Bases/Clippings Base.base",
     "00-Bases/Attachments Base.base",
-    "00-Bases/Meetings Base.base",
-    "00-Bases/Daily.base",
-    "00-Bases/Evergreen.base",
-    "Files/Recording 20260325151647.m4a",
-    "00-Bases/Rhett Base.base",
     "Files/Pasted image 20260325121628.png",
-    "00-Bases/People Base.base",
-    "Toolbox_Talk_Distracted_Driving_April.docx",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
     "02-Work/00 - Canvas/Canvas Log.canvas",

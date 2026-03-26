@@ -1,0 +1,70 @@
+views:
+  - type: cards
+    name: Work Projects
+    filters:
+      and:
+        - file.folder.contains("02-Work/01 - Work Projects")
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due Date
+      - tags
+    sort:
+      - property: Priority
+        direction: DESC
+      - property: Due Date
+        direction: ASC
+    cardSize: 180
+    imageFit: ""
+  - type: cards
+    name: Personal Projects
+    filters:
+      and:
+        - file.folder.contains("01-Personal/01-Projects")
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due Date
+      - tags
+    sort:
+      - property: Priority
+        direction: DESC
+      - property: Due Date
+        direction: ASC
+    cardSize: 180
+    imageFit: ""
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - file.folder.contains("01 - Work Projects")
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Status
+      - Priority
+      - Due Date
+      - tags
+      - file.folder
+    sort:
+      - property: Status
+        direction: DESC
+      - property: Priority
+        direction: DESC
+      - property: Due Date
+        direction: ASC
+    columnSize:
+      file.name: 260
+      note.Status: 120
+      note.Priority: 90
+      note.Due Date: 110
+      note.tags: 352
+      file.folder: 200

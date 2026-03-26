@@ -1,0 +1,68 @@
+formulas:
+  Days Since Modified: date(now()) - file.mtime
+views:
+  - type: table
+    name: Site Hubs
+    filters:
+      and:
+        - file.folder.contains("02-Work/02 - Work Areas")
+        - type == "hub"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - Status
+      - tags
+      - file.mtime
+      - formula.Days Since Modified
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 220
+      note.type: 100
+      note.Status: 110
+      note.tags: 220
+      file.mtime: 140
+      formula.Days Since Modified: 130
+  - type: table
+    name: All Site Content
+    filters:
+      and:
+        - file.folder.contains("02-Work/02 - Work Areas")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - Status
+      - tags
+      - file.mtime
+      - formula.Days Since Modified
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 220
+      note.type: 100
+      note.Status: 110
+      note.tags: 220
+      file.mtime: 140
+      formula.Days Since Modified: 130
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder.contains("02-Work/02 - Work Areas")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    cardSize: 160
+    imageFit: ""

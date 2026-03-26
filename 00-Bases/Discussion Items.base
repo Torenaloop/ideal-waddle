@@ -1,0 +1,63 @@
+views:
+  - type: table
+    name: Pending
+    filters:
+      and:
+        - file.hasTag("discuss-with-person-a")
+        - file.folder.contains("02-Work")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+      - file.mtime
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 280
+      file.folder: 260
+      file.mtime: 130
+      note.tags: 200
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - file.hasTag("discuss-with-person-a-completed")
+        - file.folder.contains("02-Work")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.folder
+      - file.mtime
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 280
+      file.folder: 260
+      file.mtime: 130
+      note.tags: 200
+  - type: cards
+    name: Pending Cards
+    filters:
+      and:
+        - file.hasTag("discuss-with-person-a")
+        - file.folder.contains("02-Work")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.mtime
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    cardSize: 160
+    imageFit: ""
