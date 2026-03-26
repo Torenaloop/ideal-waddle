@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 873.0354117324637,
-                  "y": 205.16866676395614,
-                  "zoom": -1.0101242172737075
+                  "x": 80.49315821133666,
+                  "y": 1482.617500390717,
+                  "zoom": -0.010124217273707603
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -47,9 +47,19 @@
               "icon": "lucide-file",
               "title": "Data Visualization Ideas for Asana Project Dashboard"
             }
+          },
+          {
+            "id": "2184cbdfac1c880c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -326,10 +337,10 @@
       }
     ]
   },
-  "active": "75b68aea1afcb01b",
+  "active": "2184cbdfac1c880c",
   "lastOpenFiles": [
-    "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
     "Canvas Upgrades - Claude.md",
     "Files/Pasted image 20260326083946.png",
     "Clippings/Templates - WebClipper.md",
@@ -363,7 +374,6 @@
     "02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Clippings/Case - NetSuite (STACK INFRASTRUCTURE, INC.).md",
-    "02-Work/Toolbox Talks/Q2 2026/2026.04.06 Toolbox Talk - Mental Health Theme.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
     "Toolbox_Talk_Distracted_Driving_April.docx",
