@@ -7,11 +7,11 @@ tags:
   - ConstructionEHS
   - Work
   - goals
-  - 2025
   - meeting
   - NVA06A
   - documentation
   - analysis
+  - Work/Goal/2025
 Date: 2025-07-22
 Meeting Type: Teams
 Participants:

@@ -6,9 +6,9 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - strategic
   - construction-ops-bridge
+  - Work/Goal/2025
 Type: Strategic Initiative Hub
 Year: 2025
 Related:

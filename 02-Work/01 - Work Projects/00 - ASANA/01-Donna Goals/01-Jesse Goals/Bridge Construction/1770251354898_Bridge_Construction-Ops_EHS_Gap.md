@@ -6,10 +6,10 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - strategic
   - Improve_Internal_Communication
   - construction-ops-bridge
+  - Work/Goal/2025
 Type: Strategic Company Goal
 Year: 2025
 Parent Goal: "[[Improve Internal Communications]]"

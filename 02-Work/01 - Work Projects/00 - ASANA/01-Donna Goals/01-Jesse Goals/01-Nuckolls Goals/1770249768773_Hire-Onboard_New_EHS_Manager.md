@@ -6,10 +6,10 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - hiring
   - recruitment
   - onboarding
+  - Work/Goal/2025
 Goal Number: 3
 Year: 2025
 Type: Team Building

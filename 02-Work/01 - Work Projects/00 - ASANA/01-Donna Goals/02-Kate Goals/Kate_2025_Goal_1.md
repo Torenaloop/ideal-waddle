@@ -6,8 +6,8 @@ tags:
   - ConstructionEHS
   - Work
   - goals
-  - 2025
   - Improve_Internal_Communication
+  - Work/Goal/2025
 Goal Number: 1
 Year: 2025
 Manager: Kate

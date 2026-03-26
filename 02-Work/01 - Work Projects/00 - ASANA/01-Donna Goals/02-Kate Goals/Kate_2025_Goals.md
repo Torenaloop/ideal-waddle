@@ -6,8 +6,8 @@ tags:
   - ConstructionEHS
   - Work
   - goals
-  - 2025
   - leadership
+  - Work/Goal/2025
 Year: 2025
 Type: Goals List
 Manager: Kate

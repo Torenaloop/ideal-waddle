@@ -6,9 +6,9 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - executive
   - leadership
+  - Work/Goal/2025
 Year: 2025
 Type: Executive Goals List
 Manager: Jesse

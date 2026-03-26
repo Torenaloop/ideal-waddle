@@ -6,10 +6,10 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - technology
   - dashboards
   - data
+  - Work/Goal/2025
 Type: Technology Documentation
 Parent Goal: "[[Nuckolls 2025 Goal 5]]"
 Related:

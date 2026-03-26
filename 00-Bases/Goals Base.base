@@ -20,17 +20,18 @@ views:
         direction: DESC
       - property: formula.Untitled
         direction: ASC
-      - property: file.name
-        direction: ASC
       - property: file.tags
         direction: ASC
     columnSize:
       file.name: 149
       note.2025 Goal: 9
-      note.tags: 526
-      file.links: 826
-      note.Mission Pillar: 122
+      note.tags: 394
+      file.links: 399
+      note.Mission Pillar: 134
   - type: cards
     name: View
+    groupBy:
+      property: Due-Date
+      direction: ASC
     cardSize: 170
     imageFit: ""

@@ -6,13 +6,13 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - meeting
   - NVA06A
   - safety
   - risk-assessment
+  - Work/Goal/2025
 Date: 2025-07-29
-Time: 
+Time:
 Location: Teams/Chat
 Meeting Type: Discussion
 Project: NVA06A

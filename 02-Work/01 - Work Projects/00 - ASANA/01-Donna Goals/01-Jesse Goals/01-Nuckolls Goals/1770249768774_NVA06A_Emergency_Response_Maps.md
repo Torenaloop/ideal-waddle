@@ -6,10 +6,10 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - NVA06A
   - emergency-response
   - safety-maps
+  - Work/Goal/2025
 Project: NVA06A
 Type: Deliverable
 Parent Goal: "[[Nuckolls 2025 Goal 5]]"

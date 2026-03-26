@@ -3,7 +3,7 @@ tags:
   - OpsEHS
   - Improve_Internal_Communication
   - Work/Goal/2025
-  - Work/Goal/2025
+  - work/goal/2025
 ---
 Parent Goal - [[Improve Internal Communications]]
 

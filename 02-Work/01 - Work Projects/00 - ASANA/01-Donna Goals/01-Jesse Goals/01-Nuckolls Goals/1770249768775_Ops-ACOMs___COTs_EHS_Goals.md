@@ -6,9 +6,9 @@ tags:
   - OpsEHS
   - Work
   - goals
-  - 2025
   - ACOM
   - COT
+  - Work/Goal/2025
 Type: Goals Document
 Parent Goal: "[[Nuckolls 2025 Goal 1]]"
 Related:

@@ -5,16 +5,16 @@ Priority: Low
 tags:
   - Work
   - goals
-  - 2025
   - Projects
   - TechOps
   - site-integration
   - safety-scope
+  - Work/Goal/2025
 Start Date: 2025-08-15
-Due Date: 
+Due Date:
 Progress: Not Started
 Parent Goal: "[[Bridge Construction-Ops EHS Gap]]"
-Child Goal: 
+Child Goal:
 Related:
   - "[[Bridge Construction]]"
   - "[[NVA06A D2D]]"

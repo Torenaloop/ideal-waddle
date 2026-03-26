@@ -7,10 +7,10 @@ tags:
   - Environmental_Audit_PM
   - Work
   - goals
-  - 2025
   - environmental
   - compliance
   - audit
+  - Work/Goal/2025
 Type: Program Documentation
 Parent Goal: "[[Nuckolls 2025 Goal 4]]"
 Related:
