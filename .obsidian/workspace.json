@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 80.49315821133666,
-                  "y": 1482.617500390717,
-                  "zoom": -0.010124217273707603
+                  "x": 557.2873155373136,
+                  "y": -794.3050348205511,
+                  "zoom": -0.6767908839403742
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -61,8 +61,7 @@
               "title": "Goals Base"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,10 +337,11 @@
       }
     ]
   },
-  "active": "2184cbdfac1c880c",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction-Ops_EHS_Gap.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction-Ops_EHS_Gap.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115183_03-Saucedo_Goals.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409081_02-Goetz_Goals.md",
@@ -367,8 +366,6 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115185_Saucedo_2025_Goal_3.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115185_Saucedo_2025_Goal_2.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409083_Goetz_2025_Goal_5.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409082_Goetz_2025_Goal_4.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Files/Pasted image 20260326083946.png",
     "00-Bases/Clippings Base.base",
     "00-Bases/Attachments Base.base",
