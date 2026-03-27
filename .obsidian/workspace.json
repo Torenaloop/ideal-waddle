@@ -11,17 +11,24 @@
             "id": "bd9b1aafa6169531",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": 856.0198841282801,
-                  "y": -426.55092643279215,
-                  "zoom": -0.9390592629978043
+                "file": "Incident Management Swimlane.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "icon": "lucide-file",
+              "title": "Incident Management Swimlane"
             }
           }
         ],
@@ -255,13 +262,14 @@
   },
   "active": "bd9b1aafa6169531",
   "lastOpenFiles": [
-    "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
+    "Nicholas Mansberger 1 on 1 MOC.md",
+    "Incident Management Swimlane.md",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
     "Canvas Upgrades - Claude.md",
     "00-Bases/Work Site Tracker.base",
-    "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/06-Work Person/STACK People/Nicholas Mansberger.md",
-    "Nicholas Mansberger 1 on 1 MOC.md",
     "00-Bases/People Base.base",
     "02-Work/Running Notes.md",
     "00-Bases/Rhett Base.base",
