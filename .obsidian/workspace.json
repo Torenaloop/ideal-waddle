@@ -35,9 +35,21 @@
             "id": "41d9a08066f46ab5",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TRANSCRIPT Workin' Sesh 2026-03-18"
+            }
+          },
+          {
+            "id": "b56f77d430a71171",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often.md",
+                "file": "Original context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +64,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often"
+              "title": "Original context"
+            }
+          },
+          {
+            "id": "63283a99bee19f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Future claude prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Future claude prompt"
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -284,46 +320,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d9a08066f46ab5",
+  "active": "b56f77d430a71171",
   "lastOpenFiles": [
-    "02-Work/VA Air Permits.md",
-    "Clippings/I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often.md",
+    "Future claude prompt.md",
+    "Original context.md",
     "NAL01A SPCC Swimlane 1.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2026-03-18.md",
+    "02-Work/VA Air Permits.md",
+    "02-Work/Running Notes.md",
+    "02-Work/AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
+    "02-Work/MOC- Weekly CAB East.md",
+    "02-Work/Toolbox 3-23-26.md",
+    "02-Work/Ted Travis NVA06A D2D Message.md",
+    "02-Work/Compass Creek D2D.md",
+    "02-Work/Vertiv - EHS Pre-QUAL Interview.md",
+    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
+    "02-Work/NVA06A_D2D.md",
+    "02-Work/NVA05A Terry-Danielle Visit.md",
+    "02-Work/ENV AUDIT - Master Schedule and Contacts.md",
+    "02-Work/Storage Tank Info - East Sites.md",
+    "02-Work/Arc Flash Playbook.md",
+    "02-Work/4Ds.md",
+    "02-Work/Draft DEQ Response NVA05A 2026-01-08.md",
+    "Clippings/I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often.md",
+    "02-Work/Untitled 6 1.md",
     "Incident Management Swimlane.md",
     "02-Work/Files Last 30 Days - List.md",
     "02-Work/Files Last 30 Days - Table.md",
-    "Nicholas Mansberger 1 on 1 MOC.md",
-    "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
-    "Canvas Upgrades - Claude.md",
     "00-Bases/Work Site Tracker.base",
-    "02-Work/06-Work Person/STACK People/Nicholas Mansberger.md",
     "00-Bases/People Base.base",
-    "02-Work/Running Notes.md",
     "00-Bases/Rhett Base.base",
     "00-Bases/Projects Status Board.base",
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Email Inbox.base",
     "00-Bases/Discussion Items.base",
     "00-Bases/Goals Base.base",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction-Ops_EHS_Gap.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/1770251354898_Bridge_Construction.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115183_03-Saucedo_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409081_02-Goetz_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768774_Nuckolls_2025_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_01-Nuckolls_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409083_Goetz_2025_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115186_Saucedo_2025_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768774_NVA06A_Emergency_Response_Maps.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115186_Saucedo_2025_Goal_4.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768775_NVA06A_Safety_Risk_Assessment.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768774_Nuckolls_2025_Goal_5.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/02-Goetz Goals/1770250409082_Goetz_2025_Goal_3.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Hire-Onboard_New_EHS_Manager.md",
     "Files/Pasted image 20260326083946.png",
     "00-Bases/Clippings Base.base",
-    "00-Bases/Attachments Base.base",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
