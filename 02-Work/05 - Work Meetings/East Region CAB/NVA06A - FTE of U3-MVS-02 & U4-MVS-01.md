@@ -67,7 +67,7 @@ Next Review Date:
 - **Effective Date:**
 
 ## Action Items
-- [ ] 
+- [x] 
 
 ## Revision History
 | Version | Date | Author | Summary of Changes |

@@ -45,7 +45,7 @@ Sentec and Spec provide temp employees -\> Andrew trains Tuesday and Thursdays f
     - - [x] ~~Need to apply for AMEX card~~
     - ~~For the time being, once I am done QA/QC - ing an incident report, send to Connie, Monica and Luis Garcia for their final review~~
     - Midterm items that need work
-        - - [ ] ~~Stand up an ERP (specific for SAN facility)~~
-        - - [ ] ~~Stand up a Heat Stress Management Plan (specific for SAN facility)~~
-        - - [ ] ~~Stand up site Safety Committee~~
-        - - [ ] ~~Drive Ops Management engagement with monthly facility audits~~
+        - - [x] ~~Stand up an ERP (specific for SAN facility)~~
+        - - [x] ~~Stand up a Heat Stress Management Plan (specific for SAN facility)~~
+        - - [x] ~~Stand up site Safety Committee~~
+        - - [x] ~~Drive Ops Management engagement with monthly facility audits~~
