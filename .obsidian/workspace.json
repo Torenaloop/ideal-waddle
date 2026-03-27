@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incident Management Swimlane.md",
+                "file": "NAL01A SPCC Swimlane 1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incident Management Swimlane"
+              "title": "NAL01A SPCC Swimlane 1"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -262,8 +261,11 @@
   },
   "active": "bd9b1aafa6169531",
   "lastOpenFiles": [
-    "Nicholas Mansberger 1 on 1 MOC.md",
     "Incident Management Swimlane.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "02-Work/Files Last 30 Days - List.md",
+    "02-Work/Files Last 30 Days - Table.md",
+    "Nicholas Mansberger 1 on 1 MOC.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/05 - Work Meetings/1 on 1's/Nicholas Mansberger 1 on 1 MOC.md",
@@ -294,9 +296,6 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Hire-Onboard_New_EHS_Manager.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/Jesse_2025_Goals.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768774_Nuckolls_2025_Goal_4.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/03-Saucedo Goals/1770251115184_Saucedo_2025_Goal_1.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768775_Ops-COMs_EHS_Goals.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_2.md",
     "Files/Pasted image 20260326083946.png",
     "00-Bases/Clippings Base.base",
     "00-Bases/Attachments Base.base",
