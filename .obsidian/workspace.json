@@ -11,24 +11,17 @@
             "id": "836622af20048fe7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02-Work/05 - Work Meetings/Asana AI Studio vs Standard Rules and Automations.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": 1009.8855602341139,
+                  "y": 220.16603160957754,
+                  "zoom": -1.6057259296644708
                 }
               },
-              "icon": "lucide-file",
-              "title": "Asana AI Studio vs Standard Rules and Automations"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
             }
           },
           {
@@ -172,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -344,8 +338,9 @@
   },
   "active": "836622af20048fe7",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Canvas Upgrades - Claude.md",
     "02-Work/05 - Work Meetings/Asana AI Studio vs Standard Rules and Automations.md",
+    "Untitled.base",
     "Original context.md",
     "Future claude prompt.md",
     "NAL01A SPCC Swimlane 1.md",
@@ -381,7 +376,6 @@
     "00-Bases/Discussion Items.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260326083946.png",
-    "00-Bases/Clippings Base.base",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
