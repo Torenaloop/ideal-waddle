@@ -131,9 +131,33 @@
               "icon": "lucide-file",
               "title": "Will of James II"
             }
+          },
+          {
+            "id": "3f9b5973fdac67b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuckolls Genealogy Links.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nuckolls Genealogy Links"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -361,10 +385,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce2bbbb6f94915b1",
+  "active": "3f9b5973fdac67b0",
   "lastOpenFiles": [
-    "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
+    "Nuckolls Genealogy Links.md",
     "Clippings/Will of James II.md",
+    "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Nuckolls Report.md",
     "01-Personal/Virginia Accents.md",
@@ -391,7 +416,6 @@
     "02-Work/MOC- Weekly CAB East.md",
     "02-Work/Toolbox 3-23-26.md",
     "02-Work/Ted Travis NVA06A D2D Message.md",
-    "02-Work/Compass Creek D2D.md",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
