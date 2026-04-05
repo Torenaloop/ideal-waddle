@@ -1,0 +1,19 @@
+
+## Nuckolls Family Heritage Sites in Virginia
+
+### Day 1: Colonial roots — New Kent to Louisa County
+
+|Place|Time|Notes|Address|Map|
+|---|---|---|---|---|
+|St. Peter's Church, New Kent|9:00 AM|James I's parish. He signed the Blissland Complaint here in 1677. James II petitioned this vestry in 1702. Both were processioning overseers. The church dates to 1701-03 and still stands. Martha Custis (Mrs. George Washington) also attended here.||[Open](https://www.google.com/maps/place/?q=place_id:ChIJP8cAjF_msIkRmXbH7Hbyrto)|
+|Louisa County Courthouse|11:00 AM|County seat since 1742. The Clerk of Circuit Court holds marriage, probate, and land records from 1742 — including the land transfers involving James III and his sons. Ask for deed books from the 1740s-1770s. The courthouse was briefly occupied by Union troops; the deed book was stolen and later recovered in a Baltimore hotel.||[Open](https://www.google.com/maps/place/?q=place_id:ChIJQfhDxUT_s4kRRrMhmH3bcJo)|
+|Overton's Fork / Elk Creek area|1:30 PM|James II's 1000 acres patented in 1724 were 'on both sides of Overton's Fork of Elk's River.' The fork was named for Captain James Overton Sr. (d. 1749), whose plantation 'Brookeville' was on Elk Creek. Today's Elk Creek Road and the Overton Fork neighborhood near Lake Anna mark this area. This is where the Nuckolls family lived from the 1720s through the 1790s — the land James III inherited and divided among his sons.||[Open](https://www.google.com/maps/search/?api=1&query=38.039,-77.793)|
+|Nuckolls Cemetery, Kentucky Springs Road|3:00 PM|8736 Kentucky Springs Road (Rt. 652). John Nuckolls (b. 1755) and Mary Garland are buried here — they returned to Louisa County from Grayson County to die. The cemetery is on original Nuckolls family land. The family home was later burned; a Captain Hamilton built a new home. Must ask permission at the house before visiting. Only one grave is marked, but the cemetery is large.||[Open](https://www.google.com/maps/search/?api=1&query=38.05699,-77.82512)|
+
+### Day 2: Blue Ridge frontier — Grayson County
+
+|Place|Time|Notes|Address|Map|
+|---|---|---|---|---|
+|Old Town, Grayson County|10:00 AM|First seat of Grayson County (formed 1793). Charles Nuckolls was named Justice at the first court. The Nuckolls family ran stores here, at Elk Creek, and at Bridle Creek. B.F. Nuckolls wrote that the white rose bush — brought from England via York — was still growing at the old Nuckolls homestead here in 1914.||[Open](https://www.google.com/maps/place/?q=place_id:ChIJ40Hzw1jyUYgRJI7UopXFv2U)|
+|Nuckolls Cemetery, Grayson County|11:30 AM|End of Wild Turkey Lane, off US 58 near Galax. Charles Nuckolls (1745-1820) and Mary Black are buried here. Your direct ancestor. The hilltop cemetery overlooks the New River valley. Asa Nuckolls (son of John and Mary Garland, died unmarried) is also buried here.||[Open](https://www.google.com/maps/search/?api=1&query=36.659,-80.929)|
+|Galax, Virginia (Dr. Jim Nuckolls' home)|12:30 PM|Dr. James Garland Nuckolls (1939-2020) practiced medicine here at the hospital. His family — descended from John (b. 1755) through Robert G., Clarke S., Stephen Nathaniel, and Earl Garland — has been in this area continuously since the 1790s. The 'Garland' name carried from Mary Garland through 4+ generations.||[Open](https://www.google.com/maps/place/?q=place_id:ChIJTzCgBMDzUYgRSZUtUgo1i74)|

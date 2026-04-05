@@ -155,9 +155,57 @@
               "icon": "lucide-file",
               "title": "Nuckolls Genealogy Links"
             }
+          },
+          {
+            "id": "37d0836fec655950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virginia Heritage Map 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Virginia Heritage Map 1"
+            }
+          },
+          {
+            "id": "0dada97c19453064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virginia Heritage Map 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Virginia Heritage Map 2"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -385,8 +433,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f9b5973fdac67b0",
+  "active": "0dada97c19453064",
   "lastOpenFiles": [
+    "Virginia Heritage Map 1.md",
+    "Virginia Heritage Map 2.md",
     "Nuckolls Genealogy Links.md",
     "Clippings/Will of James II.md",
     "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
@@ -414,8 +464,6 @@
     "02-Work/Running Notes.md",
     "02-Work/AP UPDATE - Operational Risk Classification Standard Now in Effect.md",
     "02-Work/MOC- Weekly CAB East.md",
-    "02-Work/Toolbox 3-23-26.md",
-    "02-Work/Ted Travis NVA06A D2D Message.md",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
