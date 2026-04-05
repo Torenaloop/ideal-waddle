@@ -1,13 +1,12 @@
 ---
 title: "Nuckols Family History: A Genealogy of Mourning Nuckols"
-source: "https://studylib.net/doc/6940815/nuckols-history-as-told-by-mardine-campbell?p=18"
-author:
-  - "[[studylib.net]]"
+source: https://studylib.net/doc/6940815/nuckols-history-as-told-by-mardine-campbell?p=18
+author: "[[studylib.net]]"
 published: 2016-02-05
 created: 2026-04-04
-description: "Explore the Nuckols family history, tracing the ancestry of Mourning Nuckols and her connections to the Fullers and Weatherfords. Discover their origins and migration."
+description: Explore the Nuckols family history, tracing the ancestry of Mourning Nuckols and her connections to the Fullers and Weatherfords. Discover their origins and migration.
 tags:
-  - "clippings"
+  - clippings
 ---
 ---
 title: "Nuckols Family History: A Genealogy of Mourning Nuckols"
