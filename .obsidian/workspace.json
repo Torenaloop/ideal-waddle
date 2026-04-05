@@ -265,9 +265,23 @@
               "icon": "lucide-file",
               "title": "Charles Nuckolls' Probable Land Area - table"
             }
+          },
+          {
+            "id": "588136bf523702a0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/maps/place/Big+Stone+Gap,+VA+24219/@36.8586404,-82.7832489,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgID49NGsGg!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAHVAweoQy1yoJFN4ek0oSY1Mc3uODelLr0VAYUtFhMVlsGjBc1VxrPNpfUi8CwyMjD_aLF2lFEHjAuROiRlW34EVyFXU0BOLirNwbK4GfpR34YCQ4g-gXyVGt7twIxUlWatqGAx_QiCg%3Dw203-h270-k-no!7i3024!8i4032!4m7!3m6!1s0x885adbaa56fa075b:0x39eb5b96b1d18ddc!8m2!3d36.8586404!4d-82.7832489!10e5!16zL20vMDEwcGhu?authuser=0&entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+                "title": "Big Stone Gap - Google Maps",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Big Stone Gap - Google Maps"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -495,10 +509,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1de6c108e09397",
+  "active": "3dbecea79b1a0a51",
   "lastOpenFiles": [
-    "Charles Nuckolls' Probable Land Area - text.md",
     "Charles Nuckolls' Probable Land Area - table.md",
+    "Charles Nuckolls' Probable Land Area - text.md",
     "Virginia Heritage Map 1.md",
     "Virginia Heritage Map 2.md",
     "Nuckolls Genealogy Links.md",
