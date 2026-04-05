@@ -203,9 +203,19 @@
               "icon": "lucide-file",
               "title": "Virginia Heritage Map 2"
             }
+          },
+          {
+            "id": "3dbecea79b1a0a51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -237,7 +247,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Work/Goal/2025",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -262,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -433,10 +442,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dada97c19453064",
+  "active": "37d0836fec655950",
   "lastOpenFiles": [
-    "Virginia Heritage Map 1.md",
     "Virginia Heritage Map 2.md",
+    "Virginia Heritage Map 1.md",
     "Nuckolls Genealogy Links.md",
     "Clippings/Will of James II.md",
     "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
