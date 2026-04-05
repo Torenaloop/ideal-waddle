@@ -229,6 +229,20 @@
             }
           },
           {
+            "id": "1224244cf24cebc3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/maps/place/Oldtown+Boat+Ramp/@36.6809492,-80.9719393,16.5z/data=!4m14!1m7!3m6!1s0x8851f2122a65ef2b:0xfdb047effd692ef5!2sOldtown+Boat+Ramp!8m2!3d36.6807785!4d-80.9718704!16s%2Fg%2F1q6n2wj14!3m5!1s0x8851f2122a65ef2b:0xfdb047effd692ef5!8m2!3d36.6807785!4d-80.9718704!16s%2Fg%2F1q6n2wj14?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+                "title": "Oldtown Boat Ramp - Google Maps",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Oldtown Boat Ramp - Google Maps"
+            }
+          },
+          {
             "id": "cb1de6c108e09397",
             "type": "leaf",
             "state": {
@@ -253,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -481,10 +495,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dbecea79b1a0a51",
+  "active": "cb1de6c108e09397",
   "lastOpenFiles": [
-    "Charles Nuckolls' Probable Land Area - table.md",
     "Charles Nuckolls' Probable Land Area - text.md",
+    "Charles Nuckolls' Probable Land Area - table.md",
     "Virginia Heritage Map 1.md",
     "Virginia Heritage Map 2.md",
     "Nuckolls Genealogy Links.md",
