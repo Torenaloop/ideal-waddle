@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
+                "file": "Clippings/Will of James II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -129,7 +129,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman"
+              "title": "Will of James II"
             }
           }
         ],
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -363,8 +362,9 @@
   },
   "active": "ce2bbbb6f94915b1",
   "lastOpenFiles": [
-    "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
+    "Clippings/Will of James II.md",
+    "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Nuckolls Report.md",
     "01-Personal/Virginia Accents.md",
     "Clippings/Google Maps.md",
@@ -391,7 +391,6 @@
     "02-Work/Toolbox 3-23-26.md",
     "02-Work/Ted Travis NVA06A D2D Message.md",
     "02-Work/Compass Creek D2D.md",
-    "02-Work/Vertiv - EHS Pre-QUAL Interview.md",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
