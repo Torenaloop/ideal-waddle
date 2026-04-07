@@ -258,8 +258,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Memorials in Nuckolls Cemetery - Find a Grave.md",
-                "mode": "source",
+                "file": "Clippings/Rev. War Records.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memorials in Nuckolls Cemetery - Find a Grave"
+              "title": "Rev. War Records"
             }
           }
         ],
@@ -334,8 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -507,8 +506,9 @@
   },
   "active": "8143f2f619ef5e53",
   "lastOpenFiles": [
-    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "Clippings/Memorials in Nuckolls Cemetery - Find a Grave.md",
+    "Clippings/Rev. War Records.md",
+    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "Charles Nuckolls' Probable Land Area - table.md",
     "Charles Nuckolls' Probable Land Area - text.md",
     "Virginia Heritage Map 1.md",
@@ -535,7 +535,6 @@
     "02-Work/05 - Work Meetings/Asana AI Studio vs Standard Rules and Automations.md",
     "Untitled.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2026-03-18.md",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
