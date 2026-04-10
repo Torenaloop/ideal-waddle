@@ -251,33 +251,9 @@
               "icon": "lucide-file",
               "title": "Charles Nuckolls' Probable Land Area - table"
             }
-          },
-          {
-            "id": "8143f2f619ef5e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Melania Trump Says She Was Not Associated With Jeffrey Epstein.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Melania Trump Says She Was Not Associated With Jeffrey Epstein"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
