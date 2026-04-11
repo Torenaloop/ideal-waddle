@@ -251,9 +251,33 @@
               "icon": "lucide-file",
               "title": "Charles Nuckolls' Probable Land Area - table"
             }
+          },
+          {
+            "id": "99f5a5c1a6115c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gloria Gonzalez"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -481,10 +505,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1de6c108e09397",
+  "active": "99f5a5c1a6115c2f",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Charles Nuckolls' Probable Land Area - table.md",
+    "Untitled 1.md",
     "Clippings/Melania Trump Says She Was Not Associated With Jeffrey Epstein.md",
     "Clippings/Opinion  A.I. May Worsen Wealth Inequality.md",
     "Clippings/Rev. War Records.md",
