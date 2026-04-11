@@ -12,7 +12,7 @@ Reports to:
 ---
 *NAME*
 
-- [ ] Ask her to: When you do reach out, you can share this exact list of what you need created as org-level fields:
+- [ ] Ask her to: When you do reach out, you can share this exact list of what you need created as org-level fields: 
 
 1. **Status** — Single-select: Pass (green), Fail (red), NA (blue)
 2. **Audit Type** — Single-select: Compliance (blue), Site (green)
