@@ -61,30 +61,6 @@
             }
           },
           {
-            "id": "b56f77d430a71171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Original context.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Original context"
-            }
-          },
-          {
             "id": "63283a99bee19f12",
             "type": "leaf",
             "state": {
@@ -109,37 +85,13 @@
             }
           },
           {
-            "id": "ce2bbbb6f94915b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Will of James II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Will of James II"
-            }
-          },
-          {
             "id": "3f9b5973fdac67b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuckolls Genealogy Links.md",
-                "mode": "source",
+                "file": "NAL01A SPCC Swimlane 1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -153,79 +105,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nuckolls Genealogy Links"
-            }
-          },
-          {
-            "id": "37d0836fec655950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virginia Heritage Map 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Virginia Heritage Map 1"
-            }
-          },
-          {
-            "id": "0dada97c19453064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virginia Heritage Map 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Virginia Heritage Map 2"
-            }
-          },
-          {
-            "id": "3dbecea79b1a0a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charles Nuckolls' Probable Land Area - text.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Charles Nuckolls' Probable Land Area - text"
+              "title": "NAL01A SPCC Swimlane 1"
             }
           },
           {
@@ -234,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles Nuckolls' Probable Land Area - table.md",
+                "file": "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -258,8 +138,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
+                "file": "Data Visualization Ideas for Asana Project Dashboard.md",
                 "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Visualization Ideas for Asana Project Dashboard"
+            }
+          },
+          {
+            "id": "97f5eaf69706205c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -277,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -334,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -505,36 +408,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd9b1aafa6169531",
+  "active": "99f5a5c1a6115c2f",
   "lastOpenFiles": [
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
-    "Charles Nuckolls' Probable Land Area - table.md",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
+    "Nicholas Mansberger 1 on 1 MOC.md",
+    "Canvas Upgrades - Claude.md",
+    "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "Future claude prompt.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "01-Personal/Nuckolls Genealogy Links.md",
+    "Clippings/Will of James II.md",
+    "Original context.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Melania Trump Says She Was Not Associated With Jeffrey Epstein.md",
     "Clippings/Opinion  A.I. May Worsen Wealth Inequality.md",
     "Clippings/Rev. War Records.md",
     "Clippings/Memorials in Nuckolls Cemetery - Find a Grave.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
-    "Charles Nuckolls' Probable Land Area - text.md",
-    "Virginia Heritage Map 1.md",
-    "Virginia Heritage Map 2.md",
-    "Nuckolls Genealogy Links.md",
-    "Clippings/Will of James II.md",
+    "01-Personal/Charles Nuckolls' Probable Land Area - text.md",
+    "01-Personal/Virginia Heritage Map 1.md",
+    "01-Personal/Virginia Heritage Map 2.md",
     "Clippings/Alvin Nuckolls Obituary (2011) - Oklahoma City, OK - Oklahoman.md",
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Nuckolls Report.md",
     "01-Personal/Virginia Accents.md",
     "Clippings/Google Maps.md",
-    "✂ Clippings/YouTube/How politics, AI, and reality are changing 1.md",
-    "✂ Clippings/YouTube/Algorithms are controlling your feed. Here’s how to take it back 1.md",
-    "✂ Clippings/YouTube/Recruiting Report With the current No. 1 recruiting class for 2027, what else is OU looking for.md",
-    "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
-    "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
-    "01-Personal/✂ Clippings/YouTube/Portal Report What happened with PJ Adebawore and the portal OU's latest signings in the portal.md",
-    "Canvas Upgrades - Claude.md",
     "Untitled.base",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
