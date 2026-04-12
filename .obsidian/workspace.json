@@ -276,7 +276,8 @@
               "title": "Gloria Gonzalez"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -504,8 +505,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836622af20048fe7",
+  "active": "bd9b1aafa6169531",
   "lastOpenFiles": [
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
     "Charles Nuckolls' Probable Land Area - table.md",
     "Untitled 1.md",
@@ -531,8 +533,6 @@
     "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
     "01-Personal/✂ Clippings/YouTube/Portal Report What happened with PJ Adebawore and the portal OU's latest signings in the portal.md",
     "Canvas Upgrades - Claude.md",
-    "Data Visualization Ideas for Asana Project Dashboard.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Untitled.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Site Tracker.base",
