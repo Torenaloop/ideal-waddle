@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 708.1043073241958,
-                  "y": 2008.1807247764427,
-                  "zoom": -0.9390592629978043
+                  "x": 2056.8329580132777,
+                  "y": -343.809476785826,
+                  "zoom": -1.3921609228012906
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -276,8 +276,7 @@
               "title": "Gloria Gonzalez"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,7 +333,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -504,8 +504,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f5a5c1a6115c2f",
+  "active": "836622af20048fe7",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
     "Charles Nuckolls' Probable Land Area - table.md",
     "Untitled 1.md",
     "Clippings/Melania Trump Says She Was Not Associated With Jeffrey Epstein.md",
@@ -531,7 +532,6 @@
     "01-Personal/✂ Clippings/YouTube/Portal Report What happened with PJ Adebawore and the portal OU's latest signings in the portal.md",
     "Canvas Upgrades - Claude.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
-    "NAL01A SPCC Swimlane 1.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Untitled.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
