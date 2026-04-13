@@ -1,8 +1,62 @@
 
 
+# 2026-04-12
+Good news and a reality check in equal measure — let me share both.
 
+**Current portfolio state:** The East Region Ops EHS portfolio is live and you own it, but it currently has **zero projects** in it. The shell projects were removed, and the 7 site duplicates from Pilot 4 haven't been created yet. So the portfolio itself is ready — it just needs its projects.
 
+Here's the sequencing constraint that affects how we approach the dashboard:
 
+---
+
+**The prerequisite chain before the portfolio dashboard is fully buildable:**
+
+1. **Gloria creates the 6 org-level fields** _(pending — email goes out tomorrow)_
+2. **You swap Pilot 4's project-level fields for the org-level versions**, repopulate task values, then duplicate Pilot 4 → 7 site projects
+3. **Add all 7 site projects to the East Region Ops EHS portfolio**
+4. **Build the portfolio dashboard**
+
+Portfolio dashboards can only chart custom fields that exist at the org/workspace level. If you build the dashboard before step 1-2, the field-based widgets simply won't have anything to group by — you'll get empty charts.
+
+---
+
+**What we CAN do right now:**
+
+We can fully design the dashboard layout so it's ready to execute the moment the projects are in the portfolio. Here's what I'd spec for the East Region Ops EHS Portfolio Dashboard:
+
+**Row 1 — Number widgets (4 max):**
+
+- Total Site Projects (count of projects in portfolio)
+- Total High Priority Items Remaining _(requires org-level Priority)_
+- Total Fails Across All Sites _(requires org-level Status)_
+- Total Overdue Tasks (no special fields needed)
+
+**Row 2 — Full width:**
+
+- Assessment Completion by Site — stacked column showing complete vs. incomplete tasks per project, one bar per site. This is your at-a-glance progress tracker for all 7 sites.
+
+**Row 3:**
+
+- Pass/Fail by Site — stacked column, Status = Pass/Fail/NA, grouped by project _(requires org-level Status)_
+- Overall Status Distribution — donut across all sites combined _(requires org-level Status)_
+
+**Row 4:**
+
+- High Priority Fails by Site — bar chart filtered to Status=Fail, grouped by Priority _(requires org-level Status + Priority)_
+- Fails by Verification Method (cross-site rollup) _(requires org-level Verification Method)_
+
+**Row 5:**
+
+- Portfolio Burnup — task completion over time across all site projects
+- Audit Type Distribution — donut showing Site vs. Compliance split across all sites _(requires org-level Audit Type)_
+
+---
+
+**What this means practically:** Rows 2 and 5 (burnup + completion by site) can be built with no dependencies on org-level fields. Everything else needs the fields in place. So the honest answer is: **hold on building this dashboard until step 2 of the chain is complete.** Once it is, the entire dashboard can be built in one sitting.
+
+Do you want me to document this widget spec somewhere — either as a reference doc or held in context — so it's ready to execute once Gloria delivers the fields?
+
+# Original Question
 
 > [!NOTE] Original Question
 > Can you help me with ideas on creating meaningful data visualizations in the following project in Asana? I've included a screen shot of a list view of the tasks/deliverables grouped by category and further subdivided into "compliance" - things we can check on remotely, versus "site" - those items we have to check on in-person. Also, I included a screen shot of the default dashboard widgets for said project.
@@ -67,3 +121,5 @@ The gap in Asana's native dashboard is **cross-field charts** (e.g., Priority ×
 ---
 
 Want me to help you think through the specific widget configurations (filters, groupings) for any of these, or sketch out what a well-structured dashboard layout might look like?
+
+

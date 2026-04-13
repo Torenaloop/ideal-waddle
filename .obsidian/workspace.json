@@ -15,8 +15,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 2056.8329580132777,
-                  "y": -343.809476785826,
+                  "x": 1132.9331858037108,
+                  "y": 68.27081934173685,
                   "zoom": -1.3921609228012906
                 }
               },
@@ -61,30 +61,6 @@
             }
           },
           {
-            "id": "63283a99bee19f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Future claude prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Future claude prompt"
-            }
-          },
-          {
             "id": "3f9b5973fdac67b0",
             "type": "leaf",
             "state": {
@@ -106,30 +82,6 @@
               },
               "icon": "lucide-file",
               "title": "NAL01A SPCC Swimlane 1"
-            }
-          },
-          {
-            "id": "cb1de6c108e09397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Charles Nuckolls' Probable Land Area - table"
             }
           },
           {
@@ -180,8 +132,7 @@
               "title": "Gloria Gonzalez"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -408,22 +359,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f5a5c1a6115c2f",
+  "active": "836622af20048fe7",
   "lastOpenFiles": [
-    "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
+    "Future claude prompt.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
+    "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
+    "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
     "Nicholas Mansberger 1 on 1 MOC.md",
     "Canvas Upgrades - Claude.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
-    "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
-    "NAL01A SPCC Swimlane 1.md",
-    "Future claude prompt.md",
     "Untitled.md",
     "Untitled 1.md",
     "01-Personal/Nuckolls Genealogy Links.md",
     "Clippings/Will of James II.md",
     "Original context.md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Melania Trump Says She Was Not Associated With Jeffrey Epstein.md",
     "Clippings/Opinion  A.I. May Worsen Wealth Inequality.md",
@@ -437,7 +388,6 @@
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Nuckolls Report.md",
     "01-Personal/Virginia Accents.md",
-    "Clippings/Google Maps.md",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
