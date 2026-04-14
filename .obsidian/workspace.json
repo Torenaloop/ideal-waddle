@@ -155,9 +155,33 @@
               "icon": "lucide-file",
               "title": "Claude Cowork - Customize - Connectors"
             }
+          },
+          {
+            "id": "96e8934835ca01ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -385,10 +409,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cbb6160af9f4f99",
+  "active": "96e8934835ca01ff",
   "lastOpenFiles": [
-    "Files/Pasted image 20260413085730.png",
     "Claude Cowork - Customize - Connectors.md",
+    "Untitled.md",
+    "Files/Pasted image 20260413085730.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "NAL01A SPCC Swimlane 1.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
@@ -439,7 +464,6 @@
     "Files/Pasted image 20260308193438.png",
     "Files/Pasted image 20260308193153.png",
     "Files/Pasted image 20260308193023.png",
-    "Files/Pasted image 20260308192806.png",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
