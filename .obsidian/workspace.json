@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -385,10 +384,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99f5a5c1a6115c2f",
+  "active": "3cbb6160af9f4f99",
   "lastOpenFiles": [
-    "Untitled.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
+    "Untitled.md",
     "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-01-28.md",
