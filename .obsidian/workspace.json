@@ -155,9 +155,33 @@
               "icon": "lucide-file",
               "title": "East Region - Medium Risk CAB - 2026-04-15 Transcript"
             }
+          },
+          {
+            "id": "4e827eff75b3df53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 339.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -292,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
+                "file": "Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of East Region - Medium Risk CAB - 2026-04-15 Transcript"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -366,7 +391,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 479.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,10 +409,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cbb6160af9f4f99",
+  "active": "4e827eff75b3df53",
   "lastOpenFiles": [
-    "02-Work/Running Notes.md",
+    "Untitled 1.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
+    "02-Work/Running Notes.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
     "Claude Cowork - Customize - Connectors.md",
@@ -413,7 +440,6 @@
     "Clippings/Memorials in Nuckolls Cemetery - Find a Grave.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "01-Personal/Charles Nuckolls' Probable Land Area - text.md",
-    "01-Personal/Virginia Heritage Map 1.md",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
