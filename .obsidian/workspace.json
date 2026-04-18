@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 519.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -292,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of East Region - Medium Risk CAB - 2026-04-15 Transcript"
             }
           },
           {
@@ -362,12 +362,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,9 +385,10 @@
   },
   "active": "3cbb6160af9f4f99",
   "lastOpenFiles": [
+    "02-Work/Running Notes.md",
+    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
-    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "Claude Cowork - Customize - Connectors.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
     "Untitled.md",
@@ -414,7 +414,6 @@
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "01-Personal/Charles Nuckolls' Probable Land Area - text.md",
     "01-Personal/Virginia Heritage Map 1.md",
-    "01-Personal/Virginia Heritage Map 2.md",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
