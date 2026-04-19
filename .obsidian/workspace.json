@@ -114,9 +114,26 @@
               "icon": "lucide-file",
               "title": "The Best Windows Laptop"
             }
+          },
+          {
+            "id": "72d19c9ff2430ce5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": 525.5262126526495,
+                  "y": 242.5710750673804,
+                  "zoom": -1.2723925963311373
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -366,19 +384,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d02cb1c6dae8f19",
+  "active": "72d19c9ff2430ce5",
   "lastOpenFiles": [
-    "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
+    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/Running Notes.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "01-Personal/05-Ideas/The Best Windows Laptop.md",
+    "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
     "01-Personal/05-Ideas/Workspace research.md",
     "01-Personal/05-Ideas/Item of Note - Connect Apps to ChatGPT.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
     "Clippings/Our Tax System Should Make You Furious.md",
     "✂ Clippings/YouTube/Our Tax System Should Make You Furious  The Ezra Klein Show.md",
     "00-Bases/Work Folder Open Tasks.base",
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
@@ -398,7 +416,6 @@
     "Clippings/–.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
