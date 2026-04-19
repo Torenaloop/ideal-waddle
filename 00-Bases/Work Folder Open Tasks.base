@@ -1,0 +1,54 @@
+formulas:
+  Days Since Modified: date(now()) - file.mtime
+views:
+  - type: table
+    name: By Folder
+    filters:
+      and:
+        - file.folder.contains("02-Work")
+        - file.folder.contains("04 - Work Archives") == false
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tasks
+      - file.mtime
+      - formula.Days Since Modified
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 260
+      file.tasks: 340
+      file.mtime: 140
+      formula.Days Since Modified: 140
+  - type: list
+    name: List
+    filters:
+      and:
+        - file.folder.contains("02-Work")
+        - file.folder.contains("04 - Work Archives") == false
+    sort:
+      - property: file.mtime
+        direction: DESC
+    cardSize: 170
+    imageFit: ""
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder.contains("02-Work")
+        - file.folder.contains("04 - Work Archives") == false
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tasks
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    cardSize: 180
+    imageFit: ""

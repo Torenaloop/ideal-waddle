@@ -126,6 +126,6 @@ tags: []
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [ ] Placeholder action item
 
 ## Follow-ups

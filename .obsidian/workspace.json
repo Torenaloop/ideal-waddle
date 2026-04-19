@@ -116,24 +116,37 @@
             }
           },
           {
-            "id": "9104fbe3f166c37e",
+            "id": "9ed4670e4194231f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -79.49497694422905,
-                  "y": 660.3556449511071,
-                  "zoom": -0.43905926299780446
+                  "x": 532.5087103811227,
+                  "y": 217.82752333303574,
+                  "zoom": -0.9390592629978038
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
             }
+          },
+          {
+            "id": "7764874543cbfc7c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Work Folder Open Tasks.base",
+                "viewName": "By Folder"
+              },
+              "icon": "lucide-table",
+              "title": "Work Folder Open Tasks"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -302,6 +315,30 @@
             }
           },
           {
+            "id": "9fdf912488f990de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Work Folder Open Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Work Folder Open Tasks"
+            }
+          },
+          {
             "id": "f3ff6e7336505026",
             "type": "leaf",
             "state": {
@@ -338,12 +375,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -360,11 +396,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9104fbe3f166c37e",
+  "active": "9fdf912488f990de",
   "lastOpenFiles": [
-    "NAL01A SPCC Swimlane 1.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
+    "00-Bases/Work Folder Open Tasks.base",
+    "02-Work/Running Notes.md",
+    "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
+    "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
     "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
+    "NAL01A SPCC Swimlane 1.md",
     "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
     "✂ Clippings/YouTube/Prediction markets are exploding. The Kalshi founders explain why  The Axios Show.md",
     "✂ Clippings/YouTube/Downtown Wytheville A Story of Revitalization.md",
@@ -377,7 +418,6 @@
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "Untitled.md",
     "Untitled 1.md",
-    "02-Work/Running Notes.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
     "Claude Cowork - Customize - Connectors.md",
@@ -385,11 +425,8 @@
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-01-28.md",
     "Notion/East Region Bi-Weekly Call.md",
     "Files/Pasted image 20260413085730.png",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "Future claude prompt.md",
     "01-Personal/Charles Nuckolls' Probable Land Area - table.md",
-    "Nicholas Mansberger 1 on 1 MOC.md",
-    "Canvas Upgrades - Claude.md",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/People Base.base",
@@ -398,7 +435,6 @@
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Email Inbox.base",
     "00-Bases/Discussion Items.base",
-    "00-Bases/Goals Base.base",
     "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",

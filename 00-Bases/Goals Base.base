@@ -28,8 +28,8 @@ views:
       note.tags: 394
       file.links: 399
       note.Mission Pillar: 134
-  - type: cards
-    name: View
+  - type: list
+    name: List
     groupBy:
       property: Due-Date
       direction: ASC

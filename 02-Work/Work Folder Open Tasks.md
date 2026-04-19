@@ -1,7 +1,8 @@
-
 ```dataview
-LIST
+TASK
 FROM "02-Work"
-WHERE length(filter(file.tasks, (t) => !t.completed)) > 0
+WHERE !completed
+  AND !contains(file.folder, "04 - Work Archives")
+GROUP BY file.link
 SORT file.mtime DESC
 ```
