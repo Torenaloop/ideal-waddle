@@ -1,7 +1,7 @@
 
 ```dataview
-TASK
+LIST
 FROM "02-Work"
-WHERE !completed
-SORT file.ctime ASC
+WHERE length(filter(file.tasks, (t) => !t.completed)) > 0
+SORT file.mtime DESC
 ```

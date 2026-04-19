@@ -7,7 +7,7 @@ word_count: 5567
 tags:
   - clippings
 ---
-
+ 
 ![](https://www.youtube.com/watch?v=zWCxOT7cV-8)
 
 ## Transcript
