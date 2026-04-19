@@ -123,9 +123,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 435.15937938709345,
-                  "y": 197.6284018657473,
-                  "zoom": -1.2723925963311373
+                  "x": 1054.191721791325,
+                  "y": 446.0372653653309,
+                  "zoom": -1.6057259296644706
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -376,7 +376,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -397,12 +397,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "9ed4670e4194231f",
   "lastOpenFiles": [
-    "00-Bases/Work Folder Open Tasks.base",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Running Notes.md",
+    "00-Bases/Work Folder Open Tasks.base",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
