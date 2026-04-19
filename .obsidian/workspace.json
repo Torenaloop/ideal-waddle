@@ -95,17 +95,24 @@
             "id": "9ed4670e4194231f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": 1054.191721791325,
-                  "y": 446.0372653653309,
-                  "zoom": -1.6057259296644706
+                "file": "01-Personal/05-Ideas/The Best Windows Laptop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "icon": "lucide-file",
+              "title": "The Best Windows Laptop"
             }
           }
         ],
@@ -359,10 +366,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ed4670e4194231f",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
-    "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
+    "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
+    "01-Personal/05-Ideas/The Best Windows Laptop.md",
+    "01-Personal/05-Ideas/Workspace research.md",
+    "01-Personal/05-Ideas/Item of Note - Connect Apps to ChatGPT.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
     "Clippings/Our Tax System Should Make You Furious.md",
     "✂ Clippings/YouTube/Our Tax System Should Make You Furious  The Ezra Klein Show.md",
     "00-Bases/Work Folder Open Tasks.base",
@@ -388,9 +399,6 @@
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "Untitled.md",
     "Untitled 1.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
-    "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
-    "Claude Cowork - Customize - Connectors.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
