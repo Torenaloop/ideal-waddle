@@ -12,17 +12,15 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.tasks
       - file.mtime
       - formula.Days Since Modified
     sort:
       - property: file.mtime
         direction: DESC
     columnSize:
-      file.name: 260
-      file.tasks: 340
-      file.mtime: 140
-      formula.Days Since Modified: 140
+      file.name: 300
+      file.mtime: 160
+      formula.Days Since Modified: 160
   - type: list
     name: List
     filters:
@@ -45,7 +43,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.tasks
       - file.mtime
     sort:
       - property: file.mtime
