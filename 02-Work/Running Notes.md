@@ -14,7 +14,7 @@
 - ~~Reschedule [[James Sedoruk]] 1:1 due to DMV appointment~~
 - ~~Waiting on PO question response from~~ #jesse-kenser 
 	- **$8K** 
-	- [ ] Ping J Lloyd
+	- [x] Ping J Lloyd
 - Working on Q2 toolbox talks
 	- [[2026.03.30 Toolbox Talk - Nationwide Theme]]
 	- [[2026.04.06 Toolbox Talk - Mental Health Theme]]
