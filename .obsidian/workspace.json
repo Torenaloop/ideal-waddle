@@ -92,30 +92,6 @@
             }
           },
           {
-            "id": "97f5eaf69706205c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Instant Reaction - Sooner Scoop 2026-03-25"
-            }
-          },
-          {
             "id": "9ed4670e4194231f",
             "type": "leaf",
             "state": {
@@ -131,22 +107,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
             }
-          },
-          {
-            "id": "7764874543cbfc7c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Work Folder Open Tasks.base",
-                "viewName": "By Folder"
-              },
-              "icon": "lucide-table",
-              "title": "Work Folder Open Tasks"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -397,12 +359,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fdf912488f990de",
+  "active": "9ed4670e4194231f",
   "lastOpenFiles": [
+    "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Clippings/Our Tax System Should Make You Furious.md",
+    "✂ Clippings/YouTube/Our Tax System Should Make You Furious  The Ezra Klein Show.md",
+    "00-Bases/Work Folder Open Tasks.base",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Running Notes.md",
-    "00-Bases/Work Folder Open Tasks.base",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
@@ -410,7 +375,6 @@
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
-    "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
     "NAL01A SPCC Swimlane 1.md",
     "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
     "✂ Clippings/YouTube/Prediction markets are exploding. The Kalshi founders explain why  The Axios Show.md",
@@ -427,8 +391,6 @@
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 3.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05D - P&K - Crane Lift - Day 4.md",
     "Claude Cowork - Customize - Connectors.md",
-    "Data Visualization Ideas for Asana Project Dashboard.md",
-    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-01-28.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
