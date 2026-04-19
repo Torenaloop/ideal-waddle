@@ -123,8 +123,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 1039.0639915464226,
-                  "y": 195.2127834171101,
+                  "x": 495.5498406030264,
+                  "y": 216.95334945484595,
                   "zoom": -1.2723925963311373
                 }
               },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/Work Folder Open Tasks.md",
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work Folder Open Tasks"
+              "title": "Outline of Canvas 2025-09-29"
             }
           },
           {
@@ -380,7 +380,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1055.5
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,13 +397,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fdf912488f990de",
+  "active": "9ed4670e4194231f",
   "lastOpenFiles": [
+    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
+    "02-Work/Running Notes.md",
+    "00-Bases/People Base.base",
+    "00-Bases/Goals Base.base",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
     "00-Bases/Work Folder Open Tasks.base",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/Work Folder Open Tasks.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
-    "02-Work/Running Notes.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
     "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
@@ -425,17 +429,13 @@
     "Claude Cowork - Customize - Connectors.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-01-28.md",
-    "Notion/East Region Bi-Weekly Call.md",
     "Files/Pasted image 20260413085730.png",
-    "Future claude prompt.md",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
-    "00-Bases/People Base.base",
     "00-Bases/Rhett Base.base",
     "00-Bases/Projects Status Board.base",
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Email Inbox.base",
-    "00-Bases/Discussion Items.base",
     "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
