@@ -23,7 +23,7 @@ Reconnect after several weeks of PTO, training, and travel activity, align on cu
 	2. This there anything that is an emergency or needs my attention right away?
     
 
-- How are things going overall?
+- How are things going overall? 
     
 - Anything urgent to cover first?
     
