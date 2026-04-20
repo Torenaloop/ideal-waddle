@@ -4,8 +4,10 @@ status: active
 created: 2026-02-16
 updated: 2026-02-16
 meeting_date: 2026-02-16
-participants: []
+participants:
+  - Daniel Stevenson
 project:
+  - NVA02DE
 tags: []
 ---
 # Untitled 3

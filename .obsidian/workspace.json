@@ -8,72 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd9b1aafa6169531",
+            "id": "741d6bb319a56d11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAL01A SPCC Swimlane 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NAL01A SPCC Swimlane 1"
-            }
-          },
-          {
-            "id": "41d9a08066f46ab5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TRANSCRIPT Workin' Sesh 2026-03-18"
-            }
-          },
-          {
-            "id": "3f9b5973fdac67b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAL01A SPCC Swimlane 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NAL01A SPCC Swimlane 1"
-            }
-          },
-          {
-            "id": "99f5a5c1a6115c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Visualization Ideas for Asana Project Dashboard.md",
+                "file": "Daniel Stevenson 1 on 1 2026-04-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,52 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Visualization Ideas for Asana Project Dashboard"
-            }
-          },
-          {
-            "id": "9ed4670e4194231f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Personal/05-Ideas/The Best Windows Laptop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Best Windows Laptop"
-            }
-          },
-          {
-            "id": "72d19c9ff2430ce5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": 726.0225438895468,
-                  "y": 208.75241678645793,
-                  "zoom": -1.2723925963311373
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "title": "Daniel Stevenson 1 on 1 2026-04-20"
             }
           }
         ],
-        "currentTab": 5
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -269,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "file": "Daniel Stevenson 1 on 1 2026-04-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas 2025-09-29"
+              "title": "Outline of Daniel Stevenson 1 on 1 2026-04-20"
             }
           },
           {
@@ -363,11 +262,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,13 +283,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72d19c9ff2430ce5",
+  "active": "741d6bb319a56d11",
   "lastOpenFiles": [
+    "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
+    "Daniel Stevenson 1 on 1 2026-04-20.md",
+    "02-Work/06-Work Person/STACK People/Daniel Stevenson.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "01-Personal/05-Ideas/The Best Windows Laptop.md",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Running Notes.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/I combined Gemini Deep Research with Obsidian and my notes finally feel connected.md",
-    "01-Personal/05-Ideas/The Best Windows Laptop.md",
     "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
     "01-Personal/05-Ideas/Workspace research.md",
     "01-Personal/05-Ideas/Item of Note - Connect Apps to ChatGPT.md",
@@ -402,10 +307,8 @@
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
-    "NAL01A SPCC Swimlane 1.md",
     "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
     "✂ Clippings/YouTube/Prediction markets are exploding. The Kalshi founders explain why  The Axios Show.md",
     "✂ Clippings/YouTube/Downtown Wytheville A Story of Revitalization.md",
@@ -413,9 +316,6 @@
     "✂ Clippings/YouTube/Recruiting Report With the current No. 1 recruiting class for 2027, what else is OU looking for.md",
     "✂ Clippings/YouTube/Algorithms are controlling your feed. Here’s how to take it back 1.md",
     "✂ Clippings/YouTube/How politics, AI, and reality are changing 1.md",
-    "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
-    "Clippings/–.md",
-    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
