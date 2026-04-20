@@ -10,6 +10,116 @@ tags:
 Reports to:
   - "[[David Nuckolls]]"
 ---
+# Week of 2026-04-20
+## Gerald #1-on-1 1:1 Prep Notes
+
+### Purpose of the discussion:  
+Reconnect after several weeks of PTO, training, and travel activity, align on current priorities, and identify any support or decisions needed.
+
+### Topics to cover:
+
+1. General check-in
+	1. TY!!!
+	2. This there anything that is an emergency or needs my attention right away?
+    
+
+- How are things going overall?
+    
+- Anything urgent to cover first?
+    
+- Over the last four weeks, what felt most disruptive or most productive?
+    
+
+2. PTO / schedule changes / coverage
+    
+
+- What worked well while schedules were shifting?
+    
+- Where did coverage or communication break down?
+    
+- Anything still unresolved from PTO, leave, or schedule adjustments?
+    
+- Any upcoming PTO, travel, or calendar conflicts I should know about?
+    
+
+3. Training / travel debrief
+    
+
+- Biggest takeaways from recent training or travel
+    
+- Anything learned that should change day-to-day approach
+    
+- Any pending follow-up items, manuals, materials, or support needs
+    
+- Any Boston, ergo, or EQW-related items that still need attention
+    
+
+4. Current workstreams / priorities
+    
+
+- What moved forward over the last four weeks?
+    
+- What is still in progress?
+    
+- What is blocked?
+    
+- What needs my help or a decision this week?
+    
+
+### Reference items:
+
+- Water fountain filter / sitewide water station audit
+    
+- PIT inventory follow-up
+    
+- EQW planning / related actions
+    
+
+### Key relationship follow-up  
+
+- Jim Hubert / SOSPES
+    
+
+- Have you connected with Jim?
+    
+- What came out of the conversation?
+    
+- Any concerns, decisions, or next steps?
+    
+
+### Kate Crawford / Construction job shadowing
+
+- Have you connected with Kate?
+    
+- What is the current status?
+    
+- Any opportunity, timing, or support needed from me?
+    
+
+6. Support / development
+    
+
+- Where have you felt stretched recently?
+    
+- What do you need more of from me?
+    
+- Where do you want more exposure, ownership, or development?
+    
+
+7. Closeout
+    
+
+- Top 3 priorities before next 1:1
+    
+- Gerald action items
+    
+- David action items
+    
+- Follow-ups before next meeting
+    
+
+### Notes:
+
 # Week of 2026-01-26
 Before left from his trip
 # Week of 2026-01-12

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "741d6bb319a56d11",
+            "id": "0eeef902f6f183ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daniel Stevenson 1 on 1 2026-04-20.md",
+                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daniel Stevenson 1 on 1 2026-04-20"
+              "title": "Gerald Aldajuste"
             }
           }
         ],
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daniel Stevenson 1 on 1 2026-04-20.md",
+                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daniel Stevenson 1 on 1 2026-04-20"
+              "title": "Outline of Gerald Aldajuste"
             }
           },
           {
@@ -266,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,10 +283,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "741d6bb319a56d11",
+  "active": "0eeef902f6f183ed",
   "lastOpenFiles": [
-    "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
     "Daniel Stevenson 1 on 1 2026-04-20.md",
+    "Untitled.md",
+    "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
     "02-Work/06-Work Person/STACK People/Daniel Stevenson.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "01-Personal/05-Ideas/The Best Windows Laptop.md",
@@ -315,7 +316,6 @@
     "✂ Clippings/YouTube/Untitled.md",
     "✂ Clippings/YouTube/Recruiting Report With the current No. 1 recruiting class for 2027, what else is OU looking for.md",
     "✂ Clippings/YouTube/Algorithms are controlling your feed. Here’s how to take it back 1.md",
-    "✂ Clippings/YouTube/How politics, AI, and reality are changing 1.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",

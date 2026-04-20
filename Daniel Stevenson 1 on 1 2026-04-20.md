@@ -106,6 +106,9 @@ Focus discussion on:
     - New contractors
         
 - Pre-planning complete? (JHAs, MOPs)
+	- Lift plans - compressors replacements on 02D
+	- "ditto" for 02E
+	- Arc flash barrier in the RPPs (subfeed panels, series of branch circuit breakers) - arc jumped between phases
     
 - **Change Management needed?**
     
