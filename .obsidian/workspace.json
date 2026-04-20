@@ -123,8 +123,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 525.5262126526495,
-                  "y": 242.5710750673804,
+                  "x": 726.0225438895468,
+                  "y": 208.75241678645793,
                   "zoom": -1.2723925963311373
                 }
               },
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/Running Notes.md",
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Running Notes"
+              "title": "Outline of Canvas 2025-09-29"
             }
           },
           {
@@ -386,10 +386,10 @@
   },
   "active": "72d19c9ff2430ce5",
   "lastOpenFiles": [
-    "Clippings/I combined Gemini Deep Research with Obsidian and my notes finally feel connected.md",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Running Notes.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Clippings/I combined Gemini Deep Research with Obsidian and my notes finally feel connected.md",
     "01-Personal/05-Ideas/The Best Windows Laptop.md",
     "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
     "01-Personal/05-Ideas/Workspace research.md",
@@ -416,7 +416,6 @@
     "02-Work/06-Work Person/STACK People/Gloria Gonzalez.md",
     "Clippings/–.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-15 Transcript.md",
-    "Untitled.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
