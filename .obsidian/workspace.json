@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -282,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eeef902f6f183ed",
+  "active": "09ad85cda304e077",
   "lastOpenFiles": [
     "Daniel Stevenson 1 on 1 2026-04-20.md",
     "Untitled.md",
