@@ -16,7 +16,7 @@ Reports to:
 ### Purpose of the discussion:  
 Reconnect after several weeks of PTO, training, and travel activity, align on current priorities, and identify any support or decisions needed.
 
-### Topics to cover:
+### Topics to cover: 
 
 1. General check-in
 	1. TY!!!
