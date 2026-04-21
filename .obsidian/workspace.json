@@ -73,9 +73,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
             }
+          },
+          {
+            "id": "98cb5b7a75c496b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/OpenAI-Anthropic enterprise rivalry heats up.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OpenAI-Anthropic enterprise rivalry heats up"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,13 +152,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -251,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/Work Folder Open Tasks.md",
+                "file": "02-Work/Running Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -266,7 +288,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Work Folder Open Tasks"
+              "title": "Running Notes"
             }
           },
           {
@@ -306,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -327,18 +349,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
+    "Clippings/OpenAI-Anthropic enterprise rivalry heats up.md",
+    "OpenAI-Anthropic enterprise rivalry heat up.md",
     "02-Work/Running Notes.md",
+    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Meetings Base.base",
-    "02-Work/Work Folder Open Tasks.md",
     "Daniel Stevenson 1 on 1 2026-04-20.md",
-    "Untitled.md",
     "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
     "02-Work/06-Work Person/STACK People/Daniel Stevenson.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "01-Personal/05-Ideas/The Best Windows Laptop.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
     "NAL01A SPCC Swimlane 1.md",
