@@ -30,8 +30,52 @@
               "icon": "lucide-file",
               "title": "Gerald Aldajuste"
             }
+          },
+          {
+            "id": "2aa048ac376d7fa5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Meeting Tracker.base",
+                "viewName": "By Type"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Meeting Tracker"
+            }
+          },
+          {
+            "id": "97014513b3d650d2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Meeting Tracker.base",
+                "viewName": "All Meetings"
+              },
+              "icon": "lucide-table",
+              "title": "Meeting Tracker"
+            }
+          },
+          {
+            "id": "97aded7a413b03b0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": 753.5816802558055,
+                  "y": 173.06257345397523,
+                  "zoom": -1.2723925963311375
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +128,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gerald Aldajuste"
+              "title": "Outline of Canvas 2025-09-29"
             }
           },
           {
@@ -261,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -282,8 +327,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ad85cda304e077",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "02-Work/Running Notes.md",
+    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+    "00-Bases/Meeting Tracker.base",
+    "00-Bases/Meetings Base.base",
+    "02-Work/Work Folder Open Tasks.md",
     "Daniel Stevenson 1 on 1 2026-04-20.md",
     "Untitled.md",
     "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
@@ -293,8 +343,6 @@
     "Data Visualization Ideas for Asana Project Dashboard.md",
     "NAL01A SPCC Swimlane 1.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
     "Clippings/I combined Gemini Deep Research with Obsidian and my notes finally feel connected.md",
     "01-Personal/05-Ideas/Lenovo Yoga 7i 2-in-1 (14” Intel)  Powerful 14” convertible for creators.md",
     "01-Personal/05-Ideas/Workspace research.md",
@@ -313,15 +361,11 @@
     "✂ Clippings/YouTube/Prediction markets are exploding. The Kalshi founders explain why  The Axios Show.md",
     "✂ Clippings/YouTube/Downtown Wytheville A Story of Revitalization.md",
     "✂ Clippings/YouTube/Untitled.md",
-    "✂ Clippings/YouTube/Recruiting Report With the current No. 1 recruiting class for 2027, what else is OU looking for.md",
-    "✂ Clippings/YouTube/Algorithms are controlling your feed. Here’s how to take it back 1.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
     "00-Bases/Rhett Base.base",
     "00-Bases/Projects Status Board.base",
-    "00-Bases/Meeting Tracker.base",
-    "00-Bases/Email Inbox.base",
     "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
