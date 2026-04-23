@@ -1,13 +1,12 @@
 ---
-title: "What is life really like for MLB players on the road? We answer your questions"
-source: "https://www.nytimes.com/athletic/7217660/2026/04/22/mlb-player-life-road-cities-hotels-swag-mlb-mailbag/"
-author:
-  - "[[Stephen J. Nesbitt]]"
+title: What is life really like for MLB players on the road? We answer your questions
+source: https://www.nytimes.com/athletic/7217660/2026/04/22/mlb-player-life-road-cities-hotels-swag-mlb-mailbag/
+author: "[[Stephen J. Nesbitt]]"
 published: 2026-04-22
 created: 2026-04-23
-description: "What are the best and worst road cities? How do hotel bookings work? How much swag do players get? Our mailbag gets into it all."
+description: What are the best and worst road cities? How do hotel bookings work? How much swag do players get? Our mailbag gets into it all.
 tags:
-  - "clippings"
+  - clippings
 ---
 How often do clubhouse fights actually happen? What time do players go to bed? Let's discuss. Maddie Malhotra / Boston Red Sox / Getty Images
 
