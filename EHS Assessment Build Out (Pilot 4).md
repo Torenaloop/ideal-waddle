@@ -1,3 +1,5 @@
+# 2026 #Goals/Annual #Donna #jesse-kenser 
+
 Absolutely. Let me pull up what we discussed about portfolios and also check what Asana's current portfolio capabilities look like at Enterprise tier.Now let me get current info on Asana portfolio features to make sure the talking points are accurate.Great, now I've got a solid picture — both from our conversation history and current Asana capabilities. Here's the refined summary with portfolio functionality woven in as a central value driver. Let me know if you want this as talking points, a one-pager doc, or both.
 
 ---

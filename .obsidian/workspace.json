@@ -128,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Future claude prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -143,7 +143,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Future claude prompt"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(bridging military nuclear safety)",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -200,12 +200,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -399,21 +399,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4c8c3586b9b30d3",
+  "active": "b5a6539ede26e513",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Incident Management Swimlane.md",
+    "Nicholas Mansberger 1 on 1 MOC.md",
+    "Canvas Upgrades - Claude.md",
+    "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "EHS Assessment Build Out (Pilot 4).md",
+    "00-Bases/Meeting Tracker.base",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/SPCC - SHAREPOINT - Examples.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
-    "02-Work/SPCC - SHAREPOINT - Examples.md",
     "Clippings/OpenAI-Anthropic enterprise rivalry heats up.md",
     "Clippings/Axios - Turns on Media.md",
     "OpenAI-Anthropic enterprise rivalry heat up.md",
     "02-Work/Running Notes.md",
     "02-Work/Work Folder Open Tasks.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
-    "00-Bases/Meeting Tracker.base",
     "00-Bases/Meetings Base.base",
     "Daniel Stevenson 1 on 1 2026-04-20.md",
     "02-Work/05 - Work Meetings/1 on 1's/Daniel Stevenson 1 on 1 2026-02-16.md",
@@ -430,12 +434,8 @@
     "Clippings/Our Tax System Should Make You Furious.md",
     "✂ Clippings/YouTube/Our Tax System Should Make You Furious  The Ezra Klein Show.md",
     "00-Bases/Work Folder Open Tasks.base",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
-    "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
-    "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
