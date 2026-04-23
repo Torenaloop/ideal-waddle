@@ -121,9 +121,33 @@
               "icon": "lucide-file",
               "title": "East Region - Medium Risk CAB - 2026-04-22"
             }
+          },
+          {
+            "id": "f4c8c3586b9b30d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -375,9 +399,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d84bf70167a5f44",
+  "active": "f4c8c3586b9b30d3",
   "lastOpenFiles": [
+    "Untitled.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
+    "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
+    "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
     "02-Work/SPCC - SHAREPOINT - Examples.md",
     "Clippings/OpenAI-Anthropic enterprise rivalry heats up.md",
     "Clippings/Axios - Turns on Media.md",
@@ -409,12 +436,9 @@
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Nuckolls_2025_Goal_1.md",
     "02-Work/Toolbox Talks/Q2 2026/2026.03.30 Toolbox Talk - Nationwide Theme.md",
     "02-Work/05 - Work Meetings/1 on 1's/2026-03-18 Jesse Kenser 1 on 1.md",
-    "✂ Clippings/YouTube/Recruiting Report Checking out OU's 2027 QB and questions from Scoopers.md",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
-    "00-Bases/Rhett Base.base",
-    "00-Bases/Projects Status Board.base",
     "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260325121628.png",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
