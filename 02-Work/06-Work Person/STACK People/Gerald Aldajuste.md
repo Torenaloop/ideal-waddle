@@ -11,7 +11,10 @@ Reports to:
   - "[[David Nuckolls]]"
 ---
 # Week of 2026-04-20
-## Gerald #1-on-1 1:1 Prep Notes 
+
+## 2026-04-23 Gerald has QQ
+- 
+## 2026-04-20 Gerald #1-on-1 1:1 Prep Notes 
 
 ### Purpose of the discussion:  
 Reconnect after several weeks of PTO, training, and travel activity, align on current priorities, and identify any support or decisions needed.

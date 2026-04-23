@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -146,8 +146,7 @@
               "title": "Future claude prompt"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(bridging military nuclear safety)",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -200,12 +199,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -399,8 +397,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5a6539ede26e513",
+  "active": "0eeef902f6f183ed",
   "lastOpenFiles": [
+    "Future claude prompt.md",
     "Incident Management Swimlane.md",
     "Nicholas Mansberger 1 on 1 MOC.md",
     "Canvas Upgrades - Claude.md",
@@ -432,7 +431,6 @@
     "01-Personal/05-Ideas/Item of Note - Connect Apps to ChatGPT.md",
     "✂ Clippings/YouTube/Instant Reaction - Sooner Scoop 2026-03-25.md",
     "Clippings/Our Tax System Should Make You Furious.md",
-    "✂ Clippings/YouTube/Our Tax System Should Make You Furious  The Ezra Klein Show.md",
     "00-Bases/Work Folder Open Tasks.base",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
