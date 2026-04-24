@@ -37,7 +37,7 @@
 	- 178684
 	- 178339
 - [[NVA06A]] #CAB 
-	- [ ] Check in w/[[02-Work/06-Work Person/STACK People/Kaitlyn Lail|Kaitlyn Lail]] about these (listed on Mansberger's spreadsheet)
+	- [x] Check in w/[[02-Work/06-Work Person/STACK People/Kaitlyn Lail|Kaitlyn Lail]] about these (listed on Mansberger's spreadsheet)
 	
 	- 179250: UPS-P3-110-01 Battery Cabinet 2 and 3 Replacement
 

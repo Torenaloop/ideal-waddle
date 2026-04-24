@@ -1,3 +1,32 @@
+---
+type: meeting
+status: active
+created: 2026-04-24
+updated: 2026-04-24
+meeting_date: 2026-04-27
+participants:
+  - Gerald AldaJuste
+project:
+  - Asana Implementation
+  - Bi-Annual Ops EHS Assessment
+tags:
+  - asana/dashboards
+  - Goals/Annual
+  - Gerald_Aldajuste
+---
+# Bi-Annual EHS Assessments Meeting with Gerald
+
+## Agenda
+- [[Gerald Aldajuste]] 
+## Notes
+
+## Decisions
+
+## Action Items
+- [ ] 
+
+## Follow-ups
+
 EHS Assessment Rollout — East Region Sites
 
 Purpose:
@@ -28,4 +57,5 @@ I'd like to cover:
 — Realistic timelines and due dates for getting sites stood up
 — How you can help socialize this with site teams
 
-The big picture: instead of managing audits in spreadsheets site by site, we'll have one standardized template that deploys automatically, with everything rolling up into a portfolio dashboard. I want your input on the logistics and sequencing before we start reaching out to site contacts.
+The big picture: instead of managing audits in spreadsheets site by site, we'll have one standardized template that deploys automatically, with everything rolling up into a portfolio dashboard. I want your input on the logistics and sequencing before we start 
+reaching out to site contacts.

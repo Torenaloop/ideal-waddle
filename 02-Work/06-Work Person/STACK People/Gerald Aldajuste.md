@@ -10,10 +10,12 @@ tags:
 Reports to:
   - "[[David Nuckolls]]"
 ---
+# Week of 2026-04-27
+- 
 # Week of 2026-04-20
 
 ## 2026-04-23 Gerald has QQ
-- 
+- How to handle possible pushback for SOSPES improvement suggestions that Gerald worked on with #JoeKendra and #TonyB from #Matt_Goetz 
 ## 2026-04-20 Gerald #1-on-1 1:1 Prep Notes 
 
 ### Purpose of the discussion:  
