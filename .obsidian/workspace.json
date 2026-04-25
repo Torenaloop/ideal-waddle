@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+                "file": "Clippings/Prompt guidance  OpenAI API.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gerald Aldajuste"
+              "title": "Prompt guidance  OpenAI API"
             }
           },
           {
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+                "file": "Clippings/Prompt guidance  OpenAI API.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -207,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gerald Aldajuste"
+              "title": "Backlinks for Prompt guidance  OpenAI API"
             }
           },
           {
@@ -216,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+                "file": "Clippings/Prompt guidance  OpenAI API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gerald Aldajuste"
+              "title": "Outgoing links from Prompt guidance  OpenAI API"
             }
           },
           {
@@ -376,6 +376,8 @@
   },
   "active": "0eeef902f6f183ed",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+    "Clippings/Prompt guidance  OpenAI API.md",
     "Incident Management Swimlane.md",
     "Clippings/Hyatt  View Reservation.md",
     "02-Work/Storage Tank Info - East Sites.md",
@@ -390,7 +392,6 @@
     "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
     "02-Work/Running Notes.md",
-    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "00-Bases/Meeting Tracker.base",
     "02-Work/SPCC - SHAREPOINT - Examples.md",
     "Future claude prompt.md",
