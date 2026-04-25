@@ -258,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "file": "Clippings/Prompt guidance  OpenAI API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas 2025-09-29"
+              "title": "Outline of Prompt guidance  OpenAI API"
             }
           },
           {
@@ -352,7 +352,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -373,10 +373,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eeef902f6f183ed",
+  "active": "09ad85cda304e077",
   "lastOpenFiles": [
-    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
+    "02-Work/Running Notes.md",
     "Clippings/Prompt guidance  OpenAI API.md",
+    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "Incident Management Swimlane.md",
     "Clippings/Hyatt  View Reservation.md",
     "02-Work/Storage Tank Info - East Sites.md",
@@ -390,7 +391,6 @@
     "02-Work/04 - Work Archives/2024 Daily Notes/11.19.24/⏹️NVA02D BCP – specifically section 4 & 5 (Sauce).md",
     "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
-    "02-Work/Running Notes.md",
     "00-Bases/Meeting Tracker.base",
     "02-Work/SPCC - SHAREPOINT - Examples.md",
     "Future claude prompt.md",
