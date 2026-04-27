@@ -121,9 +121,33 @@
               "icon": "lucide-file",
               "title": "East Region - Medium Risk CAB - 2026-04-22"
             }
+          },
+          {
+            "id": "401ca6f39f695557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuckolls AM Newsletter 2026-04-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nuckolls AM Newsletter 2026-04-21"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Prompt guidance  OpenAI API.md",
+                "file": "Nuckolls AM Newsletter 2026-04-21.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -206,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prompt guidance  OpenAI API"
+              "title": "Backlinks for Nuckolls AM Newsletter 2026-04-21"
             }
           },
           {
@@ -215,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Prompt guidance  OpenAI API.md",
+                "file": "Nuckolls AM Newsletter 2026-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prompt guidance  OpenAI API"
+              "title": "Outgoing links from Nuckolls AM Newsletter 2026-04-21"
             }
           },
           {
@@ -258,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Prompt guidance  OpenAI API.md",
+                "file": "Nuckolls AM Newsletter 2026-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt guidance  OpenAI API"
+              "title": "Outline of Nuckolls AM Newsletter 2026-04-21"
             }
           },
           {
@@ -373,10 +397,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ad85cda304e077",
+  "active": "401ca6f39f695557",
   "lastOpenFiles": [
-    "02-Work/Running Notes.md",
+    "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Prompt guidance  OpenAI API.md",
+    "02-Work/Running Notes.md",
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "Incident Management Swimlane.md",
     "Clippings/Hyatt  View Reservation.md",
@@ -405,7 +430,6 @@
     "Clippings/Axios - Turns on Media.md",
     "OpenAI-Anthropic enterprise rivalry heat up.md",
     "00-Bases/Meetings Base.base",
-    "Daniel Stevenson 1 on 1 2026-04-20.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Folder Open Tasks.base",
     "00-Bases/People Base.base",
