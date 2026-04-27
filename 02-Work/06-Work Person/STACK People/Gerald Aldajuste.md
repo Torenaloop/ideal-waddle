@@ -12,7 +12,8 @@ Reports to:
 ---
 # Week of 2026-04-27
 - [[Bi-Annual EHS Assessments Meeting with Gerald]]
-- 
+- "Lite RCA: Vendor On-boarding & Ops POC Hand-off - NVA05D Stop Work (SOSPES #244612)"
+- (2) New CAB items - one each for 05A & 06A
 # Week of 2026-04-20
 
 ## 2026-04-23 Gerald has QQ
