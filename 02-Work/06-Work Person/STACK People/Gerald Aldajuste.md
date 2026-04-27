@@ -11,6 +11,7 @@ Reports to:
   - "[[David Nuckolls]]"
 ---
 # Week of 2026-04-27
+- [[Bi-Annual EHS Assessments Meeting with Gerald]]
 - 
 # Week of 2026-04-20
 
