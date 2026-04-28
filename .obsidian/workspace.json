@@ -276,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -473,12 +472,13 @@
   },
   "active": "8c2f4de45bfc671b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "STACK EHS Vendor Onboarding Review.md",
     "02-Work/05 - Work Meetings/Vendor Evaluations - Henderson Building Solutions.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Prompt guidance  OpenAI API.md",
     "02-Work/Running Notes.md",
-    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "Incident Management Swimlane.md",
     "Clippings/Hyatt  View Reservation.md",
     "02-Work/Storage Tank Info - East Sites.md",
@@ -502,7 +502,6 @@
     "EHS Assessment Build Out (Pilot 4).md",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
-    "Clippings/OpenAI-Anthropic enterprise rivalry heats up.md",
     "00-Bases/Meetings Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Folder Open Tasks.base",
