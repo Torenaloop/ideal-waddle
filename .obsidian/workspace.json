@@ -241,9 +241,33 @@
               "icon": "lucide-file",
               "title": "EHS Assessment Build Out (Pilot 4)"
             }
+          },
+          {
+            "id": "ea096cf2cab007d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -495,8 +519,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a92c07d17155bc9",
+  "active": "ea096cf2cab007d1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "EHS Assessment Build Out (Pilot 4).md",
     "Bi-Annual EHS Assessments Meeting with Gerald.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "Phase 3 P6 - UPS 1 Incident.md",
@@ -523,8 +549,6 @@
     "Future claude prompt.md",
     "Clippings/What is life really like for MLB players on the road We answer your questions.md",
     "Nicholas Mansberger 1 on 1 MOC.md",
-    "Canvas Upgrades - Claude.md",
-    "Claude Code + Obsidian Sandbox Vault interactions.md",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
     "00-Bases/Meetings Base.base",
