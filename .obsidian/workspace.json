@@ -289,9 +289,33 @@
               "icon": "lucide-file",
               "title": "NAL01A SPCC Swimlane 1"
             }
+          },
+          {
+            "id": "e880089c3737f375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aaron Troy Interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aaron Troy Interview"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -543,8 +567,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea096cf2cab007d1",
+  "active": "e880089c3737f375",
   "lastOpenFiles": [
+    "Aaron Troy Interview.md",
+    "NVA06A D2D 2026-04-30.md",
     "NAL01A SPCC Swimlane 1.md",
     "Future claude prompt.md",
     "Data Visualization Ideas for Asana Project Dashboard.md",
@@ -555,7 +581,6 @@
     "Nuckolls AM Newsletter 2026-04-21.md",
     "STACK EHS Vendor Onboarding Review.md",
     "Phase 3 P6 - UPS 1 Incident.md",
-    "NVA06A D2D 2026-04-30.md",
     "Files/Pasted image 20260430144758.png",
     "Clippings/Cookies Triple Scoop  SMALLS  Takoma Wellness Center.md",
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
@@ -572,7 +597,6 @@
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/04 - Work Archives/2024 Daily Notes/11.19.24/⏹️NVA02D BCP – specifically section 4 & 5 (Sauce).md",
-    "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
