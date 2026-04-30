@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "NVA06A D2D 2026-04-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -263,7 +263,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "NVA06A D2D 2026-04-30"
+            }
+          },
+          {
+            "id": "41170d0e7a32ac24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAL01A SPCC Swimlane 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NAL01A SPCC Swimlane 1"
             }
           }
         ],
@@ -521,12 +545,18 @@
   },
   "active": "ea096cf2cab007d1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "Future claude prompt.md",
+    "Data Visualization Ideas for Asana Project Dashboard.md",
+    "Claude Cowork - Customize - Connectors.md",
+    "Daniel Stevenson 1 on 1 2026-04-20.md",
     "EHS Assessment Build Out (Pilot 4).md",
     "Bi-Annual EHS Assessments Meeting with Gerald.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
-    "Phase 3 P6 - UPS 1 Incident.md",
     "STACK EHS Vendor Onboarding Review.md",
+    "Phase 3 P6 - UPS 1 Incident.md",
+    "NVA06A D2D 2026-04-30.md",
+    "Files/Pasted image 20260430144758.png",
     "Clippings/Cookies Triple Scoop  SMALLS  Takoma Wellness Center.md",
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "02-Work/05 - Work Meetings/Vendor Evaluations - Henderson Building Solutions.md",
@@ -543,12 +573,7 @@
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/04 - Work Archives/2024 Daily Notes/11.19.24/⏹️NVA02D BCP – specifically section 4 & 5 (Sauce).md",
     "02-Work/07 - Work Tasks/Data View Open Tasks - 2025-09-12.md",
-    "02-Work/07 - Work Tasks/Work Tasks MOC.md",
     "00-Bases/Meeting Tracker.base",
-    "02-Work/SPCC - SHAREPOINT - Examples.md",
-    "Future claude prompt.md",
-    "Clippings/What is life really like for MLB players on the road We answer your questions.md",
-    "Nicholas Mansberger 1 on 1 MOC.md",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
     "00-Bases/Meetings Base.base",
@@ -573,7 +598,6 @@
     "Files/Pasted image 20260308193510.png",
     "Files/Pasted image 20260308193438.png",
     "Files/Pasted image 20260308193153.png",
-    "Files/Pasted image 20260308193023.png",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
