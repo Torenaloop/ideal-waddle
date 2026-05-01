@@ -1,13 +1,12 @@
 ---
-title: "Inside the Owner's Box"
-source: "https://www.simonandschuster.com/books/Inside-the-Owners-Box/David-M-Rubenstein/9781668022498"
-author:
-  - "[[David M. Rubenstein]]"
+title: Inside the Owner's Box
+source: https://www.simonandschuster.com/books/Inside-the-Owners-Box/David-M-Rubenstein/9781668022498
+author: "[[David M. Rubenstein]]"
 published: 2026-09-22
 created: 2026-05-01
-description: "Inside the Owner's Box by David M. Rubenstein - Go inside the high-stakes world of sports ownership as New York Times bestselling author and owner of the Bal..."
+description: Inside the Owner's Box by David M. Rubenstein - Go inside the high-stakes world of sports ownership as New York Times bestselling author and owner of the Bal...
 tags:
-  - "clippings"
+  - clippings
 ---
 ## Power and Leadership in Sports
 
