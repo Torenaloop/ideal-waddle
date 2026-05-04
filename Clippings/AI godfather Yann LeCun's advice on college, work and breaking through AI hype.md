@@ -1,13 +1,12 @@
 ---
-title: "AI godfather Yann LeCun's advice on college, work and breaking through AI hype"
-source: "https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom"
-author:
-  - "[[Madison Mills,Ina Fried]]"
+title: AI godfather Yann LeCun's advice on college, work and breaking through AI hype
+source: https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom
+author: "[[Madison Mills,Ina Fried]]"
 published: 2026-05-04
 created: 2026-05-04
-description: "A scientist's view on the future of AI."
+description: A scientist's view on the future of AI.
 tags:
-  - "clippings"
+  - clippings
 ---
 <iframe frameborder="0" src="https://32453b89b079ee6384ba67606a1928ec.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" title="3rd party ad content" width="0" height="124" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement"></iframe>
 
