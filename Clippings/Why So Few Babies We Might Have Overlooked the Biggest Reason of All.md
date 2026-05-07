@@ -1,14 +1,39 @@
 ---
-title: "Why So Few Babies? We Might Have Overlooked the Biggest Reason of All."
-source: "https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html"
-author:
-  - "[[Anna Louie Sussman]]"
+title: Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.
+source: https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html
+author: "[[Anna Louie Sussman]]"
 published: 2026-05-07
 created: 2026-05-07
-description: "We can’t be certain — and that’s the point."
+description: We can’t be certain — and that’s the point.
 tags:
-  - "clippings"
+  - clippings
 ---
+## Codex Summary
+
+**1 Big Thing:**  
+The article argues that falling birthrates may be driven less by money alone and more by a pervasive sense of future instability.
+
+**Why It Matters:**  
+Traditional explanations, like child care costs, gender inequality, weak family policy, or housing, don’t fully explain why births are dropping across rich countries, generous welfare states, and very different cultures.
+
+**The Core Argument:**  
+People still want families, but many feel the world is too uncertain to commit to parenthood. Climate instability, economic volatility, political chaos, AI disruption, weak social trust, housing costs, and shifting life milestones all combine into what the article calls a “vibes theory” of demographic decline.
+
+**By The Numbers:**  
+U.S. births have fallen about 23% since 2007. South Korea’s fertility rate is around 0.8 births per woman. Italy is under 1.2. Even Nordic countries with strong family supports saw fertility fall after the Great Recession and never fully rebound.
+
+**Between The Lines:**  
+The Great Recession may have changed how young adults imagine adulthood. Earlier generations had kids while building stability; today’s adults often feel they must achieve stability first, just as stability has become harder to reach.
+
+**What Works:**  
+Small pronatalist perks don’t seem powerful enough. Huge direct support might move behavior, as in a South Korean company offering major baby bonuses. Religion may also sustain higher fertility by reducing uncertainty through meaning, community, and moral clarity.
+
+**The Bottom Line:**  
+The baby bust is not just about affordability. It’s about whether people can picture a livable future for themselves and their children. To raise birthrates, societies may need to make life feel secure again, not merely cheaper.
+
+## Full Article
+
+
 Raleigh Rivera and her husband had spent five years fine-tuning their parenthood plan: In 2025, they would move from Los Angeles, where they have been living since 2023, back to Ms. Rivera’s hometown, Minneapolis, where they could afford to buy a home and start a family. “We both have been baby- and kid-crazy for our entire lives,” she said.
 
 They had planned to start trying when Ms. Rivera turned 30, a birthday she celebrated last summer. But that same year, everything that had felt stable to them started to crumble. It began with the Palisades and Eaton fires decimating parts of the city they called home. The prospect of a first-time home buyer credit, something Kamala Harris had campaigned on, had disappeared. By summer, Ms. Rivera’s parents in Minnesota were choking on smoke drifting over the border from Canadian wildfires. Her husband is a citizen, but since he is Mexican American, she worried that racial profiling policies put a target on his back. Ms. Rivera, who has a master’s degree in public health, worried about sending a future child to school with unvaccinated classmates. “We felt like we had worked hard on ourselves, making sure that our finances and our health and everything was in order,” she told me when we spoke in August. “And those plans are on pause right now because everything is — it’s just impossible to know.”
