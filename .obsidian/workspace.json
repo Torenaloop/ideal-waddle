@@ -217,19 +217,9 @@
               "icon": "lucide-file",
               "title": "Work Related Injury Incident - NVA02E - 05_-5_-26"
             }
-          },
-          {
-            "id": "e2face6d18040195",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -365,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHS Assessment Build Out (Pilot 4).md",
+                "file": "02-Work/Running Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EHS Assessment Build Out (Pilot 4)"
+              "title": "Outline of Running Notes"
             }
           },
           {
@@ -459,12 +449,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -481,8 +470,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2face6d18040195",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "EHS Assessment Build Out (Pilot 4).md",
@@ -491,7 +481,6 @@
     "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
     "NAL01A SPCC Swimlane 1.md",
     "NVA06A D2D 2026-04-30.md",
-    "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "Clippings/Inside the Owner's Box.md",
     "Clippings/AI godfather Yann LeCun's advice on college, work and breaking through AI hype.md",
     "02-Work/Elise Matherly Teams Question Response.md",

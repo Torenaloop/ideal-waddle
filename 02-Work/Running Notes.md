@@ -1,4 +1,8 @@
-
+tornado watches 
+it guys doing there thing, no major impacts
+normal weekly monthly pms
+FEs
+Yancy gen bi annuals
 # 2026-04-21
 - 
 # 2026-04-19 
