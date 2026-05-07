@@ -217,9 +217,19 @@
               "icon": "lucide-file",
               "title": "Work Related Injury Incident - NVA02E - 05_-5_-26"
             }
+          },
+          {
+            "id": "e2face6d18040195",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -471,8 +481,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d84bf70167a5f44",
+  "active": "e2face6d18040195",
   "lastOpenFiles": [
+    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "EHS Assessment Build Out (Pilot 4).md",
     "02-Work/05 - Work Meetings/Vendor Evaluations - Henderson Building Solutions.md",
@@ -501,7 +512,6 @@
     "Incident Management Swimlane.md",
     "Clippings/Hyatt  View Reservation.md",
     "02-Work/Storage Tank Info - East Sites.md",
-    "02-Work/Arc Flash Playbook.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
