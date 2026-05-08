@@ -265,9 +265,33 @@
               "icon": "lucide-file",
               "title": "The Kind of Men Who Flummox Trump"
             }
+          },
+          {
+            "id": "a90abe59391cb283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toolbox Talks for the next 3 weeks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Toolbox Talks for the next 3 weeks"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -518,8 +542,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bec999e9088970",
+  "active": "a90abe59391cb283",
   "lastOpenFiles": [
+    "Toolbox Talks for the next 3 weeks.md",
     "Clippings/The Kind of Men Who Flummox Trump.md",
     "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
     "02-Work/Running Notes.md",
@@ -548,7 +573,6 @@
     "Phase 3 P6 - UPS 1 Incident.md",
     "Files/Pasted image 20260430144758.png",
     "Clippings/Cookies Triple Scoop  SMALLS  Takoma Wellness Center.md",
-    "Clippings/Prompt guidance  OpenAI API.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
