@@ -289,9 +289,33 @@
               "icon": "lucide-file",
               "title": "Banning the infield shift didn’t bring back the base hit. Does anyone care"
             }
+          },
+          {
+            "id": "95442f2e8f05bb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -426,13 +450,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
+                "file": "02-Work/Work Folder Open Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet"
+              "title": "Outline of Work Folder Open Tasks"
             }
           },
           {
@@ -465,7 +489,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
+                "file": "02-Work/Work Folder Open Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -480,7 +504,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet"
+              "title": "Work Folder Open Tasks"
             }
           },
           {
@@ -543,12 +567,12 @@
   },
   "active": "9fdf912488f990de",
   "lastOpenFiles": [
-    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/Running Notes.md",
     "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
+    "02-Work/Work Folder Open Tasks.md",
     "02-Work/01 - Work Projects/⭐D2D Checklist Items/1770241714443_06_07_24_Activity.md",
     "Clippings/Banning the infield shift didn’t bring back the base hit. Does anyone care.md",
     "Toolbox Talks for the next 3 weeks.md",
-    "02-Work/Running Notes.md",
     "Clippings/The Kind of Men Who Flummox Trump.md",
     "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
     "Clippings/Why So Few Babies We Might Have Overlooked the Biggest Reason of All.md",

@@ -1,13 +1,12 @@
 ---
 title: "Digging trenches, hanging drywall and shooting coyotes: How MLB’s most anonymous team made ends meet"
-source: "https://www.nytimes.com/athletic/7236476/2026/04/29/nationals-players-jobs-mlb-late-draft-picks/"
-author:
-  - "[[Spencer Nusbaum]]"
+source: https://www.nytimes.com/athletic/7236476/2026/04/29/nationals-players-jobs-mlb-late-draft-picks/
+author: "[[Spencer Nusbaum]]"
 published: 2026-04-29
 created: 2026-05-09
-description: "The Washington Nationals are stocked with the dreamers and grinders that had to put in extra work to keep their baseball dreams alive."
+description: The Washington Nationals are stocked with the dreamers and grinders that had to put in extra work to keep their baseball dreams alive.
 tags:
-  - "clippings"
+  - clippings
 ---
 “There is no such thing as an easy day on that job,” said Gus Varland, who once held an offseason job working with drywall. “All respect to the trade workers out there.” Illustration: Kelsea Petersen / The Athletic; iStock
 
