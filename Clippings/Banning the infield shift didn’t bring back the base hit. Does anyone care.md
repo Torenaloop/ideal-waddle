@@ -1,14 +1,12 @@
 ---
-title: "Banning the infield shift didn’t bring back the base hit. Does anyone care?"
-source: "https://www.nytimes.com/athletic/7259132/2026/05/07/mlb-infield-shift-batting-average/"
-author:
-  - "[[Stephen J. Nesbitt]]"
-  - "[[Cody Stavenhagen]]"
+title: Banning the infield shift didn’t bring back the base hit. Does anyone care?
+source: https://www.nytimes.com/athletic/7259132/2026/05/07/mlb-infield-shift-batting-average/
+author: "[[Stephen J. Nesbitt]],[[Cody Stavenhagen]]"
 published: 2026-05-07
 created: 2026-05-09
-description: "Baseball looks a lot more like it once did, with infielders standing where they should. Yet batting averages remain at all-time lows."
+description: Baseball looks a lot more like it once did, with infielders standing where they should. Yet batting averages remain at all-time lows.
 tags:
-  - "clippings"
+  - clippings
 ---
 Baseball made a rule change to encourage base hits. But other factors have conspired to keep them out of the game. Norm Hall / Getty Images
 
