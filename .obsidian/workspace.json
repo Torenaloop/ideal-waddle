@@ -342,10 +342,24 @@
             "id": "7da8e069ea43d321",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Stack Infrastructure looking to sell Asia operations for more than $30bn"
             }
           }
         ],
@@ -603,6 +617,7 @@
   },
   "active": "7da8e069ea43d321",
   "lastOpenFiles": [
+    "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Past Safety Fair Planning.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -630,7 +645,6 @@
     "Files/Pasted image 20260501090742.png",
     "David M. Rubenstein.md",
     "Aaron Troy Interview.md",
-    "Future claude prompt.md",
     "Files/Pasted image 20260430144758.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Meeting Tracker.base",
