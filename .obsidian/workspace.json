@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d6bcea59e4b7ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bi-Annual EHS Assessments Meeting with Gerald.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bi-Annual EHS Assessments Meeting with Gerald"
-            }
-          },
-          {
             "id": "0eeef902f6f183ed",
             "type": "leaf",
             "state": {
@@ -62,19 +38,6 @@
               "type": "bases",
               "state": {
                 "file": "00-Bases/Meeting Tracker.base",
-                "viewName": "By Type"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Meeting Tracker"
-            }
-          },
-          {
-            "id": "97014513b3d650d2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Meeting Tracker.base",
                 "viewName": "All Meetings"
               },
               "icon": "lucide-table",
@@ -96,30 +59,6 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
-            }
-          },
-          {
-            "id": "1d84bf70167a5f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "East Region - Medium Risk CAB - 2026-04-22"
             }
           },
           {
@@ -147,37 +86,13 @@
             }
           },
           {
-            "id": "1a92c07d17155bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHS Assessment Build Out (Pilot 4).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EHS Assessment Build Out (Pilot 4)"
-            }
-          },
-          {
             "id": "41170d0e7a32ac24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NAL01A SPCC Swimlane 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -363,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -420,8 +335,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -615,8 +529,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7da8e069ea43d321",
+  "active": "f3c3ee0b998f6c5a",
   "lastOpenFiles": [
+    "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
+    "NAL01A SPCC Swimlane 1.md",
+    "Nuckolls AM Newsletter 2026-04-21.md",
+    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "00-Bases/Meeting Tracker.base",
+    "02-Work/Phase 3 P6 - UPS 1 Incident.md",
+    "02-Work/STACK EHS Vendor Onboarding Review.md",
+    "02-Work/EHS Assessment Build Out (Pilot 4).md",
+    "02-Work/NVA06A D2D 2026-04-30.md",
+    "02-Work/Toolbox Talks for the next 3 weeks.md",
+    "David M. Rubenstein.md",
+    "02-Work/Data Visualization Ideas for Asana Project Dashboard.md",
+    "Future claude prompt.md",
+    "Incident Management Swimlane.md",
+    "Canvas Upgrades - Claude.md",
+    "Claude Code + Obsidian Sandbox Vault interactions.md",
+    "02-Work/Nicholas Mansberger 1 on 1 MOC.md",
+    "02-Work/Bi-Annual EHS Assessments Meeting with Gerald.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Past Safety Fair Planning.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
@@ -625,29 +558,10 @@
     "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
     "02-Work/01 - Work Projects/⭐D2D Checklist Items/1770241714443_06_07_24_Activity.md",
     "Clippings/Banning the infield shift didn’t bring back the base hit. Does anyone care.md",
-    "Toolbox Talks for the next 3 weeks.md",
     "Clippings/The Kind of Men Who Flummox Trump.md",
-    "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
-    "Clippings/Why So Few Babies We Might Have Overlooked the Biggest Reason of All.md",
-    "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
-    "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
-    "EHS Assessment Build Out (Pilot 4).md",
-    "02-Work/05 - Work Meetings/Vendor Evaluations - Henderson Building Solutions.md",
-    "STACK EHS Vendor Onboarding Review.md",
-    "02-Work/06-Work Person/STACK People/Gerald Aldajuste.md",
-    "NAL01A SPCC Swimlane 1.md",
-    "NVA06A D2D 2026-04-30.md",
-    "Clippings/Inside the Owner's Box.md",
-    "Clippings/AI godfather Yann LeCun's advice on college, work and breaking through AI hype.md",
-    "02-Work/Elise Matherly Teams Question Response.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
-    "David M. Rubenstein.md",
-    "Aaron Troy Interview.md",
     "Files/Pasted image 20260430144758.png",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
     "00-Bases/Meetings Base.base",
