@@ -52,9 +52,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -17.016223323608415,
-                  "y": 492.04260395729267,
-                  "zoom": -1.6666666666666667
+                  "x": -1.142212803926327,
+                  "y": 606.3354796990029,
+                  "zoom": -1.666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -396,8 +396,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "401ca6f39f695557",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "Nuckolls AM Newsletter 2026-04-21.md",
+    "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
@@ -407,7 +409,6 @@
     "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
     "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "NAL01A SPCC Swimlane 1.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
     "00-Bases/Meeting Tracker.base",
     "02-Work/Phase 3 P6 - UPS 1 Incident.md",
