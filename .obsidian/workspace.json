@@ -161,14 +161,42 @@
             "id": "8f3782da8fda4315",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive"
+            }
+          },
+          {
+            "id": "cf16bf709975efcf",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://archive.org/details/pioneersettlerso00nuck/page/n15/mode/2up",
+                "title": "Pioneer settlers of Grayson County, Virginia : Nuckolls, B. F. (Benjamin Floyd), b. 1838 : Free Download, Borrow, and Streaming : Internet Archive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Pioneer settlers of Grayson County, Virginia : Nuckolls, B. F. (Benjamin Floyd), b. 1838 : Free Download, Borrow, and Streaming : Internet Archive"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -419,8 +447,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f3782da8fda4315",
+  "active": "cf16bf709975efcf",
   "lastOpenFiles": [
+    "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
+    "Clippings/The Nuckolls Report.md",
+    "Clippings/Google Maps.md",
     "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
@@ -446,9 +477,6 @@
     "02-Work/Data Visualization Ideas for Asana Project Dashboard.md",
     "Future claude prompt.md",
     "Incident Management Swimlane.md",
-    "Canvas Upgrades - Claude.md",
-    "Claude Code + Obsidian Sandbox Vault interactions.md",
-    "02-Work/Nicholas Mansberger 1 on 1 MOC.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
