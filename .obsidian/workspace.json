@@ -52,9 +52,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -895.4895768437913,
-                  "y": 629.0931642264864,
-                  "zoom": -2
+                  "x": -17.016223323608415,
+                  "y": 492.04260395729267,
+                  "zoom": -1.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -396,8 +396,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "401ca6f39f695557",
   "lastOpenFiles": [
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
@@ -408,7 +409,6 @@
     "NAL01A SPCC Swimlane 1.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Meeting Tracker.base",
     "02-Work/Phase 3 P6 - UPS 1 Incident.md",
     "02-Work/STACK EHS Vendor Onboarding Review.md",
@@ -425,7 +425,6 @@
     "02-Work/Bi-Annual EHS Assessments Meeting with Gerald.md",
     "Past Safety Fair Planning.md",
     "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
