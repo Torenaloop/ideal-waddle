@@ -52,9 +52,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 913.1347087344745,
-                  "y": 238.5370611724327,
-                  "zoom": -1.166666666666667
+                  "x": 433.9425406992949,
+                  "y": 682.6582025106687,
+                  "zoom": -1.666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -134,6 +134,30 @@
             }
           },
           {
+            "id": "18164b070064829f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I Don’t Think You Can Even Call This Hypocrisy"
+            }
+          },
+          {
             "id": "8f3782da8fda4315",
             "type": "leaf",
             "state": {
@@ -144,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -396,11 +419,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "8f3782da8fda4315",
   "lastOpenFiles": [
+    "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Running Notes.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
@@ -425,7 +449,6 @@
     "Canvas Upgrades - Claude.md",
     "Claude Code + Obsidian Sandbox Vault interactions.md",
     "02-Work/Nicholas Mansberger 1 on 1 MOC.md",
-    "02-Work/Bi-Annual EHS Assessments Meeting with Gerald.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
