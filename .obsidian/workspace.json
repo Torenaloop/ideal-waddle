@@ -52,9 +52,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 970,
-                  "y": 1175,
-                  "zoom": -2.321615111907311
+                  "x": -1159.4287494004238,
+                  "y": 387.2673038921187,
+                  "zoom": 0.011718221426021969
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -396,7 +396,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f3782da8fda4315",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
