@@ -32,3 +32,4 @@ Lessoned Learned Doc created from Brett's observation on 3/16 - [EHS Lesson Lear
 
 
 # EHS & Operations Sync for 5/18/26
+- As the meeting invite indicates
