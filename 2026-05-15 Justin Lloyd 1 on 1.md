@@ -1,21 +1,23 @@
 
 
-
+# Environmental - N/A 
 # NetSuite
 ## CAB Cases
 ## EHS Tasks/Deliverables
 
 # SOSPES Entries from 3/15/26 to 5/15/26
 
-|Date occurred|Report ID|Reporter|Type|Summary|Corrective action noted|
-|---|--:|---|---|---|---|
-|May 14, 2026|249491|Bryan Buford|Substandard Condition|Damaged power cord insulation exposing conductors during pre-use inspection.|Yes: cord marked bad, removed from service, to be discarded.|
-|Apr. 27, 2026|244797|Michael Gay|Positive Behavior|Commended NVA05A Critical Operations Team for fall harness storage system and safety harness pre-use checklist implementation.|No corrective action needed.|
-|Apr. 14, 2026|240919|Wesley St. Lawrence|Substandard Condition|Missing strut in overhead cable tray support, creating possible instability.|Yes: new strut cut/installed; cable tray stabilized.|
-|Apr. 9, 2026|239678|James Hubert|Suggestion|“This is a test between me and EHS.”|No.|
-|Mar. 25, 2026|235758|Bryan Buford|Substandard Condition|Loose drain pipe found on rounds, creating potential slip hazard.|Yes: clamps reinstalled/tightened.|
-|Mar. 16, 2026|233865|Colin Edris|Suggestion|Loading dock lacked wheel chocks or equivalent vehicle-movement prevention devices.|No action marked in SOSPES, but note says Critical Operations would order wheel chocks.|
-|Mar. 16, 2026|233845|Thomas Liddell|Suggestion|Cable tray all-thread supports over 1 inch; recommended trimming and adding caps in exposed areas.|No.|
+Lessoned Learned Doc created from Brett's observation on 3/16 - [EHS Lesson Learned OPL.pptx](https://stackinfrastructure-my.sharepoint.com/:p:/g/personal/dnuckolls_stackinfra_com/IQBP0-W-Q0qLRZyCmY1RRstrAYcNzZTKSG3EuPldsFNAz5M?e=ipa8bt) 
+
+| Date occurred | Report ID | Reporter            | Type                  | Summary                                                                                                                        | Corrective action noted                                                                 |
+| ------------- | --------: | ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| May 14, 2026  |    249491 | Bryan Buford        | Substandard Condition | Damaged power cord insulation exposing conductors during pre-use inspection.                                                   | Yes: cord marked bad, removed from service, to be discarded.                            |
+| Apr. 27, 2026 |    244797 | Michael Gay         | Positive Behavior     | Commended NVA05A Critical Operations Team for fall harness storage system and safety harness pre-use checklist implementation. | No corrective action needed.                                                            |
+| Apr. 14, 2026 |    240919 | Wesley St. Lawrence | Substandard Condition | Missing strut in overhead cable tray support, creating possible instability.                                                   | Yes: new strut cut/installed; cable tray stabilized.                                    |
+| Apr. 9, 2026  |    239678 | James Hubert        | Suggestion            | “This is a test between me and EHS.”                                                                                           | No.                                                                                     |
+| Mar. 25, 2026 |    235758 | Bryan Buford        | Substandard Condition | Loose drain pipe found on rounds, creating potential slip hazard.                                                              | Yes: clamps reinstalled/tightened.                                                      |
+| Mar. 16, 2026 |    233865 | Colin Edris         | Suggestion            | Loading dock lacked wheel chocks or equivalent vehicle-movement prevention devices.                                            | No action marked in SOSPES, but note says Critical Operations would order wheel chocks. |
+| Mar. 16, 2026 |    233845 | Thomas Liddell      | Suggestion            | Cable tray all-thread supports over 1 inch; recommended trimming and adding caps in exposed areas.                             | No.                                                                                     |
 
 # 2026 EHS Change Announcements to date
 
@@ -27,3 +29,6 @@
 | Apr. 1, 2026                                            | Q1 2026 — Hearing Conservation AP update                                                     | Part of Q1 EHS announcement                                 | Noise exposure measurement records must be retained for 2 years and accessible to employees.                                                                                                                                                                                                                                                                                      | Recordkeeping and employee-access requirement; supports OSHA noise compliance and employee exposure transparency.                                                                                           | Yes, as part of Q1 package                      |
 | Apr. 1, 2026                                            | Q1 2026 — Confined Space / SPCC / Walking-Working Surfaces / General Health & Safety updates | Part of Q1 EHS announcement                                 | Q1 package included updates to Hearing Conservation, Confined Space, SPCC Management, Walking and Working Surfaces, General Health & Safety Requirements, and Electrical Safety. Walking-working guidance included designated walking paths during wet/icy conditions; General Health & Safety prohibited space heaters in office settings unless approved through accommodation. | Impacts slip/trip/fall prevention, spill prevention/control, confined-space governance, office fire risk, and workplace air-quality/irritant controls.                                                      | Yes, as part of Q1 package                      |
 | Original issued Dec. 2, 2025; re-forwarded Jan. 6, 2026 | Change Announcement: EHS Inspection and Testing Assets in NetSuite                           | Taylor Muvrin original; David Nuckolls re-forwarded in Jan. | EHS-related site assets were aligned with the EHS Inspections AP for safety and tracking. Original announcement found dated Dec. 2, 2025.                                                                                                                                                                                                                                         | EHS ramifications for inspection/testing asset visibility, PM tracking, compliance evidence, and NetSuite/CMMS hygiene.                                                                                     | No — treated as 2025-issued with 2026 follow-up |
+
+
+# EHS & Operations Sync for 5/18/26
