@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -410,12 +409,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfa50ca86190af65",
+  "active": "401ca6f39f695557",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
+    "Untitled.md",
     "2026-05-15 Justin Lloyd 1 on 1.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "EHS Change Announcements from Jan 1 to May 15, 2026.md",
-    "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "NAL01A SPCC Swimlane 1.md",
     "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
