@@ -1,14 +1,12 @@
 ---
-title: "The Damage of ‘Trump Math’ Is Adding Up"
-source: "https://www.nytimes.com/2026/05/15/opinion/trump-data-war-on-numbers.html"
-author:
-  - "[[Binyamin Appelbaum]]"
-  - "[[James Robinson]]"
+title: The Damage of ‘Trump Math’ Is Adding Up
+source: https://www.nytimes.com/2026/05/15/opinion/trump-data-war-on-numbers.html
+author: "[[Binyamin Appelbaum]],[[James Robinson]]"
 published: 2026-05-15
 created: 2026-05-15
-description: "Authoritarians go after data. The president has already started."
+description: Authoritarians go after data. The president has already started.
 tags:
-  - "clippings"
+  - clippings
 ---
 The federal government is, by far, the world’s most important source of data, a fount of statistical information on a wide range of subjects touching almost every aspect of human life.
 
