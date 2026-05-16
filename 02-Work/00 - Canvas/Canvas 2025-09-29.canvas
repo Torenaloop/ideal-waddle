@@ -20,7 +20,7 @@
 		{"id":"c06afc6321660e55","type":"file","file":"02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md","x":1920,"y":0,"width":400,"height":580},
 		{"id":"7264838abd426408","type":"file","file":"02-Work/05 - Work Meetings/East Region CAB/MOC - Weekly CAB East.md","x":1120,"y":720,"width":400,"height":529},
 		{"id":"3068d7f903592b5e","type":"file","file":"02-Work/05 - Work Meetings/MOC - Asana Implementation.md","x":1540,"y":720,"width":380,"height":529},
-		{"id":"4511fb2be0a7c919","x":1600,"y":-860,"width":1160,"height":580,"type":"file","file":"EHS Change Announcements from Jan 1 to May 15, 2026.md"}
+		{"id":"4511fb2be0a7c919","x":1600,"y":-860,"width":1160,"height":580,"type":"file","file":"02-Work/EHS Change Announcements from Jan 1 to May 15, 2026.md"}
 	],
 	"edges":[
 		{"id":"6f168de49d5a1fb7","fromNode":"7ca11b4e4e137cc4","fromSide":"right","toNode":"49d0c3dabf192fb3","toSide":"left"},

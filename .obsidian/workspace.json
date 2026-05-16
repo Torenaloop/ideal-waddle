@@ -32,19 +32,6 @@
             }
           },
           {
-            "id": "2aa048ac376d7fa5",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Meeting Tracker.base",
-                "viewName": "All Meetings"
-              },
-              "icon": "lucide-table",
-              "title": "Meeting Tracker"
-            }
-          },
-          {
             "id": "97aded7a413b03b0",
             "type": "leaf",
             "state": {
@@ -52,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -682.6999751089612,
-                  "y": 607.1571529527323,
-                  "zoom": -1.2861000157517355
+                  "x": -144.68510608766485,
+                  "y": 245.03176034224407,
+                  "zoom": -1.7861000157517355
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -86,36 +73,12 @@
             }
           },
           {
-            "id": "41170d0e7a32ac24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAL01A SPCC Swimlane 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NAL01A SPCC Swimlane 1"
-            }
-          },
-          {
             "id": "ceff60b9ebe4e5e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHS Change Announcements from Jan 1 to May 15, 2026.md",
+                "file": "Nuckolls AM Newsletter 2026-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -130,31 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EHS Change Announcements from Jan 1 to May 15, 2026"
-            }
-          },
-          {
-            "id": "bfa50ca86190af65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Justin Lloyd"
+              "title": "Nuckolls AM Newsletter 2026-04-21"
             }
           }
         ],
@@ -409,16 +348,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "401ca6f39f695557",
+  "active": "ceff60b9ebe4e5e9",
   "lastOpenFiles": [
-    "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
-    "Untitled.md",
-    "2026-05-15 Justin Lloyd 1 on 1.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "EHS Change Announcements from Jan 1 to May 15, 2026.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
     "NAL01A SPCC Swimlane 1.md",
-    "Work Related Injury Incident - NVA02E - 05_-5_-26.md",
+    "Claude Cowork - Customize - Connectors.md",
+    "Nuckolls AM Newsletter 2026-04-21.md",
+    "02-Work/2026-05-15 Justin Lloyd 1 on 1.md",
+    "02-Work/EHS Change Announcements from Jan 1 to May 15, 2026.md",
+    "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Clippings/Prompt guidance  OpenAI API.md",
+    "00-Bases/Meeting Tracker.base",
+    "Untitled.md",
+    "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Damage of ‘Trump Math’ Is Adding Up.md",
@@ -434,11 +376,8 @@
     "Clippings/The Kind of Men Who Flummox Trump.md",
     "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
     "02-Work/05 - Work Meetings/East Region CAB/East Region - Medium Risk CAB - 2026-04-22.md",
-    "00-Bases/Meeting Tracker.base",
     "02-Work/Phase 3 P6 - UPS 1 Incident.md",
     "02-Work/STACK EHS Vendor Onboarding Review.md",
-    "02-Work/EHS Assessment Build Out (Pilot 4).md",
-    "02-Work/NVA06A D2D 2026-04-30.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
