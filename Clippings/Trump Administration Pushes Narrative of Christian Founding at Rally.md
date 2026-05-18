@@ -1,14 +1,12 @@
 ---
-title: "Trump Administration Pushes Narrative of Christian Founding at Rally"
-source: "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
-author:
-  - "[[Elizabeth Dias]]"
-  - "[[Ruth Graham]]"
+title: Trump Administration Pushes Narrative of Christian Founding at Rally
+source: https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html
+author: "[[Elizabeth Dias]],[[Ruth Graham]]"
 published: 2026-05-17
 created: 2026-05-17
-description: "The nine-hour prayer event will feature speakers from President Trump’s cabinet and a program that connects the nation’s founding with Christianity."
+description: The nine-hour prayer event will feature speakers from President Trump’s cabinet and a program that connects the nation’s founding with Christianity.
 tags:
-  - "clippings"
+  - clippings
 ---
 The promotional clip, just 1 minute 10 seconds long, begins with a cross lying atop an American flag, emerging out of the darkness.
 

@@ -71,33 +71,9 @@
               "icon": "lucide-file",
               "title": "Nuckolls AM Newsletter 2026-04-21"
             }
-          },
-          {
-            "id": "ceff60b9ebe4e5e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trump Administration Pushes Narrative of Christian Founding at Rally"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,10 +324,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceff60b9ebe4e5e9",
+  "active": "401ca6f39f695557",
   "lastOpenFiles": [
-    "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
     "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
+    "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
     "Clippings/Nothing Beats Polarization Like Civics Education.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "NAL01A SPCC Swimlane 1.md",
