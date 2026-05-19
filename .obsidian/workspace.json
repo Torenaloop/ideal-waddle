@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "401ca6f39f695557",
+            "id": "6ef582e21d446e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,9 +71,33 @@
               "icon": "lucide-file",
               "title": "Nuckolls AM Newsletter 2026-04-21"
             }
+          },
+          {
+            "id": "401ca6f39f695557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Axios C-Suite Your agent prep kit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Axios C-Suite Your agent prep kit"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuckolls AM Newsletter 2026-04-21.md",
+                "file": "02-Work/Running Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -156,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nuckolls AM Newsletter 2026-04-21"
+              "title": "Backlinks for Running Notes"
             }
           },
           {
@@ -165,12 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuckolls AM Newsletter 2026-04-21.md",
+                "file": "02-Work/Running Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nuckolls AM Newsletter 2026-04-21"
+              "title": "Outgoing links from Running Notes"
             }
           },
           {
@@ -208,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/Work Folder Open Tasks.md",
+                "file": "02-Work/Running Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work Folder Open Tasks"
+              "title": "Outline of Running Notes"
             }
           },
           {
@@ -302,12 +326,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 522.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,12 +347,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "401ca6f39f695557",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/Running Notes.md",
+    "Clippings/Axios C-Suite Your agent prep kit.md",
+    "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
     "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
     "Clippings/Nothing Beats Polarization Like Civics Education.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
     "NAL01A SPCC Swimlane 1.md",
     "Claude Cowork - Customize - Connectors.md",
     "02-Work/2026-05-15 Justin Lloyd 1 on 1.md",
@@ -345,15 +371,12 @@
     "Clippings/The Damage of ‘Trump Math’ Is Adding Up.md",
     "Clippings/The Nuckolls Report.md",
     "Clippings/Google Maps.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
     "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
     "Clippings/Banning the infield shift didn’t bring back the base hit. Does anyone care.md",
     "Clippings/The Kind of Men Who Flummox Trump.md",
-    "Clippings/A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
