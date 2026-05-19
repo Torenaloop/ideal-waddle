@@ -95,9 +95,33 @@
               "icon": "lucide-file",
               "title": "Axios C-Suite Your agent prep kit"
             }
+          },
+          {
+            "id": "ee04c6b43248aeee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incident Management Workflow.excalidraw.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Incident Management Workflow.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/Running Notes.md",
+                "file": "Incident Management Workflow.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -180,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Running Notes"
+              "title": "Backlinks for Incident Management Workflow.excalidraw"
             }
           },
           {
@@ -189,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Work/Running Notes.md",
+                "file": "Incident Management Workflow.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Running Notes"
+              "title": "Outgoing links from Incident Management Workflow.excalidraw"
             }
           },
           {
@@ -232,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Work/Running Notes.md",
+                "file": "Incident Management Workflow.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Running Notes"
+              "title": "Outline of Incident Management Workflow.excalidraw"
             }
           },
           {
@@ -347,11 +371,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "ee04c6b43248aeee",
   "lastOpenFiles": [
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
+    "Incident Management Swimlane.md",
+    "Incident Management Workflow.excalidraw.md",
     "Clippings/Axios C-Suite Your agent prep kit.md",
+    "02-Work/Running Notes.md",
+    "02-Work/Work Folder Open Tasks.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
     "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
@@ -375,8 +401,6 @@
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
-    "Clippings/Banning the infield shift didn’t bring back the base hit. Does anyone care.md",
-    "Clippings/The Kind of Men Who Flummox Trump.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
