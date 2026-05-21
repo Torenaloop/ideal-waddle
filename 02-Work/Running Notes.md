@@ -1,16 +1,18 @@
 # 2026-05-21
-- Escalation Call Tree for Incidents: please add the 3 B&G Safety reps (3) contact info for call tree purposes and Incident Management AP vs B&G Incident Management process harmonization
-- What will be the reoccurring touchpoints that will involve Operations?
+- Escalation Call Tree for Incidents: please add the 3 B&G Safety reps (3) contact info for call tree purposes and Incident Management AP vs B&G Incident Management process harmonization #request
+- What will be the reoccurring touchpoints that will involve Operations? #request 
 	- ![[Pasted image 20260521104525.png]]
 - ~~2 or 3 week look a-heads for high risk activities for procedure/risk assessment due diligence~~
-- D2D Process/checklist? (STACK people, Erica Carroll, Kevin Vesely...)
-- LOTO
-- Confined Space Entry
-- Excavation
-- Crane Work
-- Plan of action for tornado watches and tornado warnings?
-- STOP WORK - everyone has the right and the obligation
-- Over communicate and ask questions
+- Who will be leading the D2D Process/checklist? (STACK people, Erica Carroll, Kevin Vesely...)? #request 
+- Common High Risk Activity Pain Points between Ops and Construction: #comment 
+	- LOTO
+	- Confined Space Entry
+	- Excavation
+	- Crane Work
+- Plan of action for tornado watches and tornado warnings? #request 
+- Air Permits - use the lessons learned from the NVA06A experience (See Danielle Pucherelli) #comment 
+- STOP WORK - everyone has the right and the obligation #comment 
+- Over communicate and ask questions #comment 
 
 # 2026-04-21
 - 
