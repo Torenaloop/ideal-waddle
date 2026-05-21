@@ -102,8 +102,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incident Management Workflow.excalidraw.md",
-                "mode": "preview",
+                "file": "Clippings/Two hours that changed AI.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incident Management Workflow.excalidraw"
+              "title": "Two hours that changed AI"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incident Management Workflow.excalidraw.md",
+                "file": "Clippings/Two hours that changed AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Incident Management Workflow.excalidraw"
+              "title": "Backlinks for Two hours that changed AI"
             }
           },
           {
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incident Management Workflow.excalidraw.md",
+                "file": "Clippings/Two hours that changed AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Incident Management Workflow.excalidraw"
+              "title": "Outgoing links from Two hours that changed AI"
             }
           },
           {
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incident Management Workflow.excalidraw.md",
+                "file": "Clippings/Two hours that changed AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Incident Management Workflow.excalidraw"
+              "title": "Outline of Two hours that changed AI"
             }
           },
           {
@@ -373,8 +373,9 @@
   },
   "active": "ee04c6b43248aeee",
   "lastOpenFiles": [
-    "Incident Management Swimlane.md",
     "Incident Management Workflow.excalidraw.md",
+    "Clippings/Two hours that changed AI.md",
+    "Incident Management Swimlane.md",
     "Clippings/Axios C-Suite Your agent prep kit.md",
     "02-Work/Running Notes.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -400,7 +401,6 @@
     "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
-    "Clippings/Digging trenches, hanging drywall and shooting coyotes How MLB’s most anonymous team made ends meet.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
