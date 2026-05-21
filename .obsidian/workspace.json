@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -354,7 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 951.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,6 +374,7 @@
   },
   "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "Files/Pasted image 20260521104525.png",
     "Clippings/Two hours that changed AI.md",
     "Incident Management Workflow.excalidraw.md",
     "Incident Management Swimlane.md",
@@ -400,7 +402,6 @@
     "Clippings/Google Maps.md",
     "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
-    "Clippings/Stack Infrastructure looking to sell Asia operations for more than $30bn.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
