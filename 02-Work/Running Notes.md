@@ -1,8 +1,16 @@
-tornado watches 
-it guys doing there thing, no major impacts
-normal weekly monthly PMs
-Fire ext. inspections
-Yancy gen bi-annuals
+# 2026-05-21
+- Safety reps (3) contact info for call tree purposes and Incident Management AP vs B&G Incident Management process harmonization
+- What will be the reoccurring touchpoints that will involve Operations?
+- 2 or 3 week look a-heads for high risk activities for procedure/risk assessment due diligence
+- D2D? (STACK people, Erica Carroll, Kevin Vesely...)
+- LOTO
+- Confined Space Entry
+- Excavation
+- Crane Work
+- Plan of action for tornado watches and tornado warnings?
+- STOP WORK - everyone has the right and the obligation
+- Over communicate
+
 # 2026-04-21
 - 
 # 2026-04-19 
