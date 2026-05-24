@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -144.68510608766485,
-                  "y": 245.03176034224407,
-                  "zoom": -1.7861000157517355
+                  "x": -220,
+                  "y": 1195,
+                  "zoom": -2.2861000157517353
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -70,30 +70,6 @@
               },
               "icon": "lucide-file",
               "title": "Nuckolls AM Newsletter 2026-04-21"
-            }
-          },
-          {
-            "id": "401ca6f39f695557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Axios C-Suite Your agent prep kit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Axios C-Suite Your agent prep kit"
             }
           },
           {
@@ -155,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -408,14 +384,15 @@
   },
   "active": "a521dc72545ec413",
   "lastOpenFiles": [
+    "Clippings/Two hours that changed AI.md",
+    "Clippings/Axios C-Suite Your agent prep kit.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Premier Power Maintenance.md",
     "02-Work/Running Notes.md",
     "Files/Pasted image 20260521104525.png",
-    "Clippings/Two hours that changed AI.md",
     "Incident Management Workflow.excalidraw.md",
     "Incident Management Swimlane.md",
-    "Clippings/Axios C-Suite Your agent prep kit.md",
     "02-Work/Work Folder Open Tasks.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
@@ -426,7 +403,6 @@
     "02-Work/2026-05-15 Justin Lloyd 1 on 1.md",
     "02-Work/EHS Change Announcements from Jan 1 to May 15, 2026.md",
     "02-Work/06-Work Person/STACK People/Justin Lloyd.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Prompt guidance  OpenAI API.md",
     "00-Bases/Meeting Tracker.base",
     "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
@@ -436,7 +412,6 @@
     "Clippings/The Nuckolls Report.md",
     "Clippings/Google Maps.md",
     "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
-    "Clippings/Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
