@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Premier Power Maintenance.md",
+                "file": "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,11 +141,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Premier Power Maintenance"
+              "title": "Australia’s ‘Prettiest Street’ Is Grappling With Fame"
+            }
+          },
+          {
+            "id": "a521dc72545ec413",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -396,8 +406,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44cfce1b06271a69",
+  "active": "a521dc72545ec413",
   "lastOpenFiles": [
+    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Premier Power Maintenance.md",
     "02-Work/Running Notes.md",
     "Files/Pasted image 20260521104525.png",
