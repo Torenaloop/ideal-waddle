@@ -124,10 +124,24 @@
             "id": "a521dc72545ec413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents"
             }
           }
         ],
@@ -384,10 +398,12 @@
   },
   "active": "a521dc72545ec413",
   "lastOpenFiles": [
+    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
+    "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
+    "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
     "Clippings/Two hours that changed AI.md",
     "Clippings/Axios C-Suite Your agent prep kit.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Premier Power Maintenance.md",
     "02-Work/Running Notes.md",
     "Files/Pasted image 20260521104525.png",
@@ -411,7 +427,6 @@
     "Clippings/The Damage of ‘Trump Math’ Is Adding Up.md",
     "Clippings/The Nuckolls Report.md",
     "Clippings/Google Maps.md",
-    "02-Work/05 - Work Meetings/MOC - Asana Implementation.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
