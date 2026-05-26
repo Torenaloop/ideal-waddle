@@ -143,9 +143,23 @@
               "icon": "lucide-file",
               "title": "Qualtrics Survey  Qualtrics Experience Management"
             }
+          },
+          {
+            "id": "3f6de4a1d55c94ee",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1",
+                "title": "nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -396,10 +410,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a521dc72545ec413",
+  "active": "3f6de4a1d55c94ee",
   "lastOpenFiles": [
-    "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
+    "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
     "Clippings/Two hours that changed AI.md",
