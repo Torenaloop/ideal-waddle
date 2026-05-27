@@ -50,6 +50,7 @@ What Else?
 - References & Ideas
 
 
+72 MW per building (3) - we will take over 2 (for an additional 72x2) - in 2027 - they 1 contract EHS person - taking over lease in June and they will operate in a transition - Donna wants to fly out in June/July to come out and do a site walk at the 2 sites we'll be taking over from CoreSite/Salute 
 The incident call will be on 6/8
 - [ ] Incident Management>Monthly Stack Leadership RCA Reviews>Save Template locally>create new for May 2026
 - [ ] Finish adding Liddell recordable Ops log

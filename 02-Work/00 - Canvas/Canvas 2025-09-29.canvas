@@ -4,7 +4,6 @@
 		{"id":"945ee2f496dc6f6c","type":"group","x":-1680,"y":2080,"width":3760,"height":1230,"label":"People & Cadence "},
 		{"id":"1ea30eb4d405ab0b","type":"group","x":1040,"y":-120,"width":1760,"height":2040,"label":"Reoccurring Meetings"},
 		{"id":"971b260e6f218be0","type":"group","x":1040,"y":-920,"width":1760,"height":720,"label":"Reference & Idea"},
-		{"id":"a3cf26c98b4bcb65","type":"file","file":"02-Work/Work Folder Open Tasks.md","x":-720,"y":-860,"width":1653,"height":1100},
 		{"id":"22955302b4792346","type":"file","file":"02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md","x":1120,"y":0,"width":400,"height":580},
 		{"id":"123c463b479f68a0","type":"file","file":"02-Work/05 - Work Meetings/MOC - East Coast Critical Ops Sync.md","x":1540,"y":0,"width":360,"height":580},
 		{"id":"c06afc6321660e55","type":"file","file":"02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md","x":1920,"y":0,"width":400,"height":580},
@@ -20,7 +19,8 @@
 		{"id":"9f1d06107a467222","type":"link","url":"https://5891471.app.netsuite.com/app/common/search/searchresults.nl?searchtype=Case&Case_STAGE=%40ALL%40&Case_ASSIGNED=%40ALL%40&Case_AWAITINGREPLY=ANY&Case_STATUS=11%057%056%0512&style=NORMAL&report=&grid=&searchid=8338&dle=&sortcol=Case_STATUS_raw&sortdir=DESC&csv=HTML&OfficeXML=F&pdf=&size=50&_csrf=b0PDioH0bhdflnYMMJDF4hQjYjQeZudhkNBgGpEJVQH6mIOB8i4aLwFdnVYP5KlTlNBiEmvyCZKDKwrEa4rjx-RsCrKOqs-eayOPtUEbgoc8vk5DemdgfEcGX3-H_9XgVhe2PmXP3ZvuaS91f-xvEE6l_BJW2tlLX5ez01ypuFE%3D&twbx=F&whence=","x":-2414,"y":356,"width":1646,"height":701},
 		{"id":"ff3edbadb68c2bdb","type":"text","text":"# NetSuite Page for CAB Cases","x":-3240,"y":589,"width":400,"height":299},
 		{"id":"7ca11b4e4e137cc4","type":"text","text":"# NetSuite EHS task tracker ","x":-3240,"y":1534,"width":400,"height":297},
-		{"id":"8898f7cb9096710f","x":-720,"y":356,"width":1653,"height":1448,"type":"link","url":"https://go.sospes.com/safety/supervisorPortal"}
+		{"id":"8898f7cb9096710f","x":-720,"y":356,"width":1653,"height":1448,"type":"link","url":"https://go.sospes.com/safety/supervisorPortal"},
+		{"id":"a3cf26c98b4bcb65","type":"file","file":"02-Work/Work Folder Open Tasks.md","x":-720,"y":-810,"width":1653,"height":1050}
 	],
 	"edges":[
 		{"id":"6f168de49d5a1fb7","fromNode":"7ca11b4e4e137cc4","fromSide":"right","toNode":"49d0c3dabf192fb3","toSide":"left"},
