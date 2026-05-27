@@ -1,4 +1,5 @@
-
+# May
+- [[Weekly Working Session 2026-05-27]]
 # February
 - [[Weekly Working Session 2026-02-25]]
 # January

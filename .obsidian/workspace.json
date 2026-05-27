@@ -35,17 +35,24 @@
             "id": "97aded7a413b03b0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": 151.12354363437635,
-                  "y": 638.4198594088807,
-                  "zoom": -1.6194333490850688
+                "file": "Weekly Working Session 2026-05-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "icon": "lucide-file",
+              "title": "Weekly Working Session 2026-05-27"
             }
           },
           {
@@ -389,12 +396,13 @@
   },
   "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Weekly Working Session 2026-05-27.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Clippings/Two hours that changed AI.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260527093615.png",
@@ -419,7 +427,6 @@
     "00-Bases/Meeting Tracker.base",
     "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
-    "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
