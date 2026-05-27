@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 146.66161691300067,
-                  "y": 918.4872486061399,
-                  "zoom": -1.9527666824184022
+                  "x": 352.3146717403811,
+                  "y": 791.0053132795646,
+                  "zoom": -1.952766682418402
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,54 +97,6 @@
             }
           },
           {
-            "id": "44cfce1b06271a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Australia’s ‘Prettiest Street’ Is Grappling With Fame"
-            }
-          },
-          {
-            "id": "a521dc72545ec413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Qualtrics Survey  Qualtrics Experience Management"
-            }
-          },
-          {
             "id": "132011346fdb243d",
             "type": "leaf",
             "state": {
@@ -156,20 +108,6 @@
               },
               "icon": "globe-2",
               "title": "File.php"
-            }
-          },
-          {
-            "id": "c863589bf6667837",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://nscsurveys.iad1.qualtrics.com/jfe/form/SV_3sHL7BQmElJkAXs",
-                "title": "Qualtrics Survey | Qualtrics Experience Management",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Qualtrics Survey | Qualtrics Experience Management"
             }
           },
           {
@@ -197,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -426,12 +365,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 951.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -448,24 +386,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "2be0c536b86dfa1d",
   "lastOpenFiles": [
+    "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
+    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
+    "Clippings/Two hours that changed AI.md",
+    "Nuckolls AM Newsletter 2026-04-21.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "00-Bases/People Base.base",
+    "00-Bases/Goals Base.base",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Files/Pasted image 20260527093615.png",
-    "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
-    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
-    "Clippings/Two hours that changed AI.md",
     "Clippings/Axios C-Suite Your agent prep kit.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Premier Power Maintenance.md",
     "02-Work/Running Notes.md",
     "Files/Pasted image 20260521104525.png",
     "Incident Management Workflow.excalidraw.md",
     "Incident Management Swimlane.md",
     "02-Work/Work Folder Open Tasks.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
     "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
     "Clippings/Nothing Beats Polarization Like Civics Education.md",
@@ -479,7 +419,6 @@
     "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
-    "Clippings/The Damage of ‘Trump Math’ Is Adding Up.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
@@ -488,8 +427,6 @@
     "00-Bases/Meetings Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Folder Open Tasks.base",
-    "00-Bases/People Base.base",
-    "00-Bases/Goals Base.base",
     "Files/Pasted image 20260413085730.png",
     "Untitled.base",
     "00-Bases/Work Site Tracker.base",
