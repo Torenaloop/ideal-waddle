@@ -48,3 +48,8 @@ What Else?
 - People
     
 - References & Ideas
+
+
+The incident call will be on 6/8
+- [ ] Incident Management>Monthly Stack Leadership RCA Reviews>Save Template locally>create new for May 2026
+- [ ] Finish adding Liddell recordable Ops log

@@ -22,7 +22,7 @@ tags: []
     - add everything to Denver ERP & send to Sauce, Sauce will complete one for Data Centers & distribute to all
     - add AlertMedia to Fire Drill Procedure, include some instructions on how to leverage
 - twh stuff - website delay & distribution
-- Injury Info Packet - site specific packets for COMs - initially worked on by Eileen - Goetz picking it up - he may be reaching out to us to help him 
+- Injury Info Packet - site specific packets for COMs - initially worked on by Eileen - Goetz picking it up - he may be reaching out to us to help him if needed
 - Lone Worker (region count)
 - GCC
 ## Notes
