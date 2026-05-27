@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 352.3146717403811,
-                  "y": 791.0053132795646,
-                  "zoom": -1.952766682418402
+                  "x": 151.12354363437635,
+                  "y": 638.4198594088807,
+                  "zoom": -1.6194333490850688
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,8 +387,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be0c536b86dfa1d",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "Clippings/Two hours that changed AI.md",
@@ -395,7 +397,6 @@
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
-    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Files/Pasted image 20260527093615.png",
     "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
     "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
