@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -220,
-                  "y": 1195,
-                  "zoom": -2.2861000157517353
+                  "x": 146.66161691300067,
+                  "y": 918.4872486061399,
+                  "zoom": -1.9527666824184022
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -151,11 +151,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1",
-                "title": "nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1",
+                "title": "File.php",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1"
+              "title": "File.php"
             }
           },
           {
@@ -171,9 +171,33 @@
               "icon": "globe-2",
               "title": "Qualtrics Survey | Qualtrics Experience Management"
             }
+          },
+          {
+            "id": "2be0c536b86dfa1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jesse Kenser Hub"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -424,8 +448,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132011346fdb243d",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
+    "Files/Pasted image 20260527093615.png",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
@@ -454,7 +480,6 @@
     "Clippings/I Don’t Think You Can Even Call This Hypocrisy.md",
     "Clippings/Pioneer settlers of Grayson County, Virginia  Nuckolls, B. F. (Benjamin Floyd), b. 1838  Free Download, Borrow, and Streaming  Internet Archive.md",
     "Clippings/The Damage of ‘Trump Math’ Is Adding Up.md",
-    "Clippings/The Nuckolls Report.md",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260430144758.png",
@@ -478,7 +503,6 @@
     "02-Work/00 - Canvas/Dashboard.canvas",
     "Files/Pasted image 20260318081046.png",
     "Files/Pasted image 20260317114411.png",
-    "Files/Pasted image 20260317114351.png",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
