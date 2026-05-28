@@ -39,8 +39,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 658.8794774496807,
-                  "y": 301.70090401805373,
+                  "x": -214.32716591506778,
+                  "y": 359.1847269354821,
                   "zoom": -1.4527666824184018
                 }
               },
@@ -133,9 +133,33 @@
               "icon": "lucide-file",
               "title": "Jesse Kenser Hub"
             }
+          },
+          {
+            "id": "2be3d007b0cdb0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -387,10 +411,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "2be3d007b0cdb0f4",
   "lastOpenFiles": [
-    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
+    "Untitled.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Weekly Working Session 2026-05-27.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
