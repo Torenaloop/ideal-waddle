@@ -42,7 +42,8 @@ GC to lead a monthly safety meeting to highlight metrics and initiatives
 
 
 
-
+- [ ] Orientation - what will that process look like
+- [ ] Type 2 climbing style hard hats are required, make sure your subs are prepared
 
 
 
