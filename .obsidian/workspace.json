@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -214.32716591506778,
-                  "y": 359.1847269354821,
-                  "zoom": -1.4527666824184018
+                  "x": -220,
+                  "y": 1195,
+                  "zoom": -3.405868342221889
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -450,8 +451,9 @@
   },
   "active": "1cc6148b7ef7ca18",
   "lastOpenFiles": [
-    "Clippings/How Long Can Marco Rubio Keep This Up.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
+    "Clippings/How Long Can Marco Rubio Keep This Up.md",
     "Clippings/36 Hours in Dallas.md",
     "Clippings/Codex is becoming a workflow system, not just a code tool; this guide maps the w.md",
     "EHS Incident Reporting - Mar 2025 - Appendix B - AMER AP Incident Management Procedure AP.md",
@@ -467,7 +469,6 @@
     "Files/Screenshot 2026-05-28 141437.png",
     "Files/Screenshot 2026-05-28 141352.png",
     "NAL01B Safety Alignment Meeting.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Weekly Working Session 2026-05-27.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
@@ -489,7 +490,6 @@
     "Clippings/Nothing Beats Polarization Like Civics Education.md",
     "NAL01A SPCC Swimlane 1.md",
     "Claude Cowork - Customize - Connectors.md",
-    "02-Work/2026-05-15 Justin Lloyd 1 on 1.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
