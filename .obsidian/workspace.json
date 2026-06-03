@@ -193,9 +193,33 @@
               "icon": "lucide-file",
               "title": "Exclusive Office workers embrace OpenAI's Codex"
             }
+          },
+          {
+            "id": "50a528c76809912f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -449,10 +473,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc6148b7ef7ca18",
+  "active": "50a528c76809912f",
   "lastOpenFiles": [
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Files/Pasted image 20260603125149.png",
+    "Files/Pasted image 20260603124436.png",
+    "Files/Pasted image 20260603124323.png",
+    "Files/Pasted image 20260603123917.png",
+    "Files/Pasted image 20260603123444.png",
+    "Files/Pasted image 20260603123347.png",
+    "Files/Pasted image 20260603123327.png",
+    "Untitled.md",
     "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/How Long Can Marco Rubio Keep This Up.md",
     "Clippings/36 Hours in Dallas.md",
     "Clippings/Codex is becoming a workflow system, not just a code tool; this guide maps the w.md",
@@ -462,12 +494,6 @@
     "Files/Screenshot 2026-05-28 142647.png",
     "Files/Screenshot 2026-05-28 142637.png",
     "Files/Screenshot 2026-05-28 142545.png",
-    "Files/Screenshot 2026-05-28 142401.png",
-    "Files/Screenshot 2026-05-28 142240.png",
-    "Files/Screenshot 2026-05-28 142210.png",
-    "Files/Screenshot 2026-05-28 142125.png",
-    "Files/Screenshot 2026-05-28 141437.png",
-    "Files/Screenshot 2026-05-28 141352.png",
     "NAL01B Safety Alignment Meeting.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Weekly Working Session 2026-05-27.md",
@@ -489,7 +515,6 @@
     "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
     "Clippings/Nothing Beats Polarization Like Civics Education.md",
     "NAL01A SPCC Swimlane 1.md",
-    "Claude Cowork - Customize - Connectors.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
