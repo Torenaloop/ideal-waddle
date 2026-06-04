@@ -39,9 +39,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -220,
-                  "y": 1195,
-                  "zoom": -3.405868342221889
+                  "x": -58.9464902818238,
+                  "y": 264.0947674818799,
+                  "zoom": -1.4058683422218885
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -473,8 +473,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50a528c76809912f",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
@@ -482,7 +483,6 @@
     "Files/Pasted image 20260603123444.png",
     "Files/Pasted image 20260603123347.png",
     "Files/Pasted image 20260603123327.png",
-    "Untitled.md",
     "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/How Long Can Marco Rubio Keep This Up.md",
@@ -493,7 +493,6 @@
     "Files/Screenshot 2026-05-28 142813.png",
     "Files/Screenshot 2026-05-28 142647.png",
     "Files/Screenshot 2026-05-28 142637.png",
-    "Files/Screenshot 2026-05-28 142545.png",
     "NAL01B Safety Alignment Meeting.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Weekly Working Session 2026-05-27.md",
