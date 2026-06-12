@@ -265,9 +265,21 @@
               "icon": "lucide-file",
               "title": "Codex Gap Analysis plus Asana Comment using Claude"
             }
+          },
+          {
+            "id": "d9e9a8b57a72014f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.1"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -521,7 +533,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad1f579a2f2cfa86",
+  "active": "d9e9a8b57a72014f",
   "lastOpenFiles": [
     "Codex Gap Analysis plus Asana Comment using Claude.md",
     "RCA Agent Asana Review.md",
