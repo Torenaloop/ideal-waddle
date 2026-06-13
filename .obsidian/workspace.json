@@ -73,44 +73,6 @@
             }
           },
           {
-            "id": "ee04c6b43248aeee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Two hours that changed AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Two hours that changed AI"
-            }
-          },
-          {
-            "id": "132011346fdb243d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://nscsurveys.iad1.qualtrics.com/CP/File.php?F=F_y7HMMh8gD8BAWa1",
-                "title": "File.php",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "File.php"
-            }
-          },
-          {
             "id": "2be0c536b86dfa1d",
             "type": "leaf",
             "state": {
@@ -159,18 +121,6 @@
             }
           },
           {
-            "id": "50a8a8e97d71f9c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.0"
-            }
-          },
-          {
             "id": "1cc6148b7ef7ca18",
             "type": "leaf",
             "state": {
@@ -192,30 +142,6 @@
               },
               "icon": "lucide-file",
               "title": "Exclusive Office workers embrace OpenAI's Codex"
-            }
-          },
-          {
-            "id": "50a528c76809912f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
             }
           },
           {
@@ -267,6 +193,18 @@
             }
           },
           {
+            "id": "50a8a8e97d71f9c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.0"
+            }
+          },
+          {
             "id": "d9e9a8b57a72014f",
             "type": "leaf",
             "state": {
@@ -279,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -533,11 +471,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9e9a8b57a72014f",
+  "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
     "RCA Agent Asana Review.md",
     "Untitled.md",
+    "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
+    "NAL01B Safety Alignment Meeting.md",
+    "Clippings/Two hours that changed AI.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
@@ -546,7 +488,6 @@
     "Files/Pasted image 20260603123444.png",
     "Files/Pasted image 20260603123347.png",
     "Files/Pasted image 20260603123327.png",
-    "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
     "Clippings/How Long Can Marco Rubio Keep This Up.md",
     "Clippings/36 Hours in Dallas.md",
     "Clippings/Codex is becoming a workflow system, not just a code tool; this guide maps the w.md",
@@ -555,12 +496,9 @@
     "Files/Screenshot 2026-05-28 142813.png",
     "Files/Screenshot 2026-05-28 142647.png",
     "Files/Screenshot 2026-05-28 142637.png",
-    "NAL01B Safety Alignment Meeting.md",
-    "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Weekly Working Session 2026-05-27.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
-    "Clippings/Two hours that changed AI.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
