@@ -35,17 +35,24 @@
             "id": "97aded7a413b03b0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": -58.9464902818238,
-                  "y": 264.0947674818799,
-                  "zoom": -1.4058683422218885
+                "file": "Clippings/Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "icon": "lucide-file",
+              "title": "Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters"
             }
           },
           {
@@ -276,8 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -473,6 +479,11 @@
   },
   "active": "97aded7a413b03b0",
   "lastOpenFiles": [
+    "Clippings/Trump at 80 A President ‘Really Uncomfortable’ With Aging.md",
+    "Clippings/Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters.md",
+    "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
+    "Clippings/What the Cult of Efficiency Costs Us.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
     "RCA Agent Asana Review.md",
@@ -480,7 +491,6 @@
     "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
     "NAL01B Safety Alignment Meeting.md",
     "Clippings/Two hours that changed AI.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
@@ -509,10 +519,6 @@
     "02-Work/Running Notes.md",
     "Incident Management Workflow.excalidraw.md",
     "Incident Management Swimlane.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "Clippings/Trump Administration Pushes Narrative of Christian Founding at Rally.md",
-    "Clippings/For Trump, Soaring Prices Test Voters’ Finances and Patience.md",
-    "Clippings/Nothing Beats Polarization Like Civics Education.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
