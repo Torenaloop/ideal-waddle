@@ -1,3 +1,6 @@
+# 2026-06-15
+- Export/download SOSPES Supervisor Report .csv
+- Upload that .csv + Lessons Learned Template into ChatGPT/Codex to complete
 # 2026-05-21
 - Escalation Call Tree for Incidents: please add the 3 B&G Safety reps (3) contact info for call tree purposes and Incident Management AP vs B&G Incident Management process harmonization #request
 - What will be the reoccurring touchpoints that will involve Operations? #request 

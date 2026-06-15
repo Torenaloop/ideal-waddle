@@ -497,12 +497,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -519,8 +518,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff5cb2755275fe20",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
     "Asana Tasks Assigned to Me per Project I am a Member of.md",
     "Clippings/MAGA’s French Connection.md",
@@ -529,7 +529,6 @@
     "Clippings/Trump at 80 A President ‘Really Uncomfortable’ With Aging.md",
     "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
     "Clippings/What the Cult of Efficiency Costs Us.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
     "RCA Agent Asana Review.md",
@@ -560,7 +559,6 @@
     "00-Bases/Goals Base.base",
     "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
     "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
-    "Clippings/Axios C-Suite Your agent prep kit.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
