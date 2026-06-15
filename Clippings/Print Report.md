@@ -10,6 +10,8 @@ tags:
 ---
 ## STACK
 
+[NVA02E] SOSPES# 253496 – Incident (Injury – OSHA Recordable) • Reported by Hocine Mbolidi on 05/26/2026. Injury classification, occurred in Operations. Status: Open. Full details / root cause to be added from the SOSPES report. [NVA02D] SOSPES# 247471 – Incident (Injury) • Reported by Ramon Rodriguez on 05/05/2026. Injury classification, occurred in Operations. Status: Open. Full details / root cause to be added from the SOSPES report. [NVA05D] SOSPES# 253341 – Close Call • Reported by Marvin Wells on 05/29/2026 at 8819 Wellington Rd, Manassas. Status: Open. Full description to be added from the SOSPES report.
+
 ## Incident Report
 
 Report Id
