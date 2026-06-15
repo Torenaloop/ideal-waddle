@@ -222,9 +222,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.13.1"
             }
+          },
+          {
+            "id": "4b0ebbafc1b480a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asana Tasks Assigned to Me per Project I am a Member of.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Asana Tasks Assigned to Me per Project I am a Member of"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -477,10 +501,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97aded7a413b03b0",
+  "active": "4b0ebbafc1b480a6",
   "lastOpenFiles": [
-    "Clippings/Independent Cascadia Greater Idaho Disunited States Look Toward Divorce.md",
+    "Asana Tasks Assigned to Me per Project I am a Member of.md",
     "Clippings/MAGA’s French Connection.md",
+    "Clippings/Independent Cascadia Greater Idaho Disunited States Look Toward Divorce.md",
     "Clippings/Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters.md",
     "Clippings/Trump at 80 A President ‘Really Uncomfortable’ With Aging.md",
     "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
@@ -518,7 +543,6 @@
     "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
     "Clippings/Axios C-Suite Your agent prep kit.md",
     "Premier Power Maintenance.md",
-    "02-Work/Running Notes.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
