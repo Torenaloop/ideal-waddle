@@ -255,8 +255,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 233.37493605183136,
-                  "y": 473.10074268414814,
+                  "x": -393.4239002232275,
+                  "y": 482.3183726293695,
                   "zoom": -1.6194333490850688
                 }
               },
@@ -518,8 +518,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "ff5cb2755275fe20",
   "lastOpenFiles": [
+    "02-Work/Running Notes.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
     "Asana Tasks Assigned to Me per Project I am a Member of.md",
