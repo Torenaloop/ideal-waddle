@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
+                "file": "Clippings/Print Report.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,28 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right"
-            }
-          },
-          {
-            "id": "ff5cb2755275fe20",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": -393.4239002232275,
-                  "y": 482.3183726293695,
-                  "zoom": -1.6194333490850688
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
+              "title": "Print Report"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -501,7 +484,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -518,11 +502,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff5cb2755275fe20",
+  "active": "4b0ebbafc1b480a6",
   "lastOpenFiles": [
-    "02-Work/Running Notes.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
+    "Clippings/Print Report.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/Running Notes.md",
     "Asana Tasks Assigned to Me per Project I am a Member of.md",
     "Clippings/MAGA’s French Connection.md",
     "Clippings/Independent Cascadia Greater Idaho Disunited States Look Toward Divorce.md",
@@ -559,7 +544,6 @@
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Clippings/How Trump’s Cabinet Speaks to Him Praise, Accolades and Lots of Criticizing Opponents.md",
-    "Clippings/To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
