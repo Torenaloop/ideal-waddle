@@ -222,26 +222,9 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.13.1"
             }
-          },
-          {
-            "id": "9a93496de0409a34",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": -183.70192394747545,
-                  "y": 48.72215311986662,
-                  "zoom": -1.2861000157517357
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -495,7 +478,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a93496de0409a34",
+  "active": "d9e9a8b57a72014f",
   "lastOpenFiles": [
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
