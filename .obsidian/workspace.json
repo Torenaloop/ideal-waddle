@@ -224,27 +224,20 @@
             }
           },
           {
-            "id": "4b0ebbafc1b480a6",
+            "id": "9a93496de0409a34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": -183.70192394747545,
+                  "y": 48.72215311986662,
+                  "zoom": -1.2861000157517357
                 }
               },
-              "icon": "lucide-file",
-              "title": "The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
             }
           }
         ],
@@ -307,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -501,12 +495,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0ebbafc1b480a6",
+  "active": "9a93496de0409a34",
   "lastOpenFiles": [
-    "Clippings/Print Report.md",
-    "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
-    "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
+    "Clippings/Print Report.md",
+    "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
     "02-Work/Running Notes.md",
     "Asana Tasks Assigned to Me per Project I am a Member of.md",
     "Clippings/MAGA’s French Connection.md",
@@ -540,7 +534,6 @@
     "Weekly Working Session 2026-05-27.md",
     "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
     "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
-    "Nuckolls AM Newsletter 2026-04-21.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "00-Bases/Meeting Tracker.base",
