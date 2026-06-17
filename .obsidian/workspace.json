@@ -234,9 +234,33 @@
               "icon": "lucide-file",
               "title": "Dear A.I. Companies The Doom Trolling Needs to Stop"
             }
+          },
+          {
+            "id": "83485243b5632403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Agent Creation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Meeting Agent Creation"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -489,8 +513,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9e9a8b57a72014f",
+  "active": "83485243b5632403",
   "lastOpenFiles": [
+    "Files/Pasted image 20260617103034.png",
+    "Files/Pasted image 20260617103008.png",
+    "Meeting Agent Creation.md",
     "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
@@ -525,10 +552,7 @@
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "Files/Screenshot 2026-05-28 142813.png",
     "Files/Screenshot 2026-05-28 142647.png",
-    "Files/Screenshot 2026-05-28 142637.png",
     "Weekly Working Session 2026-05-27.md",
-    "Clippings/Qualtrics Survey  Qualtrics Experience Management.md",
-    "Clippings/Australia’s ‘Prettiest Street’ Is Grappling With Fame.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "00-Bases/Meeting Tracker.base",
