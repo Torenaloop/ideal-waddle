@@ -215,12 +215,24 @@
             "id": "d9e9a8b57a72014f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.1"
+                "file": "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.1"
+              "icon": "lucide-file",
+              "title": "Dear A.I. Companies The Doom Trolling Needs to Stop"
             }
           }
         ],
@@ -283,8 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -480,6 +491,7 @@
   },
   "active": "d9e9a8b57a72014f",
   "lastOpenFiles": [
+    "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
     "Clippings/Print Report.md",
