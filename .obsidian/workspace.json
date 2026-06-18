@@ -258,9 +258,33 @@
               "icon": "lucide-file",
               "title": "Meeting Agent Creation"
             }
+          },
+          {
+            "id": "29fb0134ce28b82f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -513,11 +537,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83485243b5632403",
+  "active": "29fb0134ce28b82f",
   "lastOpenFiles": [
+    "Clippings/A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’.md",
+    "Meeting Agent Creation.md",
     "Files/Pasted image 20260617103034.png",
     "Files/Pasted image 20260617103008.png",
-    "Meeting Agent Creation.md",
     "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
@@ -551,7 +576,6 @@
     "EHS Incident Reporting - Mar 2025 - Appendix B - AMER AP Incident Management Procedure AP.md",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "Files/Screenshot 2026-05-28 142813.png",
-    "Files/Screenshot 2026-05-28 142647.png",
     "Weekly Working Session 2026-05-27.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
