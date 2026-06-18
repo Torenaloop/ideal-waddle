@@ -1,13 +1,12 @@
 ---
-title: "A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’"
-source: "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
-author:
-  - "[[Marc Santora]]"
+title: A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’
+source: https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html
+author: "[[Marc Santora]]"
 published: 2026-06-10
 created: 2026-06-18
-description: "Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations."
+description: Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
 tags:
-  - "clippings"
+  - clippings
 ---
 First Ukraine assembled an arsenal of [millions of drones](https://www.nytimes.com/interactive/2025/03/03/world/europe/ukraine-russia-war-drones-deaths.html) that, along with Russia’s own buildup, turned a 25-mile-wide strip along the front line into a killing ground. Then Kyiv expanded its reach deep into the Russian heartland as it targeted [oil infrastructure](https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html) and military factories, making long-range violence in the war a two-way street.
 
