@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -347,11 +348,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,11 +371,12 @@
   },
   "active": "83485243b5632403",
   "lastOpenFiles": [
-    "✂ Clippings/YouTube/Is YouTube Premium Lite Worth It in 2026.md",
+    "02-Work/Work Folder Open Tasks.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
+    "02-Work/Running Notes.md",
+    "✂ Clippings/YouTube/Is YouTube Premium Lite Worth It in 2026.md",
     "Clippings/Trump Put His Own Interests Above All in the Iran Deal.md",
     "Meeting Agent Creation.md",
-    "02-Work/Running Notes.md",
     "Clippings/A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’.md",
     "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
@@ -398,7 +400,6 @@
     "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
     "Clippings/What the Cult of Efficiency Costs Us.md",
     "Untitled.md",
-    "Clippings/Two hours that changed AI.md",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
