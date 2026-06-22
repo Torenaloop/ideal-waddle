@@ -8,120 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eeef902f6f183ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Prompt guidance  OpenAI API.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prompt guidance  OpenAI API"
-            }
-          },
-          {
-            "id": "6ef582e21d446e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuckolls AM Newsletter 2026-04-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nuckolls AM Newsletter 2026-04-21"
-            }
-          },
-          {
-            "id": "2be0c536b86dfa1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jesse Kenser Hub"
-            }
-          },
-          {
-            "id": "50a8a8e97d71f9c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.0"
-            }
-          },
-          {
-            "id": "83485243b5632403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Sinn Féin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinn Féin"
-            }
-          },
-          {
             "id": "52e5f5e13f1b87b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "CAB Review NVA06A - Parent Case 188382.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,11 +28,108 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "CAB Review NVA06A - Parent Case 188382"
+            }
+          },
+          {
+            "id": "7f791085955263fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review NVA06A - 187939.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review NVA06A - 187939"
+            }
+          },
+          {
+            "id": "d41547bbd90cc2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review NVA06A - 188574.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review NVA06A - 188574"
+            }
+          },
+          {
+            "id": "0b05fdda779183c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review NVA06A - 188565.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review NVA06A - 188565"
+            }
+          },
+          {
+            "id": "7c5923cfe1fba79d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review NVA06A - 177663.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review NVA06A - 177663"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -394,9 +383,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52e5f5e13f1b87b9",
+  "active": "7f791085955263fc",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "CAB Review NVA06A - 177663.md",
+    "CAB Review NVA06A - 188565.md",
+    "CAB Review NVA06A - 188574.md",
+    "CAB Review NVA06A - 187939.md",
+    "CAB Review NVA06A - Parent Case 188382.md",
     "Clippings/Sinn Féin.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -421,10 +414,6 @@
     "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
     "Asana Tasks Assigned to Me per Project I am a Member of.md",
     "Clippings/MAGA’s French Connection.md",
-    "Clippings/Independent Cascadia Greater Idaho Disunited States Look Toward Divorce.md",
-    "Clippings/Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters.md",
-    "Clippings/Trump at 80 A President ‘Really Uncomfortable’ With Aging.md",
-    "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
