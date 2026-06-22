@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -383,12 +382,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f791085955263fc",
+  "active": "7c5923cfe1fba79d",
   "lastOpenFiles": [
-    "CAB Review NVA06A - 177663.md",
-    "CAB Review NVA06A - 188565.md",
     "CAB Review NVA06A - 188574.md",
     "CAB Review NVA06A - 187939.md",
+    "CAB Review NVA06A - 177663.md",
+    "CAB Review NVA06A - 188565.md",
     "CAB Review NVA06A - Parent Case 188382.md",
     "Clippings/Sinn Féin.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
