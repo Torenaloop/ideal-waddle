@@ -114,9 +114,33 @@
               "icon": "lucide-file",
               "title": "Sinn Féin"
             }
+          },
+          {
+            "id": "52e5f5e13f1b87b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -370,10 +394,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83485243b5632403",
+  "active": "52e5f5e13f1b87b9",
   "lastOpenFiles": [
-    "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
+    "Untitled 1.md",
     "Clippings/Sinn Féin.md",
+    "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Running Notes.md",
     "✂ Clippings/YouTube/Is YouTube Premium Lite Worth It in 2026.md",
@@ -400,7 +425,6 @@
     "Clippings/Trump’s Big New Vulnerability in 2026 Blue-Collar White Voters.md",
     "Clippings/Trump at 80 A President ‘Really Uncomfortable’ With Aging.md",
     "Clippings/Deadlocked Wars How Major Powers Misread the Regions They Attacked.md",
-    "Clippings/What the Cult of Efficiency Costs Us.md",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
