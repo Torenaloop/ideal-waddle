@@ -126,10 +126,26 @@
               "icon": "lucide-file",
               "title": "CAB Review NVA06A - 177663"
             }
+          },
+          {
+            "id": "a216f5c6d446b590",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": 110.12689996384427,
+                  "y": 244.74590481351748,
+                  "zoom": -1.6194333490850688
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
+            }
           }
         ],
-        "currentTab": 4,
-        "stacked": true
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +195,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -188,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -382,11 +402,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c5923cfe1fba79d",
+  "active": "a216f5c6d446b590",
   "lastOpenFiles": [
+    "CAB Review NVA06A - 177663.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "CAB Review NVA06A - 188574.md",
     "CAB Review NVA06A - 187939.md",
-    "CAB Review NVA06A - 177663.md",
     "CAB Review NVA06A - 188565.md",
     "CAB Review NVA06A - Parent Case 188382.md",
     "Clippings/Sinn Féin.md",
@@ -407,12 +429,9 @@
     "NAL01B Safety Alignment Meeting.md",
     "Files/Pasted image 20260617103034.png",
     "Files/Pasted image 20260617103008.png",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
     "Clippings/Print Report.md",
     "Clippings/Frustrated by Courts, Trump Weighed Suspending a Constitutional Right.md",
-    "Asana Tasks Assigned to Me per Project I am a Member of.md",
-    "Clippings/MAGA’s French Connection.md",
     "Files/Pasted image 20260603125149.png",
     "Files/Pasted image 20260603124436.png",
     "Files/Pasted image 20260603124323.png",
