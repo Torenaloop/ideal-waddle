@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52e5f5e13f1b87b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Electrical Qualified Workshop Oral Board Question Bank"
-            }
-          },
-          {
             "id": "7f791085955263fc",
             "type": "leaf",
             "state": {
@@ -135,8 +111,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 278.8299223103868,
-                  "y": 445.74942769677347,
+                  "x": 393.4083753576159,
+                  "y": 506.71947948760493,
                   "zoom": -1.6194333490850688
                 }
               },
@@ -157,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -393,11 +369,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
+    "width": 516.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -415,9 +391,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b680fbbc2b7085e1",
+  "active": "a216f5c6d446b590",
   "lastOpenFiles": [
+    "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
+    "CAB Review NVA06A - 187939.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "00-Bases/Goals Base.base",
+    "00-Bases/People Base.base",
+    "02-Work/Work Folder Open Tasks.md",
+    "02-Work/Running Notes.md",
     "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
@@ -429,7 +412,6 @@
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
     "02-Work/4Ds.md",
     "CAB Review NVA06A - Parent Case 188382.md",
-    "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260413085730.png",
     "Files/Pasted image 20260430144758.png",
@@ -440,18 +422,14 @@
     "Files/Screenshot 2026-05-28 140456.png",
     "Files/Screenshot 2026-05-28 140807.png",
     "Files/Screenshot 2026-05-28 140909.png",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Untitled.md",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
     "CAB Review NVA06A - 177663.md",
     "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "CAB Review NVA06A - 188574.md",
-    "CAB Review NVA06A - 187939.md",
     "CAB Review NVA06A - 188565.md",
     "Clippings/Sinn Féin.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Running Notes.md",
     "✂ Clippings/YouTube/Is YouTube Premium Lite Worth It in 2026.md",
     "Clippings/Trump Put His Own Interests Above All in the Iran Deal.md",
     "Meeting Agent Creation.md",
@@ -459,8 +437,6 @@
     "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
-    "00-Bases/People Base.base",
-    "00-Bases/Goals Base.base",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
