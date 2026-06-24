@@ -156,7 +156,8 @@
               "title": "EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -414,8 +415,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52e5f5e13f1b87b9",
+  "active": "b680fbbc2b7085e1",
   "lastOpenFiles": [
+    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
@@ -457,8 +459,6 @@
     "Clippings/Dear A.I. Companies The Doom Trolling Needs to Stop.md",
     "02-Work/06-Work Person/STACK People/Jesse Kenser Hub.md",
     "Nuckolls AM Newsletter 2026-04-21.md",
-    "Clippings/Prompt guidance  OpenAI API.md",
-    "Codex Gap Analysis plus Asana Comment using Claude.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "00-Bases/Meeting Tracker.base",
