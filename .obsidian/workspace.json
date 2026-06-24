@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAB Review NVA06A - Parent Case 188382.md",
+                "file": "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CAB Review NVA06A - Parent Case 188382"
+              "title": "Electrical Qualified Workshop Oral Board Question Bank"
             }
           },
           {
@@ -148,16 +148,15 @@
             "id": "b680fbbc2b7085e1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Files/Pasted image 20260326083946.png"
+                "file": "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326083946"
+              "icon": "lucide-file-text",
+              "title": "EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: canvas",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -414,8 +414,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d783f074068ed222",
+  "active": "52e5f5e13f1b87b9",
   "lastOpenFiles": [
+    "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
+    "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
+    "02-Work/07 - Work Tasks/Work Tasks MOC.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
+    "01-Personal/04-Archives/STACK/STACK Job Description.md",
+    "02-Work/00 - Canvas/Dashboard.canvas",
+    "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
+    "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
+    "02-Work/4Ds.md",
+    "CAB Review NVA06A - Parent Case 188382.md",
+    "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
+    "Files/Pasted image 20260326083946.png",
     "Files/Pasted image 20260413085730.png",
     "Files/Pasted image 20260430144758.png",
     "Files/Pasted image 20260501090742.png",
@@ -425,9 +438,6 @@
     "Files/Screenshot 2026-05-28 140456.png",
     "Files/Screenshot 2026-05-28 140807.png",
     "Files/Screenshot 2026-05-28 140909.png",
-    "Files/Screenshot 2026-05-28 141117.png",
-    "Files/Screenshot 2026-05-28 141137.png",
-    "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Untitled.md",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
@@ -436,7 +446,6 @@
     "CAB Review NVA06A - 188574.md",
     "CAB Review NVA06A - 187939.md",
     "CAB Review NVA06A - 188565.md",
-    "CAB Review NVA06A - Parent Case 188382.md",
     "Clippings/Sinn Féin.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -450,11 +459,6 @@
     "Nuckolls AM Newsletter 2026-04-21.md",
     "Clippings/Prompt guidance  OpenAI API.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
-    "RCA Agent Asana Review.md",
-    "Clippings/Exclusive Office workers embrace OpenAI's Codex.md",
-    "NAL01B Safety Alignment Meeting.md",
-    "Clippings/The Untold Story of Jeffrey Epstein’s Death and His Final Days in Jail.md",
-    "Clippings/Print Report.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "00-Bases/Meeting Tracker.base",
@@ -463,12 +467,8 @@
     "00-Bases/Meetings Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/TRANSCRIPT Workin' Sesh 2026-03-18.pdf",
     "00-Bases/Work Folder Open Tasks.base",
-    "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
-    "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
-    "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
-    "02-Work/00 - Canvas/Dashboard.canvas",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
