@@ -1,7 +1,7 @@
 
 
 
-I compared the uploaded JSA against the MOP for **HF-P3-110 Replacement**. The current JSA captures the broad work sequence—opening/switching, live-dead-live, removal, install, and closing—but the MOP contains several more specific physical work steps that should be reflected in the JSA. The JSA currently lists five task rows with limited controls, while the MOP includes detailed LOTO, live-dead-live testing points, removal of terminations/conduit, equipment movement through the loading dock, torque work, CT verification, energization, and commissioning/startup steps.
+I compared the uploaded JSA against the MOP for **HF-P3-110 Replacement**. The current JSA captures the broad work sequence—opening/switching, live-dead-live, removal, install, and closing—but the MOP contains several more specific physical work steps that should be reflected in the JSA. The JSA currently lists five task rows with limited controls, while the MOP includes detailed LOTO, live-dead-live testing points, removal of terminations/conduit, equipment movement through the loading dock, torque work, CT verification, energization, and commissioning/startup steps. 
 
 ### Recommended JSA Task/Hazard/Control Updates
 
