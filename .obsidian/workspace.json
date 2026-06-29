@@ -184,14 +184,24 @@
             "id": "f117de7ff7087dea",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://stackinfrastructure-my.sharepoint.com/:x:/g/personal/nmansberger_stackinfra_com/IQDWpOZqhcYJRIuojX8m6pXXAWlsw_-pMgoqki3VVEKBw68?e=ELWSFV&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=8d0ccf80-2d3e-4b73-914c-3a46981c80a6",
-                "title": "Nick S1 Board Questions.xlsx",
-                "mode": "webview"
+                "file": "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "Nick S1 Board Questions.xlsx"
+              "icon": "lucide-file",
+              "title": "Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran"
             }
           }
         ],
@@ -455,6 +465,7 @@
   },
   "active": "f117de7ff7087dea",
   "lastOpenFiles": [
+    "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
     "Nick S1 Board Quiestions.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Clippings/Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’.md",
