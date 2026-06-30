@@ -3,7 +3,7 @@
 | Site        | Sq. Ft.    | Address                                          |
 | ----------- | ---------- | ------------------------------------------------ |
 | ATL01A      | 102,500    | 3200 Webb Bridge Rd, Alpharetta, GA 30005        |
-| CHI01A      | 207,00     | 1441 Touhy Ave, Elk Grove, IL 60007              |
+| CHI01A      | 207,000    | 1441 Touhy Ave, Elk Grove, IL 60007              |
 | CHI01B      | 202,000    | 1301 Touhy Ave, Elk Grove, IL 60007              |
 | DFW01A      | 318,000    | 6653 Pinecrest Dr, Plano, TX 75024               |
 | DFW01B      | 156,000    | 6715 Pinecrest Dr, Plano, TX 75024               |
