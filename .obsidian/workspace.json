@@ -8,6 +8,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a216f5c6d446b590",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+                "viewState": {
+                  "x": -1364.086400864608,
+                  "y": 414.54318003539044,
+                  "zoom": -1.6194333490850688
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas 2025-09-29"
+            }
+          },
+          {
             "id": "7f791085955263fc",
             "type": "leaf",
             "state": {
@@ -29,54 +46,6 @@
               },
               "icon": "lucide-file",
               "title": "CAB Review NVA06A - 187939"
-            }
-          },
-          {
-            "id": "d41547bbd90cc2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review NVA06A - 188574.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review NVA06A - 188574"
-            }
-          },
-          {
-            "id": "0b05fdda779183c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review NVA06A - 188565.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review NVA06A - 188565"
             }
           },
           {
@@ -104,137 +73,12 @@
             }
           },
           {
-            "id": "a216f5c6d446b590",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-                "viewState": {
-                  "x": -15.23988554720188,
-                  "y": 503.6469361725311,
-                  "zoom": -1.6194333490850688
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas 2025-09-29"
-            }
-          },
-          {
-            "id": "b680fbbc2b7085e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure"
-            }
-          },
-          {
-            "id": "ba51dfd956c5d9d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’"
-            }
-          },
-          {
-            "id": "b3db81196371df4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nick S1 Board Quiestions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nick S1 Board Quiestions"
-            }
-          },
-          {
-            "id": "f117de7ff7087dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Remote work continues to thrive.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Remote work continues to thrive"
-            }
-          },
-          {
-            "id": "de284c8504a0f76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "3b9fb802dd01724b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "SITE INFO FOR 2026 Health and Safety Audits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -249,12 +93,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "SITE INFO FOR 2026 Health and Safety Audits"
             }
           }
         ],
-        "currentTab": 10,
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -489,12 +331,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 516.5,
-    "collapsed": true
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -511,10 +352,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b9fb802dd01724b",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
+    "SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "CAB Review NVA06A - 187939.md",
+    "CAB Review NVA06A - 188574.md",
+    "CAB Review NVA06A - 188565.md",
+    "CAB Review NVA06A - 177663.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Clippings/Remote work continues to thrive.md",
     "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
     "Nick S1 Board Quiestions.md",
@@ -523,10 +369,7 @@
     "Clippings/In Colorado, the Long Aftermath of a Fire Feels Political.md",
     "Clippings/What if the MAGA Vibe Shift Was Just a Mirage.md",
     "Clippings/Why Is the Supreme Court Unshackling the Presidency.md",
-    "CAB Review NVA06A - 177663.md",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "CAB Review NVA06A - 187939.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
@@ -555,10 +398,7 @@
     "Files/Screenshot 2026-05-28 140909.png",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
     "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
-    "CAB Review NVA06A - 188574.md",
-    "CAB Review NVA06A - 188565.md",
     "Clippings/Sinn Féin.md",
-    "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
