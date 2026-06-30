@@ -203,9 +203,58 @@
               "icon": "lucide-file",
               "title": "Remote work continues to thrive"
             }
+          },
+          {
+            "id": "de284c8504a0f76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "3b9fb802dd01724b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -267,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -461,10 +511,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f117de7ff7087dea",
+  "active": "3b9fb802dd01724b",
   "lastOpenFiles": [
-    "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Clippings/Remote work continues to thrive.md",
+    "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
     "Nick S1 Board Quiestions.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Clippings/Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’.md",
@@ -507,8 +559,6 @@
     "CAB Review NVA06A - 188565.md",
     "Clippings/Sinn Féin.md",
     "Clippings/Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims.md",
-    "✂ Clippings/YouTube/Is YouTube Premium Lite Worth It in 2026.md",
-    "Clippings/Trump Put His Own Interests Above All in the Iran Deal.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
