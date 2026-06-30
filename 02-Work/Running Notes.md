@@ -3,8 +3,6 @@
 - Await volley on ATL01A investigation report
 - CAB
 - ISS audit scoping call
-- testing the following new keyboard 
-- i'm also 
 # 2026-06-15
 - Export/download SOSPES Supervisor Report .csv
 - Upload that .csv + Lessons Learned Template into ChatGPT/Codex to complete
