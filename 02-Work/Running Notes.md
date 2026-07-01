@@ -1,10 +1,13 @@
 # 2026-07-01
 - Working Session
+	- High Risk Activity / HRA Audits (2) per month
+	- Find applicable form in SOSPES
 # 2026-06-30 
 - Get info to site info to Antea for audit quote
 - Await volley on ATL01A investigation report
 - CAB
-- ISS audit scoping call
+- ISS audit scoping call today
+	- Antea audit scoping call was on 06/29/26
 # 2026-06-15
 - Export/download SOSPES Supervisor Report .csv
 - Upload that .csv + Lessons Learned Template into ChatGPT/Codex to complete
