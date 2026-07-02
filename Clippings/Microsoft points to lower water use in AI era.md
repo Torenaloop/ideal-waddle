@@ -1,13 +1,12 @@
 ---
-title: "Microsoft points to lower water use in AI era"
-source: "https://www.axios.com/2026/06/24/microsoft-lower-water-use-ai"
-author:
-  - "[[Amy Harder]]"
+title: Microsoft points to lower water use in AI era
+source: https://www.axios.com/2026/06/24/microsoft-lower-water-use-ai
+author: "[[Amy Harder]]"
 published: 2026-06-24
 created: 2026-06-30
-description: "Hyperscalers at the heart of the AI boom are racing to respond to growing concerns about the buildout's environmental footprint."
+description: Hyperscalers at the heart of the AI boom are racing to respond to growing concerns about the buildout's environmental footprint.
 tags:
-  - "clippings"
+  - clippings
 ---
 <iframe frameborder="0" src="https://069c6169c8f5b7f25b635e311b9d8869.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" title="3rd party ad content" width="0" height="124" allow="private-state-token-redemption;attribution-reporting" aria-label="Advertisement"></iframe>
 

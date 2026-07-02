@@ -119,9 +119,19 @@
               "icon": "lucide-file",
               "title": "Microsoft points to lower water use in AI era"
             }
+          },
+          {
+            "id": "0330558490cfa698",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -359,7 +369,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,11 +386,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "0330558490cfa698",
   "lastOpenFiles": [
-    "SITE INFO FOR 2026 Health and Safety Audits.md",
-    "02-Work/Running Notes.md",
     "Clippings/Microsoft points to lower water use in AI era.md",
+    "02-Work/Running Notes.md",
+    "Clippings/The Supreme Court's favorite branch of government is itself.md",
+    "02-Work/Work Folder Open Tasks.md",
+    "SITE INFO FOR 2026 Health and Safety Audits.md",
     "Clippings/Google's AI boom sends emissions, power use soaring.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "CAB Review NVA06A - 187939.md",
@@ -400,7 +412,6 @@
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
-    "02-Work/Work Folder Open Tasks.md",
     "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
@@ -423,7 +434,6 @@
     "Files/Screenshot 2026-05-28 140807.png",
     "Files/Screenshot 2026-05-28 140909.png",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
-    "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
     "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
