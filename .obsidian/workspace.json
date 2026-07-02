@@ -124,10 +124,24 @@
             "id": "0330558490cfa698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EHS Change Announcements from Jan 1 to June 23, 2026"
             }
           }
         ],
@@ -193,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -389,6 +402,7 @@
   },
   "active": "0330558490cfa698",
   "lastOpenFiles": [
+    "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Microsoft points to lower water use in AI era.md",
     "02-Work/Running Notes.md",
