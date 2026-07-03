@@ -143,9 +143,33 @@
               "icon": "lucide-file",
               "title": "You Should Know How Your House Works. Here’s a Guide"
             }
+          },
+          {
+            "id": "c5b97fc216081133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -400,10 +424,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0330558490cfa698",
+  "active": "c5b97fc216081133",
   "lastOpenFiles": [
-    "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
+    "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
+    "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "Clippings/Microsoft points to lower water use in AI era.md",
@@ -433,7 +458,6 @@
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/07 - Work Tasks/Work Tasks MOC.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Nuckolls 2025 Goals.md",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
     "02-Work/00 - Canvas/2025-09-26 Dashboard.canvas",
