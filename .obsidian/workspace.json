@@ -167,9 +167,33 @@
               "icon": "lucide-file",
               "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains"
             }
+          },
+          {
+            "id": "1f0a1ed1438930e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies to Watch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Movies to Watch"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -424,10 +448,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5b97fc216081133",
+  "active": "1f0a1ed1438930e9",
   "lastOpenFiles": [
-    "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
+    "Movies to Watch.md",
     "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
+    "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
     "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
@@ -441,7 +466,6 @@
     "CAB Review NVA06A - 188574.md",
     "CAB Review NVA06A - 188565.md",
     "CAB Review NVA06A - 177663.md",
-    "Untitled.md",
     "Clippings/Remote work continues to thrive.md",
     "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
     "Nick S1 Board Quiestions.md",
