@@ -1,14 +1,12 @@
 ---
-title: "What We Should Learn From Nordic Happiness"
-source: "https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html"
-author:
-  - "[[Nicholas Kristof]]"
-  - "[[Marthe Thu]]"
+title: What We Should Learn From Nordic Happiness
+source: https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html
+author: "[[Nicholas Kristof]],[[Marthe Thu]]"
 published: 2026-07-04
 created: 2026-07-05
-description: "Scandinavia is the land of five-week vacations, virtually free university, one-year parental leaves, easy child care — and very happy citizens."
+description: Scandinavia is the land of five-week vacations, virtually free university, one-year parental leaves, easy child care — and very happy citizens.
 tags:
-  - "clippings"
+  - clippings
 ---
 Do you know how to get an American company to grant you excellent wages and amazing benefits, even for an entry-level job?
 

@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/What We Should Learn From Nordic Happiness.md",
+                "file": "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What We Should Learn From Nordic Happiness"
+              "title": "We Hate to Break It to You, but Maybe We’re Not That Polarized"
             }
           }
         ],
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -431,7 +432,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -450,8 +452,9 @@
   },
   "active": "1f0a1ed1438930e9",
   "lastOpenFiles": [
-    "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
     "Clippings/What We Should Learn From Nordic Happiness.md",
+    "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
+    "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
     "Movies to Watch.md",
     "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
     "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
@@ -480,7 +483,6 @@
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
-    "02-Work/03 - Work Resources/202508021411 - Project Management Hub - Purchased Notion Template.md",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
