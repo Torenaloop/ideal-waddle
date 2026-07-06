@@ -191,9 +191,57 @@
               "icon": "lucide-file",
               "title": "The Vibe Has Shifted Back"
             }
+          },
+          {
+            "id": "c586b6aeb2b23605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review - NAL01B - 189532.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review - NAL01B - 189532"
+            }
+          },
+          {
+            "id": "4963d40d4b789e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review - NAL01B - 189816.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review - NAL01B - 189816"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -255,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -449,10 +498,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f0a1ed1438930e9",
+  "active": "4963d40d4b789e2e",
   "lastOpenFiles": [
-    "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
+    "CAB Review - NAL01B - 189532.md",
+    "CAB Review - NAL01B - 189816.md",
     "Clippings/The Vibe Has Shifted Back.md",
+    "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
     "Clippings/What We Should Learn From Nordic Happiness.md",
     "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
     "Movies to Watch.md",
@@ -477,8 +528,6 @@
     "Files/Nick S1 Board Questions.xlsx",
     "Clippings/Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’.md",
     "Clippings/In Colorado, the Long Aftermath of a Fire Feels Political.md",
-    "Clippings/What if the MAGA Vibe Shift Was Just a Mirage.md",
-    "Clippings/Why Is the Supreme Court Unshackling the Presidency.md",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
