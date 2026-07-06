@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 3.195374343240985,
-                  "y": 377.6726602545046,
-                  "zoom": -1.6194333490850688
+                  "x": -46.4010173636193,
+                  "y": 367.16145526257117,
+                  "zoom": -1.4070762135761612
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,223 +25,17 @@
             }
           },
           {
-            "id": "7f791085955263fc",
+            "id": "f99ed4ba44e7e696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review NVA06A - 187939.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CAB Review NVA06A - 187939"
-            }
-          },
-          {
-            "id": "7c5923cfe1fba79d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review NVA06A - 177663.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review NVA06A - 177663"
-            }
-          },
-          {
-            "id": "3b9fb802dd01724b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SITE INFO FOR 2026 Health and Safety Audits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SITE INFO FOR 2026 Health and Safety Audits"
-            }
-          },
-          {
-            "id": "1eb256e45ab1b3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Microsoft points to lower water use in AI era.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Microsoft points to lower water use in AI era"
-            }
-          },
-          {
-            "id": "0330558490cfa698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "You Should Know How Your House Works. Here’s a Guide"
-            }
-          },
-          {
-            "id": "c5b97fc216081133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains"
-            }
-          },
-          {
-            "id": "1f0a1ed1438930e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The Vibe Has Shifted Back.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Vibe Has Shifted Back"
-            }
-          },
-          {
-            "id": "c586b6aeb2b23605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review - NAL01B - 189532.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NAL01B - 189532"
-            }
-          },
-          {
-            "id": "4963d40d4b789e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review - NAL01B - 189816.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NAL01B - 189816"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -476,11 +270,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
+    "width": 438.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -498,39 +292,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c586b6aeb2b23605",
+  "active": "f99ed4ba44e7e696",
   "lastOpenFiles": [
-    "CAB Review - NAL01B - 189816.md",
-    "CAB Review - NAL01B - 189532.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/Work Folder Open Tasks.md",
+    "00-Bases/Goals Base.base",
+    "00-Bases/People Base.base",
+    "02-Work/02 - Work Areas/CAB Review NVA06A - 177663.md",
+    "SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/CAB Review - NAL01B - 189532.md",
+    "02-Work/02 - Work Areas/NAL01A/CAB - NAL01A MOC.md",
     "Clippings/The Vibe Has Shifted Back.md",
+    "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
+    "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
+    "Clippings/Microsoft points to lower water use in AI era.md",
+    "02-Work/CAB Review NVA06A - 187939.md",
+    "02-Work/02 - Work Areas/CAB Review - NAL01B - 189816.md",
     "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
     "Clippings/What We Should Learn From Nordic Happiness.md",
     "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
     "Movies to Watch.md",
-    "Clippings/MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains.md",
-    "Clippings/You Should Know How Your House Works. Here’s a Guide.md",
     "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "Clippings/Microsoft points to lower water use in AI era.md",
     "02-Work/Running Notes.md",
     "Clippings/The Supreme Court's favorite branch of government is itself.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "SITE INFO FOR 2026 Health and Safety Audits.md",
     "Clippings/Google's AI boom sends emissions, power use soaring.md",
-    "CAB Review NVA06A - 187939.md",
-    "CAB Review NVA06A - 188574.md",
-    "CAB Review NVA06A - 188565.md",
-    "CAB Review NVA06A - 177663.md",
+    "02-Work/CAB Review NVA06A - 188574.md",
+    "02-Work/CAB Review NVA06A - 188565.md",
     "Clippings/Remote work continues to thrive.md",
     "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
     "Nick S1 Board Quiestions.md",
     "Files/Nick S1 Board Questions.xlsx",
-    "Clippings/Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’.md",
-    "Clippings/In Colorado, the Long Aftermath of a Fire Feels Political.md",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
-    "00-Bases/Goals Base.base",
-    "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
