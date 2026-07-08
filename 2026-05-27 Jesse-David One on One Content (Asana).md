@@ -8,10 +8,19 @@
 1. 3 Goals put into Workday
     
 2. Help the East Region with EHS KPIs
+	1. Via Bi-annual EHS Assessments (Internal)
+	2. Via 3rd party Health & Safety Audit (External)
+	3. Environmental loose ends for Ops leadership/Director of Environmental
+	4. NAL01B D2D Checklist/Process
     
 3. Help continue to develop Gerald
+	1. In H2 of '26, Gerald performs due diligence on all of the East Region MOPs going to East Region CAB (up from select sites prior to)
+	2. In H2 of '26, Gerald to take lead on Bi-annual EHS Assessments for the East Region to allow him to strengthen his knowledge of "what good should look like" ahead of our adding additional sites in Gainesville, VA from Coreweave/Salute to shorten the time to adoption of STACK processes and procedures as in pertains to EHS when the time comes.
     
 4. Help continue data visualization and AI opportunities
+	1. Via Asana for projects/portfolios dashboards
+	2. Existing LLMs for visual data analysis (i.e. lite weight PowerBI alternatives more fit for our organization's purposes)
+	3. Agentic workflows
     
 5. Show word doc for COMs/ACOMs explaining our EHS Assessments
     
