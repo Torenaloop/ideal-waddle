@@ -47,9 +47,33 @@
               "icon": "lucide-file",
               "title": "CAB Review - NVA06A - 190664"
             }
+          },
+          {
+            "id": "2a81821cf56e7d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -306,8 +330,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99ed4ba44e7e696",
+  "active": "2a81821cf56e7d51",
   "lastOpenFiles": [
+    "Untitled.md",
     "CAB Review - NVA06A - 190664.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
@@ -336,7 +361,6 @@
     "02-Work/CAB Review NVA06A - 188565.md",
     "Clippings/Remote work continues to thrive.md",
     "Clippings/Blackwater founder Erik Prince Trump was ‘badly advised’ on Iran.md",
-    "Nick S1 Board Quiestions.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
