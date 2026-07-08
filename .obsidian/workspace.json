@@ -95,9 +95,33 @@
               "icon": "lucide-file",
               "title": "2026-07-08 Jesse-David One on One (Asana)"
             }
+          },
+          {
+            "id": "c742fb6a621a948d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -355,10 +379,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fdad01da8c5ead8",
+  "active": "c742fb6a621a948d",
   "lastOpenFiles": [
-    "2026-05-27 Jesse-David One on One Content (Asana).md",
     "2026-07-08 Jesse-David One on One (Asana).md",
+    "Untitled.md",
+    "2026-05-27 Jesse-David One on One Content (Asana).md",
     "CAB Review - NVA06A - 190664.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Work Folder Open Tasks.md",
@@ -385,7 +410,6 @@
     "Clippings/Google's AI boom sends emissions, power use soaring.md",
     "02-Work/CAB Review NVA06A - 188574.md",
     "02-Work/CAB Review NVA06A - 188565.md",
-    "Clippings/Remote work continues to thrive.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
