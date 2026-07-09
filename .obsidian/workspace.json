@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -46.4010173636193,
-                  "y": 367.16145526257117,
-                  "zoom": -1.4070762135761612
+                  "x": 625.6907211911654,
+                  "y": 390.94089873246594,
+                  "zoom": -1.7404095469094945
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -120,8 +120,7 @@
               "title": "CAB Review - NVA06A - 190733"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -377,10 +377,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c742fb6a621a948d",
+  "active": "a216f5c6d446b590",
   "lastOpenFiles": [
-    "Movies to Watch.md",
     "CAB Review - NVA06A - 190733.md",
+    "Movies to Watch.md",
     "2026-07-08 Jesse-David One on One (Asana).md",
     "2026-05-27 Jesse-David One on One Content (Asana).md",
     "CAB Review - NVA06A - 190664.md",
