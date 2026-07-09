@@ -25,30 +25,6 @@
             }
           },
           {
-            "id": "f99ed4ba44e7e696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review - NVA06A - 190664.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NVA06A - 190664"
-            }
-          },
-          {
             "id": "2a81821cf56e7d51",
             "type": "leaf",
             "state": {
@@ -95,32 +71,9 @@
               "icon": "lucide-file",
               "title": "2026-07-08 Jesse-David One on One (Asana)"
             }
-          },
-          {
-            "id": "c742fb6a621a948d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review - NVA06A - 190733.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NVA06A - 190733"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -355,12 +307,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,14 +328,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a216f5c6d446b590",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
-    "CAB Review - NVA06A - 190733.md",
-    "Movies to Watch.md",
     "2026-07-08 Jesse-David One on One (Asana).md",
+    "CAB Review - NVA06A - 190733.md",
     "2026-05-27 Jesse-David One on One Content (Asana).md",
     "CAB Review - NVA06A - 190664.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "Movies to Watch.md",
     "02-Work/Work Folder Open Tasks.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
@@ -407,7 +358,6 @@
     "Clippings/The Supreme Court's favorite branch of government is itself.md",
     "Clippings/Google's AI boom sends emissions, power use soaring.md",
     "02-Work/CAB Review NVA06A - 188574.md",
-    "02-Work/CAB Review NVA06A - 188565.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
