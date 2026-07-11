@@ -71,9 +71,33 @@
               "icon": "lucide-file",
               "title": "2026-07-08 Jesse-David One on One (Asana)"
             }
+          },
+          {
+            "id": "6c7d792b17b8a5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Haves, have-nots and know-nots Inside AI's new class divide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Haves, have-nots and know-nots Inside AI's new class divide"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -328,8 +352,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82bf9a9226cdb1ca",
+  "active": "6c7d792b17b8a5d1",
   "lastOpenFiles": [
+    "02-Work/Running Notes.md",
+    "Clippings/Haves, have-nots and know-nots Inside AI's new class divide.md",
     "2026-07-08 Jesse-David One on One (Asana).md",
     "CAB Review - NVA06A - 190733.md",
     "2026-05-27 Jesse-David One on One Content (Asana).md",
@@ -354,7 +380,6 @@
     "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
     "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
     "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
-    "02-Work/Running Notes.md",
     "Clippings/The Supreme Court's favorite branch of government is itself.md",
     "Clippings/Google's AI boom sends emissions, power use soaring.md",
     "02-Work/CAB Review NVA06A - 188574.md",
