@@ -12,7 +12,8 @@ Lindsey Graham’s moment, it seemed, came on the evening of Jan. 6. With crews 
 
 Half a year later, a relaxed Mr. Graham, sitting in his Senate office behind a desk strewn with balled napkins and empty Coke Zero bottles, says he did not mean what almost everybody else thought he meant.
 
-“That was taken as, ‘I’m out, count me out,’ that somehow, you know, that I’m done with the president,” he said. “No! What I was trying to say to my colleagues and to the country was, ‘This process has come to a conclusion.’ The president had access to the courts. He was able to make his case to state legislators through hearings. He was disappointed he fell short. It didn’t work out. It was over for me.”
+“That was taken as, ‘I’m out, count me out,’ that somehow, you know, that I’m done with the president,” he said. “No! What I was trying to say to my colleagues and to the country was, ‘This process has come to a conclusion.’ The president had access to the courts. He 
+was able to make his case to state legislators through hearings. He was disappointed he fell short. It didn’t work out. It was over for me.”
 
 What was not over for the senator from South Carolina was his unlikely — to many people, confounding — relationship with that president, Donald J. Trump.
 

@@ -2,6 +2,10 @@
 - Working Session
 	- High Risk Activity / HRA Audits (2) per month
 	- Find applicable form in SOSPES
+- FOR #Gerald_Aldajuste  
+	- CAP AUDIT/ERPs
+	- AUGUST EQW #NVA06A 
+	- Safety Champion - Dezy - #NVA06A 
 # 2026-06-30 
 - Get info to site info to Antea for audit quote
 - Await volley on ATL01A investigation report
