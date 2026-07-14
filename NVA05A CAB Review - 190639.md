@@ -47,7 +47,8 @@ Administrative notifications, approvals, recordkeeping, CMMS entries, and HMI-on
     
 - ⚠️ **PPE and tool classification:** The insulated flat-head screwdriver is listed as PPE in the JSA and MOP overview; it should be listed as a voltage-rated tool. “Electrical Gloves” should be written as the specified glove class with leather protectors and should include pre-use inspection and test-date verification.
     
-- ⚠️ **Training:** The JSA lists S1 and UPS shutdown/restoration training, but the MOP requires qualified personnel and coordinated LOTO. Add electrically qualified-person, arc-flash/shock, and authorized-employee LOTO training where applicable.
+- ⚠️ **Training:** The JSA lists S1 and UPS shutdown/restoration training, but the MOP
+- requires qualified personnel and coordinated LOTO. Add electrically qualified-person, arc-flash/shock, and authorized-employee LOTO training where applicable.
     
 - ✅ **No clearly irrelevant JSA task:** Arc flash and shock are relevant throughout the switching process. The concern is inaccurate or incomplete hazard data—particularly “480 VAC” for battery work—not an unnecessary hazard category.
     

@@ -1,3 +1,6 @@
+# 2026-07-14
+- #NVA05D ** request for onsite support for PRCSE work on 7/15**
+- RCA feedback sync w/ #jesse-kenser & #Gerald_Aldajuste 
 # 2026-07-13
 - #NAL01A Property Damage #Incident 
 	- ~~_Hey not sure if you saw my email but Nick asked me to reach out. Construction took out our loading dock light pole and security camera. We dealt with similar repair earlier this year. We just executed applicable sections of the previously approved MOP to LOTO electric from the pole.~~
