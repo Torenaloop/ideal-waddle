@@ -1,6 +1,7 @@
 # 2026-07-13
 - #NAL01A Property Damage #Incident 
 	- _Hey not sure if you saw my email but Nick asked me to reach out. Construction took out our loading dock light pole and security camera. We dealt with similar repair earlier this year. We just executed applicable sections of the previously approved MOP to LOTO electric from the pole.
+		- Entered into SOSPES by Construction on 7/14
 - #NVA05D CAB Review
 	- 191138 Permit Required Confined Space Work
 # 2026-07-01
