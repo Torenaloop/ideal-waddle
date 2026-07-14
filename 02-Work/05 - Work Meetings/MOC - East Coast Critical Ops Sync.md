@@ -7,7 +7,7 @@
 - [[NAL01A]]
 - [[NVA01A]]
 - [[NVA02D-E]]
-- [[NVA05A]]
+- [[Notion/NVA05A]]
 - [[NVA05D]]
 - [[NVA06A]]
 ## 2026-01-12
@@ -15,7 +15,7 @@
 - [[NAL01A]]
 - [[NVA01A]]
 - [[NVA02D-E]]
-- [[NVA05A]]
+- [[Notion/NVA05A]]
 - [[NVA05D]]
 - [[NVA06A]]
 ## 2026-01-05
@@ -24,7 +24,7 @@
 	- Whip repair pending approval from client
 	- G & W for transformer repair (shooting for Wednesday): Leak repair
 	- New hire set to set for next week...?
-- [[NVA05A]]
+- [[Notion/NVA05A]]
 	- Poole and Kent - humidifier
 		- sensor switches - water was getting in
 		- Phase 3 testing going on

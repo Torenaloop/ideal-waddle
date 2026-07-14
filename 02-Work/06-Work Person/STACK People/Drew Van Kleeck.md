@@ -1,7 +1,7 @@
 ---
 Company: STACK Infrastructure
 Org: Critical Operations
-Location: "[[NVA05A]]"
+Location: "[[Notion/NVA05A]]"
 Job Title: "[[COM]]"
 Email:
 Phone:

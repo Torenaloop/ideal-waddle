@@ -338,10 +338,10 @@ Before left from his trip
 - Weekly CAB Support
 	-  JSA review
 	- AP(s) cross-reference against the work
-		- 2025-12-09: Case No. 167535 -  [[NVA05A]] - High Risk - NVA05A GEN P2-110 and P3-110 Live Load TEST for Opacity per DEQ request. Will take load off utility and place on generators via the ATC Woodward.
+		- 2025-12-09: Case No. 167535 -  [[Notion/NVA05A]] - High Risk - NVA05A GEN P2-110 and P3-110 Live Load TEST for Opacity per DEQ request. Will take load off utility and place on generators via the ATC Woodward.
 			- https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2537355&whence=&cmid=1764948574920_14962
 		- 2025-12-09: Case No. xxxxxx - [[NVA06A]] - got one coming soon per Jon C
-		- 2025-12-09: Case No. 167535 -  [[NVA05A]] - High Risk - NVA05A GEN P2-110 and P3-110 Live Load TEST for Opacity per DEQ request. Will take load off utility and place on generators via the ATC Woodward.
+		- 2025-12-09: Case No. 167535 -  [[Notion/NVA05A]] - High Risk - NVA05A GEN P2-110 and P3-110 Live Load TEST for Opacity per DEQ request. Will take load off utility and place on generators via the ATC Woodward.
 			- https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2537355&whence=&cmid=1764948574920_14962
 		- 2025-12-09: Case No. xxxxxx - [[NVA06A]] - got one coming soon per Jon C
 - Weekly LOTO Assessments
