@@ -126,12 +126,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://app.asana.com/0/1214264132546478/1214265632922541",
-                "title": "CritOps EHS Team - Asana",
+                "url": "https://app.asana.com/1/1181033344075385/home",
+                "title": "Home - Asana",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "CritOps EHS Team - Asana"
+              "title": "Home - Asana"
             }
           }
         ],
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -374,8 +373,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
