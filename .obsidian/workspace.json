@@ -127,11 +127,23 @@
               "type": "webviewer",
               "state": {
                 "url": "https://app.asana.com/1/1181033344075385/home",
-                "title": "Home - Asana",
-                "mode": "webview"
+                "title": "Asana",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Home - Asana"
+              "title": "Asana"
+            }
+          },
+          {
+            "id": "22834d1a58909cd7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.2"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.2"
             }
           }
         ],
