@@ -1,8 +1,8 @@
 # 2026-07-21
-- Last audit protocol csx or excel
+- Last audit protocol csv or excel
 - Reference md site list
 - Claude saved/pinned project (Asana - East Region Ops EHS Portfolio with individual projects for each site. Projects will consist of rows/columns that correspond to the final audit protocol file rows/columns/criteria)
-- Explain what we need to Claude Fable for output project for Asana into my Asana work account (see above parenthetical + a similar fit for purpose dashboard associated with the respective projects rolling up to the portfolio-level view dashboard) 
+- Explain what we need to Claude Opus 4.8 for output of project for Asana into my Asana work account (see above parenthetical + a similar fit for purpose dashboard associated with the respective projects rolling up to the portfolio-level view dashboard) 
 # 2026-07-20
 - ISS Audit Project Build-Out #Asana 
 # 2026-07-14
