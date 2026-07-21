@@ -131,8 +131,33 @@
               "icon": "lucide-file",
               "title": "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration"
             }
+          },
+          {
+            "id": "22fc23dacca846dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SITE INFO FOR 2026 Health and Safety Audits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SITE INFO FOR 2026 Health and Safety Audits"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -195,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -372,8 +396,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -390,10 +413,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fcdecec3df018d3",
+  "active": "82bf9a9226cdb1ca",
   "lastOpenFiles": [
-    "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
+    "SITE INFO FOR 2026 Health and Safety Audits.md",
     "STACK EHS Vendor Onboarding - Critical System Services.md",
+    "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Running Notes.md",
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
@@ -410,7 +434,6 @@
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
     "02-Work/02 - Work Areas/CAB Review NVA06A - 177663.md",
-    "SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/CAB Review - NAL01B - 189532.md",
     "02-Work/02 - Work Areas/NAL01A/CAB - NAL01A MOC.md",
     "Clippings/The Vibe Has Shifted Back.md",
