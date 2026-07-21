@@ -1,3 +1,8 @@
+# 2026-07-21
+- Last audit protocol csx or excel
+- Reference md site list
+- Claude saved/pinned project (Asana)
+- Explain what we need to Claude Fable for output project for Asana into my Asana work account
 # 2026-07-20
 - ISS Audit Project Build-Out #Asana 
 # 2026-07-14
