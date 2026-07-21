@@ -83,9 +83,33 @@
               "icon": "lucide-file",
               "title": "Electrical Qualified Workshop Oral Board Question Bank"
             }
+          },
+          {
+            "id": "d545a8379f1a2abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -324,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,8 +366,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44767d37f0198255",
+  "active": "d545a8379f1a2abf",
   "lastOpenFiles": [
+    "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
+    "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "02-Work/Running Notes.md",
     "Clippings/Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
@@ -370,8 +397,6 @@
     "Clippings/We Hate to Break It to You, but Maybe We’re Not That Polarized.md",
     "Clippings/What We Should Learn From Nordic Happiness.md",
     "Clippings/Tusk warns 'critical months' ahead for Poland in face of Russian threat.md",
-    "02-Work/EHS Change Announcements from Jan 1 to June 23, 2026.md",
-    "02-Work/~$S Change Announcements from Jan 1 to June 23, 2026.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
