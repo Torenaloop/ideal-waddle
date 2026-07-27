@@ -179,9 +179,21 @@
               "icon": "lucide-file",
               "title": "Excel EHS Audit Migration Handoff Document (Claude)"
             }
+          },
+          {
+            "id": "a09d6018d98b3530",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.3"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -438,7 +450,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f11d66a65bd7aa6",
+  "active": "a09d6018d98b3530",
   "lastOpenFiles": [
     "02-Work/Running Notes.md",
     "Excel EHS Audit Migration Handoff Document (Claude).md",
