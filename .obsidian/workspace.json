@@ -198,7 +198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Nuckolls Family Research - Migration Heat Map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -213,7 +213,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Nuckolls Family Research - Migration Heat Map"
             }
           },
           {
@@ -289,7 +289,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -547,13 +547,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "232c42e6ca5ce3f6",
+  "active": "3efca1ee6eac1c71",
   "lastOpenFiles": [
-    "Matthews Living History Farm - Family Connection.md",
     "01-Personal/Nuckolls Family Research.md",
+    "Matthews Living History Farm - Family Connection.md",
+    "Nuckolls Family Research - Migration Heat Map.md",
     "Stephen F. Austin Neighbor.md",
     "~$ephen F. Austin Neighbor.md",
-    "Untitled.md",
     "Files/Pasted image 20260727171447.png",
     "02-Work/Running Notes.md",
     "Excel EHS Audit Migration Handoff Document (Claude).md",
