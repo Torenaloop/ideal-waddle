@@ -24,3 +24,21 @@
 | SVA01D      | 300,000    | 2400 Ringwood Ave, San Jose, CA 95131            |
 | TOR01A      | 88,790     | 3650 Danforth Ave, Scarborough, ON, CA M1N 2E8   |
 
+--- 
+# 07/29 ISS Project Kick Off Meeting
+## Attendees
+ - Dale Gross, Clint Sharp, #jesse-kenser 
+
+## Deliverables
+ - Us - past Shirley Parsons audit report and spreadsheet? ⏹️ 
+	 - Clint mentioned that they have sent over an example audit criteria spreadsheet and report
+		 - Jesse looking at during the meeting 
+	- Provide approved dates from STACK to ISS based on the proposed 
+	- STACK contact info to ISS (COM, ACOM, EHS)
+	- POR dates are flexible
+- ISS - draft different report formats (minus spreadsheet/csv) for STACK to choose from | Due ? ⏹️
+	- What items are needed on STACK's end from ISS does ISS need to provide to STACK to get the contract formalized? 
+		- Jesse unsure, Dale will send over his normal packet and we'll go from there
+
+# Logistics
+- 2 auditors for the project - Clint and a direct report of Clint's 
