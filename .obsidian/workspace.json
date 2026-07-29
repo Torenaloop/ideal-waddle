@@ -395,9 +395,33 @@
               "icon": "lucide-file",
               "title": "CAB Review - NVA06A - 190935"
             }
+          },
+          {
+            "id": "47879b89d8b0e300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback on Incident Portfolio and Project in Asana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Feedback on Incident Portfolio and Project in Asana"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -459,7 +483,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -653,10 +678,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0557e0ce4f98d00a",
+  "active": "47879b89d8b0e300",
   "lastOpenFiles": [
-    "CAB Review - NVA06A - 186129.md",
+    "Feedback on Incident Portfolio and Project in Asana.md",
     "CAB Review - NVA06A - 190935.md",
+    "CAB Review - NVA06A - 186129.md",
     "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
@@ -686,7 +712,6 @@
     "02-Work/Work Folder Open Tasks.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
-    "02-Work/02 - Work Areas/CAB Review NVA06A - 177663.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
