@@ -347,9 +347,57 @@
               "icon": "lucide-file",
               "title": "James Sedoruk"
             }
+          },
+          {
+            "id": "ffff97009476ff47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review - NVA06A - 186129.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review - NVA06A - 186129"
+            }
+          },
+          {
+            "id": "0557e0ce4f98d00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAB Review - NVA06A - 190935.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review - NVA06A - 190935"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -605,8 +653,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cace4ab51edfd3",
+  "active": "0557e0ce4f98d00a",
   "lastOpenFiles": [
+    "CAB Review - NVA06A - 186129.md",
+    "CAB Review - NVA06A - 190935.md",
+    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
@@ -636,8 +687,6 @@
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
     "02-Work/02 - Work Areas/CAB Review NVA06A - 177663.md",
-    "02-Work/CAB Review - NAL01B - 189532.md",
-    "02-Work/02 - Work Areas/NAL01A/CAB - NAL01A MOC.md",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
