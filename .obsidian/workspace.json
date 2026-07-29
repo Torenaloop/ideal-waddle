@@ -287,9 +287,21 @@
               "icon": "lucide-file",
               "title": "Stephen F. Austin Neighbor"
             }
+          },
+          {
+            "id": "fd34985bfaf1579b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -547,7 +559,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3efca1ee6eac1c71",
+  "active": "fd34985bfaf1579b",
   "lastOpenFiles": [
     "01-Personal/Nuckolls Family Research.md",
     "Matthews Living History Farm - Family Connection.md",
