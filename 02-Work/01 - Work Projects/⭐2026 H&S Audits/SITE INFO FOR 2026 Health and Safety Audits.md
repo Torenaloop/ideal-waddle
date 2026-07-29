@@ -30,15 +30,17 @@
  - Dale Gross, Clint Sharp, #jesse-kenser 
 
 ## Deliverables
- - Us - past Shirley Parsons audit report and spreadsheet? ⏹️  YES - SEND TO CLINT and DALE
+ - Us - past Shirley Parsons audit report and spreadsheet? ⏹️  YES - send to Clint and Dale - DAVID
+	 - 	- MSA or PO for ISS? Find out and complete ⏹️ | David - Do we need to get an MSA based on the work they'll be doing - based on what they are doing, how are we supposed to pay them?
 	 - Clint mentioned that they have sent over an example audit criteria spreadsheet and report
 		 - Jesse looking at during the meeting 
 	- Provide approved dates from STACK to ISS based on the proposed ⏹️| Jesse/David 
 		-  POR dates are flexible for Clint
 			- Current trip 1 will probably be moved to November...
-	- Provide ISS with a shared folder in SharePoint ⏹️ | Jesse
+	- Provide ISS with a shared folder in SharePoint ✅ | Jesse
 	- STACK contact info to ISS (COM, ACOM, EHS) ⏹️ | David
-	- MSA or PO for ISS? Find out and complete ⏹️ | David
+
+		- 
 	
 - ISS - draft different report formats (minus spreadsheet/csv) for STACK to choose from | Due ? ⏹️
 	- What items are needed on STACK's end from ISS does ISS need to provide to STACK to get the contract formalized? 
