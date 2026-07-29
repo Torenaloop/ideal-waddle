@@ -8,6 +8,10 @@ Phone:
 tags:
 ---
 # Notes
+
+## 2026-07-29
+ - [[James Sedoruk 1 on 1]] 
+	 - [ ] Need all East Region Sites to have their respective ERP's up-to-date by Friday, 2026-07-31
 ## 2025-11-22
 - Requested assistance with procuring PPE and new hire safety orientation
 ## 2025-11-19
