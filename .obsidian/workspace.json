@@ -395,33 +395,9 @@
               "icon": "lucide-file",
               "title": "CAB Review - NVA06A - 190935"
             }
-          },
-          {
-            "id": "47879b89d8b0e300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback on Incident Portfolio and Project in Asana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Feedback on Incident Portfolio and Project in Asana"
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -678,7 +654,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47879b89d8b0e300",
+  "active": "0557e0ce4f98d00a",
   "lastOpenFiles": [
     "Feedback on Incident Portfolio and Project in Asana.md",
     "CAB Review - NVA06A - 190935.md",
