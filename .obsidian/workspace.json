@@ -395,9 +395,32 @@
               "icon": "lucide-file",
               "title": "Gen Z Thinks Religion Got Too Political"
             }
+          },
+          {
+            "id": "8da7e861a997987c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekend shopping list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Weekend shopping list"
+            }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -654,10 +677,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0557e0ce4f98d00a",
+  "active": "4fcdecec3df018d3",
   "lastOpenFiles": [
-    "CAB Review - NVA06A - 190935.md",
+    "Weekend shopping list.md",
     "Clippings/Gen Z Thinks Religion Got Too Political.md",
+    "CAB Review - NVA06A - 190935.md",
     "Feedback on Incident Portfolio and Project in Asana.md",
     "CAB Review - NVA06A - 186129.md",
     "02-Work/06-Work Person/STACK People/James Sedoruk.md",
@@ -685,7 +709,6 @@
     "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
     "Clippings/Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.md",
     "Clippings/Tap Dancing With Trump Lindsey Graham’s Quest for Relevance.md",
-    "Clippings/Haves, have-nots and know-nots Inside AI's new class divide.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
     "Files/Nick S1 Board Questions.xlsx",
