@@ -426,7 +426,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
+                "file": "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -441,7 +441,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District"
+              "title": "Church registers - Old parish registers - Births and Baptisms - Search results (2)"
             }
           }
         ],
@@ -507,8 +507,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -704,6 +703,8 @@
   },
   "active": "0651a72db5bc080f",
   "lastOpenFiles": [
+    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
+    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
     "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
     "Clippings/Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble.md",
     "Clippings/Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble.md",
@@ -730,9 +731,7 @@
     "Matthews Living History Farm - Family Connection.md",
     "Stephen F. Austin Neighbor.md",
     "01-Personal/Nuckolls Family Research.md",
-    "~$ephen F. Austin Neighbor.md",
     "Files/Pasted image 20260727171447.png",
-    "02-Work/Running Notes.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
