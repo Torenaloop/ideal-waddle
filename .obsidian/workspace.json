@@ -136,24 +136,10 @@
             "id": "22fc23dacca846dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SITE INFO FOR 2026 Health and Safety Audits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SITE INFO FOR 2026 Health and Safety Audits"
+              "title": "New tab"
             }
           },
           {
@@ -493,7 +479,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -750,10 +736,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71522abb7273a872",
+  "active": "82f9c83feb1bc6b6",
   "lastOpenFiles": [
-    "CAPA Resolution needed.md",
+    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
+    "CAPA Resolution needed.md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
     "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
@@ -765,7 +752,6 @@
     "CAB Review - NVA06A - 190935.md",
     "Feedback on Incident Portfolio and Project in Asana.md",
     "CAB Review - NVA06A - 186129.md",
-    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
@@ -807,4 +793,6 @@
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
     "02-Work/07 - Work Tasks/Waiting On - Week 32.canvas",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/23 Safety.canvas"
+  ]
+}
