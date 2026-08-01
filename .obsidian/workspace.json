@@ -477,9 +477,33 @@
               "icon": "lucide-file",
               "title": "Aftermath and Prisoners  Scottish Prisoners of War Society"
             }
+          },
+          {
+            "id": "ad7b074ededcedb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -736,11 +760,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f9c83feb1bc6b6",
+  "active": "ad7b074ededcedb2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CAPA Resolution needed.md",
     "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
-    "CAPA Resolution needed.md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
     "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
@@ -765,7 +790,6 @@
     "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
     "Excel EHS Audit Migration Handoff Document (Claude).md",
     "Nuckolls Family Research - Migration Heat Map.md",
-    "Matthews Living History Farm - Family Connection.md",
     "Files/Pasted image 20260727171447.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
