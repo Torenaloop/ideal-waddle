@@ -443,9 +443,33 @@
               "icon": "lucide-file",
               "title": "Church registers - Old parish registers - Births and Baptisms - Search results (2)"
             }
+          },
+          {
+            "id": "82f9c83feb1bc6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAPA Resolution needed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAPA Resolution needed"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -507,7 +531,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -701,10 +726,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0651a72db5bc080f",
+  "active": "82f9c83feb1bc6b6",
   "lastOpenFiles": [
-    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
+    "CAPA Resolution needed.md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
+    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
     "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
     "Clippings/Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble.md",
     "Clippings/Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble.md",
@@ -730,7 +756,6 @@
     "Nuckolls Family Research - Migration Heat Map.md",
     "Matthews Living History Farm - Family Connection.md",
     "Stephen F. Austin Neighbor.md",
-    "01-Personal/Nuckolls Family Research.md",
     "Files/Pasted image 20260727171447.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
