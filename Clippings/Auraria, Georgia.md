@@ -9,6 +9,17 @@ description:
 tags:
   - "clippings"
 ---
+And it hands you a documentable record with a conflict attached. A Crown grant c. 1750 — but B.F. Nuckolls says the family came to South Carolina "about 1765 to 1775." Fifteen to twenty-five years apart. South Carolina colonial grants are indexed at SCDAH, and that record settles it. If Mary is right, the Carolina branch arrived a generation earlier than the corpus has it. | Best new lead: the Dawkins Papers at the South Caroliniana Library, University of South Carolina. A catalogued manuscript collection of letters by and about a Nuckolls-descended family. That's primary material sitting in an accessible archive. |
+
+
+
+--- 
+
+
+
+
+
+
 **Auraria** is a [ghost town](https://en.wikipedia.org/wiki/Ghost_town "Ghost town") in [Lumpkin County](https://en.wikipedia.org/wiki/Lumpkin_County,_Georgia "Lumpkin County, Georgia"), [Georgia](https://en.wikipedia.org/wiki/Georgia_\(U.S._state\) "Georgia (U.S. state)"), United States, southwest of [Dahlonega](https://en.wikipedia.org/wiki/Dahlonega,_Georgia "Dahlonega, Georgia"). Its name derives from *aurum*, the Latin word for *gold*.[^2] In its early days, it was also known variously as **Dean**, **Deans**, **Nuckollsville**, and **Scuffle Town**.[^3]
 
 ## History
