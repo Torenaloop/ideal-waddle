@@ -508,8 +508,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/The Allure and Peril of Riding an Alaskan Wave for Six Miles.md",
-                "mode": "preview",
+                "file": "Clippings/Auraria, Georgia.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -523,7 +523,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Allure and Peril of Riding an Alaskan Wave for Six Miles"
+              "title": "Auraria, Georgia"
             }
           }
         ],
@@ -786,8 +786,9 @@
   },
   "active": "170577b4b6d5f8d2",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Clippings/The Allure and Peril of Riding an Alaskan Wave for Six Miles.md",
+    "Clippings/Auraria, Georgia.md",
+    "Untitled 1.md",
     "Untitled.md",
     "Clippings/Why Trump Won’t Just Break the Blanche Impasse.md",
     "CAPA Resolution needed.md",
@@ -813,7 +814,6 @@
     "2026-05-27 Jesse-David One on One Content (Asana).md",
     "2026-07-08 Jesse-David One on One (Asana).md",
     "CAB Review - NVA06A - 190733.md",
-    "NVA05A CAB Review - 190639.md",
     "Files/Pasted image 20260727171447.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
