@@ -508,7 +508,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/The Future, Made in China.md",
+                "file": "Clippings/Nuckols Farm » Henrico County, Virginia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -523,7 +523,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Future, Made in China"
+              "title": "Nuckols Farm » Henrico County, Virginia"
             }
           }
         ],
@@ -589,8 +589,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -786,8 +785,9 @@
   },
   "active": "170577b4b6d5f8d2",
   "lastOpenFiles": [
-    "Clippings/Auraria, Georgia.md",
     "Clippings/The Future, Made in China.md",
+    "Clippings/Nuckols Farm » Henrico County, Virginia.md",
+    "Clippings/Auraria, Georgia.md",
     "Clippings/The Allure and Peril of Riding an Alaskan Wave for Six Miles.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -813,7 +813,6 @@
     "Movies to Watch.md",
     "CAB Review - NVA06A - 190664.md",
     "2026-05-27 Jesse-David One on One Content (Asana).md",
-    "2026-07-08 Jesse-David One on One (Asana).md",
     "Files/Pasted image 20260727171447.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
