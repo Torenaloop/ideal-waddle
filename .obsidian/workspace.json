@@ -73,78 +73,6 @@
             }
           },
           {
-            "id": "232c42e6ca5ce3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuckolls Family Research - Migration Heat Map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nuckolls Family Research - Migration Heat Map"
-            }
-          },
-          {
-            "id": "7a3d001e03b9cfa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matthews Living History Farm - Family Connection.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Matthews Living History Farm - Family Connection"
-            }
-          },
-          {
-            "id": "e6301eee75c27fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Personal/Nuckolls Family Research.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nuckolls Family Research"
-            }
-          },
-          {
             "id": "78f42c694de5ec59",
             "type": "leaf",
             "state": {
@@ -174,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/James Sedoruk.md",
+                "file": "02-Work/CAB Review - NVA06A - 186129.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,11 +117,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "James Sedoruk"
+              "title": "CAB Review - NVA06A - 186129"
+            }
+          },
+          {
+            "id": "306563e04b0b8b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/CAB Review - NVA06A - 190935.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CAB Review - NVA06A - 190935"
+            }
+          },
+          {
+            "id": "5cb59ab544719d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Nick S1 Board Quiestions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nick S1 Board Quiestions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -450,35 +425,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "232c42e6ca5ce3f6",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
-    "Excel EHS Audit Migration Handoff Document (Claude).md",
-    "2026-05-27 Jesse-David One on One Content (Asana).md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
-    "Clippings/Wall Street finds new edge behind Trump's presidential paywall.md",
-    "Untitled.md",
-    "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
-    "CAPA Resolution needed.md",
-    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
-    "Clippings/Dr. Charles Dabney Nuckolls (1805–1865) • Person • Family Tree.md",
-    "Clippings/Nuckols Farm » Henrico County, Virginia.md",
-    "Clippings/The Future, Made in China.md",
-    "Clippings/Auraria, Georgia.md",
-    "Clippings/The Allure and Peril of Riding an Alaskan Wave for Six Miles.md",
-    "Untitled 1.md",
-    "Clippings/Why Trump Won’t Just Break the Blanche Impasse.md",
-    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
-    "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
-    "Clippings/Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble.md",
-    "Clippings/Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble.md",
-    "STACK EHS Vendor Onboarding - Critical System Services.md",
-    "Weekend shopping list.md",
-    "Clippings/Gen Z Thinks Religion Got Too Political.md",
-    "CAB Review - NVA06A - 190935.md",
+    "02-Work/CAB Review - NVA06A - 190664.md",
+    "02-Work/Nick S1 Board Quiestions.md",
+    "02-Work/Meeting Agent Creation.md",
+    "02-Work/Asana Tasks Assigned to Me per Project I am a Member of.md",
+    "02-Work/RCA Agent Asana Review.md",
+    "02-Work/NAL01B Safety Alignment Meeting.md",
+    "02-Work/Weekly Working Session 2026-05-27.md",
+    "02-Work/Incident Management Workflow.excalidraw.md",
+    "02-Work/Nuckolls AM Newsletter 2026-04-21.md",
+    "01-Personal/Claude Cowork - Customize - Connectors.md",
+    "Premier Power Maintenance.md",
+    "01-Personal/Canvas Upgrades - Claude.md",
+    "01-Personal/Claude Code + Obsidian Sandbox Vault interactions.md",
+    "02-Work/Incident Management Swimlane.md",
+    "01-Personal/Matthews Living History Farm - Family Connection.md",
+    "Codex Gap Analysis plus Asana Comment using Claude.md",
+    "02-Work/CAB Review - NVA06A - 186129.md",
+    "02-Work/CAB Review - NVA06A - 190935.md",
+    "01-Personal/Untitled.md",
     "Feedback on Incident Portfolio and Project in Asana.md",
-    "CAB Review - NVA06A - 186129.md",
+    "CAPA Resolution needed.md",
+    "01-Personal/Untitled 1.md",
+    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "01-Personal/Nuckolls Family Research.md",
+    "01-Personal/Nuckolls Family Research - Migration Heat Map.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
