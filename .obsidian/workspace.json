@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fcdecec3df018d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble"
-            }
-          },
-          {
             "id": "a216f5c6d446b590",
             "type": "leaf",
             "state": {
@@ -39,8 +15,8 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -1270.5202009577029,
-                  "y": 133.06925778424727,
+                  "x": -10.824184186214325,
+                  "y": 231.19294751171068,
                   "zoom": -1.4070762135761612
                 }
               },
@@ -73,76 +49,6 @@
             }
           },
           {
-            "id": "22834d1a58909cd7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.2"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.2"
-            }
-          },
-          {
-            "id": "44767d37f0198255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Electrical Qualified Workshop Oral Board Question Bank.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Electrical Qualified Workshop Oral Board Question Bank"
-            }
-          },
-          {
-            "id": "d545a8379f1a2abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review NVA06A 181070 P6-240 UPS Isolation and Restoration"
-            }
-          },
-          {
-            "id": "22fc23dacca846dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "0f11d66a65bd7aa6",
             "type": "leaf",
             "state": {
@@ -164,18 +70,6 @@
               },
               "icon": "lucide-file",
               "title": "Excel EHS Audit Migration Handoff Document (Claude)"
-            }
-          },
-          {
-            "id": "a09d6018d98b3530",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.3"
             }
           },
           {
@@ -251,42 +145,6 @@
             }
           },
           {
-            "id": "3efca1ee6eac1c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stephen F. Austin Neighbor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stephen F. Austin Neighbor"
-            }
-          },
-          {
-            "id": "fd34985bfaf1579b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
             "id": "78f42c694de5ec59",
             "type": "leaf",
             "state": {
@@ -333,201 +191,9 @@
               "icon": "lucide-file",
               "title": "James Sedoruk"
             }
-          },
-          {
-            "id": "ffff97009476ff47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAB Review - NVA06A - 186129.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NVA06A - 186129"
-            }
-          },
-          {
-            "id": "0557e0ce4f98d00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Gen Z Thinks Religion Got Too Political.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gen Z Thinks Religion Got Too Political"
-            }
-          },
-          {
-            "id": "8da7e861a997987c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekend shopping list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Weekend shopping list"
-            }
-          },
-          {
-            "id": "0651a72db5bc080f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Church registers - Old parish registers - Births and Baptisms - Search results (2)"
-            }
-          },
-          {
-            "id": "82f9c83feb1bc6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAPA Resolution needed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAPA Resolution needed"
-            }
-          },
-          {
-            "id": "71522abb7273a872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aftermath and Prisoners  Scottish Prisoners of War Society"
-            }
-          },
-          {
-            "id": "ad7b074ededcedb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "170577b4b6d5f8d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Wall Street finds new edge behind Trump's presidential paywall.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wall Street finds new edge behind Trump's presidential paywall"
-            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -589,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -783,21 +450,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170577b4b6d5f8d2",
+  "active": "232c42e6ca5ce3f6",
   "lastOpenFiles": [
-    "Clippings/Dr. Charles Dabney Nuckolls (1805–1865) • Person • Family Tree.md",
+    "Excel EHS Audit Migration Handoff Document (Claude).md",
+    "2026-05-27 Jesse-David One on One Content (Asana).md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
+    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
     "Clippings/Wall Street finds new edge behind Trump's presidential paywall.md",
+    "Untitled.md",
+    "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
+    "CAPA Resolution needed.md",
+    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
+    "Clippings/Dr. Charles Dabney Nuckolls (1805–1865) • Person • Family Tree.md",
     "Clippings/Nuckols Farm » Henrico County, Virginia.md",
     "Clippings/The Future, Made in China.md",
     "Clippings/Auraria, Georgia.md",
     "Clippings/The Allure and Peril of Riding an Alaskan Wave for Six Miles.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Clippings/Why Trump Won’t Just Break the Blanche Impasse.md",
-    "CAPA Resolution needed.md",
-    "02-Work/06-Work Person/STACK People/James Sedoruk.md",
-    "Clippings/Aftermath and Prisoners  Scottish Prisoners of War Society.md",
-    "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results (2).md",
     "Clippings/Church registers - Old parish registers - Births and Baptisms - Search results.md",
     "Clippings/Henrico County (Virginia) Historical Society - Henrico County's Three Chopt District.md",
     "Clippings/Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble.md",
@@ -811,10 +481,7 @@
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
-    "Nick S1 Board Quiestions.md",
-    "Movies to Watch.md",
     "Files/Pasted image 20260727171447.png",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
     "Files/Nick S1 Board Questions.xlsx",
