@@ -15,9 +15,9 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": -10.824184186214325,
-                  "y": 231.19294751171068,
-                  "zoom": -1.4070762135761612
+                  "x": 0,
+                  "y": 1380,
+                  "zoom": -2.407076213576161
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -143,33 +143,8 @@
               "icon": "lucide-file",
               "title": "CAB Review - NVA06A - 190935"
             }
-          },
-          {
-            "id": "5cb59ab544719d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Nick S1 Board Quiestions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nick S1 Board Quiestions"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -425,10 +401,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d02cb1c6dae8f19",
+  "active": "a216f5c6d446b590",
   "lastOpenFiles": [
-    "02-Work/CAB Review - NVA06A - 190664.md",
+    "02-Work/CAB Review - NVA06A - 190935.md",
     "02-Work/Nick S1 Board Quiestions.md",
+    "02-Work/CAB Review - NVA06A - 190664.md",
     "02-Work/Meeting Agent Creation.md",
     "02-Work/Asana Tasks Assigned to Me per Project I am a Member of.md",
     "02-Work/RCA Agent Asana Review.md",
@@ -444,7 +421,6 @@
     "01-Personal/Matthews Living History Farm - Family Connection.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
     "02-Work/CAB Review - NVA06A - 186129.md",
-    "02-Work/CAB Review - NVA06A - 190935.md",
     "01-Personal/Untitled.md",
     "Feedback on Incident Portfolio and Project in Asana.md",
     "CAPA Resolution needed.md",
