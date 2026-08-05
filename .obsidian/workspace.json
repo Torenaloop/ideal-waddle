@@ -15,61 +15,13 @@
               "state": {
                 "file": "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 1380,
-                  "zoom": -2.407076213576161
+                  "x": 41.64491722497428,
+                  "y": 247.5957331734048,
+                  "zoom": -1.4070762135761612
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Canvas 2025-09-29"
-            }
-          },
-          {
-            "id": "2a81821cf56e7d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-05-27 Jesse-David One on One Content (Asana).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-27 Jesse-David One on One Content (Asana)"
-            }
-          },
-          {
-            "id": "0f11d66a65bd7aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excel EHS Audit Migration Handoff Document (Claude).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Excel EHS Audit Migration Handoff Document (Claude)"
             }
           },
           {
@@ -403,7 +355,10 @@
   },
   "active": "a216f5c6d446b590",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/CAB Review - NVA06A - 186129.md",
     "02-Work/CAB Review - NVA06A - 190935.md",
+    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Nick S1 Board Quiestions.md",
     "02-Work/CAB Review - NVA06A - 190664.md",
     "02-Work/Meeting Agent Creation.md",
@@ -420,16 +375,12 @@
     "02-Work/Incident Management Swimlane.md",
     "01-Personal/Matthews Living History Farm - Family Connection.md",
     "Codex Gap Analysis plus Asana Comment using Claude.md",
-    "02-Work/CAB Review - NVA06A - 186129.md",
     "01-Personal/Untitled.md",
     "Feedback on Incident Portfolio and Project in Asana.md",
     "CAPA Resolution needed.md",
     "01-Personal/Untitled 1.md",
     "02-Work/06-Work Person/STACK People/James Sedoruk.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "01-Personal/Nuckolls Family Research.md",
-    "01-Personal/Nuckolls Family Research - Migration Heat Map.md",
-    "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
