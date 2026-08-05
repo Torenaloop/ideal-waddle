@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "566d1487236b0938",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.5"
+            }
+          },
+          {
             "id": "78f42c694de5ec59",
             "type": "leaf",
             "state": {
@@ -96,7 +108,8 @@
               "title": "CAB Review - NVA06A - 190935"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -353,7 +365,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a216f5c6d446b590",
+  "active": "566d1487236b0938",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/CAB Review - NVA06A - 186129.md",
