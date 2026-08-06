@@ -34,8 +34,7 @@ Template to actual Project - ISS H&S Audit
 
 Talk to Tim about EHS visit of Donna, Danielle and Gerald
 
-Communications
-- Leading indicators
+Communications - think of as Leading Indicators
 - Donna ask
 - Gerald ask
 

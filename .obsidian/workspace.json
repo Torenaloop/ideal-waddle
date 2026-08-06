@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,55 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SITE INFO FOR 2026 Health and Safety Audits"
-            }
-          },
-          {
-            "id": "41cace4ab51edfd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/CAB Review - NVA06A - 186129.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NVA06A - 186129"
-            }
-          },
-          {
-            "id": "306563e04b0b8b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/CAB Review - NVA06A - 190935.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAB Review - NVA06A - 190935"
+              "title": "ISS Project Update 2026-08-06"
             }
           },
           {
@@ -97,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISS Project Update 2026-08-06.md",
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -373,12 +324,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef3a49157ed945c8",
+  "active": "78f42c694de5ec59",
   "lastOpenFiles": [
-    "ISS Project Update 2026-08-06.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/CAB Review - NVA06A - 190935.md",
     "02-Work/CAB Review - NVA06A - 186129.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/Nick S1 Board Quiestions.md",
     "02-Work/CAB Review - NVA06A - 190664.md",
