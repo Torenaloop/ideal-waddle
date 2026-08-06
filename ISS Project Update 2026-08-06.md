@@ -23,3 +23,21 @@ David to ping Taylor Muvrin - re: NetSuite
 
 David schedule weekly 15 minute check in 
 - Thursday mornings works best for Clint 
+
+
+--- 
+
+**Spot Bonus or equivalent opportunities** 
+ - Can do stuff with no problem up to $500
+
+Template to actual Project - ISS H&S Audit 
+
+Talk to Tim about EHS visit of Donna, Danielle and Gerald
+
+Communications
+- Leading indicators
+- Donna ask
+- Gerald ask
+
+
+
