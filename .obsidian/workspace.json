@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.6999969482422,
-    "collapsed": true
+    "width": 204.6999969482422
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -363,9 +362,9 @@
   },
   "active": "2ba0f3fe3e3ba8aa",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/Message to the Matts.md",
     "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
     "Untitled 1.md",
-    "Untitled.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/CAB Review - NVA06A - 190935.md",
