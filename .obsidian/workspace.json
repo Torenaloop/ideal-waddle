@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "4bfc19cf1999630f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "24 Cheap, Easy Recipes You Can Cook in Your College Dorm"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -385,10 +361,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bfc19cf1999630f",
+  "active": "2ba0f3fe3e3ba8aa",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
+    "Untitled 1.md",
     "Untitled.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
