@@ -102,9 +102,19 @@
               "icon": "lucide-file",
               "title": "Simplify How to exponentially improve work, life"
             }
+          },
+          {
+            "id": "b928d4a755fdc2d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -361,10 +371,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ba0f3fe3e3ba8aa",
+  "active": "b928d4a755fdc2d2",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
+    "Untitled 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/Message to the Matts.md",
     "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
