@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "566d1487236b0938",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.5"
-            }
-          },
-          {
-            "id": "072637d7aa513e2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
-            }
-          },
-          {
             "id": "8f2caa523e490514",
             "type": "leaf",
             "state": {
@@ -139,8 +115,7 @@
               "title": "Even Elite Colleges Have Become Trade Schools"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
