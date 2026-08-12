@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8f2caa523e490514",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "78f42c694de5ec59",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -385,7 +397,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b928d4a755fdc2d2",
+  "active": "8f2caa523e490514",
   "lastOpenFiles": [
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
