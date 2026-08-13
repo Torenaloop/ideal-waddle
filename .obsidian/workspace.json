@@ -115,7 +115,8 @@
               "title": "Even Elite Colleges Have Become Trade Schools"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -372,7 +373,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f2caa523e490514",
+  "active": "78f42c694de5ec59",
   "lastOpenFiles": [
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
