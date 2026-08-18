@@ -162,9 +162,33 @@
               "icon": "lucide-file",
               "title": "Why Is It So Hard to Build a Transformer"
             }
+          },
+          {
+            "id": "6e1e2f583905f516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/Running Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Running Notes"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -399,11 +423,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 510.5,
+    "width": 287.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -421,12 +445,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5118e5cfc27e5a38",
+  "active": "6e1e2f583905f516",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Clippings/Why Is It So Hard to Build a Transformer.md",
-    "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
+    "00-Bases/People Base.base",
+    "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "Clippings/Why Is It So Hard to Build a Transformer.md",
+    "Untitled.md",
+    "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
     "Untitled 1.md",
@@ -448,13 +474,10 @@
     "01-Personal/Claude Cowork - Customize - Connectors.md",
     "Premier Power Maintenance.md",
     "01-Personal/Canvas Upgrades - Claude.md",
-    "01-Personal/Claude Code + Obsidian Sandbox Vault interactions.md",
-    "02-Work/Incident Management Swimlane.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
     "00-Bases/Goals Base.base",
-    "00-Bases/People Base.base",
     "Files/Nick S1 Board Questions.xlsx",
     "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/00 - ASANA/Asana Strategy Map.canvas",
