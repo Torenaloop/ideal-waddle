@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trump’s Economic Record Doesn’t Come Close to His Campaign Promises"
+              "title": "SITE INFO FOR 2026 Health and Safety Audits"
             }
           },
           {
@@ -114,9 +114,57 @@
               "icon": "lucide-file",
               "title": "Even Elite Colleges Have Become Trade Schools"
             }
+          },
+          {
+            "id": "56c9952a6be437a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trump’s Economic Record Doesn’t Come Close to His Campaign Promises"
+            }
+          },
+          {
+            "id": "5118e5cfc27e5a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Why Is It So Hard to Build a Transformer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why Is It So Hard to Build a Transformer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -373,10 +421,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78f42c694de5ec59",
+  "active": "5118e5cfc27e5a38",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "Untitled.md",
+    "Clippings/Why Is It So Hard to Build a Transformer.md",
     "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
     "Untitled 1.md",
@@ -400,8 +450,6 @@
     "01-Personal/Canvas Upgrades - Claude.md",
     "01-Personal/Claude Code + Obsidian Sandbox Vault interactions.md",
     "02-Work/Incident Management Swimlane.md",
-    "01-Personal/Matthews Living History Farm - Family Connection.md",
-    "Codex Gap Analysis plus Asana Comment using Claude.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
