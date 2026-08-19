@@ -1,13 +1,12 @@
 ---
-title: "The New Physics of Power"
-source: "https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html"
-author:
-  - "[[Thomas L. Friedman]]"
+title: The New Physics of Power
+source: https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html
+author: "[[Thomas L. Friedman]]"
 published: 2026-08-18
 created: 2026-08-19
-description: "It doesn’t take much for small powers to gain a big advantage over the powerful."
+description: It doesn’t take much for small powers to gain a big advantage over the powerful.
 tags:
-  - "clippings"
+  - clippings
 ---
 If I were writing a book about the U.S. war with Iran, I know exactly what the title would be. It would be President Trump’s social media [post](https://www.nytimes.com/2026/04/05/world/middleeast/trump-truth-social-post-iran-allah-strait-of-hormuz.html) of April 5, 2026, directed at the leaders of Iran: “Open the \[expletive\]Strait, you crazy bastards, or you’ll be living in Hell — JUST WATCH!”
 
