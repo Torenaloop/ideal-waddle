@@ -1,13 +1,12 @@
 ---
-title: "Electricians Love Data Centers. You Should, Too."
-source: "https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html"
-author:
-  - "[[Don Slaiman]]"
+title: Electricians Love Data Centers. You Should, Too.
+source: https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html
+author: "[[Don Slaiman]]"
 published: 2026-08-21
 created: 2026-08-21
-description: "Electricians like data centers. Here’s why you should, too."
+description: Electricians like data centers. Here’s why you should, too.
 tags:
-  - "clippings"
+  - clippings
 ---
 Data centers aren’t winning many popularity contests. At least [15 states](https://www.ncsl.org/fiscal/which-states-are-banning-data-centers) and more than [200 counties and municipalities](https://www.interconnectedcapital.com/research/data-center-moratoriums) have proposed or passed [moratoriums against their development](https://www.datacenterbans.com/), often with bipartisan support. When it comes to the hearts and minds of the thousands of electricians I represent, however, the battle has been won. We want to build more data centers. Because the nation needs more of them.
 
