@@ -8,7 +8,7 @@ description: Electricians like data centers. Here’s why you should, too.
 tags:
   - clippings
 ---
-Data centers aren’t winning many popularity contests. At least [15 states](https://www.ncsl.org/fiscal/which-states-are-banning-data-centers) and more than [200 counties and municipalities](https://www.interconnectedcapital.com/research/data-center-moratoriums) have proposed or passed [moratoriums against their development](https://www.datacenterbans.com/), often with bipartisan support. When it comes to the hearts and minds of the thousands of electricians I represent, however, the battle has been won. We want to build more data centers. Because the nation needs more of them.
+Data centers aren’t winning many popularity contests. At least [15 states](https://www.ncsl.org/fiscal/which-states-are-banning-data-centers) and more than [200 counties and municipalities](https://www.interconnectedcapital.com/research/data-center-moratoriums) have proposed or passed [moratoriums against their development](https://www.datacenterbans.com/), often with bipartisan support. When it comes to the hearts and minds of the thousands of electricians I represent, however, the battle has been won. We want to build more data centers. Because the nation needs more of them. 
 
 The opposition to data centers is fueled by genuine concern — and plenty of misinformation. What’s lacking from the debate is a discussion of what happens if we don’t build. We think about data centers as benefiting tech giants such as Meta and Microsoft. But if we want to continue to enjoy using Instagram and Waze, streaming movies, banking online, hailing an Uber or conversing with A.I. chatbots, we are going to need more data centers.
 
