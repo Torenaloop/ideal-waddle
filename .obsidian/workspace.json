@@ -258,9 +258,33 @@
               "icon": "lucide-file",
               "title": "Electricians Love Data Centers. You Should, Too"
             }
+          },
+          {
+            "id": "8351fc559d153fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "An unpredictable Premier League returns with scope for fresh stars and new main characters"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -517,10 +541,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c801db5c933c602",
+  "active": "8351fc559d153fa6",
   "lastOpenFiles": [
-    "Test.md",
+    "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
     "Clippings/Electricians Love Data Centers. You Should, Too.md",
+    "Test.md",
     "Clippings/Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers.md",
     "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
     "Clippings/How to Survive the AI Cyberpocalypse.md",
@@ -546,7 +571,6 @@
     "02-Work/Asana Tasks Assigned to Me per Project I am a Member of.md",
     "02-Work/RCA Agent Asana Review.md",
     "02-Work/NAL01B Safety Alignment Meeting.md",
-    "02-Work/Weekly Working Session 2026-05-27.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
