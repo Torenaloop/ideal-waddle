@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Clippings/Electricians Love Data Centers. You Should, Too.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -256,7 +256,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Electricians Love Data Centers. You Should, Too"
             }
           }
         ],
@@ -520,6 +520,7 @@
   "active": "6c801db5c933c602",
   "lastOpenFiles": [
     "Test.md",
+    "Clippings/Electricians Love Data Centers. You Should, Too.md",
     "Clippings/Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers.md",
     "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
     "Clippings/How to Survive the AI Cyberpocalypse.md",
@@ -546,7 +547,6 @@
     "02-Work/RCA Agent Asana Review.md",
     "02-Work/NAL01B Safety Alignment Meeting.md",
     "02-Work/Weekly Working Session 2026-05-27.md",
-    "02-Work/Incident Management Workflow.excalidraw.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
