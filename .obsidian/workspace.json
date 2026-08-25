@@ -330,9 +330,33 @@
               "icon": "lucide-file",
               "title": "Why Bond Yields Are Rising, and What It Means for the Economy"
             }
+          },
+          {
+            "id": "430b1f4ac6173349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The data center era that's reshaping America.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The data center era that's reshaping America"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -589,8 +613,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb4b4012b22a04f2",
+  "active": "430b1f4ac6173349",
   "lastOpenFiles": [
+    "Clippings/The data center era that's reshaping America.md",
     "Clippings/Why Bond Yields Are Rising, and What It Means for the Economy.md",
     "Clippings/Twitter Broke the Left. X Will Break the Right.md",
     "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
@@ -618,7 +643,6 @@
     "02-Work/Nick S1 Board Quiestions.md",
     "02-Work/CAB Review - NVA06A - 190664.md",
     "02-Work/Meeting Agent Creation.md",
-    "02-Work/Asana Tasks Assigned to Me per Project I am a Member of.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
