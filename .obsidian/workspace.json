@@ -354,9 +354,57 @@
               "icon": "lucide-file",
               "title": "The data center era that's reshaping America"
             }
+          },
+          {
+            "id": "7754cc3f8c1c86d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFW01A Contacts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DFW01A Contacts"
+            }
+          },
+          {
+            "id": "2d556fc5f7af5843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFW01B Contacts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DFW01B Contacts"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -390,7 +438,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dfw01a",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -414,12 +462,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 204.6999969482422,
-    "collapsed": true
+    "width": 204.6999969482422
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -613,8 +661,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "430b1f4ac6173349",
+  "active": "2d556fc5f7af5843",
   "lastOpenFiles": [
+    "DFW01A Contacts.md",
+    "DFW01B Contacts.md",
+    "Files/Pasted image 20260825091437.png",
+    "Files/Pasted image 20260825090807.png",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "Clippings/The data center era that's reshaping America.md",
     "Clippings/Why Bond Yields Are Rising, and What It Means for the Economy.md",
     "Clippings/Twitter Broke the Left. X Will Break the Right.md",
@@ -627,7 +680,6 @@
     "Clippings/The New Physics of Power.md",
     "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "Clippings/Why Is It So Hard to Build a Transformer.md",
     "Untitled.md",
     "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
@@ -640,9 +692,6 @@
     "02-Work/CAB Review - NVA06A - 190935.md",
     "02-Work/CAB Review - NVA06A - 186129.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/Nick S1 Board Quiestions.md",
-    "02-Work/CAB Review - NVA06A - 190664.md",
-    "02-Work/Meeting Agent Creation.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
@@ -660,8 +709,6 @@
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260521104525.png",
     "Files/Pasted image 20260527093615.png",
-    "Files/Screenshot 2026-05-28 140456.png",
-    "Files/Screenshot 2026-05-28 140807.png",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
