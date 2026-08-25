@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f2caa523e490514",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
             "id": "78f42c694de5ec59",
             "type": "leaf",
             "state": {
@@ -68,300 +56,12 @@
             }
           },
           {
-            "id": "2ba0f3fe3e3ba8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Simplify How to exponentially improve work, life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Simplify How to exponentially improve work, life"
-            }
-          },
-          {
-            "id": "b928d4a755fdc2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Even Elite Colleges Have Become Trade Schools.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Even Elite Colleges Have Become Trade Schools"
-            }
-          },
-          {
-            "id": "56c9952a6be437a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trump’s Economic Record Doesn’t Come Close to His Campaign Promises"
-            }
-          },
-          {
-            "id": "5118e5cfc27e5a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Why Is It So Hard to Build a Transformer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why Is It So Hard to Build a Transformer"
-            }
-          },
-          {
-            "id": "531fadd3a7abd6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/How to Survive the AI Cyberpocalypse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to Survive the AI Cyberpocalypse"
-            }
-          },
-          {
-            "id": "6e1e2f583905f516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost’"
-            }
-          },
-          {
-            "id": "bf04d0e07c1b5c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers"
-            }
-          },
-          {
-            "id": "6c801db5c933c602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Electricians Love Data Centers. You Should, Too.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Electricians Love Data Centers. You Should, Too"
-            }
-          },
-          {
-            "id": "8351fc559d153fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "An unpredictable Premier League returns with scope for fresh stars and new main characters"
-            }
-          },
-          {
-            "id": "f55dd1977bb5ce2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Twitter Broke the Left. X Will Break the Right.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Twitter Broke the Left. X Will Break the Right"
-            }
-          },
-          {
-            "id": "fb4b4012b22a04f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Why Bond Yields Are Rising, and What It Means for the Economy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why Bond Yields Are Rising, and What It Means for the Economy"
-            }
-          },
-          {
-            "id": "430b1f4ac6173349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The data center era that's reshaping America.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The data center era that's reshaping America"
-            }
-          },
-          {
             "id": "7754cc3f8c1c86d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFW01A Contacts.md",
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -385,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFW01B Contacts.md",
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -403,8 +103,7 @@
               "title": "DFW01B Contacts"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -462,12 +161,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 204.6999969482422
+    "width": 376.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -661,34 +359,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d556fc5f7af5843",
+  "active": "78f42c694de5ec59",
   "lastOpenFiles": [
-    "DFW01A Contacts.md",
-    "DFW01B Contacts.md",
-    "Files/Pasted image 20260825091437.png",
-    "Files/Pasted image 20260825090807.png",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
+    "Clippings/Simplify How to exponentially improve work, life.md",
+    "Clippings/Even Elite Colleges Have Become Trade Schools.md",
+    "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
+    "Clippings/Why Is It So Hard to Build a Transformer.md",
+    "Clippings/How to Survive the AI Cyberpocalypse.md",
+    "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
+    "Clippings/Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers.md",
+    "Clippings/Electricians Love Data Centers. You Should, Too.md",
+    "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
     "Clippings/The data center era that's reshaping America.md",
     "Clippings/Why Bond Yields Are Rising, and What It Means for the Economy.md",
     "Clippings/Twitter Broke the Left. X Will Break the Right.md",
-    "Clippings/An unpredictable Premier League returns with scope for fresh stars and new main characters.md",
-    "Clippings/Electricians Love Data Centers. You Should, Too.md",
+    "Files/Pasted image 20260825091437.png",
+    "Files/Pasted image 20260825090807.png",
     "Test.md",
-    "Clippings/Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers.md",
-    "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
-    "Clippings/How to Survive the AI Cyberpocalypse.md",
     "Clippings/The New Physics of Power.md",
     "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
-    "Clippings/Why Is It So Hard to Build a Transformer.md",
     "Untitled.md",
-    "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
-    "Clippings/Even Elite Colleges Have Become Trade Schools.md",
-    "Clippings/Simplify How to exponentially improve work, life.md",
     "Untitled 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/Message to the Matts.md",
     "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/CAB Review - NVA06A - 190935.md",
     "02-Work/CAB Review - NVA06A - 186129.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",

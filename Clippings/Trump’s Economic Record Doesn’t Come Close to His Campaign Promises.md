@@ -1,13 +1,12 @@
 ---
-title: "Trump’s Economic Record Doesn’t Come Close to His Campaign Promises"
-source: "https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html"
-author:
-  - "[[The New York Times]]"
+title: Trump’s Economic Record Doesn’t Come Close to His Campaign Promises
+source: https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html
+author: "[[The New York Times]]"
 published: 2026-08-18
 created: 2026-08-18
-description: "The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short."
+description: The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short.
 tags:
-  - "clippings"
+  - clippings
 ---
 “Promises made, promises kept.” Other presidents have employed variations of that phrase, although few with the gusto of President Trump; he even proclaims it on the [White House website](https://www.whitehouse.gov/releases/2025/11/promises-made-promises-kept-one-year-later/). When it comes to the economy, though, “promises not kept” would be a more apt description of the first 19 months of Trump 2.0. And many of the promises he has kept are causing as much damage as critics predicted. All in all, while Mr. Trump continues to boast about the “greatest economy we’ve ever had, by far,” the record to date falls far short of that lofty pronouncement.
 
