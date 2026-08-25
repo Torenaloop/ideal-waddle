@@ -103,7 +103,8 @@
               "title": "DFW01B Contacts"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -359,12 +360,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78f42c694de5ec59",
+  "active": "2d556fc5f7af5843",
   "lastOpenFiles": [
+    "Clippings/The data center era that's reshaping America 1.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
