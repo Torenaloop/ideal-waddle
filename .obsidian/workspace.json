@@ -107,10 +107,24 @@
             "id": "c7de7453e74a5f53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Regulators approve routes for Texas' first 765-kV power lines"
             }
           }
         ],
@@ -176,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 324.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -370,8 +384,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7de7453e74a5f53",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
+    "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
     "Clippings/The data center era that's reshaping America 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
@@ -400,7 +415,6 @@
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/Message to the Matts.md",
     "Clippings/24 Cheap, Easy Recipes You Can Cook in Your College Dorm.md",
     "02-Work/CAB Review - NVA06A - 190935.md",
-    "02-Work/CAB Review - NVA06A - 186129.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
