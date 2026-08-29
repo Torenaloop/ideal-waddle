@@ -102,9 +102,19 @@
               "icon": "lucide-file",
               "title": "DFW01B Contacts"
             }
+          },
+          {
+            "id": "c7de7453e74a5f53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -360,10 +370,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d556fc5f7af5843",
+  "active": "c7de7453e74a5f53",
   "lastOpenFiles": [
-    "Clippings/The data center era that's reshaping America 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
+    "Clippings/The data center era that's reshaping America 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
