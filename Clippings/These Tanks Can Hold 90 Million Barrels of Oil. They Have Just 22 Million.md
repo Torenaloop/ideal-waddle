@@ -1,15 +1,12 @@
 ---
-title: "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million."
-source: "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html"
-author:
-  - "[[Rebecca F. Elliott]]"
-  - "[[Ruth Fremson]]"
-  - "[[Leanne Abraham]]"
+title: These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.
+source: https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html
+author: "[[Rebecca F. Elliott]],[[Ruth Fremson]],[[Leanne Abraham]]"
 published: 2026-08-28
 created: 2026-08-30
-description: "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz."
+description: Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.
 tags:
-  - "clippings"
+  - clippings
 ---
 Hundreds of steel tanks several stories tall rise like giant bales of hay from the plains. They make up the largest private oil storage site in the United States, and, after six months of war, they are close to the emptiest they have been in recent years.
 
