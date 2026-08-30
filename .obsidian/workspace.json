@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "What It Took to Dismantle the Most Powerful Company in the World"
             }
+          },
+          {
+            "id": "5a8f71f637e3ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas"
+            }
+          },
+          {
+            "id": "b33cd94b843cca3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -433,8 +481,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e1940c3ecd18cd3",
+  "active": "b33cd94b843cca3e",
   "lastOpenFiles": [
+    "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
+    "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
     "Clippings/What It Took to Dismantle the Most Powerful Company in the World.md",
     "Clippings/Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era.md",
     "00-Bases/Goals Base.base",
@@ -463,8 +513,6 @@
     "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
     "Untitled.md",
-    "Untitled 1.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/Message to the Matts.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
