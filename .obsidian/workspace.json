@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "c7de7453e74a5f53",
+            "id": "0b55936b207ce768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
+                "file": "Safe and Secure - Monthly Ops EHS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,107 +124,12 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Regulators approve routes for Texas' first 765-kV power lines"
-            }
-          },
-          {
-            "id": "3963032937373dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era"
-            }
-          },
-          {
-            "id": "1e1940c3ecd18cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/What It Took to Dismantle the Most Powerful Company in the World.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What It Took to Dismantle the Most Powerful Company in the World"
-            }
-          },
-          {
-            "id": "5a8f71f637e3ceb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas"
-            }
-          },
-          {
-            "id": "b33cd94b843cca3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million"
+              "title": "Safe and Secure - Monthly Ops EHS"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -481,19 +386,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33cd94b843cca3e",
+  "active": "0b55936b207ce768",
   "lastOpenFiles": [
-    "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
-    "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
-    "Clippings/What It Took to Dismantle the Most Powerful Company in the World.md",
-    "Clippings/Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era.md",
-    "00-Bases/Goals Base.base",
-    "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
+    "Untitled 2.md",
+    "Safe and Secure - Monthly Ops EHS.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
-    "Clippings/The data center era that's reshaping America 1.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
+    "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
+    "Clippings/Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era.md",
+    "Clippings/What It Took to Dismantle the Most Powerful Company in the World.md",
+    "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
+    "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
+    "00-Bases/Goals Base.base",
+    "Clippings/The data center era that's reshaping America 1.md",
     "Clippings/Simplify How to exponentially improve work, life.md",
     "Clippings/Even Elite Colleges Have Become Trade Schools.md",
     "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
@@ -510,9 +417,7 @@
     "Files/Pasted image 20260825090807.png",
     "Test.md",
     "Clippings/The New Physics of Power.md",
-    "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
-    "Untitled.md",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
