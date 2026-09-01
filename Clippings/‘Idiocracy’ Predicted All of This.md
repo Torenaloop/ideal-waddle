@@ -1,13 +1,12 @@
 ---
-title: "‘Idiocracy’ Predicted All of This"
-source: "https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/"
-author:
-  - "[[Heather Martin]]"
+title: ‘Idiocracy’ Predicted All of This
+source: https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/
+author: "[[Heather Martin]]"
 published: 2026-09-01
 created: 2026-09-01
-description: "Mike Judge’s prescient comedy is getting harder to laugh at."
+description: Mike Judge’s prescient comedy is getting harder to laugh at.
 tags:
-  - "clippings"
+  - clippings
 ---
 Corporations twist public institutions into thinly veiled cash cows. Unprecedented drought and food insecurity loom. A civil servant who tries to use science to save millions of lives is threatened with death. News and entertainment, religion and profanity, politics and violence, eating and excreting have all collapsed into a singularity of the human condition.
 
