@@ -128,7 +128,8 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -363,12 +364,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 517.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,6 +388,7 @@
   "active": "0b55936b207ce768",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
+    "00-Bases/People Base.base",
     "Clippings/‘Idiocracy’ Predicted All of This.md",
     "Safe and Secure - Monthly Ops EHS.md",
     "Untitled 2.md",
@@ -415,8 +416,6 @@
     "Clippings/Twitter Broke the Left. X Will Break the Right.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
-    "Test.md",
-    "00-Bases/People Base.base",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits",
