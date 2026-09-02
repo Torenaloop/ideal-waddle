@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "0b55936b207ce768",
+            "id": "5fbdaee4095d86f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/‘Idiocracy’ Predicted All of This.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,12 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "‘Idiocracy’ Predicted All of This"
+              "title": "Untitled 2"
             }
           }
         ],
-        "currentTab": 4,
-        "stacked": true
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -368,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -385,13 +385,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b55936b207ce768",
+  "active": "5fbdaee4095d86f3",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
-    "00-Bases/People Base.base",
-    "Clippings/‘Idiocracy’ Predicted All of This.md",
-    "Safe and Secure - Monthly Ops EHS.md",
     "Untitled 2.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
+    "Clippings/‘Idiocracy’ Predicted All of This.md",
+    "00-Bases/People Base.base",
+    "Safe and Secure - Monthly Ops EHS.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
