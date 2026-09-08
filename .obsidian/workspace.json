@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -387,6 +386,7 @@
   },
   "active": "5fbdaee4095d86f3",
   "lastOpenFiles": [
+    "Clippings/Dubious Islands.md",
     "Untitled 2.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
     "Clippings/‘Idiocracy’ Predicted All of This.md",
