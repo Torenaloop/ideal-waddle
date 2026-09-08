@@ -98,8 +98,8 @@ Tony
 - [x] Create Emergency Evacuation Maps (Completed Sept 3)
 - [x] Add First Aid locations (Completed by Oct 14)
 - [x] Request team review (Sent Oct 14)
-- [ ] Get approval to post throughout facility
-- [ ] Post maps throughout facility
+- [x] Get approval to post throughout facility
+- [x] Post maps throughout facility
 
 ## Notes
 - Maps evolved from draft (Sept 3) to completion (Oct 14)

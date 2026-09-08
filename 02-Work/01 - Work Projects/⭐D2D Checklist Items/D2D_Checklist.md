@@ -59,43 +59,43 @@ Ensure all critical operational, safety, and environmental health & safety (EHS)
 ## EHS Requirements
 
 ### Safety Equipment
-- [ ] Emergency Evacuation Maps
-- [ ] First Aid stations
-- [ ] Fire extinguishers
-- [ ] Emergency lighting
-- [ ] Safety signage
+1. Emergency Evacuation Maps
+2. First Aid Stations
+3. Fire Extinguishers
+4. Emergency Lighting
+5. Safety Signage
 
 ### Emergency Preparedness
-- [ ] Evacuation plans
-- [ ] Emergency contact lists
-- [ ] Muster points identified
-- [ ] Emergency response procedures
+1. Evacuation plans
+2. Emergency contact lists
+3. Muster points identified
+4. Emergency response procedures
 
 ### Compliance
-- [ ] OSHA requirements
-- [ ] Local fire codes
-- [ ] Building codes
-- [ ] Environmental regulations
+1. OSHA requirements
+2. Local fire codes
+3. Building codes
+4. Environmental regulations
 
 ## Operations Requirements
 
 ### Systems
-- [ ] HVAC commissioning
-- [ ] Electrical systems testing
-- [ ] Fire suppression systems
-- [ ] Security systems
-- [ ] Monitoring systems
+1. HVAC commissioning
+2. Electrical systems testing
+3. Fire suppression systems
+4. Security systems
+5. Monitoring systems
 
 ### Documentation
-- [ ] Equipment lists
-- [ ] Vendor contacts
-- [ ] Warranty information
-- [ ] Maintenance schedules
+1. Equipment lists
+2. Vendor contacts
+3. Warranty information
+4. Maintenance schedules
 
 ### Training
-- [ ] Operations team training
-- [ ] Safety training
-- [ ] Emergency procedures training
+1. Operations team training
+2. Safety training
+3. Emergency procedures training
 
 ## Checklist Workflow
 
@@ -162,10 +162,10 @@ Ensure all critical operational, safety, and environmental health & safety (EHS)
 6. **Plan Contingencies** - Have backup plans for critical items
 
 ## Templates & Forms
-- [ ] Safety inspection form
-- [ ] Equipment acceptance form
-- [ ] Training completion form
-- [ ] Final sign-off form
+1. Safety inspection form
+2. Equipment acceptance form
+3. Training completion form
+4. Final sign-off form
 
 ## Metrics & KPIs
 - **Completion Rate:** [X]% items complete

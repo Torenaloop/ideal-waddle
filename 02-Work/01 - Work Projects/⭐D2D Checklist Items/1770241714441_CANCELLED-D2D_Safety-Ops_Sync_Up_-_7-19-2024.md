@@ -64,8 +64,8 @@ For organizers: [Meeting options](https://nam10.safelinks.protection.outlook.com
 ![Exported image](Files/Exported%20image%2020260127135752-1.png)
 
 ## Action Items
-- [ ] Review D2D Checklist Ops/EHS items
-- [ ] Develop plan to address checklist items
+- [x] Review D2D Checklist Ops/EHS items
+- [x] Develop plan to address checklist items
 
 ## Follow-up
 - 
