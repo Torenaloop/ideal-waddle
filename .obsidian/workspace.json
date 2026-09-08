@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 280.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -384,7 +384,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fbdaee4095d86f3",
+  "active": "3d02cb1c6dae8f19",
   "lastOpenFiles": [
     "Clippings/Dubious Islands.md",
     "Untitled 2.md",
