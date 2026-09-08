@@ -126,9 +126,21 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "61516ac08d9b82ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -384,7 +396,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d02cb1c6dae8f19",
+  "active": "61516ac08d9b82ac",
   "lastOpenFiles": [
     "Clippings/Dubious Islands.md",
     "Untitled 2.md",
