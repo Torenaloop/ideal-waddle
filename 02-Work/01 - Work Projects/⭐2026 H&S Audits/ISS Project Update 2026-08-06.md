@@ -70,14 +70,11 @@ Communications - think of as Leading Indicators
 ## 2026-09-09 ISS/STACK Audit Sync
 - Jesse on PTO; 
 - Lessons Learned from first trip(s)
-	- Went really well - seldom been to a facility that was so difficult to 
+	- Went really well 
 - Needs going forward
 	- Johanna - POR - needs POCs for the Portland sites 
-	- 
-- Status of spreadsheet with findings 
-- Status of report with findings
-	- Draft done over to Dale today to try and have the report sent by end of the week
-	- 
+- Status of report with findings / spreadsheet version of findings
+	- Draft done over to Dale today to try and have the report and spreadsheet file sent by end of the week
 
 
 
