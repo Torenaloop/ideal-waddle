@@ -112,7 +112,7 @@
     "Tasks": "multitext",
     "Is Blocking": "multitext",
     "Blocked By": "multitext",
-    "Due": "text",
+    "Due": "date",
     "Sub-tasks": "multitext",
     "Parent-task": "multitext",
     "Ordered": "multitext",

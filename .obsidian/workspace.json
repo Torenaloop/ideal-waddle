@@ -119,14 +119,52 @@
             "id": "a5c983f626fc10a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190935.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CAB Review - NVA06A - 190935"
+            }
+          },
+          {
+            "id": "ffcd7d771c033bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ISS Project Update 2026-08-06"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -360,11 +398,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,36 +419,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5c983f626fc10a9",
+  "active": "ffcd7d771c033bd4",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
+    "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review NVA06A - 188574.md",
+    "02-Work/02 - Work Areas/NVA05A/NVA05A MOC.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190664.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190733.md",
+    "02-Work/05 - Work Meetings/East Region CAB/NVA05A CAB Review - 190639.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190935.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 186129.md",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review NVA06A - Parent Case 188382.md",
+    "00-Bases/Goals Base.base",
+    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NAL01B - 189816.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
+    "00-Bases/People Base.base",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/Improve_Internal_Communications.md",
     "02-Work/Work Folder Open Tasks.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01A Contacts.md",
     "02-Work/01 - Work Projects/⭐D2D Checklist Items/D2D_Checklist.md",
     "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/DFW01B Contacts.md",
     "Safe and Secure - Monthly Ops EHS.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Test.md",
     "Untitled 2.md",
     "Clippings/Dubious Islands.md",
-    "Clippings/‘Idiocracy’ Predicted All of This.md",
-    "00-Bases/People Base.base",
-    "Clippings/Regulators approve routes for Texas' first 765-kV power lines.md",
-    "Clippings/Help Wanted ‘Forward-Deployed’ Humans for the A.I. Era.md",
-    "Clippings/What It Took to Dismantle the Most Powerful Company in the World.md",
-    "Clippings/How Trump’s Policy Agenda Runs Through One Federal Court, in Texas.md",
-    "Clippings/These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.md",
-    "00-Bases/Goals Base.base",
-    "Clippings/The data center era that's reshaping America 1.md",
-    "Clippings/Simplify How to exponentially improve work, life.md",
-    "Clippings/Even Elite Colleges Have Become Trade Schools.md",
-    "Clippings/Trump’s Economic Record Doesn’t Come Close to His Campaign Promises.md",
-    "Clippings/Why Is It So Hard to Build a Transformer.md",
-    "Clippings/How to Survive the AI Cyberpocalypse.md",
-    "Clippings/A County Got Rich From Data Centers. Some Question ‘At What Cost’.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
