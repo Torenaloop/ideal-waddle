@@ -23,8 +23,8 @@ views:
       - property: file.tags
         direction: ASC
     columnSize:
-      file.name: 149
-      note.2025 Goal: 162
+      file.name: 153
+      note.2025 Goal: 62
       note.tags: 394
       file.links: 399
       note.Mission Pillar: 134
