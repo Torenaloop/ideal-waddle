@@ -114,8 +114,19 @@
               "icon": "lucide-file",
               "title": "DFW01B Contacts"
             }
+          },
+          {
+            "id": "a5c983f626fc10a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -371,7 +381,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61516ac08d9b82ac",
+  "active": "a5c983f626fc10a9",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
