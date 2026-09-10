@@ -114,9 +114,19 @@
               "icon": "lucide-file",
               "title": "Introductory Call with Intelex"
             }
+          },
+          {
+            "id": "556614858a500e0d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -372,14 +383,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b2fa73e558f0ca0",
+  "active": "556614858a500e0d",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
     "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
     "02-Work/01 - Work Projects/Ecosystem Replication.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
-    "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
     "02-Work/01 - Work Projects/SOSPES REPLACEMENT.md",
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
