@@ -66,9 +66,33 @@
               "icon": "lucide-file",
               "title": "ISS Project Update 2026-08-06"
             }
+          },
+          {
+            "id": "c2d972fa56f796bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Tech Fooled America Once. The Second Time’s Not Going So Well"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -326,9 +350,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffcd7d771c033bd4",
+  "active": "c2d972fa56f796bb",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-09-09.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-02-11.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -355,7 +380,6 @@
     "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NAL01B - 189816.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/Improve_Internal_Communications.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
