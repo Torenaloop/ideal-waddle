@@ -90,10 +90,33 @@
               "icon": "lucide-file",
               "title": "Big Tech Fooled America Once. The Second Time’s Not Going So Well"
             }
+          },
+          {
+            "id": "9b2fa73e558f0ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introductory Call with Intelex"
+            }
           }
         ],
-        "currentTab": 3,
-        "stacked": true
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -350,8 +373,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2d972fa56f796bb",
+  "active": "9b2fa73e558f0ca0",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
+    "02-Work/01 - Work Projects/Ecosystem Replication.md",
+    "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
+    "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
+    "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
+    "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
+    "02-Work/01 - Work Projects/SOSPES REPLACEMENT.md",
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-09-09.md",
@@ -366,20 +396,13 @@
     "02-Work/Running Notes.md",
     "02-Work/Quick Notes 2/⭐Refrigeration Cycle/⭐Refrigeration Cycle.md",
     "00-Bases/People Base.base",
-    "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/05 - Work Meetings/East Region CAB/CAB Review NVA06A - 188574.md",
     "02-Work/02 - Work Areas/NVA05A/NVA05A MOC.md",
     "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190664.md",
     "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190733.md",
     "02-Work/05 - Work Meetings/East Region CAB/NVA05A CAB Review - 190639.md",
-    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190935.md",
-    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 186129.md",
-    "02-Work/05 - Work Meetings/East Region CAB/CAB Review NVA06A - Parent Case 188382.md",
     "00-Bases/Goals Base.base",
-    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NAL01B - 189816.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/NVA06A D2D.md",
-    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/Improve_Internal_Communications.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
