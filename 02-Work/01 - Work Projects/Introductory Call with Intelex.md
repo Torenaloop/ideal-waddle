@@ -11,6 +11,7 @@ tags:
 ---
 # Untitled
 Andy Roberts - account exec - NTT data - CoreWeave already clients w/more dc clients 
+mentions hamza 
 ## Agenda
 - does it play nice with ai and Asana?
 ## Notes
