@@ -114,19 +114,8 @@
               "icon": "lucide-file",
               "title": "Introductory Call with Intelex"
             }
-          },
-          {
-            "id": "556614858a500e0d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,7 +372,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "556614858a500e0d",
+  "active": "61516ac08d9b82ac",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
     "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
