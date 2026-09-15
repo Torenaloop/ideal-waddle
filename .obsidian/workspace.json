@@ -115,7 +115,8 @@
               "title": "Introductory Call with Intelex"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -350,12 +351,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,17 +372,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61516ac08d9b82ac",
+  "active": "ffcd7d771c033bd4",
   "lastOpenFiles": [
+    "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
     "02-Work/01 - Work Projects/Ecosystem Replication.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
     "02-Work/01 - Work Projects/SOSPES REPLACEMENT.md",
-    "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-09-09.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-02-11.md",
     "02-Work/Work Folder Open Tasks.md",
@@ -392,7 +393,6 @@
     "01-Personal/Untitled.md",
     "Untitled 1.md",
     "02-Work/4Ds.md",
-    "02-Work/Running Notes.md",
     "02-Work/Quick Notes 2/⭐Refrigeration Cycle/⭐Refrigeration Cycle.md",
     "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",

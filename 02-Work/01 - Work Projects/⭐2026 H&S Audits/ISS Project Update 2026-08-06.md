@@ -56,18 +56,8 @@ David to ping Taylor Muvrin - re: NetSuite
 - Created a reoccurring meeting on Thursdays at 11a EST 
 
 
---- 
 
-**Spot Bonus or equivalent opportunities** 
- - Can do stuff with no problem up to $500
 
-Template to actual Project - ISS H&S Audit 
-
-Talk to Tim about EHS visit of Donna, Danielle and Gerald
-
-Communications - think of as Leading Indicators
-- Donna ask
-- Gerald ask
 
 ---
 
@@ -79,6 +69,9 @@ Communications - think of as Leading Indicators
 	- Johanna - POR - needs POCs for the Portland sites 
 - Status of report with findings / spreadsheet version of findings
 	- Draft done over to Dale today to try and have the report and spreadsheet file sent by end of the week
+
+## 2026-09-15
+Portland Readiness Touchpoint
 
 
 

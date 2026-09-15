@@ -1,3 +1,7 @@
+# Important
+- **Spot Bonus or equivalent opportunities** 
+ - Can do stuff with no problem up to $500
+
 # 2026-07-21
 - Last audit protocol csv or excel
 - Reference md site list
