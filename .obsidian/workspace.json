@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -202,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -359,10 +361,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f032e17f4a64c7",
+  "active": "78f42c694de5ec59",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/Demonstration with Mitti - Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
