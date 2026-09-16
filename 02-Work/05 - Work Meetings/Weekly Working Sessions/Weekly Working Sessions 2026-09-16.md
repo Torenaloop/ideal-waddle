@@ -13,12 +13,14 @@ tags: []
 ## Agenda
 
 - [x] LOTO Log Feedback 
-- [ ] Fall protection rescue plan (table for next time)
+- [x] Fall protection rescue plan 
 - [ ] ERP Training  
 - [x] Specificity on hand tool inspections (AP update needed?)
-- [ ] Q3 Change Announcement
+- [x] Q3 Change Announcement
 
-AED's - ap still says aed's need to be registered w/the state
+
+> [!NOTE] AEDs
+> AED's - ap still says aed's need to be registered w/the state. That is not longer an AP requirement and is thus being taken out of the next and future First Aid/CPR/AED AP.
 ## Notes
 
 ## Decisions

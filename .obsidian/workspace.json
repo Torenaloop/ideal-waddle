@@ -82,84 +82,12 @@
             }
           },
           {
-            "id": "9b2fa73e558f0ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Introductory Call with Intelex"
-            }
-          },
-          {
-            "id": "dfb573bb0b5106fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/Demonstration with Mitti - Stack Infrastructure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Demonstration with Mitti - Stack Infrastructure"
-            }
-          },
-          {
-            "id": "29731c5988b0045b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/Weekly Working Session 2026-05-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Weekly Working Session 2026-05-27"
-            }
-          },
-          {
             "id": "57247d831b8cf47e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Working Sessions 2026-09-16.md",
+                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -174,11 +102,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly Working Sessions 2026-09-16"
+              "title": "MOC - Weekly Working Session"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -256,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Two hours that changed AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -266,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Two hours that changed AI"
+              "title": "Backlinks"
             }
           },
           {
@@ -275,12 +202,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Two hours that changed AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Two hours that changed AI"
+              "title": "Outgoing links"
             }
           },
           {
@@ -411,12 +337,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
+    "width": 443.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -434,14 +359,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57247d831b8cf47e",
+  "active": "81f032e17f4a64c7",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
-    "Weekly Working Sessions 2026-09-16.md",
-    "02-Work/Weekly Working Session 2026-05-27.md",
     "02-Work/01 - Work Projects/Demonstration with Mitti - Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Sessions 2026-09-16.md",
+    "02-Work/Weekly Working Session 2026-05-27.md",
+    "00-Bases/People Base.base",
+    "00-Bases/Goals Base.base",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2025-07-23.md",
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
     "02-Work/01 - Work Projects/BATCH_8_ENHANCEMENT_GUIDE.md",
@@ -453,17 +382,12 @@
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/Running Notes.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/Work Folder Open Tasks.md",
     "Clippings/The World Economy Is Becoming Wary of the U.S.md",
-    "00-Bases/Goals Base.base",
-    "00-Bases/People Base.base",
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
     "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-09-09.md",
-    "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-02-11.md",
-    "02-Work/01 - Work Projects/⭐D2D Checklist Items/NVA05A_Project.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
