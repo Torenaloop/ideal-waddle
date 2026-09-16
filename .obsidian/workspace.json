@@ -119,12 +119,24 @@
             "id": "f3d1a7950e4bcfd4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.2"
+                "file": "Clippings/The World Economy Is Becoming Wary of the U.S.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.2"
+              "icon": "lucide-file",
+              "title": "The World Economy Is Becoming Wary of the U.S"
             }
           }
         ],
@@ -385,6 +397,7 @@
   },
   "active": "f3d1a7950e4bcfd4",
   "lastOpenFiles": [
+    "Clippings/The World Economy Is Becoming Wary of the U.S.md",
     "Demonstration with Mitti - Stack Infrastructure.md",
     "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
@@ -412,7 +425,6 @@
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/05 - Work Meetings/East Region CAB/CAB Review NVA06A - 188574.md",
     "02-Work/02 - Work Areas/NVA05A/NVA05A MOC.md",
-    "02-Work/05 - Work Meetings/East Region CAB/CAB Review - NVA06A - 190664.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
