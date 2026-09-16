@@ -114,9 +114,21 @@
               "icon": "lucide-file",
               "title": "Demonstration with Mitti - Stack Infrastructure"
             }
+          },
+          {
+            "id": "f3d1a7950e4bcfd4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.2"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.2"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -372,7 +383,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb573bb0b5106fb",
+  "active": "f3d1a7950e4bcfd4",
   "lastOpenFiles": [
     "Demonstration with Mitti - Stack Infrastructure.md",
     "02-Work/Running Notes.md",
