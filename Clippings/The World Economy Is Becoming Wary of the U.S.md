@@ -1,13 +1,12 @@
 ---
-title: "The World Economy Is Becoming Wary of the U.S."
-source: "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html"
-author:
-  - "[[Alan Rappeport]]"
+title: The World Economy Is Becoming Wary of the U.S.
+source: https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html
+author: "[[Alan Rappeport]]"
 published: 2026-09-16
 created: 2026-09-16
-description: "America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions."
+description: America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions.
 tags:
-  - "clippings"
+  - clippings
 ---
 Global investors are balking at U.S. bonds. Talk of the dollar’s dwindling power is getting louder. Foreign governments are hauling their gold out of American vaults.
 

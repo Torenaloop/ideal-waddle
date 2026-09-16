@@ -114,33 +114,8 @@
               "icon": "lucide-file",
               "title": "Demonstration with Mitti - Stack Infrastructure"
             }
-          },
-          {
-            "id": "f3d1a7950e4bcfd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/The World Economy Is Becoming Wary of the U.S.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The World Economy Is Becoming Wary of the U.S"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,7 +349,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -395,18 +370,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3d1a7950e4bcfd4",
+  "active": "9fdf912488f990de",
   "lastOpenFiles": [
-    "Clippings/The World Economy Is Becoming Wary of the U.S.md",
-    "Demonstration with Mitti - Stack Infrastructure.md",
-    "02-Work/Running Notes.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
+    "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
+    "Demonstration with Mitti - Stack Infrastructure.md",
+    "Clippings/The World Economy Is Becoming Wary of the U.S.md",
+    "02-Work/Running Notes.md",
     "02-Work/Work Folder Open Tasks.md",
     "00-Bases/Goals Base.base",
     "00-Bases/People Base.base",
-    "02-Work/01 - Work Projects/Introductory Call with Intelex.md",
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
     "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
     "02-Work/01 - Work Projects/Ecosystem Replication.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
