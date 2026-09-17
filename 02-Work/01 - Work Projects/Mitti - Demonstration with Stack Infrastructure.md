@@ -6,7 +6,8 @@ updated: 2026-09-15
 meeting_date: 2026-09-15
 participants: []
 project:
-tags: []
+tags:
+  - Work/Goal/2026
 ---
 # Demonstration with Mitti - Stack Infrastructure
 

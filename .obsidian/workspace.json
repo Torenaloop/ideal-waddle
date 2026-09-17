@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Work/01 - Work Projects/Intelex.md",
+                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Intelex"
+              "title": "⭐SOSPES REPLACEMENT MOC"
             }
           },
           {
@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "MOC - Weekly Working Session"
             }
+          },
+          {
+            "id": "81fd080acabd9e18",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.on3.com/boards/forums/the-crimson-corner.175/",
+                "title": "The Crimson Corner: Oklahoma Sooners Football Message Board",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The Crimson Corner: Oklahoma Sooners Football Message Board"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -361,19 +376,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78f42c694de5ec59",
+  "active": "81fd080acabd9e18",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/Intelex.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-    "02-Work/01 - Work Projects/Demonstration with Mitti - Stack Infrastructure.md",
+    "02-Work/01 - Work Projects/Mitti - Demonstration with Stack Infrastructure.md",
+    "02-Work/01 - Work Projects/Intelex.md",
+    "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
+    "02-Work/01 - Work Projects/Incident notification w/in 24-hrs & EE directed to designated occ. health clinic.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Sessions 2026-09-16.md",
     "02-Work/Weekly Working Session 2026-05-27.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2025-07-23.md",
-    "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
     "02-Work/01 - Work Projects/BATCH_8_ENHANCEMENT_GUIDE.md",
     "02-Work/01 - Work Projects/2025_EHS_Performance_Goals_Hub.md",

@@ -1,5 +1,9 @@
+
+#Work/Goal/2026 
+
+
 ## Meetings 
 - [[Intelex]]
-- [[Demonstration with Mitti - Stack Infrastructure]]
+- [[Mitti - Demonstration with Stack Infrastructure]]
 
 
