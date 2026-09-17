@@ -1,5 +1,5 @@
 ## Meetings 
-- [[Introductory Call with Intelex]]
+- [[Intelex]]
 - [[Demonstration with Mitti - Stack Infrastructure]]
 
 
