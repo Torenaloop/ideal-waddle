@@ -31,11 +31,13 @@ mentions hamza
 ## Agenda
 - Andy Roberts | Garrett Watson | Fraser McArthur
 - Intelex is a tasked-based compliance solution
-- Intelex is a partner with Workday | connectors and api's availaible (inbound and outbound capability)
+- **==🟡Intelex is a partner with Workday==** | **==🔵connectors and API's available (inbound and outbound capability)==**
 - QR Code scanner is worth looking into for ease of use for system/form access
 - Has ability to take in verbal/voice info and the native ai will fill out a good portion of the required fields on incident reports
 - IMO, the existing Incident Management Framework from the tool - we could easily adopt and edit our Incident Management AP around its process
 - Can track employee hours
+- Can create and send out automated reports
+- ==🟢Insight Lab (Insight AI)==
 ## Notes
 
 ## Decisions
