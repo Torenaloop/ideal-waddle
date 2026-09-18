@@ -92,7 +92,7 @@
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -104,23 +104,8 @@
               "icon": "lucide-file",
               "title": "MOC - Weekly Working Session"
             }
-          },
-          {
-            "id": "81fd080acabd9e18",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.on3.com/boards/forums/the-crimson-corner.175/",
-                "title": "The Crimson Corner: Oklahoma Sooners Football Message Board",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The Crimson Corner: Oklahoma Sooners Football Message Board"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -218,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -376,18 +359,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81fd080acabd9e18",
+  "active": "61516ac08d9b82ac",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+    "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/Mitti - Demonstration with Stack Infrastructure.md",
     "02-Work/01 - Work Projects/Intelex.md",
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/01 - Work Projects/Incident notification w/in 24-hrs & EE directed to designated occ. health clinic.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Sessions 2026-09-16.md",
     "02-Work/Weekly Working Session 2026-05-27.md",
-    "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2025-07-23.md",
     "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
@@ -405,7 +388,6 @@
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
     "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
-    "02-Work/05 - Work Meetings/East Region CAB/Weekly Medium CAB - East - 2026-09-09.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
