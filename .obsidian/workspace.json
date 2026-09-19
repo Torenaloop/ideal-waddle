@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 Safe-Secure Task Force Kick-Off Meeting.md",
+                "file": "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -128,9 +128,22 @@
               "icon": "lucide-file",
               "title": "2026 Safe-Secure Task Force Kick-Off Meeting"
             }
+          },
+          {
+            "id": "32d4f0c98c90a9d9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "02-Work/06-Work Person/STACK People/People Base.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "People Base"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+                "file": "02-Work/Work Folder Open Tasks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -364,12 +377,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,11 +399,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38bf46902a16498e",
+  "active": "9fdf912488f990de",
   "lastOpenFiles": [
-    "2026 Safe-Secure Task Force Kick-Off Meeting.md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+    "02-Work/06-Work Person/STACK People/People Base.base",
+    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
     "Bluetooth Keyboard + iPhone.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
     "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "00-Bases/People Base.base",
@@ -415,7 +429,6 @@
     "02-Work/Work Folder Open Tasks.md",
     "Clippings/The World Economy Is Becoming Wary of the U.S.md",
     "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
-    "02-Work/01 - Work Projects/2025 Operations EHS Goals - ACOM & COT.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
@@ -438,7 +451,6 @@
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
     "00-Bases/Meeting Tracker.base",
     "Files/2026.04.22 Weekly Medium CAB -EAST 1.docx",
-    "Files/2026.04.22 Weekly Medium CAB -EAST.docx",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
