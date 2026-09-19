@@ -147,6 +147,6 @@ This should fit cleanly on a single printed page and still guide a **high-value,
 ## Decisions
 
 ## Action Items
-- [ ] 
+
 
 ## Follow-ups

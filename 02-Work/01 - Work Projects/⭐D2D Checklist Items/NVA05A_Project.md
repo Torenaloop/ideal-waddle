@@ -63,9 +63,9 @@ Data center project - NVA05A site
 - 
 
 ## Current Action Items
-- [ ] Complete D2D Checklist items
-- [ ] Review and approve Emergency Evacuation Maps
-- [ ] Post evacuation maps throughout facility
+- Complete D2D Checklist items
+- Review and approve Emergency Evacuation Maps
+- Post evacuation maps throughout facility
 - [x] 
 
 ## Project Phases
@@ -90,8 +90,8 @@ Data center project - NVA05A site
 - [x] Site Safety Folders updated
 
 ### In Progress
-- [ ] Emergency Evacuation Maps approval
-- [ ] Emergency Evacuation Maps posting
+- Emergency Evacuation Maps approval
+- Emergency Evacuation Maps posting
 
 ### Planned
 - [x] 

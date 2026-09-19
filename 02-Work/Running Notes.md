@@ -114,7 +114,7 @@
 # 2026-03-20 | No Meeting Friday
 - place holder
 - ---
-- [ ] Talk to Justin re: All4 PO
+- Talk to Justin re: All4 PO
 # 2026-03-19
 - Mansberger 08:00 
 - [[Kashif Ghazanfar]] EQW Board 12:00
@@ -145,7 +145,7 @@
 ## Meetings
 - [[Calibration Equipment Circle of Life]]
 ## Notes
-- [ ] Follow up w/[[Brandy Fischer]] regarding collaborating on the [[NVA06A D2D]] 
+- [x] Follow up w/[[Brandy Fischer]] regarding collaborating on the [[NVA06A D2D]]
 ---
 # 2026-03-05
 ## Meetings

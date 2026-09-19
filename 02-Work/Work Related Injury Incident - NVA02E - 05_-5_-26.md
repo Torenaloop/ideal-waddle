@@ -117,7 +117,7 @@ e: dstevenson@stackinfra.com
 
 ## Action Items
 
-- [ ] 
+- 
 
 ---
 

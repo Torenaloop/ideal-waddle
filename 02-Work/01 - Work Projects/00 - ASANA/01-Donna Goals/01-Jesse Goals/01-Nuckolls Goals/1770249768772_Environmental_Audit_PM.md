@@ -86,15 +86,15 @@ Establish and maintain a systematic approach to environmental compliance auditin
 ## Audit Checklist Components
 
 ### Standard Checklist Sections
-- [ ] Permits and approvals
-- [ ] Waste management
-- [ ] Chemical storage
-- [ ] Spill prevention
-- [ ] Air emissions
-- [ ] Water/wastewater
-- [ ] Training and documentation
-- [ ] Recordkeeping
-- [ ] Emergency response
+- Permits and approvals
+- Waste management
+- Chemical storage
+- Spill prevention
+- Air emissions
+- Water/wastewater
+- Training and documentation
+- Recordkeeping
+- Emergency response
 
 ## Finding Categories
 
@@ -129,31 +129,31 @@ Establish and maintain a systematic approach to environmental compliance auditin
 ## Audit Process
 
 ### 1. Planning Phase (2-4 weeks prior)
-- [ ] Schedule audit date
-- [ ] Notify site management
-- [ ] Request pre-audit documentation
-- [ ] Review previous audit findings
-- [ ] Prepare audit checklist
+- Schedule audit date
+- Notify site management
+- Request pre-audit documentation
+- Review previous audit findings
+- Prepare audit checklist
 
 ### 2. On-Site Phase (1-3 days)
-- [ ] Opening meeting
-- [ ] Document review
-- [ ] Physical inspection
-- [ ] Interviews with site personnel
-- [ ] Photo documentation
-- [ ] Closing meeting (preliminary findings)
+- Opening meeting
+- Document review
+- Physical inspection
+- Interviews with site personnel
+- Photo documentation
+- Closing meeting (preliminary findings)
 
 ### 3. Reporting Phase (1-2 weeks post-audit)
-- [ ] Draft audit report
-- [ ] Review with site
-- [ ] Finalize report
-- [ ] Issue to stakeholders
+- Draft audit report
+- Review with site
+- Finalize report
+- Issue to stakeholders
 
 ### 4. Follow-Up Phase (Ongoing)
-- [ ] Track corrective actions
-- [ ] Verify closure of findings
-- [ ] Update site compliance status
-- [ ] Report trends to leadership
+- Track corrective actions
+- Verify closure of findings
+- Update site compliance status
+- Report trends to leadership
 
 ## Audit Team
 
@@ -209,11 +209,11 @@ Establish and maintain a systematic approach to environmental compliance auditin
 ## Continuous Improvement
 
 ### Annual Program Review
-- [ ] Evaluate audit effectiveness
-- [ ] Update checklists based on regulations
-- [ ] Benchmark against industry
-- [ ] Solicit stakeholder feedback
-- [ ] Adjust audit frequency/scope as needed
+- Evaluate audit effectiveness
+- Update checklists based on regulations
+- Benchmark against industry
+- Solicit stakeholder feedback
+- Adjust audit frequency/scope as needed
 
 ## Training Plan
 

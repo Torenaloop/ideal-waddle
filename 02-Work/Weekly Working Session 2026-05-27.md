@@ -30,6 +30,6 @@ tags: []
 ## Decisions
 
 ## Action Items
-- [ ] 
+
 
 ## Follow-ups

@@ -168,10 +168,10 @@ To streamline this into one master reference for clients and internal teams, con
 
 ## Action Items
 
-- [ ] Determine if documents should remain separate or be linked
-- [ ] Create referenced SOPs for missing EHS items
-- [ ] Update Word guide with new sections (if consolidation desired)
-- [ ] Ensure ERP maps are site-specific and current
+- Determine if documents should remain separate or be linked
+- Create referenced SOPs for missing EHS items
+- Update Word guide with new sections (if consolidation desired)
+- Ensure ERP maps are site-specific and current
 
 ## Related Documents
 - NVA06A-EXP-DEV-1166_D2D Checklist.xlsx

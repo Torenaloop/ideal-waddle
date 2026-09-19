@@ -99,10 +99,10 @@ Need to identify **3** weeks in those remaining **11** options/weeks that aligns
     6. - [x] ==Tyler Morrow==
 3. **ATL01A - Week of 10/14**
     1. - [x] ~~Bleau Bryant - ACOM (ACOM Summit 9/17 in NOVA)~~
-    2. - [ ] ==Bobby Horton==
+    2. ==Bobby Horton==
     3. - [x] ~~Caleb Arthur - Attended NOVA EQW in Feb~~
-    4. - [ ] ==George (Dave) Robertson==
-    5. - [ ] ==Malcolm Worden==    
+    4. ==George (Dave) Robertson==
+    5. ==Malcolm Worden==    
 
 ## Available Options as of 7/8:
 

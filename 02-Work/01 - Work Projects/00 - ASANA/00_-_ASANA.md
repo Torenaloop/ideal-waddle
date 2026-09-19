@@ -160,19 +160,19 @@ Browse "Gaining insights with reporting" and other live trainings through Asana 
 ## Next Actions
 
 ### Immediate
-- [ ] Complete [[Personal_Productivity_in_Asana]] by 2025-09-05
-- [ ] Register for [[Asana_Foundations_Skill_Badge]]
-- [ ] Enable Asana AI features (if available)
+- Complete [[Personal_Productivity_in_Asana]] by 2025-09-05
+- Register for [[Asana_Foundations_Skill_Badge]]
+- Enable Asana AI features (if available)
 
 ### Short-term (Next 30 days)
-- [ ] Complete Asana Foundations certification
-- [ ] Identify pilot use case for EHS work
-- [ ] Design first workflow (mock-up phase)
+- Complete Asana Foundations certification
+- Identify pilot use case for EHS work
+- Design first workflow (mock-up phase)
 
 ### Long-term
-- [ ] Consider [[Workflow_Specialist_Certificate]] (currently FREE)
-- [ ] Develop team adoption strategy
-- [ ] Integrate with Org Goal 3 initiatives
+- Consider [[Workflow_Specialist_Certificate]] (currently FREE)
+- Develop team adoption strategy
+- Integrate with Org Goal 3 initiatives
 
 ---
 *Last Updated: 2025 | Resource Hub for Asana Adoption*

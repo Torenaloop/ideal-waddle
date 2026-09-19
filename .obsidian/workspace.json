@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/Work Folder Open Tasks.md",
+                "file": "02-Work/06-Work Person/STACK People/People Base.base",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -382,7 +382,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -399,9 +400,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fdf912488f990de",
+  "active": "32d4f0c98c90a9d9",
   "lastOpenFiles": [
+    "02-Work/Work Folder Open Tasks.md",
     "02-Work/06-Work Person/STACK People/People Base.base",
+    "02-Work/Daniel Stevenson 1 on 1 2026-04-20.md",
+    "02-Work/NAL01B Safety Alignment Meeting.md",
+    "02-Work/Quick Notes 2/🌎CY24H2 Travel Planning.md",
+    "02-Work/Running Notes.md",
+    "02-Work/STACK EHS Vendor Onboarding Review.md",
+    "02-Work/Weekly Working Session 2026-05-27.md",
+    "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Hire-Onboard_New_EHS_Manager.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Facility_Guide_Update.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Data_Visualization_Solutions.md",
+    "02-Work/01 - Work Projects/00 - ASANA/00_-_ASANA.md",
+    "02-Work/01 - Work Projects/⭐D2D Checklist Items/NVA05A_Project.md",
+    "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Environmental_Audit_PM.md",
     "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
     "Bluetooth Keyboard + iPhone.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
@@ -413,22 +428,8 @@
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/01 - Work Projects/Incident notification w/in 24-hrs & EE directed to designated occ. health clinic.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Sessions 2026-09-16.md",
-    "02-Work/Weekly Working Session 2026-05-27.md",
     "00-Bases/Goals Base.base",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/Weekly Working Session 2025-07-23.md",
-    "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
-    "02-Work/01 - Work Projects/BATCH_8_ENHANCEMENT_GUIDE.md",
-    "02-Work/01 - Work Projects/2025_EHS_Performance_Goals_Hub.md",
-    "02-Work/01 - Work Projects/2025_EHS_Goals_Leadership_ENHANCED.md",
-    "02-Work/01 - Work Projects/2025_EHS_Goals_COMs_ENHANCED.md",
-    "02-Work/01 - Work Projects/Vendor Evaluations - Henderson Building Solutions.md",
-    "02-Work/01 - Work Projects/Ecosystem Replication.md",
-    "02-Work/01 - Work Projects/2025 Operations EHS Goals - COMs.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
-    "02-Work/Running Notes.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "Clippings/The World Economy Is Becoming Wary of the U.S.md",
-    "Clippings/Big Tech Fooled America Once. The Second Time’s Not Going So Well.md",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
