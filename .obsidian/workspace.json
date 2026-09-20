@@ -141,9 +141,33 @@
               "icon": "lucide-table",
               "title": "People Base"
             }
+          },
+          {
+            "id": "2c46b8afbc5c918e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -222,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Work/06-Work Person/STACK People/People Base.base",
+                "file": "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byCreatedTime",
@@ -400,10 +424,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d4f0c98c90a9d9",
+  "active": "2c46b8afbc5c918e",
   "lastOpenFiles": [
-    "02-Work/Work Folder Open Tasks.md",
+    "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
     "02-Work/06-Work Person/STACK People/People Base.base",
+    "02-Work/Work Folder Open Tasks.md",
     "02-Work/Daniel Stevenson 1 on 1 2026-04-20.md",
     "02-Work/NAL01B Safety Alignment Meeting.md",
     "02-Work/Quick Notes 2/🌎CY24H2 Travel Planning.md",
