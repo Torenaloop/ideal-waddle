@@ -88,3 +88,5 @@ Portland Readiness Touchpoint
 - Provide a copy of the existing EHS Programs, the New Hire Orientation Program, General Safety rules that are in place, Contractor and Visitor On-Site Requirements, and HAZCOM Program and SDSs
 - Emergency procedures including contractor responsibilities, evacuation plans, and response activities
 - List of any hazardous waste streams and where they go
+### Message from Jesse
+- ![[Pasted image 20260921145445.png]]
