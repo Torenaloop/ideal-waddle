@@ -28,6 +28,8 @@ tags:
 - [[Message to the Matts]]
 
 
+## Previous Meeting Notes 
+
 They want to get the first audits scheduled
 
 I'm most concerned about not catching my people flat footed
@@ -73,6 +75,16 @@ David to ping Taylor Muvrin - re: NetSuite
 ## 2026-09-15
 Portland Readiness Touchpoint
 
+## 2026-09-21 Request from Clint
 
-
-
+- OSHA 300/300As for the most recent 3 years
+- Training matrix showing the past 3 years
+- Site map
+- Organizational chart
+- Process flow charts
+- Any EPA, OSHA, or DOT permits
+- Any audit results, notifications of deficiencies, and all EPA, OSHA, DOT, civil or criminal violations from the past three years, along with corrective actions taken
+- List of any highly hazardous chemicals, including acute and chronic effects, necessary PPE requirements, and protective controls in place
+- Provide a copy of the existing EHS Programs, the New Hire Orientation Program, General Safety rules that are in place, Contractor and Visitor On-Site Requirements, and HAZCOM Program and SDSs
+- Emergency procedures including contractor responsibilities, evacuation plans, and response activities
+- List of any hazardous waste streams and where they go
