@@ -20,7 +20,7 @@ tags:
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [ ] "maybe it is a we create a rule that pulls anything labelled task a *corrective action* to another section" - #jesse-kenser 
 
 ## Follow-ups
 
