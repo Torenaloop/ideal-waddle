@@ -34,7 +34,7 @@ type: folder_brief_live
 
 ### Supporting Projects
 - [[NVA06A D2D]] - Flagship D2D project
-- [[Safety Scope Site Integration]] - Site-level implementation
+- [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]] - Site-level implementation
 
 ### Team Goals Supporting This Initiative
 - [[Nuckolls 2025 Goal 5]] - Data Visualization (technology bridge)
@@ -62,7 +62,7 @@ type: folder_brief_live
 - Lessons learned
 
 ### Tactical Level
-**[[Safety Scope Site Integration]]** - Site execution
+**[[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]]** - Site execution
 - Facility-level implementation
 - Operational integration
 - Day-to-day coordination
@@ -246,7 +246,7 @@ type: folder_brief_live
 
 ## Documents in This Folder
 1. [[Bridge Construction-Ops EHS Gap]] - Main strategic goal
-2. [[Safety Scope Site Integration]] - Site-level project
+2. [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]] - Site-level project
 3. Related team member goals (linked above)
 
 All documentation, meeting notes, and project materials related to bridging Construction and Operations EHS should be organized here.

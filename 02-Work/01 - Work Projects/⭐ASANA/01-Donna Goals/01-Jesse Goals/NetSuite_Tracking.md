@@ -19,4 +19,4 @@ Implement NetSuite tracking for EHS metrics and workflows.
 
 ## Related
 - [[Jesse 2025 Goals]] - Goal 3
-- [[Data Visualization Solutions]] - Related Nuckolls initiative
+- [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Data Visualization Solutions]] - Related Nuckolls initiative

@@ -6,7 +6,7 @@ Priority:
   - High
 Progress:
   - Completed
-Parent Goal: "[[Hire-Onboard New EHS Manager]]"
+Parent Goal: "[[Notion/Hire-Onboard New EHS Manager]]"
 Child Goal: "[[Gerald Office Kit - Mail - David Nuckolls - Outlook]]"
 tags:
   - Task

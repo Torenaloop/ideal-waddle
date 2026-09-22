@@ -13,7 +13,7 @@ Sub-Goals
 - [[Goetz 2025 Goal 3]]
 - [[Saucedo 2025 Goal 4]]
 - [[Fisher 2025 Goal 1]]
-- [[Safety Scope Site Integration]] 
+- [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]] 
 
 
 

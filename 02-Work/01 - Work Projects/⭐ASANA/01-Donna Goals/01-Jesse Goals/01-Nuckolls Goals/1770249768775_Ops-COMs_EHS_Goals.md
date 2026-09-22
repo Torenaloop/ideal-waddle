@@ -218,7 +218,7 @@ Detailed EHS leadership goals and objectives for Critical Operations Managers (C
 - Peer learning network
 
 ## Progress Tracking
-- Dashboard: [[Data Visualization Solutions]]
+- Dashboard: [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Data Visualization Solutions]]
 - Goal tracking: [[Nuckolls 2025 Goal 2]]
 - Quarterly reports to leadership
 

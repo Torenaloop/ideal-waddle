@@ -173,7 +173,7 @@ Detailed EHS goals and objectives for Assistant Critical Operations Managers (AC
 - EHS team support
 
 ## Progress Tracking
-See [[Nuckolls 2025 Goal 1]] for overall progress and [[Data Visualization Solutions]] for dashboard access.
+See [[Nuckolls 2025 Goal 1]] for overall progress and [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Data Visualization Solutions]] for dashboard access.
 
 ## Notes
 - These goals cascade from COM-level goals

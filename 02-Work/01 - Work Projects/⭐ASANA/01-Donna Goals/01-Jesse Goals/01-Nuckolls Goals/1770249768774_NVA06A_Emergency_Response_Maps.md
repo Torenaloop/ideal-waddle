@@ -15,7 +15,7 @@ Type: Deliverable
 Parent Goal: "[[Nuckolls 2025 Goal 5]]"
 Related:
   - "[[NVA06A D2D]]"
-  - "[[Data Visualization Solutions]]"
+  - "[[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/Data Visualization Solutions]]"
 ---
 
 # NVA06A Emergency Response Maps

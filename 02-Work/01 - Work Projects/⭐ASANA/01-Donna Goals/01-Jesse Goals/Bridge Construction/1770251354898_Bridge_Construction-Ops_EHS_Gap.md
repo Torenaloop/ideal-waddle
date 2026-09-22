@@ -66,7 +66,7 @@ This strategic goal is supported by multiple team members across different initi
   - [Specific role to be defined]
 
 ### Process Improvement
-- **[[Safety Scope Site Integration]]** - Site-level integration
+- **[[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]]** - Site-level integration
   - Tactical implementation at facility level
   - Safety scope alignment
 
@@ -331,5 +331,5 @@ Multiple individual goals support this strategic initiative:
 - [[Nuckolls 2025 Goal 6]] - NVA06A execution
 - [[Goetz 2025 Goal 3]] - Communication infrastructure
 - [[Saucedo 2025 Goal 4]] - Project support
-- [[Safety Scope Site Integration]] - Site-level implementation
+- [[02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/Bridge Construction/Safety Scope Site Integration]] - Site-level implementation
 - [[Bridge Construction]] - Overview/folder hub
