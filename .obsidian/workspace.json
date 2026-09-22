@@ -58,30 +58,6 @@
             }
           },
           {
-            "id": "78f42c694de5ec59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/⭐SOSPES REPLACEMENT MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "⭐SOSPES REPLACEMENT MOC"
-            }
-          },
-          {
             "id": "57247d831b8cf47e",
             "type": "leaf",
             "state": {
@@ -166,8 +142,7 @@
               "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -423,17 +398,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffcd7d771c033bd4",
+  "active": "61516ac08d9b82ac",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
+    "02-Work/06-Work Person/STACK People/People Base.base",
+    "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement",
     "Files/Pasted image 20260921145445.png",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
-    "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
-    "02-Work/06-Work Person/STACK People/People Base.base",
     "02-Work/Work Folder Open Tasks.md",
     "02-Work/Daniel Stevenson 1 on 1 2026-04-20.md",
     "02-Work/NAL01B Safety Alignment Meeting.md",
@@ -448,9 +425,7 @@
     "02-Work/01 - Work Projects/00 - ASANA/00_-_ASANA.md",
     "02-Work/01 - Work Projects/⭐D2D Checklist Items/NVA05A_Project.md",
     "02-Work/01 - Work Projects/00 - ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Environmental_Audit_PM.md",
-    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
     "Bluetooth Keyboard + iPhone.md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
     "00-Bases/People Base.base",
     "02-Work/01 - Work Projects/2025_EHS_Goals_ACOM_COT_ENHANCED.md",
     "02-Work/01 - Work Projects/Incident notification w/in 24-hrs & EE directed to designated occ. health clinic.md",
