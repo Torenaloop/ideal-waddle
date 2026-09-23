@@ -15,7 +15,30 @@ tags:
 
 ## Agenda
 
+**Ask:**
+
+> "I need six fields that attach to the _project_, not to tasks — so the portfolio can compare sites against each other. Task fields chart fine at portfolio level; what they can't do is describe a project. I can't group the portfolio by Region or chart conformance by site from data living on tasks."
+
+| #   | Field                    | Type          | Options                                                                                                                                     |
+| --- | ------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Region                   | Single-select | East (blue), Central (green), West (orange), Canada (purple)                                                                                |
+| 2   | Audit Phase              | Single-select | Not Scheduled (warm gray), Scheduled (blue), Fieldwork Complete (yellow-green), Draft Report (yellow), Report Issued (green), Closed (aqua) |
+| 3   | Conformance %            | Number        | percentage, 0 decimals                                                                                                                      |
+| 4   | Open Findings            | Number        | 0 decimals                                                                                                                                  |
+| 5   | Critical & High Findings | Number        | 0 decimals                                                                                                                                  |
+| 6   | Lead Auditor             | Single-select | Clinton Sharp, Dale Gross                                                                                                                   |
+
+## Don't leave without
+
+- [ ]  Her yes (or her conditions) on the six fields
+- [ ]  The **exact final field names**, especially any that get "(EHS)"
+- [ ]  A rough date — you want them before the first ISS report lands
+- [ ]  Whether Region already exists somewhere; you'd rather reuse than add a name
+- [ ]  Her answer on batching the four Phase 1 prep fields
+
 ## Notes
+
+Worth saying plainly: the meeting is now the _smaller_ half of this. Most of your remediation is unblocked, and the highest-value thing you'll get from her isn't the six fields — ==🔵**it's R3, the guardrail that stops a project-local field from silently shadowing a library one**==. Six fields serve this audit cycle; the guardrail serves all 51+ sites.
 
 ## Decisions
 
