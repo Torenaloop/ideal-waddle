@@ -21,16 +21,18 @@ tags:
 
 | #   | Field                    | Type          | Options                                                                                                                                     |
 | --- | ------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Region                   | Single-select | East (blue), Central (green), West (orange), Canada (purple)                                                                                |
+| 1   | Region                   | Single-select | East (blue), Central (green), West (orange), ~~Canada (purple)~~                                                                            |
 | 2   | Audit Phase              | Single-select | Not Scheduled (warm gray), Scheduled (blue), Fieldwork Complete (yellow-green), Draft Report (yellow), Report Issued (green), Closed (aqua) |
 | 3   | Conformance %            | Number        | percentage, 0 decimals                                                                                                                      |
 | 4   | Open Findings            | Number        | 0 decimals                                                                                                                                  |
 | 5   | Critical & High Findings | Number        | 0 decimals                                                                                                                                  |
-| 6   | Lead Auditor             | Single-select | Clinton Sharp, Dale Gross                                                                                                                   |
+| 6   | Lead Auditor             | Single-select | Clinton Sharp, Johanna O'Dell                                                                                                               |
 
 ## Don't leave without
 
-- [ ]  Her yes (or her conditions) on the six fields
+- [ ] Change the options within the previously created field to "Met, Partially Met, Not Met, N/A" - | "Create a workspace Status field for EHS"                     | She already did, 14 Apr 2026. `Status (EHS)`, gid `1214066574917703`. It's been in the library unused for five months.                                     |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- [ ] Her yes (or her conditions) on the six fields
 - [ ]  The **exact final field names**, especially any that get "(EHS)"
 - [ ]  A rough date — you want them before the first ISS report lands
 - [ ]  Whether Region already exists somewhere; you'd rather reuse than add a name
@@ -60,13 +62,13 @@ Step-by-step. Written 2026-09-22 against verified live state.
 
 ## What NOT to ask for
 
-|Don't ask|Why|
-|---|---|
-|"Create a workspace Status field for EHS"|She already did, 14 Apr 2026. `Status (EHS)`, gid `1214066574917703`. It's been in the library unused for five months.|
-|"Create portfolio-level fields for West Region like East has"|East has exactly one portfolio field (`Priority`, gid `1206586651881428`) and so does West. They are already identical, and it's unset on all 11 projects.|
-|"Apply Status (EHS) to our projects"|Needs no admin rights. Done on POR03B in one API call.|
-|"Fix the portfolio dashboard widgets"|Widget configuration is yours, not an admin function.|
-|"Make the five other audit fields global"|They already are, and they already roll up correctly.|
+| Don't ask                                                     | Why                                                                                                                                                        |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "Create a workspace Status field for EHS"                     | She already did, 14 Apr 2026. `Status (EHS)`, gid `1214066574917703`. It's been in the library unused for five months.                                     |
+| "Create portfolio-level fields for West Region like East has" | East has exactly one portfolio field (`Priority`, gid `1206586651881428`) and so does West. They are already identical, and it's unset on all 11 projects. |
+| "Apply Status (EHS) to our projects"                          | Needs no admin rights. Done on POR03B in one API call.                                                                                                     |
+| "Fix the portfolio dashboard widgets"                         | Widget configuration is yours, not an admin function.                                                                                                      |
+| "Make the five other audit fields global"                     | They already are, and they already roll up correctly.                                                                                                      |
 
 ---
 
