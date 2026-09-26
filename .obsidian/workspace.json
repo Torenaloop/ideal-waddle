@@ -213,9 +213,33 @@
               "icon": "lucide-file",
               "title": "2026-09-24 Regional EHS Ops Meeting"
             }
+          },
+          {
+            "id": "9ecba2841fe86513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/The Four TV Shows That Heralded America’s Fall.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Four TV Shows That Heralded America’s Fall"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -471,10 +495,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d02cb1c6dae8f19",
+  "active": "9ecba2841fe86513",
   "lastOpenFiles": [
-    "02-Work/05 - Work Meetings/MOC - Region EHS Ops Meetings.md",
+    "Clippings/The Four TV Shows That Heralded America’s Fall.md",
     "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
+    "02-Work/05 - Work Meetings/MOC - Region EHS Ops Meetings.md",
     "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
     "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
@@ -501,7 +526,6 @@
     "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Facility_Guide_Update.md",
     "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Data_Visualization_Solutions.md",
     "02-Work/01 - Work Projects/⭐ASANA/00_-_ASANA.md",
-    "02-Work/01 - Work Projects/⭐D2D Checklist Items/NVA05A_Project.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
