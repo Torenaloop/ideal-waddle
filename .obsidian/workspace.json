@@ -261,9 +261,19 @@
               "icon": "lucide-file",
               "title": "Post by @DKThomp on X"
             }
+          },
+          {
+            "id": "99ac440b1236b2ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -519,7 +529,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91991f24761f2be3",
+  "active": "99ac440b1236b2ba",
   "lastOpenFiles": [
     "Clippings/Post by @DKThomp on X.md",
     "Clippings/The Four TV Shows That Heralded America’s Fall.md",
