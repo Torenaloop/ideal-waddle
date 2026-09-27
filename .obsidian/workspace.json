@@ -266,10 +266,24 @@
             "id": "99ac440b1236b2ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’"
             }
           }
         ],
@@ -531,6 +545,7 @@
   },
   "active": "99ac440b1236b2ba",
   "lastOpenFiles": [
+    "Clippings/Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’.md",
     "Clippings/Post by @DKThomp on X.md",
     "Clippings/The Four TV Shows That Heralded America’s Fall.md",
     "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
@@ -559,7 +574,6 @@
     "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Hire-Onboard_New_EHS_Manager.md",
     "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Facility_Guide_Update.md",
-    "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Data_Visualization_Solutions.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
