@@ -237,8 +237,33 @@
               "icon": "lucide-file",
               "title": "Exclusive AI giants, unions join forces for data center fight"
             }
+          },
+          {
+            "id": "cbb4e4927a72f4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOJO - Demonstration with Stack Infrastructure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOJO - Demonstration with Stack Infrastructure"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -494,8 +519,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61516ac08d9b82ac",
+  "active": "cbb4e4927a72f4a9",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+    "MOJO - Demonstration with Stack Infrastructure.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "01-Personal/Weekly U.S. Data Center EHS Brief",
     "02-Work/06-Work Person/STACK People/People Base.base",
@@ -511,7 +538,6 @@
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
     "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
     "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement",
