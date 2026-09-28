@@ -5,6 +5,6 @@
 ## Meetings 
 - [[Intelex]]
 - [[Mitti - Demonstration with Stack Infrastructure]]
-- [[MOJO - Demonstration with Stack Infrastructure]] 
+- [[Safety MOJO - Demonstration with Stack Infrastructure]] 
 
 
