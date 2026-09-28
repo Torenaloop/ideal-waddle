@@ -213,9 +213,32 @@
               "icon": "lucide-file",
               "title": "2026-09-24 Regional EHS Ops Meeting"
             }
+          },
+          {
+            "id": "e89596b468241a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exclusive AI giants, unions join forces for data center fight"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -471,8 +494,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d4f0c98c90a9d9",
+  "active": "61516ac08d9b82ac",
   "lastOpenFiles": [
+    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
+    "01-Personal/Weekly U.S. Data Center EHS Brief",
+    "02-Work/06-Work Person/STACK People/People Base.base",
     "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
@@ -485,7 +511,6 @@
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
     "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
     "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
-    "02-Work/06-Work Person/STACK People/People Base.base",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
@@ -500,8 +525,6 @@
     "02-Work/STACK EHS Vendor Onboarding Review.md",
     "02-Work/Weekly Working Session 2026-05-27.md",
     "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
-    "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768773_Hire-Onboard_New_EHS_Manager.md",
-    "02-Work/01 - Work Projects/⭐ASANA/01-Donna Goals/01-Jesse Goals/01-Nuckolls Goals/1770249768772_Facility_Guide_Update.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
@@ -523,7 +546,6 @@
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260521104525.png",
     "2026.06.23 Bi-Weekly East Managers Meeting.docx",
-    "00-Bases/Meeting Tracker.base",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",
