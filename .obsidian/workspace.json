@@ -261,9 +261,57 @@
               "icon": "lucide-file",
               "title": "Safety MOJO - Demonstration with Stack Infrastructure"
             }
+          },
+          {
+            "id": "da3f3dd8e0683571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This"
+            }
+          },
+          {
+            "id": "1086f4f5b6aebf35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -325,7 +373,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -519,10 +568,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbb4e4927a72f4a9",
+  "active": "1086f4f5b6aebf35",
   "lastOpenFiles": [
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+    "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
+    "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "Safety MOJO - Demonstration with Stack Infrastructure.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "01-Personal/Weekly U.S. Data Center EHS Brief",
     "02-Work/06-Work Person/STACK People/People Base.base",
@@ -549,8 +600,6 @@
     "02-Work/Quick Notes 2/🌎CY24H2 Travel Planning.md",
     "02-Work/Running Notes.md",
     "02-Work/STACK EHS Vendor Onboarding Review.md",
-    "02-Work/Weekly Working Session 2026-05-27.md",
-    "02-Work/Work Related Injury Incident - NVA02E - 05_-5_-26.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
