@@ -58,91 +58,6 @@
             }
           },
           {
-            "id": "57247d831b8cf47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC - Weekly Working Session"
-            }
-          },
-          {
-            "id": "38bf46902a16498e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026 Safe-Secure Task Force Kick-Off Meeting"
-            }
-          },
-          {
-            "id": "32d4f0c98c90a9d9",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "02-Work/06-Work Person/STACK People/People Base.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "People Base"
-            }
-          },
-          {
-            "id": "20159af852adc44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gloria-David Asana Sync"
-            }
-          },
-          {
             "id": "660b41a81b2b5db0",
             "type": "leaf",
             "state": {
@@ -164,54 +79,6 @@
               },
               "icon": "lucide-file",
               "title": "Weird Al Never Grew Up. Neither Did These Fans (or Their Dads)"
-            }
-          },
-          {
-            "id": "de0ca90bc9b5d797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ops-Construction Sync NVA05"
-            }
-          },
-          {
-            "id": "ca8d24ec69dcf580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-24 Regional EHS Ops Meeting"
             }
           },
           {
@@ -239,30 +106,6 @@
             }
           },
           {
-            "id": "cbb4e4927a72f4a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Safety MOJO - Demonstration with Stack Infrastructure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Safety MOJO - Demonstration with Stack Infrastructure"
-            }
-          },
-          {
             "id": "da3f3dd8e0683571",
             "type": "leaf",
             "state": {
@@ -284,30 +127,6 @@
               },
               "icon": "lucide-file",
               "title": "I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This"
-            }
-          },
-          {
-            "id": "1086f4f5b6aebf35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That"
             }
           },
           {
@@ -335,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -594,25 +413,25 @@
   },
   "active": "0b83e93ed853bc56",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
+    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
+    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
+    "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
+    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
+    "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
+    "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
     "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "Safety MOJO - Demonstration with Stack Infrastructure.md",
+    "Untitled.md",
+    "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
-    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "01-Personal/Weekly U.S. Data Center EHS Brief",
     "02-Work/06-Work Person/STACK People/People Base.base",
-    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-    "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
     "Clippings/The Four TV Shows That Heralded America’s Fall.md",
     "Clippings/Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’.md",
     "Clippings/Post by @DKThomp on X.md",
     "02-Work/05 - Work Meetings/MOC - Region EHS Ops Meetings.md",
-    "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
-    "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
-    "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
     "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
