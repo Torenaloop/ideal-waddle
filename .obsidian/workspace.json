@@ -309,9 +309,33 @@
               "icon": "lucide-file",
               "title": "Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That"
             }
+          },
+          {
+            "id": "0b83e93ed853bc56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -568,8 +592,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1086f4f5b6aebf35",
+  "active": "0b83e93ed853bc56",
   "lastOpenFiles": [
+    "Untitled.md",
     "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
     "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "Safety MOJO - Demonstration with Stack Infrastructure.md",
@@ -599,7 +624,6 @@
     "02-Work/NAL01B Safety Alignment Meeting.md",
     "02-Work/Quick Notes 2/🌎CY24H2 Travel Planning.md",
     "02-Work/Running Notes.md",
-    "02-Work/STACK EHS Vendor Onboarding Review.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
