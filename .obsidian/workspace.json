@@ -58,78 +58,6 @@
             }
           },
           {
-            "id": "660b41a81b2b5db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Weird Al Never Grew Up. Neither Did These Fans (or Their Dads)"
-            }
-          },
-          {
-            "id": "e89596b468241a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Exclusive AI giants, unions join forces for data center fight"
-            }
-          },
-          {
-            "id": "da3f3dd8e0683571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This"
-            }
-          },
-          {
             "id": "0b83e93ed853bc56",
             "type": "leaf",
             "state": {
@@ -153,8 +81,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -411,19 +338,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da3f3dd8e0683571",
+  "active": "cf122c3b505e3468",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
+    "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
     "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
     "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
-    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
     "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
-    "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "Safety MOJO - Demonstration with Stack Infrastructure.md",
-    "Untitled.md",
     "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "01-Personal/Weekly U.S. Data Center EHS Brief",
