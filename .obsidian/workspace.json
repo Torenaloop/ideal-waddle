@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61516ac08d9b82ac",
+            "id": "cf122c3b505e3468",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.14.1"
+                "currentVersion": "1.14.3"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.1"
+              "title": "Release Notes 1.14.3"
             }
           },
           {
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -411,7 +411,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b83e93ed853bc56",
+  "active": "da3f3dd8e0683571",
   "lastOpenFiles": [
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
