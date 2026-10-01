@@ -81,7 +81,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -338,7 +339,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf122c3b505e3468",
+  "active": "ffcd7d771c033bd4",
   "lastOpenFiles": [
     "Untitled.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
