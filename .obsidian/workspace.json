@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "ffcd7d771c033bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ISS Project Update 2026-08-06"
-            }
-          },
-          {
             "id": "0b83e93ed853bc56",
             "type": "leaf",
             "state": {
@@ -339,12 +315,61 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "4089b82aa61d5c27",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1d66ab67506b53e1",
+        "type": "window",
+        "children": [
+          {
+            "id": "8e0473d4f9eb3065",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffcd7d771c033bd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ISS Project Update 2026-08-06"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2093,
+        "y": -192,
+        "width": 1229,
+        "height": 653,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "ffcd7d771c033bd4",
   "lastOpenFiles": [
     "Untitled.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
     "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
     "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",

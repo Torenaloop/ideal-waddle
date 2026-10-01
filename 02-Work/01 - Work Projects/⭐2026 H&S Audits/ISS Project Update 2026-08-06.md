@@ -90,3 +90,17 @@ Portland Readiness Touchpoint
 - List of any hazardous waste streams and where they go
 ### Message from Jesse
 - ![[Pasted image 20260921145445.png]]
+
+
+
+# 2026-10-01 ISS/STACK Audit Sync
+ - Attendees:
+ - Agenda:
+	 - Chaotic at first but smoothed out later
+	 - OSHA 300
+	 - Training Records or lack there of
+	 - GFCI - no face plate | In one gallery but not in other 3 galleries 
+	 - Condenser unit - using plastic buckets to catch "minor drips" but the bucket is 3/4 of the way full
+	 - Building C had a lot of loto issues, confines spaces not properly labeled (partially met)
+
+Needs Shaniya Cobbs cell and Jo will be in SFO Wed - Fri
