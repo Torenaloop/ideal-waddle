@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "STACK EHS Onboarding - CTHX Questionnaire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "STACK EHS Onboarding - CTHX Questionnaire"
             }
           }
         ],
@@ -355,8 +355,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 2093,
-        "y": -192,
+        "x": 2225,
+        "y": -72,
         "width": 1229,
         "height": 653,
         "maximize": false,
@@ -364,10 +364,10 @@
       }
     ]
   },
-  "active": "ffcd7d771c033bd4",
+  "active": "0b83e93ed853bc56",
   "lastOpenFiles": [
-    "Untitled.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "STACK EHS Onboarding - CTHX Questionnaire.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
     "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
     "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
