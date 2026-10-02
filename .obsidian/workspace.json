@@ -37,10 +37,24 @@
             "id": "0aaa1cb375f39c27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SOSPES REPLACEMENT MOC"
             }
           }
         ],
@@ -106,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -303,6 +316,11 @@
   },
   "active": "0aaa1cb375f39c27",
   "lastOpenFiles": [
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Vector Solutions.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Safety MOJO - Demonstration with Stack Infrastructure.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/05 - Work Meetings/STACK EHS Onboarding - CTHX Questionnaire.md",
     "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
@@ -313,9 +331,7 @@
     "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
     "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
     "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
-    "Safety MOJO - Demonstration with Stack Infrastructure.md",
     "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
     "01-Personal/Weekly U.S. Data Center EHS Brief",
     "02-Work/06-Work Person/STACK People/People Base.base",
     "Clippings/The Four TV Shows That Heralded America’s Fall.md",
@@ -323,8 +339,6 @@
     "Clippings/Post by @DKThomp on X.md",
     "02-Work/05 - Work Meetings/MOC - Region EHS Ops Meetings.md",
     "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement",
     "Files/Pasted image 20260921145445.png",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
@@ -332,7 +346,6 @@
     "02-Work/Daniel Stevenson 1 on 1 2026-04-20.md",
     "02-Work/NAL01B Safety Alignment Meeting.md",
     "02-Work/Quick Notes 2/🌎CY24H2 Travel Planning.md",
-    "02-Work/Running Notes.md",
     "00-Bases/People Base.base",
     "00-Bases/Goals Base.base",
     "Files/Pasted image 20260825091437.png",
