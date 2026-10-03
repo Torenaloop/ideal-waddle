@@ -34,54 +34,6 @@
             }
           },
           {
-            "id": "0aaa1cb375f39c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SOSPES REPLACEMENT MOC"
-            }
-          },
-          {
-            "id": "b298b57a84bd0513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ISS Project Update 2026-08-06"
-            }
-          },
-          {
             "id": "e0d3ce26cfc5618f",
             "type": "leaf",
             "state": {
@@ -227,7 +179,7 @@
               "type": "bases",
               "state": {
                 "file": "00-Bases/Meetings Base.base",
-                "viewName": "All Meetings"
+                "viewName": "By Type"
               },
               "icon": "lucide-table",
               "title": "Meetings Base"
@@ -375,22 +327,9 @@
               "icon": "lucide-table",
               "title": "Rhett Base"
             }
-          },
-          {
-            "id": "181fb00ace2dec8b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/CAB Procedure Reviews.base",
-                "viewName": "All Reviews"
-              },
-              "icon": "lucide-table",
-              "title": "CAB Procedure Reviews"
-            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -646,19 +585,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "181fb00ace2dec8b",
+  "active": "a28fe2949b376cd4",
   "lastOpenFiles": [
-    "Clippings/MAGA Is Making the World Safe for Corruption.md",
-    "00-Bases/CAB Procedure Reviews.base",
-    "00-Bases/Person Page.base",
-    "00-Bases/EHS Assessments.base",
     "00-Bases/Site Hub.base",
     "00-Bases/Clippings Base.base",
-    "00-Bases/Meeting Tracker.base",
-    "00-Bases/OneNote Triage.base",
+    "00-Bases/CAB Procedure Reviews.base",
+    "00-Bases/Rhett Base.base",
+    "00-Bases/23. Safety_Pre-Migration.base",
+    "00-Bases/Evergreen.base",
     "00-Bases/Daily.base",
     "00-Bases/Attachments Base.base",
     "00-Bases/Discussion Items.base",
+    "00-Bases/Meeting Tracker.base",
+    "00-Bases/Work Recently Modified.base",
+    "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
+    "02-Work/06-Work Person/STACK People/Jack Gillian.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+    "Clippings/MAGA Is Making the World Safe for Corruption.md",
     "01-Personal/Quick Notes/Using Onenote as a Daily Planner  r-OneNote.md",
     "01-Personal/Quick Notes/Vienna History Books - ChatGPT (2).md",
     "01-Personal/Quick Notes/basics of graph databases - Search.md",
@@ -674,16 +618,11 @@
     "01-Personal/Quick Notes/Low formality v High formality.md",
     "01-Personal/Quick Notes/EDSBS.md",
     "01-Personal/Quick Notes/⭐Printout.md",
-    "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
-    "02-Work/06-Work Person/STACK People/Jack Gillian.md",
     "01-Personal/Quick Notes/⭐Portable Workstations Solutions.md",
     "01-Personal/Quick Notes/Untitled-20260127090026.md",
     "01-Personal/Quick Notes/Try the OneNote Web Clipper!.md",
     "01-Personal/Quick Notes/Try the OneNote Web Clipper! 1.md",
     "01-Personal/Quick Notes/Transform Your Notes with OneNote's AI.md",
-    "01-Personal/Quick Notes/Tiago Forte Tools.md",
-    "01-Personal/Quick Notes/Tiago Forte OneNote.md",
-    "01-Personal/Quick Notes/This Machine Exposes Privacy Violations - WIRED.md",
     "Files/Pasted image 20260921145445.png",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
