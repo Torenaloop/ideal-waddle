@@ -21,8 +21,8 @@ Reports to:
 	- Also saved as a favorite in STACK OneDrive
 
 ## Meetings
-- [[01-Personal/04-Archives/Archived Daily Notes/2023 Daily Notes/12 - December/Week of 2023-12-17/2023-12-21]]
-- [[01-Personal/04-Archives/Archived Daily Notes/2023 Daily Notes/12 - December/Week of 2023-12-17/2023-12-21 Saucedo Conversation]]
+- [[02-Work/04 - Work Archives/Imported from Personal/2023/2023-12-21 (2)]]
+- [[02-Work/04 - Work Archives/Imported from Personal/2023/2023-12-21 Saucedo Conversation]]
 
 ## Activity
 ![[Person Page.base]]

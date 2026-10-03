@@ -42,7 +42,7 @@ Triage Signals: "personal: Rhett, Baseball"
 
 [2023-09-03](01-Personal/Daily%20Notes/Week%20of%202023-08-28/2023-09-03.md)
  
-[2023-09-03 Weekly Review](01-Personal/Daily%20Notes/2023-09-03/2023-09-03%20Weekly%20Review.md)
+[2023-09-03 Weekly Review](02-Work/04%20-%20Work%20Archives/Imported%20from%20Personal/2023/2023-09-03%20Weekly%20Review.md)
 
 # ─────────────────────────────────────────────────────────────────────────────────────────￼
  

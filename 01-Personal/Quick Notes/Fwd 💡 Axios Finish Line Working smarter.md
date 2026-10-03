@@ -2,13 +2,13 @@
 Triage: Personal
 Triage Signals: "personal: Kelsey"
 ---
-|   |   |
-|---|---|
-|**Subject**|**Fwd: 💡 Axios Finish Line: Working smarter**|
-|**Link to Outlook Item**|**Click here**|
-|**From**|**Kelsey Johnston Nuckolls**|
-|**To**|**David Nuckolls**|
-|**Sent**|**7/27/2023, 9:12:41 PM**|
+|                          |                                                |
+| ------------------------ | ---------------------------------------------- |
+| **Subject**              | **Fwd: 💡 Axios Finish Line: Working smarter** |
+| **Link to Outlook Item** | **Click here**                                 |
+| **From**                 | **Kelsey Johnston Nuckolls**                   |
+| **To**                   | **David Nuckolls**                             |
+| **Sent**                 | **7/27/2023, 9:12:41 PM**                      |
     
 ---------- Forwarded message ---------  
 From: **Mike Allen** \<[mike@axios.com](mailto:mike@axios.com)\>  

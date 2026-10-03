@@ -375,9 +375,22 @@
               "icon": "lucide-table",
               "title": "Rhett Base"
             }
+          },
+          {
+            "id": "181fb00ace2dec8b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/OneNote Triage.base",
+                "viewName": "Stubs"
+              },
+              "icon": "lucide-table",
+              "title": "OneNote Triage"
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -439,7 +452,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -633,44 +646,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf122c3b505e3468",
+  "active": "181fb00ace2dec8b",
   "lastOpenFiles": [
-    "00-Bases/Rhett Base.base",
-    "_harmonization/_unclear_index.json",
-    "_harmonization/backup-triage.json",
-    "_harmonization/triage_onenote.py",
-    "_harmonization/backup-archives-20261003-014530.json",
-    "_harmonization/harmonize_archives.py",
-    "02-Work/SPCC - SHAREPOINT - Examples.md",
-    "00-Bases/CAB Procedure Reviews.base",
-    "00-Bases/23. Safety_Pre-Migration.base",
-    "00-Bases/Evergreen.base",
     "00-Bases/Daily.base",
     "00-Bases/Attachments Base.base",
-    "02-Work/02 - Work Areas/NAL01A/NAL01A.md",
-    "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
+    "00-Bases/Discussion Items.base",
+    "00-Bases/Work Recently Modified.base",
+    "00-Bases/People Base.base",
+    "00-Bases/Work Site Tracker.base",
+    "00-Bases/Projects Status Board.base",
+    "00-Bases/Meetings Base.base",
+    "00-Bases/Email Inbox.base",
+    "00-Bases/Goals Base.base",
+    "00-Bases/CAB Procedure Reviews.base",
+    "01-Personal/Quick Notes/Using Onenote as a Daily Planner  r-OneNote.md",
+    "01-Personal/Quick Notes/Vienna History Books - ChatGPT (2).md",
+    "01-Personal/Quick Notes/basics of graph databases - Search.md",
+    "01-Personal/Quick Notes/current state of semantic web technologies - Search.md",
+    "01-Personal/Quick Notes/⌨️Keyboard shortcuts in Microsoft Edge - Microsoft Support.md",
+    "01-Personal/Quick Notes/Fwd 💡 Axios Finish Line Working smarter.md",
+    "01-Personal/Stephen F. Austin Neighbor.md",
+    "01-Personal/Untitled.md",
+    "01-Personal/Untitled 1.md",
+    "01-Personal/Nuckolls Family Research - Migration Heat Map.md",
+    "01-Personal/Quick Notes/Purchase Complete - Onetastic.md",
+    "01-Personal/Quick Notes/George A. Nash.md",
+    "01-Personal/Quick Notes/Low formality v High formality.md",
+    "01-Personal/Quick Notes/EDSBS.md",
+    "01-Personal/Quick Notes/⭐Printout.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
     "02-Work/06-Work Person/STACK People/Jack Gillian.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "ATL01A Site Hub.md",
-    "Jack Gillian Hub.md",
-    "04-Templates/Job Details.md",
-    "04-Templates/Folder Data.md",
-    "04-Templates/Weekly Review 2.0.md",
-    "04-Templates/AP Review Template.md",
-    "04-Templates/Standard Note.md",
-    "04-Templates/Reference Note.md",
-    "04-Templates/Email Template.md",
-    "04-Templates/Evergreen-Concept Note.md",
-    "04-Templates/Jesse Kenser 1 on 1.md",
-    "04-Templates/Medium CAB Template.md",
-    "04-Templates/Meeting Note.md",
-    "04-Templates/People.md",
-    "04-Templates/Person Note.md",
-    "04-Templates/Project Note Template.md",
+    "01-Personal/Quick Notes/⭐Portable Workstations Solutions.md",
+    "01-Personal/Quick Notes/Untitled-20260127090026.md",
+    "01-Personal/Quick Notes/Try the OneNote Web Clipper!.md",
+    "01-Personal/Quick Notes/Try the OneNote Web Clipper! 1.md",
+    "01-Personal/Quick Notes/Transform Your Notes with OneNote's AI.md",
+    "01-Personal/Quick Notes/Tiago Forte Tools.md",
+    "01-Personal/Quick Notes/Tiago Forte OneNote.md",
+    "01-Personal/Quick Notes/This Machine Exposes Privacy Violations - WIRED.md",
     "Files/Pasted image 20260921145445.png",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
