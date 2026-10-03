@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID: "190733"
-Procedure Title: "P5-240 TFO Energization"
+Procedure Title: P5-240 TFO Energization
 Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

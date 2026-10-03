@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID: "168200"
-Procedure Title: "IR Scan DH110 APM"
+Procedure Title: IR Scan DH110 APM
 Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

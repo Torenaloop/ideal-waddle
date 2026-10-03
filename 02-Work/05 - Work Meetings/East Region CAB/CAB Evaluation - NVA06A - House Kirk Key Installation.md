@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID:
-Procedure Title: "House Kirk Key Installation"
+Procedure Title: House Kirk Key Installation
 Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Document Category:
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

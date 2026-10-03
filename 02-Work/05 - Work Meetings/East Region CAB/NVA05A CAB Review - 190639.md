@@ -5,7 +5,7 @@ Procedure ID: "190639"
 Procedure Title:
 Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

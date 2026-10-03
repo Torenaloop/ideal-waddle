@@ -382,11 +382,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "00-Bases/OneNote Triage.base",
-                "viewName": "Stubs"
+                "file": "00-Bases/CAB Procedure Reviews.base",
+                "viewName": "All Reviews"
               },
               "icon": "lucide-table",
-              "title": "OneNote Triage"
+              "title": "CAB Procedure Reviews"
             }
           }
         ],
@@ -452,7 +452,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 240.5
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -648,17 +648,17 @@
   },
   "active": "181fb00ace2dec8b",
   "lastOpenFiles": [
+    "00-Bases/Person Page.base",
+    "00-Bases/EHS Assessments.base",
+    "00-Bases/Site Hub.base",
+    "00-Bases/Clippings Base.base",
+    "00-Bases/Meeting Tracker.base",
+    "00-Bases/OneNote Triage.base",
     "00-Bases/Daily.base",
     "00-Bases/Attachments Base.base",
     "00-Bases/Discussion Items.base",
     "00-Bases/Work Recently Modified.base",
     "00-Bases/People Base.base",
-    "00-Bases/Work Site Tracker.base",
-    "00-Bases/Projects Status Board.base",
-    "00-Bases/Meetings Base.base",
-    "00-Bases/Email Inbox.base",
-    "00-Bases/Goals Base.base",
-    "00-Bases/CAB Procedure Reviews.base",
     "01-Personal/Quick Notes/Using Onenote as a Daily Planner  r-OneNote.md",
     "01-Personal/Quick Notes/Vienna History Books - ChatGPT (2).md",
     "01-Personal/Quick Notes/basics of graph databases - Search.md",

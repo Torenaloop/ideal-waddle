@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID: "177658"
-Procedure Title: "CRAH.E-1138-01 Restoration"
+Procedure Title: CRAH.E-1138-01 Restoration
 Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Document Category: MOP
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

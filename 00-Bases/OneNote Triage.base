@@ -70,6 +70,8 @@ views:
     sort:
       - property: file.size
         direction: DESC
+    columnSize:
+      file.folder: 1016
   - type: table
     name: Duplicates
     filters:

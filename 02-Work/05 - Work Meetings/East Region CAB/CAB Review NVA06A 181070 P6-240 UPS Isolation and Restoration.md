@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID: "181070"
-Procedure Title: "P6-240 UPS Isolation and Restoration"
+Procedure Title: P6-240 UPS Isolation and Restoration
 Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

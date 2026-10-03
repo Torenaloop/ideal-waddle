@@ -2,10 +2,10 @@
 type: cab-procedure-review
 PARA: Areas
 Procedure ID: "187939"
-Procedure Title: "DH110 FCW Internal Fitting Visual Inspection MOP"
+Procedure Title: DH110 FCW Internal Fitting Visual Inspection MOP
 Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:

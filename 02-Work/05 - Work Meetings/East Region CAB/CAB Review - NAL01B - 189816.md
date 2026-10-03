@@ -5,7 +5,7 @@ Procedure ID: "189816"
 Procedure Title:
 Site: NAL01B
 Document Category: MOP + JSA
-Review Type:
+Review Type: Medium
 CAB Meeting Date:
 CAB Decision:
 Procedure Owner:
