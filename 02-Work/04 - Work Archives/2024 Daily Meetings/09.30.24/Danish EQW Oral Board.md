@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-30
+PARA: Archives
+---
 **Danish EQW Oral Board**  
 Mon, Sep 30, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

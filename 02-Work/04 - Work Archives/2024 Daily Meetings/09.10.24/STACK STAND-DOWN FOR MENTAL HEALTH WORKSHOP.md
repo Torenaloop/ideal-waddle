@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-10
+PARA: Archives
+---
 **STACK STAND-DOWN FOR MENTAL HEALTH WORKSHOP**  
 Tue, Sep 10, 2:30 PM - 4:30 PM  
 SVY01B Conference Room - Office; POR03A Conference Room - Lobby; AMER - Site Activities  

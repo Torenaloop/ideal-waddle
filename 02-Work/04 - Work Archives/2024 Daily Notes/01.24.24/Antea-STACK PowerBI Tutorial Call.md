@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-01-24
+PARA: Archives
+---
 1. Open Power BI Desk Top App
 2. Click on Transform Data
 3. Click on "gear" next to "Source"

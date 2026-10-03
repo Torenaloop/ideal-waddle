@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-16
+PARA: Archives
+---
 **Caleb/David 1:1**  
 Fri, Aug 16, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

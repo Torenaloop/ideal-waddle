@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-18
+PARA: Archives
+---
 **Pearl SPEC Review NVA02D/E TOR01A**  
 Wed, Jun 18, 11:00 AM - 12:00 PM  
 NVA02E Conference Room - Lobby  

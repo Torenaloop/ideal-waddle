@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-01-24
+PARA: Archives
+---
 #"Filtered Hidden Files1" = Table.SelectRows(#"Filtered Rows", each [Attributes]?[Hidden]? \<\> true),  
 #"Invoke Custom Function1" = Table.AddColumn(#"Filtered Hidden Files1", "Transform File", each #"Transform File"([Content])),  
 #"Renamed Columns1" = Table.RenameColumns(#"Invoke Custom Function1", {"Name", "Source.Name"}),  

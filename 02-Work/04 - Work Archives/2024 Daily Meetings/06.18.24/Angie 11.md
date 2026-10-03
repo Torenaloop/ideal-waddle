@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-06-18
+PARA: Archives
+---
 **Angie/David 1:1**  
 Tue, Jun 18, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

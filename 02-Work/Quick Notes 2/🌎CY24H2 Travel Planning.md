@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: POR02A, TOR01A, NAL01A, ATL01A, ACOM, Dennis Caleodis; personal: Christmas"
+---
 ## December 2024
 
 |   |   |   |   |   |   |   |

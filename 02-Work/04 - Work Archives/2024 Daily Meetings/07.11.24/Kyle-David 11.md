@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-11
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **Kyle/David 1:1**  
 Thu, Jul 11, 11:30 AM - 12:00 PM  
 Microsoft Teams Meeting  

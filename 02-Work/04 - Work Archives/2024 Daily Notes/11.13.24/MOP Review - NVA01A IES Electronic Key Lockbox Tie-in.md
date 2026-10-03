@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-13
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 Case/Work Order #127852 EHS Review
  
 The MOP is TSO compliant, 1:1 Locks/tags applied versus locks/tags removed, and you have your verification of absence of energy step line-itemed/articulated in the MOP.  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-04-03
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: Future Safety Fairs Across AMER**|

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-08
+PARA: Archives
+---
 **Todd/David 1:1**  
 Mon, Jul 8, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

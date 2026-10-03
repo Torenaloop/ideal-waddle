@@ -18,6 +18,8 @@ Related:
   - "[[01-Personal/02-Areas/03-Kelsey/Kelsey]]"
   - "[[Sports 1]]"
 Archive After: 2023-12-28
+Triage: Personal
+Triage Signals: "personal: Alamo bowl, Rhett, Kelsey"
 ---
 
 # Alamo Bowl '23

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-13
+PARA: Archives
+---
 The **Canvas** feature in ChatGPT offers a dynamic workspace that enhances writing, coding, and collaboration, making it particularly beneficial for business professionals. To help you understand and utilize this feature effectively, here are some visual resources:  
 【{"image_fetch": "ChatGPT Canvas tutorial video"}】 **Master ChatGPT's NEW Canvas Feature for Writing!**  
 A concise 10-minute walkthrough demonstrating how to leverage Canvas for writing tasks, ideal for business documentation and content creation. citeturn0search0  

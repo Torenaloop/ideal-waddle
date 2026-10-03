@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-21
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**BodyBilt Ergo Form**|

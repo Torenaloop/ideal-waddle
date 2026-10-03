@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-05
+PARA: Archives
+---
 NVA02E-MOP-Electrical-Critical Output Distribution Board-CDP Breaker Injection Testing  
 _EHS Review_  
 ────────────────────────────────────────────────────────────────────────────────────────────────────

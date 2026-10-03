@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-11
+PARA: Archives
+---
 **Vishal | David 1:1**  
 Tue, Mar 11, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 - [x] Topo Chico
 - [x] La Croix
 - [x] Waterloo

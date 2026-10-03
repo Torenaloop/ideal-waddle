@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-11
+PARA: Archives
+---
 Here’s a breakdown of Zapier’s key pricing plans as of the latest update (June 2025):
  
 **🆓** **Free Plan**

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-05-17
+PARA: Archives
+---
 NVA02D main entrance door at ~11:17am EST on 5/16/24
 
 - Entered into SOSPES at ~10:50pm EST on 5/16/24

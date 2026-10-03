@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "work: STACK, safety, data center, OSHA, EHS, compliance; personal: Book"
+Duplicate Of: "[[01-Personal/04-Archives/STACK/STACK Job Description]]"
+---
 #JOBS #Mindmap
 
 

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-20
+PARA: Archives
+---
 **[EXTERNAL] STACK - 2025 Env. Audits - Kickoff Call**  
 Thu, Feb 20, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

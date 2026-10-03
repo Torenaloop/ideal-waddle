@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 5.pdf]]
 
 [https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/21/new-agent-capabilities-in-microsoft-copilot-unlock-business-value/](https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/21/new-agent-capabilities-in-microsoft-copilot-unlock-business-value/)

@@ -8,6 +8,7 @@ Due Date:
 tags:
   - Projects
   - Partnership
+PARA: Archives
 ---
 ### Notes
 ---

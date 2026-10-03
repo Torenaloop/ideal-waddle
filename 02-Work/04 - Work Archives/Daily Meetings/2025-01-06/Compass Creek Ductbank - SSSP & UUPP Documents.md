@@ -1,3 +1,13 @@
+---
+type: meeting
+Date: 2025-01-06
+PARA: Archives
+People:
+  - "[[Ted Travis]]"
+  - "[[Kate Crawford]]"
+  - "[[Donna Lynch]]"
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 **Compass Creek Ductbank - SSSP & UUPP Documents**  
 Mon, Jan 6, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

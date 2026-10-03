@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-05
+PARA: Archives
+---
 **Safety Fair Document Review**  
 Wed, Feb 5, 2:00 PM - 2:25 PM  
 Microsoft Teams Meeting  

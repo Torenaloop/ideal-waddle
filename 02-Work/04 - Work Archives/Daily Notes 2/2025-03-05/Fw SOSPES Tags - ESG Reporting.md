@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-03-05
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: SOSPES Tags - ESG Reporting**|

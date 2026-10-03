@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-01
+PARA: Archives
+---
 **Electrical Qualified Workshop Oral Board**  
 Tue, Oct 1, 6:00 AM - 6:30 AM  
 [Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NABGAAAAAAAKyp%2BY2%2FXtS4qL30BfG4%2BRBwCwwsU3mSQtS7WEqO9JZDh%2BAAAAAAENAACwwsU3mSQtS7WEqO9JZDh%2BAADwo%2FvBAAA%3D&exvsurl=1&path=/calendar/item)  

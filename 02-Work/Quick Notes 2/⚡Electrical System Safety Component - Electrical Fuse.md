@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: safety"
+---
 # Electrical System Safety Component - Electrical Fuse
  
 An **electrical fuse** is a safety device designed to protect electrical circuits from excessive current that could cause damage or create a fire hazard. Its main purposes are:  

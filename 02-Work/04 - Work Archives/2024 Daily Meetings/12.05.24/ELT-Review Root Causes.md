@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-12-05
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **ELT-Review Root Causes**  
 Thu, Dec 5, 11:00 AM - 12:00 PM  
 Microsoft Teams Meeting  

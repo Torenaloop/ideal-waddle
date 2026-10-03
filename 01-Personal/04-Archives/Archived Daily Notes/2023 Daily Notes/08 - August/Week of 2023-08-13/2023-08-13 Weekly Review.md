@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ### Personal PARA Review #para #weeklyreview 
 
 - Projects

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-19
+PARA: Archives
+---
 **Rich's Staff meeting**  
 Tue, Nov 19, 9:00 AM - 10:00 AM  
 Microsoft Teams Meeting  

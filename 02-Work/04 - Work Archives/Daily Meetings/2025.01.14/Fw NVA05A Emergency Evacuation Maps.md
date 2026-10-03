@@ -1,3 +1,13 @@
+---
+type: meeting
+Date: 2025-01-14
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+  - "[[Eric Hinson]]"
+  - "[[Hocine Mbolidi]]"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: NVA05A Emergency Evacuation Maps**|

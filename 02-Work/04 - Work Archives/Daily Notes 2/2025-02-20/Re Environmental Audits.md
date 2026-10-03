@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-20
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: [EXTERNAL] Re: Environmental Audits**|

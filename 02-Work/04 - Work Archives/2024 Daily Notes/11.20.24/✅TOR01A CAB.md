@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-20
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 # There is not LOTO associated with this MOP per Denis…..
  ![Exported image](Files/Exported%20image%2020260127152328-0.png)  
 

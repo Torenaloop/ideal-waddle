@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 ## December 2024
 
 |   |   |   |   |   |   |   |

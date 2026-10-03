@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Baseball"
+---
 # 10.01.Sun
  
 ## Tasks

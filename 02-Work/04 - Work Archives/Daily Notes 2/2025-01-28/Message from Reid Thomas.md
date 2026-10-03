@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-28
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 Message from Reid Thomas saved from Teams  
 ￼Message details:  
 [https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2462475&whence=&cmid=1738009909435_20439](https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2462475&whence=&cmid=1738009909435_20439)      Notes:  

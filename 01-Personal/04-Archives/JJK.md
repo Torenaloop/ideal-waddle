@@ -10,6 +10,7 @@ tags:
 Type: Media
 Related:
   - "[[02-Rhett 1]]"
+Triage: Personal
 ---
 
 # JJK (Jujutsu Kaisen)

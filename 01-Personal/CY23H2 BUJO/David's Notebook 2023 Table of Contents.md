@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: Thyssenkrupp, TK, EHS, ATL01A; personal: Book, Rhett, School, Baseball, Birthday, Christmas"
+---
 - **CY23H2 BUJO**
     - [List of Notebooks](List%20of%20Notebooks)
     - [Future Log](Future%20Log.md)

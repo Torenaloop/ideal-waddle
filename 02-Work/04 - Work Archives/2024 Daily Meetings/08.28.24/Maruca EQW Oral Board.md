@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-28
+PARA: Archives
+---
 **Maruca EQW Oral Board**  
 Wed, Aug 28, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

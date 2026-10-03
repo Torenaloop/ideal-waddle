@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Certainly! Linked Notes in OneNote allow you to dock OneNote to one side of your computer screen while viewing websites or other apps on the other side. Here’s how to use it:
 
 1. **Internet Explorer**:

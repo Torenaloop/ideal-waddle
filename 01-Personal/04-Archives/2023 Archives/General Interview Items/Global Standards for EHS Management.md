@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: EHS, OSHA, safety, inspection"
+---
 1. ==The U.S. Occupational Safety and Health Act of 1970 (OSH Act) was passed to prevent employees from being injured, killed or made ill at work. The act created the Occupational Safety and Health Administration (OSHA), whose mandate is to establish and enforce workplace health and safety standards while providing education, training and support to employers and employees.==
 2. ==The Health and Safety Executive (HSE) is an independent regulator in Great Britain with the goal of preventing workplace illness, injury and deaths. The HSE establishes standards, guidelines and policies for workplace health and safety while enforcing those mandates through inspection, investigation and mandatory reporting.==
 3. ==In the European Union, the European Framework Directive (1989/391/EEC) establishes general principles for managing workplace safety and health. This includes the rights and responsibilities of the employer and the employee for risk assessment, documentation, reporting, inspections and audits.==

@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 The Law of Inertia is one of the [[01-Personal/04-Archives/Three Laws of Motion]]
 
 1. At the end of the sentence, press the left square bracket (`[`) twice on your keyboard.

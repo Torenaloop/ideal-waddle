@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-23
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: [EXTERNAL] Re: Team Fishel Access Request - IAD222/370**|

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-08-14
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 **Weekly CAB EAST**  
 Wed, Aug 14, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

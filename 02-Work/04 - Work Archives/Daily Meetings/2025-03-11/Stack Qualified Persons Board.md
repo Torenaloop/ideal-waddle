@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-11
+PARA: Archives
+---
 **Stack Qualified Persons Board**  
 Tue, Mar 11, 9:00 AM - 9:50 AM  
 Microsoft Teams Meeting  

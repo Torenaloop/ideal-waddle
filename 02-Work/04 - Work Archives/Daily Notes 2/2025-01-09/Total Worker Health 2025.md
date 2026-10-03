@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-09
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Total Worker Health 2025**|

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-03
+PARA: Archives
+---
 **Electrical Safety Exam**  
 Thu, Jul 3, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

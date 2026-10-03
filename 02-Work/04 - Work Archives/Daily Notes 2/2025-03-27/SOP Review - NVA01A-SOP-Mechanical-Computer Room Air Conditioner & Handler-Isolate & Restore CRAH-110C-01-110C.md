@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-03-27
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \|   \|   \|<br>\|---\|---\|<br>\|**🛈**\|**Information**  <br>Locks applied: 6  <br>Locks removed: 6  <br>Verification of absence of energy: Step 21\| |

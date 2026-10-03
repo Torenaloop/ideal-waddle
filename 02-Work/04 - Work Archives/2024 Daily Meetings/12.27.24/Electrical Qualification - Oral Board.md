@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-27
+PARA: Archives
+---
 **Electrical Qualification - Oral Board**  
 Fri, Dec 27, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-15
+PARA: Archives
+---
 **Mourn EQW Oral Board**  
 Thu, Aug 15, 11:00 AM - 11:30 AM  
 Microsoft Teams Meeting  

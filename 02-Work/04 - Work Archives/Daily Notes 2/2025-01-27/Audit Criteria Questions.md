@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-27
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Audit Criteria Questions**|

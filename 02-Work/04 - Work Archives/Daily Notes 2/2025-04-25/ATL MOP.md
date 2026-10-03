@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-04-25
+PARA: Archives
+---
 Locks applied
 
 - RPP Breaker Table

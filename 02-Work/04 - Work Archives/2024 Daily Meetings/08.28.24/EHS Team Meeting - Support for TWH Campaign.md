@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-28
+PARA: Archives
+---
 **EHS Team Meeting - Support for TWH Campaign**  
 Wed, Aug 28, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

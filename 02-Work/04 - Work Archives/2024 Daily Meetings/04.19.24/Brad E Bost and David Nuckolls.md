@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-04-19
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Brad E Bost and David Nuckolls**  
 Fri, Apr 19, 9:00 AM - 9:30 AM  
 [https://calendly.com/events/6cfb7eaf-50be-4210-ae0d-d8698c2f9933/microsoft_teams](https://calendly.com/events/6cfb7eaf-50be-4210-ae0d-d8698c2f9933/microsoft_teams)  

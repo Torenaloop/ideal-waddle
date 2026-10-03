@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 # General Electrical Safety_ENE 108
  
 Slide 60 - walk me through the image on the right of the slide, how you want this communicated

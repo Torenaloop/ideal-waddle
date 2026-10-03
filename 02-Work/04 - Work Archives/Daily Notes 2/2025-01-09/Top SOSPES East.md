@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-09
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 - December - Nicholas Mennillo
 - November - ? Has to be Reid Thomas, right….?
 - October - Danish

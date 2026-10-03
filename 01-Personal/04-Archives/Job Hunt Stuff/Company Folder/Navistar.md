@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Salary"
+---
 #JOBS 
 
 - Screening interview @ 4:30p on 8/23

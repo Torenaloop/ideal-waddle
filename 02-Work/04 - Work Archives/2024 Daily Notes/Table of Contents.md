@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 1. [Page Map of All Notebooks](Page%20Map%20of%20All%20Notebooks.md)
 2. [2023-08-27 Weekly Rview](02-Work/04%20-%20Work%20Archives/2024%20Daily%20Notes/2023-08-27%20Weekly%20Rview.md)
 3. [Week of 10.08.23](Week%20of%2010.08.23.md)

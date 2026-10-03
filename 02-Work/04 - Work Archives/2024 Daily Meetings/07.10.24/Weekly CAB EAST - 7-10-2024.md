@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-10
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **Weekly CAB EAST**  
 Wed, Jul 10, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

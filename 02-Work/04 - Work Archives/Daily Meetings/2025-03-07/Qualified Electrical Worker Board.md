@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-07
+PARA: Archives
+---
 **Qualified Electrical Worker Board**  
 Fri, Mar 7, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

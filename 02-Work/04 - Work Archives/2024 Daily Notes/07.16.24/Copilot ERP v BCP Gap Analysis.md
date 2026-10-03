@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-16
+PARA: Archives
+---
 Thank you for your patience! Let’s proceed with the gap analysis based on the content of both documents. Here are the key findings:
 
 1. **Content Differences**:

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-05-10
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: [EXTERNAL] Re: Stack Infrastructure VSight Trial Period**|

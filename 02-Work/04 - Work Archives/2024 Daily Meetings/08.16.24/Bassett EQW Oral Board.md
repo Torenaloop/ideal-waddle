@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-16
+PARA: Archives
+---
 **Bassett EQW Oral Board**  
 Fri, Aug 16, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

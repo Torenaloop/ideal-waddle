@@ -14,6 +14,7 @@ Related:
 Born: 1643
 Died: 1727
 Field: Physics, Mathematics
+Triage: Personal
 ---
 
 # Isaac Newton

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-16
+PARA: Archives
+---
 **Seann/David Sync**  
 Tue, Jul 16, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

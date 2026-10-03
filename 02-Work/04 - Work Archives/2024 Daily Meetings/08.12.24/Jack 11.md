@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-12
+PARA: Archives
+---
 - CAN deliver training the week of 10/14/24 - Chubb interview this Thursday - Felicia Nunez
    
 

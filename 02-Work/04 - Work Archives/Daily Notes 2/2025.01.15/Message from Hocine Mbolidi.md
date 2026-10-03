@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 Message from Hocine Mbolidi saved from Teams  
 ￼Message details: Our NVA05A client assigned their Safety responsibilities to a third party. This Safety Manager has so many questions and wants to connect with you  
 ￼￼Notes:  

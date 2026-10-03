@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-21
+PARA: Archives
+---
 **NVA02D/IAD222 Monthly Ops Report**  
 Thu, Nov 21, 11:30 AM - 12:30 PM  
 Chime  

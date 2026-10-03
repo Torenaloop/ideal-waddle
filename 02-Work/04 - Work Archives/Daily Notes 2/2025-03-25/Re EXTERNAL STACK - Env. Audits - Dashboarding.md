@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-03-25
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: [EXTERNAL] STACK - Env. Audits - Dashboarding**|

@@ -1,3 +1,6 @@
+---
+Triage: Unclear
+---
 SOCRATIC QUESTIONING  
 1. Co rifink caused and explaining origins of ideas. (What happened? What
 

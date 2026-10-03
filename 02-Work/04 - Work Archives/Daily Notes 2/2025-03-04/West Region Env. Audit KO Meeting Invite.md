@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-03-04
+PARA: Archives
+---
 To:
 
 - COMs

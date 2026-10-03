@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-03-14
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |
 |---|
 |\|   \|   \|<br>\|---\|---\|<br>\|**⚠**\|**Warning**  <br>Your content here.. I have scheduled a meeting with Rich Klee and Drew Van Kleeck on 3/24 to address\||

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-04-24
+PARA: Archives
+---
 ## Install Fuse Block on CODP-P2-120 - MOP
    
 

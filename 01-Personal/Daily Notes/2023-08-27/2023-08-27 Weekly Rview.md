@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: STACK, Jesse Kenser, EHS, Donna Lynch, Kate Crawford; personal: Application"
+---
 **Weekly Review**
 
 _David's Notebook_ _→_ _Daily Notes_ _→ 2023-08-27 Weekly Review_

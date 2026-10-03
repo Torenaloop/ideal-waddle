@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-17
+PARA: Archives
+---
 Message from China Mansfield saved from Teams  
 ￼Message details: Maybe blend safety and operational excellence...   Describe a time when you had to resolve a disagreement between technicians or between teams regarding safety or operational procedures. How did you handle the situation?   When providing feedback or coaching to technicians, how do you balance maintaining operational efficiency while also ensuring safety standards are followed?  
 ￼￼Notes:  

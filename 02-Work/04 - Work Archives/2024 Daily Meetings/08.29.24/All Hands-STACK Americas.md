@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-29
+PARA: Archives
+---
 **All Hands-STACK Americas**  
 Thu, Aug 29, 1:00 PM - 2:30 PM  
 ZOOM WEBINAR | Use link below  

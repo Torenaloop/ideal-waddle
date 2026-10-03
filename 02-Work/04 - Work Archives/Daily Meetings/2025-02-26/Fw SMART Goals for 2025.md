@@ -1,3 +1,16 @@
+---
+type: meeting
+Date: 2025-02-26
+PARA: Archives
+People:
+  - "[[Jesse Kenser]]"
+  - "[[Matt Saucedo]]"
+  - "[[Matt Goetz]]"
+  - "[[David Nuckolls]]"
+  - "[[Donna Lynch]]"
+  - "[[Kate Crawford]]"
+  - "[[Boyd Sylvester]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: SMART Goals for 2025**|

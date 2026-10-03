@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Tasks
 
 Meetings  

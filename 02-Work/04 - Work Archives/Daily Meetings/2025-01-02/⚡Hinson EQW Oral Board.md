@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-02
+PARA: Archives
+---
 **Hinson EQW Oral Board**  
 Thu, Jan 2, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

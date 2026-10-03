@@ -1,3 +1,20 @@
+---
+type: meeting
+Date: 2024-12-18
+PARA: Archives
+People:
+  - "[[Rebecca Boyer]]"
+  - "[[Josh Giberson]]"
+  - "[[Boyd Sylvester]]"
+  - "[[Jack Gillian]]"
+  - "[[Matt Honaker]]"
+  - "[[Todd Lipcsey]]"
+  - "[[Joe Kendra]]"
+  - "[[Drew Van Kleeck]]"
+  - "[[Josh Terry]]"
+  - "[[Rachel Eddinger]]"
+  - "[[Angela Maruca]]"
+---
 **Skip Level**  
 Wed, Dec 18, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

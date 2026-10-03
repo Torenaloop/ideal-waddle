@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 Case #128180 EHS Review  
 ─────────────────────────────────────────────────────────────────────────────────────────
  

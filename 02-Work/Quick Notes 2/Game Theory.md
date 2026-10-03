@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "work: safety; personal: Application"
+---
 Certainly! Game Theory is a branch of mathematics and economics that studies strategic interactions between decision-makers (players) in situations where the outcome depends on the actions of all involved. It provides a framework to model and analyze how individuals, organizations, or even countries behave in competitive or cooperative scenarios. Here's an overview of the key concepts:
  
 ---

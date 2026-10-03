@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Paper
 
 - STACK

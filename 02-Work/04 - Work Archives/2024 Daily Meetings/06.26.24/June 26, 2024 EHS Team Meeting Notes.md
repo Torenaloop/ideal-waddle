@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-06-26
+PARA: Archives
+---
 # Agenda Items
 
 - "Say Hello to Eileen!"

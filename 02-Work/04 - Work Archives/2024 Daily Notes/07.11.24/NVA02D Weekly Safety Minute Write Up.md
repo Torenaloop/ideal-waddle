@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-11
+PARA: Archives
+---
 Summary
  
 I'm really proud of the effort by the NVA02D Team to continue to raise the bar for EHS cultural expectations. In addition to the demonstrated strong performance in terms of lagging indicators such as incidents, their focus on efforts that could be categorized as leading indicators (the establishment of a Weekly Safety Minute presentation and the huge push to increased SOSPES entry participation during the Great Catch Campaign) deserve to be celebrated and publicized as an example of "What Good Looks Like".

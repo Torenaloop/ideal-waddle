@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-09-27
+PARA: Archives
+---
 Message from saved from Teams  
 ￼Message details:  
 ￼￼Notes:  

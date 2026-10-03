@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "work: TK"
+Duplicate Of: "[[01-Personal/04-Archives/Archived Daily Notes/2023 Daily Notes/08 - August/Week of 2023-08-20/2023-08-20 Weekly Review]]"
+---
 ### Personal PARA Review #para #weeklyreview 
 
 - Projects

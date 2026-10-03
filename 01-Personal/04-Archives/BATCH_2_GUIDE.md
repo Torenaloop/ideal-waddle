@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Family, Alamo bowl, Kelsey, Christmas, Rhett, School"
+---
 # Updated Tagging Guide - Batch 2
 
 ## Files Enhanced in This Batch

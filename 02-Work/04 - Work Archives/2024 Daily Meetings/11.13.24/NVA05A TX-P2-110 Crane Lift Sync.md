@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2024-11-13
+PARA: Archives
+People:
+  - "[[Eric Hinson]]"
+  - "[[Joe Kendra]]"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **NVA05A TX-P2-110 Crane Lift Sync**  
 Wed, Nov 13, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

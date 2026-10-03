@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-07-12
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**MOP**|

@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-02-21
+PARA: Archives
+People:
+  - "[[Matt Saucedo]]"
+---
 **Stephen - Sauce L&D Time block Connect**  
 Fri, Feb 21, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

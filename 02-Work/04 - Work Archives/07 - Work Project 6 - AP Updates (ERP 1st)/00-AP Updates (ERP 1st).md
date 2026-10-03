@@ -7,6 +7,7 @@ Start Date:
 Due Date:
 tags:
   - Projects
+PARA: Archives
 ---
 ### Notes
 ---

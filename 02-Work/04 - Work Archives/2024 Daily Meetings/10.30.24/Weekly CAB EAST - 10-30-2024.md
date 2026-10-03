@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-30
+PARA: Archives
+---
 **Weekly CAB EAST**  
 Wed, Oct 30, 2:30 PM - 3:45 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: STACK, Donna Lynch, Jesse Kenser"
+---
 #JOBS 
 Applied on 8/11
 Reached out to Ruben Thissen and Donna Lynch via LinkedIn

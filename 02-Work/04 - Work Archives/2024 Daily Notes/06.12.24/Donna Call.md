@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-06-12
+PARA: Archives
+---
 Was on a call w/Honaker
  
 Richard Luckey & Honaker are not getting along

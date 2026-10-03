@@ -1,3 +1,13 @@
+---
+type: meeting
+Date: 2025-01-25
+PARA: Archives
+People:
+  - "[[Jesse Kenser]]"
+  - "[[Matt Goetz]]"
+  - "[[Matt Saucedo]]"
+  - "[[David Nuckolls]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Meeting Summary: Working Session - January 15, 2025**|

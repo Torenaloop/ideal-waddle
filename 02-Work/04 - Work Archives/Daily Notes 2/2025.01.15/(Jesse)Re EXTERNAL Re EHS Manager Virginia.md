@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: [EXTERNAL] Re: EHS Manager Virginia**|

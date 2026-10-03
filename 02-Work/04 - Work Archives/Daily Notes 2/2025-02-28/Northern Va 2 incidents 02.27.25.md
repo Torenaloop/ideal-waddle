@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-27
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Northern Va 2 incidents 02.27.25**|

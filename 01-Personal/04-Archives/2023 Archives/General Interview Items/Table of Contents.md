@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: EHS"
+---
 1. [OneNote Hierarchy](OneNote%20Hierarchy.md)
 2. [What Is An EHS Management System](What%20Is%20An%20EHS%20Management%20System.md)
 3. [Key Components of an EHS Management System](Key%20Components%20of%20an%20EHS%20Management%20System.md)

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-06-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **David:Richard:Kate NAL01A discussion**  
 Wed, Jun 19, 9:00 AM - 9:15 AM  
 Microsoft Teams Meeting  

@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 # Things that will get accomplished this week:
  
 ## - [x] Complete remaining online training modules (9/23)

@@ -13,6 +13,8 @@ Related:
   - "[[Isaac Newton]]"
 Subject: Physics
 Law Number: 1
+Triage: Duplicate
+Duplicate Of: "[[01-Personal/04-Archives/Law_of_Inertia]]"
 ---
 
 # Law of Inertia

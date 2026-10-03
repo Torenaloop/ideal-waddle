@@ -1,3 +1,18 @@
+---
+type: meeting
+PARA: Archives
+People:
+  - "[[Joe Kendra]]"
+  - "[[Tom Harris]]"
+  - "[[Matt Honaker]]"
+  - "[[Jack Gillian]]"
+  - "[[Austin Greenbacker]]"
+  - "[[Matt Bassett]]"
+  - "[[Todd Lipcsey]]"
+  - "[[Rachel Eddinger]]"
+  - "[[Dave Robertson]]"
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 In discussing the overall results of the Pearl business review that occurred yesterday, Joe Kendra mentioned that there are monthly touch points that take place with the client and he had heard that they want a Safety and Security readout/snapshot going forward and as such, would it make sense for me to be on that call/meeting. He talked about what that could potentially look like from a Health/Safety perspective, but I wanted to make sure you were in the loop or if you had heard of the client moving in this direction
    
 

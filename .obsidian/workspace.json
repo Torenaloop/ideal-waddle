@@ -375,19 +375,9 @@
               "icon": "lucide-table",
               "title": "Rhett Base"
             }
-          },
-          {
-            "id": "3f8162a662c95c9b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 25
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -643,19 +633,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8162a662c95c9b",
+  "active": "cf122c3b505e3468",
   "lastOpenFiles": [
+    "00-Bases/Rhett Base.base",
+    "_harmonization/_unclear_index.json",
+    "_harmonization/backup-triage.json",
+    "_harmonization/triage_onenote.py",
+    "_harmonization/backup-archives-20261003-014530.json",
+    "_harmonization/harmonize_archives.py",
     "02-Work/SPCC - SHAREPOINT - Examples.md",
     "00-Bases/CAB Procedure Reviews.base",
-    "00-Bases/Rhett Base.base",
     "00-Bases/23. Safety_Pre-Migration.base",
     "00-Bases/Evergreen.base",
     "00-Bases/Daily.base",
     "00-Bases/Attachments Base.base",
-    "00-Bases/Discussion Items.base",
-    "00-Bases/Meeting Tracker.base",
-    "00-Bases/Work Recently Modified.base",
-    "00-Bases/People Base.base",
     "02-Work/02 - Work Areas/NAL01A/NAL01A.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
@@ -680,7 +671,6 @@
     "04-Templates/People.md",
     "04-Templates/Person Note.md",
     "04-Templates/Project Note Template.md",
-    "04-Templates/Project Note.md",
     "Files/Pasted image 20260921145445.png",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",

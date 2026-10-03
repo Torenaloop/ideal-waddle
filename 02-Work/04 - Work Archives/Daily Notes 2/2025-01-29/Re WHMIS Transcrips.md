@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-29
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: WHMIS Transcrips**|

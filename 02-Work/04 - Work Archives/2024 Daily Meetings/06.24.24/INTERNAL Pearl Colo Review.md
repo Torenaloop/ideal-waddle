@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-06-24
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 |   |
 |---|
 |\|   \|   \|<br>\|---\|---\|<br>\|**🛈**\|**Agenda**<br><br>- Your content here…<br>- Agenda Item 2<br>- Agenda Item 3\||

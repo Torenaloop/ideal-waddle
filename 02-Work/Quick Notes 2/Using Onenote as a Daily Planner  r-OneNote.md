@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Clipped from: [https://www.reddit.com/r/OneNote/comments/r6y1du/using_onenote_as_a_daily_planner/](https://www.reddit.com/r/OneNote/comments/r6y1du/using_onenote_as_a_daily_planner/)
 
 I have been long trying to find a solution for the best way to track tasks and notes for a given day, and toying with the idea of Onenote as a planner.  

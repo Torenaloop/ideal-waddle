@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-13
+PARA: Archives
+---
 **East Region Environmental Audit Kick Off Meeting**  
 Thu, Mar 13, 9:30 AM - 10:20 AM  
 Microsoft Teams Meeting  

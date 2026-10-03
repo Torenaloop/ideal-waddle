@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-24
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 **Discuss Risk Control Survey - CHUBB**  
 Wed, Jul 24, 11:00 AM - 11:30 AM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-28
+PARA: Archives
+---
 **Lunch & Learn: Investing for Retirement**  
 Tue, Jan 28, 2:00 PM - 3:00 PM  
 [Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NABGAAAAAAAKyp%2BY2%2FXtS4qL30BfG4%2BRBwCwwsU3mSQtS7WEqO9JZDh%2BAAAAAAENAACwwsU3mSQtS7WEqO9JZDh%2BAAE6YBtzAAA%3D&exvsurl=1&path=/calendar/item)  

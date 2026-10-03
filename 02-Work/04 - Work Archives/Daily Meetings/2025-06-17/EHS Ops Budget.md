@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-17
+PARA: Archives
+---
 **EHS Ops Budget**  
 Tue, Jun 17, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

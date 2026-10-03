@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-01
+PARA: Archives
+---
 **Eleen/Dave 1-0n-1**  
 Thu, Aug 1, 2:00 PM - 3:00 PM  
 Microsoft Teams Meeting  

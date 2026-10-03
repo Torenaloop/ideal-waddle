@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-07-03
+PARA: Archives
+People:
+  - "[[Chris Lynch]]"
+---
 **Qualified Worker Oral Board - Chris Lynch**  
 Thu, Jul 3, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

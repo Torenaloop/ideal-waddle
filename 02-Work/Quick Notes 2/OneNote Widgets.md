@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 7.pdf]]
 
 [https://support.microsoft.com/en-us/office/onenote-ios-widgets-34b31a97-515d-4a6f-bcf4-9472aae43adb](https://support.microsoft.com/en-us/office/onenote-ios-widgets-34b31a97-515d-4a6f-bcf4-9472aae43adb)

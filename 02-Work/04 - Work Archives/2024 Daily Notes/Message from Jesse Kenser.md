@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Message from Jesse Kenser saved from Teams  
 ￼Message details:  
 Thank you sir.       Notes:  

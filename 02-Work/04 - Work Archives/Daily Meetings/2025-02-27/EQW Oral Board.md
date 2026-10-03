@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-27
+PARA: Archives
+---
 **EQW Oral Board**  
 Thu, Feb 27, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

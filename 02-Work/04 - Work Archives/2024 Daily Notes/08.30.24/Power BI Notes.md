@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-08-30
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 What the differnet
  
 In Power BI, the different colors used in code or DAX (Data Analysis Expressions) help to distinguish various elements and improve readability. Here’s a breakdown of what the colors typically represent:

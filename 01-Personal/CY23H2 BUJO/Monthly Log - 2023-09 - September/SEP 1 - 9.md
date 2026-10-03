@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Rhett, Baseball"
+---
 # 09.01.Fri
  
 ## Tasks

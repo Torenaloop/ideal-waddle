@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-28
+PARA: Archives
+---
 **Rachel/David 1:1**  
 Wed, Aug 28, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,18 @@
+---
+type: meeting
+PARA: Archives
+People:
+  - "[[Tom Harris]]"
+  - "[[Matt Honaker]]"
+  - "[[Jack Gillian]]"
+  - "[[Joe Kendra]]"
+  - "[[Austin Greenbacker]]"
+  - "[[Matt Bassett]]"
+  - "[[Todd Lipcsey]]"
+  - "[[Rachel Eddinger]]"
+  - "[[Dave Robertson]]"
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 **Meeting Subject:** Jesse/David 1:1 - 11/1/2023  
 **Meeting Date:** 11/1/2023 12:00 PM  
 **Location:** Microsoft Teams Meeting  

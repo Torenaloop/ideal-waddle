@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-25
+PARA: Archives
+---
 **NetSuite Integration [2]**  
 Tue, Feb 25, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

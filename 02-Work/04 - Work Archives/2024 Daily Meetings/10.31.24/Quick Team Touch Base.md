@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-31
+PARA: Archives
+---
 **Quick Team Touch Base**  
 Thu, Oct 31, 3:30 PM - 3:45 PM  
 Microsoft Teams Meeting  

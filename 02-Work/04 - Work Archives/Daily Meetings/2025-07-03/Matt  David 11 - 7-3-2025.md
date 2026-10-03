@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-03
+PARA: Archives
+---
 **Matt | David 1:1**  
 Thu, Jul 3, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

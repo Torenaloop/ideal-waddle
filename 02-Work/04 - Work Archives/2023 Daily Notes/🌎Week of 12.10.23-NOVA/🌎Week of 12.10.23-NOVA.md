@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 _David's Notebook_ _→_ _Daily Notes_ _→ 2023-12-10 Weekly Review_
  
 ## Personal PARA Review (Personal OneNote)

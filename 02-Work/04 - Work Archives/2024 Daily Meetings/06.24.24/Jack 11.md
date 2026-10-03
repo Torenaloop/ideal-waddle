@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-06-24
+PARA: Archives
+---
 |   |
 |---|
 |\|   \|   \|<br>\|---\|---\|<br>\|**🛈**\|**Agenda**<br><br>- Your content here…<br>- Agenda Item 2<br>- Agenda Item 3\||

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-11
+PARA: Archives
+---
 **EHS Outstanding Items - H&S Assessment**  
 Thu, Jul 11, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

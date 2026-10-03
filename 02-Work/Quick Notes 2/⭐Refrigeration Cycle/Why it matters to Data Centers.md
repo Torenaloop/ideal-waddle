@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: data center, EPA, compliance"
+---
 Understanding the **refrigeration cycle** is critically important for a **Critical Environment/Critical Operations Technician** employed by a data center because of its direct connection to maintaining the optimal environment for IT infrastructure. Data centers generate significant heat due to their servers, storage, and networking equipment, and cooling systems are essential to ensure the equipment operates reliably and efficiently. Here's why this knowledge is vital:
  
 **1. Preventing Overheating of Critical IT Equipment**

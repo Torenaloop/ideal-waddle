@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: STACK; personal: School, Rhett, Baseball"
+---
 |   |   |   |
 |---|---|---|
 ```

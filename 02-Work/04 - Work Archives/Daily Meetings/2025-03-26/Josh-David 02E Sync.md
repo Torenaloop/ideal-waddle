@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-26
+PARA: Archives
+---
 **Josh/David 02E Sync**  
 Wed, Mar 26, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

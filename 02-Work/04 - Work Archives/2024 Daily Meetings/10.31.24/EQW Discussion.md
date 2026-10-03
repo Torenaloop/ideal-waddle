@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-31
+PARA: Archives
+---
 **EQW Discussion**  
 Thu, Oct 31, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

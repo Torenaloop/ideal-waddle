@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-06
+PARA: Archives
+---
 **Bleau EQW Oral Board**  
 Thu, Dec 5, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

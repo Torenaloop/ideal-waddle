@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 You can definitely add a highlighter to your mouse cursor to make it easier for viewers to follow along during your screen recordings. Here are a few methods you can try:  
 **1. Built-in Windows Settings**  
 Windows has some built-in options to change the appearance of your mouse cursor:

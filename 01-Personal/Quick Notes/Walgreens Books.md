@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Book"
+---
 [Search – Arcadia Publishing](https://www.arcadiapublishing.com/search?spage=3&dFR%5bcatalogAttributes.State.name%5d%5b0%5d=Oklahoma)
  
 Walgreens stores often feature local history books that delve into the unique stories of the towns, cities, and counties they serve. These publications, typically part of the "Images of America" series by Arcadia Publishing, offer readers a photographic journey through the history of specific communities across the United States.  

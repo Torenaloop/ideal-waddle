@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-20
+PARA: Archives
+---
 **IAD222/IAD370 Monthly Ops Review**  
 Thu, Feb 20, 11:30 AM - 12:30 PM  
 CHIME  

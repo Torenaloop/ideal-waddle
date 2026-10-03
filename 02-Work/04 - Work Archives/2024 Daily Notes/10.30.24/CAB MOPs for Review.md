@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-10-30
+PARA: Archives
+---
 # Restoring MSP-P1-110 (Dead Bus) using GEN-P1-110 - MOP
  
 **Section 2 - Supporting Documentation**  

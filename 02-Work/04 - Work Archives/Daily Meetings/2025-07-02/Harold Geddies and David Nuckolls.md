@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-07-02
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 ![Exported image](Files/Exported%20image%2020260127125105-0.png)
 
 **Harold Geddies and David Nuckolls**  

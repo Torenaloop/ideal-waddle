@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-24
+PARA: Archives
+---
 **[EXTERNAL] STACK - Env. Audit Dashboard Discussion**  
 Mon, Feb 24, 11:30 AM - 12:00 PM  
 Microsoft Teams Meeting  

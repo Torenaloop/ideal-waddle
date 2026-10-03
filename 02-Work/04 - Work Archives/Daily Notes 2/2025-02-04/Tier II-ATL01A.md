@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-04
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 Message from Jack Gillian saved from Teams  
 ￼Message details:  
 We are good, David just did the online version, or are you talking about Katies greenhouse gas spreadsheet?  Either way we are done.      Notes:  

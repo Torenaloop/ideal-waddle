@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-10-28
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **NVA05A ELT Check-in**  
 Mon, Oct 28, 11:30 AM - 12:00 PM  
 Microsoft Teams Meeting; NVA05A Conference Room - Lobby  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-17
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: [EXTERNAL] Chubb Risk Engineering Visit Result for Stack Infrastructure**|

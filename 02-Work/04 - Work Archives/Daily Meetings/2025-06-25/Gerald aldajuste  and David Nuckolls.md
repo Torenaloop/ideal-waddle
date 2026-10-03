@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-25
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Gerald aldajuste and David Nuckolls**  
 Wed, Jun 25, 10:00 AM - 10:45 AM  
 [https://calendly.com/events/4161af4b-505e-4ffc-b21a-04ec94e5b0b4/microsoft_teams](https://calendly.com/events/4161af4b-505e-4ffc-b21a-04ec94e5b0b4/microsoft_teams)  

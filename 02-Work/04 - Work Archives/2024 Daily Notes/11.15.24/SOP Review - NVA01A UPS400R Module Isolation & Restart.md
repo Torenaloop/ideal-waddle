@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 Case #127852 EHS Review  
 ─────────────────────────────────────────────────────────────────────────────────────────
  

@@ -1,3 +1,9 @@
+---
+type: meeting
+PARA: Archives
+People:
+  - "[[Tom Harris]]"
+---
 **Meeting Subject:** Jesse/David 1:1  
 **Meeting Date:** 10/19/2023 10:00 AM  
 **Location:** Microsoft Teams Meeting  

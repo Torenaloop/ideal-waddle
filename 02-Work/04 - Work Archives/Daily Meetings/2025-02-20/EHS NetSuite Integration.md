@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-20
+PARA: Archives
+---
 **EHS NetSuite Integration**  
 Thu, Feb 20, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

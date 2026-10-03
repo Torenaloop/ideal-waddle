@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Reaction Score to Post Ratio (RS/P Ratio)
  
 Reaction Score / Number of Posts

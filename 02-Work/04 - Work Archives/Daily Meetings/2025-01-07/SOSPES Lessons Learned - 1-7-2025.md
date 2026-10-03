@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-07
+PARA: Archives
+---
 **SOSPES Lessons Learned**  
 Tue, Jan 7, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

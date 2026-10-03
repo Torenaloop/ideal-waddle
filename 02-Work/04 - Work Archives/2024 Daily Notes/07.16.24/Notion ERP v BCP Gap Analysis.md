@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-16
+PARA: Archives
+---
 Here's a gap analysis between the "STACK AMER-AP-Safety-Business Continuity Plans-Site-Specific Emergency Response Plan" and the "Disaster Recovery and Continuity Plan_Current Doc_DN to review and sunset with the ERP Update".
  
 **1. Purpose and Scope:**

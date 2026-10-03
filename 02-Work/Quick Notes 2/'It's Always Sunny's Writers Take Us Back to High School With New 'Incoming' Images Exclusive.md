@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: School, Movie"
+---
 'It's Always Sunny's Writers Take Us Back to High School With New 'Incoming' Images [Exclusive]
  
 [https://collider.com/incoming-movie-images/](https://collider.com/incoming-movie-images/)

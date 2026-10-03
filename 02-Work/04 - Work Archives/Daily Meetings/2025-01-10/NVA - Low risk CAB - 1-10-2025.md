@@ -1,3 +1,18 @@
+---
+type: meeting
+Date: 2025-01-10
+PARA: Archives
+People:
+  - "[[Todd Lipcsey]]"
+  - "[[Joe Kendra]]"
+  - "[[Austin Greenbacker]]"
+  - "[[Isaac Canales]]"
+  - "[[Daniel Stevenson]]"
+  - "[[Reid Thomas]]"
+  - "[[Flavio Espaillat]]"
+  - "[[Justin Lloyd]]"
+  - "[[Rachel Eddinger]]"
+---
 **NVA - Low risk CAB**  
 Fri, Jan 10, 8:00 AM - 8:30 AM  
 Microsoft Teams Meeting  

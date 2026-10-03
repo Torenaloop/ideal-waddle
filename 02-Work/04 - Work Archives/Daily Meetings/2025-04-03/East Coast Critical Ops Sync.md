@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-04-03
+PARA: Archives
+People:
+  - "[[Jason Welsh]]"
+  - "[[Kaitlyn Lail]]"
+---
 1st aid/CPR/AED Training - Kendra
 
 - Talking about training

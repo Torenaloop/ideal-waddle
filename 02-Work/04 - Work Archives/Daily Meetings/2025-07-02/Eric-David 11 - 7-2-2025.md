@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-02
+PARA: Archives
+---
 **Eric/David 1:1**  
 Wed, Jul 2, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

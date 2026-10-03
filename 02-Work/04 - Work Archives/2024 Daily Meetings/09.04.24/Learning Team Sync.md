@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-04
+PARA: Archives
+---
 **Learning Team Sync**  
 Wed, Sep 4, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

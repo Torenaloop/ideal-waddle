@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**2025 Goals**|

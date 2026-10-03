@@ -1,1 +1,4 @@
+---
+Triage: Personal
+---
 ![How to organize your notes in OneNote Heading 1 On...](Files/Exported%20image%2020260126145011-0.png)

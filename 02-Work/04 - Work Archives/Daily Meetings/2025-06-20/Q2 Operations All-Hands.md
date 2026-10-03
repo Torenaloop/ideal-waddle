@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-20
+PARA: Archives
+---
 **Q2 Operations All-Hands**  
 Fri, Jun 20, 1:00 PM - 1:50 PM  
 Microsoft Teams Meeting  

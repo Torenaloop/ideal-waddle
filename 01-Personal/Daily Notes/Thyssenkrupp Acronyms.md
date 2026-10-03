@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: Thyssenkrupp"
+---
 - - [x] EOS Report - End of Shift Report
 - - [x] SIR - Safety Improvement Report
 - - [x] REF - Reference

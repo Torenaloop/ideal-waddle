@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-09-25
+PARA: Archives
+---
 Message from Eileen Flama saved from Teams  
 ￼Message details:  
 **Matt Goetz**  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-27
+PARA: Archives
+---
 **Planner Build Bi-weekly Check-in**  
 Thu, Mar 27, 11:00 AM - 11:45 AM  
 Microsoft Teams Meeting  

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-01-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **Weekly CAB EAST**  
 Wed, Jan 15, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

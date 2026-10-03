@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: EHS, compliance, safety"
+---
 1. Incident Reporting captures, tracks, investigates and reports on all incidents and near-misses, including injuries and illnesses, spills, property damage, and vehicle incidents.
 2. Audit Management includes scheduling, tracking, data collection, and reporting for all internal or external audits to simplify and ensure compliance across all company locations and operating jurisdictions.
 3. Document Control improves document management across the complete lifecycle of your organization’s compliance efforts and activities. It controls access to sensitive files, forms and reports while preventing errors, reducing risk, and improving visibility.

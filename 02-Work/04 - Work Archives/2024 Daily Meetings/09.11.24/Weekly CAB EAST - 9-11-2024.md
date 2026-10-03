@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-09-11
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **Weekly CAB EAST**  
 Wed, Sep 11, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-08-27
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **NVA05A Emergency Response Plan Work**  
 Tue, Aug 27, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

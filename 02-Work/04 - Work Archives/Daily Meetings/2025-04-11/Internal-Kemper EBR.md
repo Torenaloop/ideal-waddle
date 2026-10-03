@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-04-11
+PARA: Archives
+---
 **Internal-Kemper EBR**  
 Fri, Apr 11, 1:30 PM - 1:55 PM  
 Microsoft Teams Meeting  

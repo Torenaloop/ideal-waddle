@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-12
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: [EXTERNAL] Possible Fire Department Training at 9570 Hornbaker**|

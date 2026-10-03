@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-10
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 **Intern EHS Orientation (NVA01A)**  
 Wed, Jul 10, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

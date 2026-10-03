@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: EHS"
+---
 1. ==ISO 45001 includes several main requirements or clauses, including:==
     1. ==Context of the Organization==
     2. ==Leadership==

@@ -1,3 +1,6 @@
+---
+Triage: Stub
+---
 - Vault
   - Work
     - Project 1

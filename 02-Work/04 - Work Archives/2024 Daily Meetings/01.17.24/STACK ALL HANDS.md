@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-01-17
+PARA: Archives
+---
 Id land to develop across NA  
 Land requires unique location, power, zoning and tax attributes (Dev & Public Affairs)  
 Construction - We build dc's  

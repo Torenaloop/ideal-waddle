@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: LOTO, safety"
+---
 In electrical systems, **"line side"** and **"load side"** refer to specific parts of a circuit in relation to a piece of equipment or device. These terms are crucial for understanding how power flows and ensuring proper installation and maintenance. Here’s an explanation of the differences:
  
 ---

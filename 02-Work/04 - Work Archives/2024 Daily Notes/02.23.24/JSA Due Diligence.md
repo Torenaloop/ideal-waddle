@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-02-23
+PARA: Archives
+---
 ## NVA01A
  
 Awaiting response back from Rachel, but I found the following folder for JSA's on the NVA01A SharePoint folder in 15. Critical Operations.

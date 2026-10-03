@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-03
+PARA: Archives
+---
 Message from Rachel Eddinger saved from Teams  
 ￼Message details:  
 For the annual NetSuite Heat Stress Review, what all needs to be reviewed? The AP is up to date. Next review will be in 2026      Notes:  

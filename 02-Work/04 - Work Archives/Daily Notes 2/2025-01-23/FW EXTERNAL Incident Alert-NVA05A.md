@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-23
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**FW: [EXTERNAL] Incident Alert-NVA05A**|

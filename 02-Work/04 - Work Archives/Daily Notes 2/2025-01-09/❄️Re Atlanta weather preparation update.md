@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-09
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: Atlanta weather preparation update**|

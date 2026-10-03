@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-12-20
+PARA: Archives
+---
 Message from Reid Thomas saved from Teams￼￼Message details:  
 Hey David. When you get a chance, can you please review the following two cases for high-risk CAB on Monday? Both procedures are for Level 5 IST starting the week of January 6th (tentative)   
 [https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2454302&whence=](https://5891471.app.netsuite.com/app/crm/support/supportcase.nl?id=2454302&whence=)  

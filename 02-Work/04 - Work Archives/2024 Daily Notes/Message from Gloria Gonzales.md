@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Message from Gloria Gonzales saved from Teams  
 ￼Message details:  
 hi could you grab me a coffee?      Notes:  

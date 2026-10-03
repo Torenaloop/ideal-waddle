@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: EHS, OneSource, STACK, Donna Lynch, Kate Crawford"
+---
 What is the problem that is attempting to be solved for? As a (relatively new) AMER Regional #EHS Manager, I have noticed that their are several different repositories/libraries in which #EHS-related content exists.  At present, the structure for some document libraries is lacking (in my opinion) and accessing important information can become a guessing game, game of memory, and is very tribal knowledge.
 
 ## The Exercise 

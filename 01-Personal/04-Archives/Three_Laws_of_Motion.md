@@ -12,6 +12,7 @@ Related:
   - "[[Isaac Newton]]"
   - "[[Law of Inertia]]"
 Subject: Physics
+Triage: Personal
 ---
 
 # Three Laws of Motion

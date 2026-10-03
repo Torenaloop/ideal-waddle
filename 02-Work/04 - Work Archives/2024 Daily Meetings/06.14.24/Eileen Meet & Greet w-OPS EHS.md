@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-06-14
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 **Eileen Meet & Greet w/OPS EHS**  
 Fri, Jun 14, 2:30 PM - 2:50 PM  
 Microsoft Teams Meeting  

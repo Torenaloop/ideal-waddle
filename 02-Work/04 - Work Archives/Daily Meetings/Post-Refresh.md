@@ -1,1 +1,5 @@
+---
+type: meeting
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127125208-0.png)

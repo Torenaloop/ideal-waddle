@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "work: EHS; personal: Application"
+---
 #JOBS 
 
 Applied 1 mo. agon

@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: STACK, safety, data center, OSHA, EHS, compliance; personal: Book"
+---
 #JOBS #Mindmap
 
 

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-21
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127152335-0.png)  
 
 **Entering the most recent promo code in the "promo code" field takes me back to the following screen to choose an item again. It's like it's on a loop.**

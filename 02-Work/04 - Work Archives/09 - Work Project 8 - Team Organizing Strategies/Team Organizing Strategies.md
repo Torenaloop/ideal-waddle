@@ -8,6 +8,7 @@ Due Date:
 tags:
   - Projects
   - Service
+PARA: Archives
 ---
 ### Notes
 ---

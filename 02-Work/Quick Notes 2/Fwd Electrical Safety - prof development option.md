@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: Kate Crawford, Brandy Fischer, Rebecca Boyer, Josh Giberson, STACK, safety"
+---
 |   |   |
 |---|---|
 |**Subject**|**Fwd: Electrical Safety - prof development option**|

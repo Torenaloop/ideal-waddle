@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-08-22
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127145517-0.png)     
 
 # Event Drill Notes

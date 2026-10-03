@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2025-03-12
+PARA: Archives
+People:
+  - "[[Jesse Kenser]]"
+  - "[[Matt Saucedo]]"
+  - "[[Rick Wilson]]"
+---
 **Weekly CAB Review-Central**  
 Wed, Mar 12, 3:30 PM - 4:30 PM  
 Microsoft Teams Meeting  

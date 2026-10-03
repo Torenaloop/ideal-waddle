@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-08-14
+PARA: Archives
+---
 Tech Ops - Ask Tom  
 Safety - D. Nuckolls  
 Security - Ask R. Sullivan  

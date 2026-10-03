@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+---
 Message from Brandy Fischer saved from Teams  
 ￼Message details: Good morning. Did you know Pamela Breckman at Microsoft?  
 ￼￼Notes:  

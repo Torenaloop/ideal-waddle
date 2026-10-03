@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Vacation"
+---
 #JOBS
 
 Was contacted about the job via a recruiter on LinkedIn

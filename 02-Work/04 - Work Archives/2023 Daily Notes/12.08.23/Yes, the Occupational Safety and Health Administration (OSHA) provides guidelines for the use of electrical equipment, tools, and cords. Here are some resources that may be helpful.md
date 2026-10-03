@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2023-12-08
+PARA: Archives
+---
 Yes, the Occupational Safety and Health Administration (OSHA) provides guidelines for the use of electrical equipment, tools, and cords. Here are some resources that may be helpful:
 
 1. **1910.334 - Use of equipment**1: This page provides detailed information on the use of cord- and plug-connected equipment, including flexible cord sets (extension cords), and the visual inspection of portable cord- and plug-connected equipment and flexible cord sets before use on any shift for external defects and evidence of possible internal damage.

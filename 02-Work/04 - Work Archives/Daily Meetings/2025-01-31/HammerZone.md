@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-31
+PARA: Archives
+---
 Thursday
  ![Exported image](Files/Exported%20image%2020260127123706-0.png)
 

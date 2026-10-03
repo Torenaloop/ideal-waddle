@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-08-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: Link to NVA01A OPL**|

@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |
 |---|
 |\|   \|   \|<br>\|---\|---\|<br>\|**⚠**\|**Warning**<br><br>- Steps 135.5 & 138.6 call out applying LOTO to the same energy isolating device (U2-1)\||

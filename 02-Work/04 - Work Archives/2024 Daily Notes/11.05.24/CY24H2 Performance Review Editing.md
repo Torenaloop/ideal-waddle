@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-05
+PARA: Archives
+---
 ## Progress towards 2024 Goals
 
 - **Electrical Qualified Workshop (East Region)** - ==On Track for Target Completion Date==

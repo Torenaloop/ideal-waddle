@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: TK, STACK; personal: Baseball, Family, Christmas, School"
+---
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |**September**||||||2023|

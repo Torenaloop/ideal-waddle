@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-07-10
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **East Coast Critical Ops Sync**  
 Thu, Jul 10, 8:00 AM - 8:25 AM  
 Microsoft Teams Meeting  

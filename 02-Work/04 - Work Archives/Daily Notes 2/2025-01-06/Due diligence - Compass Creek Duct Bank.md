@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-06
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 **Gap Analysis: DIG Underground Utility Protection Plan vs. Holder STACK Utility Avoidance Program (UAP)**  
 **Key Focus Areas:**
 

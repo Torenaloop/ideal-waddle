@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-20
+PARA: Archives
+---
 **[EXTERNAL] Stack-Performance Review-2024**  
 Wed, Nov 20, 1:00 PM - 3:00 PM  
 IAD222 & [https://chime.aws/4454327811](https://chime.aws/4454327811)  

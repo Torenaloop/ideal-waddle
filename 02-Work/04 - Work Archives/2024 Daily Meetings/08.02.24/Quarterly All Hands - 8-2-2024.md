@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-02
+PARA: Archives
+---
 **Quarterly All Hands**  
 Fri, Aug 2, 2:00 PM - 2:45 PM  
 Microsoft Teams Meeting  

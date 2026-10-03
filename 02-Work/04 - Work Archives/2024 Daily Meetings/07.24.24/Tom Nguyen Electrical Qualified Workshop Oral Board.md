@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-07-24
+PARA: Archives
+People:
+  - "[[Tom Nguyen]]"
+---
 Notes
  5. What are the different electrical activities a qualified persons and affected worker can perform. 
 

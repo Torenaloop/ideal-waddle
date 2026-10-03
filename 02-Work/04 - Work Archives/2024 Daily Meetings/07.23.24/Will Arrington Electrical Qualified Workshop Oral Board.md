@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-07-23
+PARA: Archives
+People:
+  - "[[Will Arrington]]"
+---
 Notes
    
 7. What are the different electrical activities a qualified persons and affected worker can perform. 

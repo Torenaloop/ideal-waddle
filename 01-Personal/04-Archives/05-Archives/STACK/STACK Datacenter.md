@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "work: STACK, EHS; personal: Resume"
+Duplicate Of: "[[01-Personal/04-Archives/STACK/STACK Datacenter]]"
+---
 #JOBS 
 
 - Heard from Jesse on Sunday, 9/3. He said I was his top choice, but he was "outvoted" 3-1. Also said an opportunity on the Construction side wasn't going to happen. Said "they got spooked" that I left MSFT and questioned my reason for leaving.

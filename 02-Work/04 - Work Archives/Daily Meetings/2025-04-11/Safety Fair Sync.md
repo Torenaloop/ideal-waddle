@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-04-11
+PARA: Archives
+---
 **Safety Fair Sync**  
 Fri, Apr 11, 11:00 AM - 11:25 AM  
 Microsoft Teams Meeting  

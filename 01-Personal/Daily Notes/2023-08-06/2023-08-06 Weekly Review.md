@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 **Weekly Review**
 
 _David's Notebook_ _→_ _Daily Notes_ _→ 8/6/23 - Weekly Review_

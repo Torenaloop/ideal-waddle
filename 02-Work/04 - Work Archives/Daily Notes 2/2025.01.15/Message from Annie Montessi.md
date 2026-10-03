@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+---
 Message from Annie Montessi saved from Teams  
 ￼Message details: Good morning. We have a whole new Pearl team now and I’m not sure how Daniel is going to run it. Let me check with him and get back to you this morning. Thanks for the reminder.  
 ￼￼Notes:  

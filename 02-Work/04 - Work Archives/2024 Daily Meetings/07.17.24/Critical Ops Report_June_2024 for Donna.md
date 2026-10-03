@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-17
+PARA: Archives
+---
 **Critical Ops Report_June_2024 for Donna**  
 Wed, Jul 17, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

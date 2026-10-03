@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-10-07
+PARA: Archives
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Good morning ==Travis Gilbert== & ==Matt DeZinno== - regarding the "Event Report Template" I had asked for comment on, thank you for doing so! ==I just wanted to check for any final/additional comment(s) on the report template before I move on from this particular task from our broader learning team or if there were any additional questions, comments, or concerns have yet to be captured?==      Notes:  

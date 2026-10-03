@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-03-14
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 ────────────────────────────────────────────────────────────────────────────────────────────────────
 
 **NVA06A Technical Lease Audit**  

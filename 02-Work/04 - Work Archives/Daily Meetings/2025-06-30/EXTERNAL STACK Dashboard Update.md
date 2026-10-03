@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-30
+PARA: Archives
+---
 **[EXTERNAL] STACK Dashboard Update**  
 Mon, Jun 30, 1:00 PM - 2:00 PM  
 Microsoft Teams Meeting  

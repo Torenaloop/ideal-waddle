@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-05-08
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: Safety SharePoint page**|

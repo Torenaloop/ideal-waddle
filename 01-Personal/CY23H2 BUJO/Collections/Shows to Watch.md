@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Tom Segura - Netflix  
 Reservation Dogs Season 2 - FX (Hulu)  
 It's Always Sunny

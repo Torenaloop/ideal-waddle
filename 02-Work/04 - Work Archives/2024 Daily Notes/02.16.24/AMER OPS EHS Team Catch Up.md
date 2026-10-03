@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-02-16
+PARA: Archives
+---
 Travel to OH (Monday)  
 Noise Survey (Tuesday)  
 Site walkaround (Tuesday)  

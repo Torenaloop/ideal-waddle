@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 90 = 120 - x  
 X = 30
  

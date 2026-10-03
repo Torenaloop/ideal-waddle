@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-15
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: DCSC 2025 Project #2 - Safety By Design *Project Team Members Request***|

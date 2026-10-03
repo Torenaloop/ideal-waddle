@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-06
+PARA: Archives
+---
 **East Coast Critical Ops Sync**  
 Thu, Mar 6, 8:00 AM - 8:30 AM  
 Microsoft Teams Meeting  

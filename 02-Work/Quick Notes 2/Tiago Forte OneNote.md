@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 10.pdf]]
 
 [https://www.linkedin.com/posts/tiagoforte_i-invited-microsoft-mvp-mathew-gilbertson-activity-7224761470390034432-NOwn?utm_source=share&utm_medium=member_ios](https://www.linkedin.com/posts/tiagoforte_i-invited-microsoft-mvp-mathew-gilbertson-activity-7224761470390034432-NOwn?utm_source=share&utm_medium=member_ios)

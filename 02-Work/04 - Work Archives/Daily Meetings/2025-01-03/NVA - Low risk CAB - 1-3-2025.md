@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-03
+PARA: Archives
+---
 **NVA - Low risk CAB**  
 Fri, Jan 3, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

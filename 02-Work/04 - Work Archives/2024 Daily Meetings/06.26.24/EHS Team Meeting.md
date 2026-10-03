@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-06-26
+PARA: Archives
+People:
+  - "[[Matt Goetz]]"
+---
 **EHS Team Meeting**  
 Wed, Jun 26, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

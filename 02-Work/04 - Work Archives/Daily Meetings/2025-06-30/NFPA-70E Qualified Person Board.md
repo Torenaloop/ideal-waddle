@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-30
+PARA: Archives
+---
 **NFPA-70E Qualified Person Board**  
 Mon, Jun 30, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

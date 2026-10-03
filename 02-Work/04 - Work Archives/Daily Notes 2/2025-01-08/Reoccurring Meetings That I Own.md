@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-08
+PARA: Archives
+---
 Weekly
        
 Bi-Weekly  

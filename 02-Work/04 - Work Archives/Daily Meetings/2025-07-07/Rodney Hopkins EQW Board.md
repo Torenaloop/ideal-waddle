@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-07-07
+PARA: Archives
+People:
+  - "[[Rodney Hopkins]]"
+---
 **Rodney Hopkins EQW Board**  
 Mon, Jul 7, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

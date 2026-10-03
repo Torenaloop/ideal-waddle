@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-12-12
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 EHS Review  
 ─────────────────────────────────────────────────────────────────────────────────────────
  

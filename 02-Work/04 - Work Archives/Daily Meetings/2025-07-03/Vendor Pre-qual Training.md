@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-03
+PARA: Archives
+---
 **Vendor Pre-qual Training**  
 Thu, Jul 3, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

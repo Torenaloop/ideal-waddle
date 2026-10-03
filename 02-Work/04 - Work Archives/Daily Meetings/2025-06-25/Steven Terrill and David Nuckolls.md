@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-25
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Ateven Terrill and David Nuckolls**  
 Wed, Jun 25, 3:30 PM - 4:15 PM  
 [https://calendly.com/events/319f4f8d-250f-41e7-a86c-cc8c467232be/microsoft_teams](https://calendly.com/events/319f4f8d-250f-41e7-a86c-cc8c467232be/microsoft_teams)  

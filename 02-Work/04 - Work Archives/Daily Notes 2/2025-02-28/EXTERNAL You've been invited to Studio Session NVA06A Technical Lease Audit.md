@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-28
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**[EXTERNAL] You've been invited to Studio Session NVA06A Technical Lease Audit**|

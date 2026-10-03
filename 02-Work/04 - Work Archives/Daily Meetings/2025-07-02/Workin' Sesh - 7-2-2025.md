@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-02
+PARA: Archives
+---
 **Workin' Sesh**  
 Wed, Jul 2, 11:00 AM - 12:30 PM  
 Microsoft Teams Meeting  

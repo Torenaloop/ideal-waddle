@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-09-10
+PARA: Archives
+---
 From January 1, 2024 to Present (Already "tagged" as suggestion:
  
 # NAL01A

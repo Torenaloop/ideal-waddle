@@ -14,6 +14,8 @@ Related:
 Born: 1643
 Died: 1727
 Field: Physics, Mathematics
+Triage: Duplicate
+Duplicate Of: "[[01-Personal/04-Archives/Isaac_Newton]]"
 ---
 
 # Isaac Newton

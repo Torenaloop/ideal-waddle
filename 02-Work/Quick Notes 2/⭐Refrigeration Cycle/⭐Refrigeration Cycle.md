@@ -1,3 +1,6 @@
+---
+Triage: Work
+---
 The **refrigeration cycle** is the process used by refrigerators, air conditioners, and heat pumps to transfer heat from one location to another, typically from a cooler area to a warmer area, using a refrigerant. This cycle relies on principles of thermodynamics, specifically the phase changes of a refrigerant, to absorb and release heat.  
 Here’s a breakdown of the steps in a typical **vapor-compression refrigeration cycle**, which is the most common type:
  

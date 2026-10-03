@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-31
+PARA: Archives
+---
 **Workin' Sesh**  
 Tue, Dec 31, 11:00 AM - 12:00 PM  
 Microsoft Teams Meeting  

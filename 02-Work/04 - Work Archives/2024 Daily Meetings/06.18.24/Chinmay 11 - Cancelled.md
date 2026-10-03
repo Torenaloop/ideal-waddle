@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-06-18
+PARA: Archives
+---
 **Chinmay/David 1:1**  
 Tue, Jun 18, 6:45 PM - 7:15 PM  
 Microsoft Teams Meeting  

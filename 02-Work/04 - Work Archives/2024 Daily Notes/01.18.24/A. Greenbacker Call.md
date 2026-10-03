@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-01-18
+PARA: Archives
+---
 Actual severity = "potential" severity:
 
 - No other combustible items in the room

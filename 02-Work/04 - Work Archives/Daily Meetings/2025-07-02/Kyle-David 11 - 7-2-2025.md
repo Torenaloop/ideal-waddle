@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-02
+PARA: Archives
+---
 **Kyle/David 1:1**  
 Wed, Jul 2, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-02
+PARA: Archives
+---
 **Jesse/David 1:1**  
 Wed, Oct 2, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

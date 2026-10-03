@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-04
+PARA: Archives
+---
 **Weekly CAB EAST**  
 Wed, Dec 4, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

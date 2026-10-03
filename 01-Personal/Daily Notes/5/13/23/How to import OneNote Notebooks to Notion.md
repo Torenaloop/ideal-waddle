@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Yes, it is possible to import OneNote notebooks to Notion. You can do this by exporting your OneNote notebook as an Evernote file and then importing that file into Notion. Here are the steps:
  
 1. Open OneNote and select the notebook you want to export.  

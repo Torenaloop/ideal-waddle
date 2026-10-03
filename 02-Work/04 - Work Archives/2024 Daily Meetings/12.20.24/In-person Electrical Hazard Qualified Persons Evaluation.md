@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-20
+PARA: Archives
+---
 Notes
  5. What's the difference between a qualified person and an affected person? ✅
 6. What are the 3 elements of a JHA? ✅

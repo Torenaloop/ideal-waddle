@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2025-02-24
+PARA: Archives
+People:
+  - "[[Donna Lynch]]"
+  - "[[Jesse Kenser]]"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **MV Electrical Work**  
 Mon, Feb 24, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

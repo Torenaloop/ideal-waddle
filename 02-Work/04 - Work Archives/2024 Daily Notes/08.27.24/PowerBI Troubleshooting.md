@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-08-27
+PARA: Archives
+---
 It sounds like the reorganization of your SharePoint library has broken the links to your source spreadsheets in Power BI. Here’s how you can re-link them:
 
 1. **Open Power BI Desktop**: Start by opening your Power BI Desktop application.

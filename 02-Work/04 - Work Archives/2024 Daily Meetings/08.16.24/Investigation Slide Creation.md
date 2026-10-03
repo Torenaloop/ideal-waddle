@@ -1,3 +1,14 @@
+---
+type: meeting
+Date: 2024-08-16
+PARA: Archives
+People:
+  - "[[Daniel Stevenson]]"
+  - "[[David Nuckolls]]"
+  - "[[Ray Rodriguez]]"
+  - "[[Kevin Thomas]]"
+  - "[[Eric Hinson]]"
+---
 **Investigation Slide Creation**  
 Fri, Aug 16, 11:30 AM - 12:30 PM  
 [Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NABGAAAAAAAKyp%2BY2%2FXtS4qL30BfG4%2BRBwCwwsU3mSQtS7WEqO9JZDh%2BAAAAAAENAACwwsU3mSQtS7WEqO9JZDh%2BAADStVyAAAA%3D&exvsurl=1&path=/calendar/item)  

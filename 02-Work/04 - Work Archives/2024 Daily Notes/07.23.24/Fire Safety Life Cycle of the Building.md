@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-23
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fire Safety Life Cycle of the Building**|

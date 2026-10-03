@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-08-28
+PARA: Archives
+---
 |   |   |   |   |
 |---|---|---|---|
 |Site|# of Findings|# of Findings Closed|# of Findings Open|

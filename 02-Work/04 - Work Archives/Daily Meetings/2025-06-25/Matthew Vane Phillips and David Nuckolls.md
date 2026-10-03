@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-25
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Matthew Vane Phillips and David Nuckolls**  
 Wed, Jun 25, 9:00 AM - 9:45 AM  
 [https://calendly.com/events/fa912b97-6c6a-4735-80e1-fb8d223d22dd/microsoft_teams](https://calendly.com/events/fa912b97-6c6a-4735-80e1-fb8d223d22dd/microsoft_teams)  

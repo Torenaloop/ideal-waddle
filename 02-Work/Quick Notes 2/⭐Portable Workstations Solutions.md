@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Laptop"
+---
 Here are some top-tier **ultra-portable workstation solutions** combining a **tripod-style desk** with **compact portable seating**, perfect for your flexible travel setups:
  
 **✈️** **Tripod-Style Portable Desks**

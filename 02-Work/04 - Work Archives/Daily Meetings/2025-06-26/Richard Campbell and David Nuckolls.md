@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-26
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Richard Campbell and David Nuckolls**  
 Thu, Jun 26, 1:00 PM - 1:45 PM  
 [https://calendly.com/events/8476e06e-5555-4aee-829d-d23697fd7b15/microsoft_teams](https://calendly.com/events/8476e06e-5555-4aee-829d-d23697fd7b15/microsoft_teams)  

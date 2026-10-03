@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-01
+PARA: Archives
+---
 **EHS Tour Script**  
 Thu, Aug 1, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

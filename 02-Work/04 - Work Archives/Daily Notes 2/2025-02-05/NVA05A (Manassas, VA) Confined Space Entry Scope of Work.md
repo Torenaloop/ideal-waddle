@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-05
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**NVA05A (Manassas, VA) Confined Space Entry Scope of Work**|

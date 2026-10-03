@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Data needs
  
 Nelson Electric (Sub contractor of Parrish)

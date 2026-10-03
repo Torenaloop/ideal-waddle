@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-23
+PARA: Archives
+---
 **Categories in Outlook**  
 Mon, Sep 23, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

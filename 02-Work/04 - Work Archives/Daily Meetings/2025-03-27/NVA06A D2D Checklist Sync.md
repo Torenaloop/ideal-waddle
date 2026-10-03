@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-03-27
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 **NVA06A D2D Checklist Sync**  
 Thu, Mar 27, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

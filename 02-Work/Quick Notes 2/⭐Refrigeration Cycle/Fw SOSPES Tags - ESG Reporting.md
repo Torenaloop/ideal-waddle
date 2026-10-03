@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: SOSPES, Matt Goetz, EHS, STACK"
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: SOSPES Tags - ESG Reporting**|

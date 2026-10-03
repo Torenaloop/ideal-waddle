@@ -13,6 +13,7 @@ Related:
   - "[[Isaac Newton]]"
 Subject: Physics
 Law Number: 1
+Triage: Personal
 ---
 
 # Law of Inertia

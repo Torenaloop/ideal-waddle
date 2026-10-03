@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-29
+PARA: Archives
+---
 **Jesse/David 1:1**  
 Wed, Jan 29, 12:30 PM - 12:55 PM  
 Microsoft Teams Meeting  

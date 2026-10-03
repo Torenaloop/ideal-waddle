@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-07-18
+PARA: Archives
+People:
+  - "[[John Eddinger]]"
+---
 **John Eddinger Qualified Person Board**  
 Thu, Jul 18, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

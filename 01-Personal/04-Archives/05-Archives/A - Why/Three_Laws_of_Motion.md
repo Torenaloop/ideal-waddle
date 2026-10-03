@@ -12,6 +12,8 @@ Related:
   - "[[Isaac Newton]]"
   - "[[Law of Inertia]]"
 Subject: Physics
+Triage: Duplicate
+Duplicate Of: "[[01-Personal/04-Archives/Three_Laws_of_Motion]]"
 ---
 
 # Three Laws of Motion

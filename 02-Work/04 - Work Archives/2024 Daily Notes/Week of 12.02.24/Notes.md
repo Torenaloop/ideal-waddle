@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Tasks  
 - [ ] Send Bleau his signed EQW Qual Card  
 - [ ] Section 5 updates to existing 02D ERP to reflect 02E also

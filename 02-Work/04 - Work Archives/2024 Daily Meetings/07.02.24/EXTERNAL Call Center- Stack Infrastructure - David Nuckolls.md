@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-07-02
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **[EXTERNAL] Call Center- Stack Infrastructure - David Nuckolls**  
 Tue, Jul 2, 2:00 PM - 2:30 PM  
 A benefit counselor will call you within your time frame  

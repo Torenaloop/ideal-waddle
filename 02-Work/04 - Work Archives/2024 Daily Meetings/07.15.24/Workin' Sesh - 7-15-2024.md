@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-15
+PARA: Archives
+---
 **Workin' Sesh**  
 Mon, Jul 15, 11:00 AM - 12:30 PM  
 Microsoft Teams Meeting  

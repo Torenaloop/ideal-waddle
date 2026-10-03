@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-03-13
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **D2D Update - Safety**  
 Thu, Mar 13, 12:00 PM - 12:50 PM  
 Microsoft Teams Meeting  

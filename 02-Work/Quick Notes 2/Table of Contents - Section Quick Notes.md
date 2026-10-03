@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: ATL01A, SharePoint, LOTO, STACK; personal: Dmv, School"
+---
 [Table of Contents](02-Work/02%20-%20Work%20Areas/ATL01A/ATL01A%201%20on%201's/Table%20of%20Contents.md)  
 [SharePoint Roadmap: Nov. '23](SharePoint%20Roadmap%20Nov.%20%2723)  
 [Metadata vs Properties](Metadata%20vs%20Properties.md)  

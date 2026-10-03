@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2024-09-13
+PARA: Archives
+People:
+  - "[[Ted Travis]]"
+  - "[[Tom Harris]]"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **NVA05A Bi-Weekly D2D Meeting**  
 Fri, Sep 13, 10:00 AM - 11:00 AM  
 Microsoft Teams Meeting  

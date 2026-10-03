@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-22
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Qualified Persons Links**|

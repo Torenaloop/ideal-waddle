@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment.pdf]]
 
 [https://joplinapp.org/](https://joplinapp.org/)

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-28
+PARA: Archives
+---
 **Jake EQW Oral Board**  
 Tue, Jan 28, 5:30 PM - 6:00 PM  
 Microsoft Teams Meeting  

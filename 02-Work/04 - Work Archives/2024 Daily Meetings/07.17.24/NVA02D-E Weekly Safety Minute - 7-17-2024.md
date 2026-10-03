@@ -1,3 +1,22 @@
+---
+type: meeting
+Date: 2024-07-17
+PARA: Archives
+People:
+  - "[[Angela Maruca]]"
+  - "[[Austin Greenbacker]]"
+  - "[[Daniel Stevenson]]"
+  - "[[Danny Walker]]"
+  - "[[Drew Seigfried]]"
+  - "[[Eric Hinson]]"
+  - "[[Isaac Canales]]"
+  - "[[Joe Kendra]]"
+  - "[[Kevin Thomas]]"
+  - "[[Matt Bassett]]"
+  - "[[Reid Thomas]]"
+  - "[[Shane McDonald]]"
+Site: "[[02-Work/02 - Work Areas/NVA02D-E/NVA02D-E|NVA02D-E]]"
+---
 **NVA02D/E Weekly Safety Minute**  
 Wed, Jul 17, 12:00 PM - 12:30 PM  
 Operations Office  

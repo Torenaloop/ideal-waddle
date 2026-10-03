@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-28
+PARA: Archives
+---
 **Denis/David 1:1**  
 Tue, Jan 28, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-17
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: [EXTERNAL] Extreme Cold Warning-Lockton**|

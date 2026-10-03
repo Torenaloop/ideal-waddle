@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Certainly! If your computer is running slowly, here are some steps you can take to improve its performance:
 
 1. **Update Windows and Device Drivers**: Make sure you have the latest updates for Windows and your device drivers1.

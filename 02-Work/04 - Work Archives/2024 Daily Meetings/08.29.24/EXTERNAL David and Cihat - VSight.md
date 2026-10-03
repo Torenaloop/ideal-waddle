@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-29
+PARA: Archives
+---
 **[EXTERNAL] David and Cihat - VSight**  
 Thu, Aug 29, 11:00 AM - 11:30 AM  
 Microsoft Teams  

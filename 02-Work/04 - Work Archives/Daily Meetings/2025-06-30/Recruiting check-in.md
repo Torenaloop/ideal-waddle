@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-30
+PARA: Archives
+---
 **Recruiting check-in**  
 Mon, Jun 30, 2:30 PM - 2:55 PM  
 Microsoft Teams Meeting  

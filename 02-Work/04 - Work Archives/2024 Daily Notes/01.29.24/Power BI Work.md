@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-01-29
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 Problem statement: Need a simple visual in existing Power BI dashboard to show:
  
 1. How many findings are open

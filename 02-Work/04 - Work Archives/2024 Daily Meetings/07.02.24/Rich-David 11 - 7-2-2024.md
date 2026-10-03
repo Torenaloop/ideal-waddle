@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-02
+PARA: Archives
+---
 **Rich/David 1:1**  
 Tue, Jul 2, 9:30 AM - 10:00 AM  
 Microsoft Teams Meeting  

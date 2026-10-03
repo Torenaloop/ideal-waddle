@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-11
+PARA: Archives
+---
 **EHS Team Meeting Monthly**  
 Thu, Jul 11, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

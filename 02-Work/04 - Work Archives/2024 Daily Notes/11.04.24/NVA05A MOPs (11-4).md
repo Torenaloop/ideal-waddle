@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-04
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 Scopes of work - 4 MOPs
    
 

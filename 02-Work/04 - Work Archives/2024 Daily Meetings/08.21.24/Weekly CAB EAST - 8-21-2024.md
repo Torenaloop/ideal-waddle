@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-21
+PARA: Archives
+---
 **Weekly CAB EAST**  
 Wed, Aug 21, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

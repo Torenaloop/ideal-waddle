@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-09
+PARA: Archives
+---
 **Josh/David 1:1**  
 Tue, Jul 9, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

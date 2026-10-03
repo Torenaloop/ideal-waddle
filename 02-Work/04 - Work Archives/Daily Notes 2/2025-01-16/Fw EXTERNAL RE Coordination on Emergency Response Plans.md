@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-16
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: [EXTERNAL] RE: Coordination on Emergency Response Plans**|

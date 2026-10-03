@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Hey Seann - you trying to get the SFB2 Valve Actuator MOP through CAB tomorrow? Asking to understand where to place the review request in the "to-do" queue.      Notes:  

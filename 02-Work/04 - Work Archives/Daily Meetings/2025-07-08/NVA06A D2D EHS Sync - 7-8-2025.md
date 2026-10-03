@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-07-08
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 **NVA06A D2D EHS Sync**  
 Tue, Jul 8, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

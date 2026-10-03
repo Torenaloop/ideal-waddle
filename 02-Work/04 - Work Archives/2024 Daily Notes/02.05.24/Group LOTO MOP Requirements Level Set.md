@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-02-05
+PARA: Archives
+---
 **Group LOTO MOP Requirements Level Set**  
 Mon, Feb 5, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

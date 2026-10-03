@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-27
+PARA: Archives
+---
 **David/Kate Summit Prep**  
 Mon, Jan 27, 11:00 AM - 11:30 AM  
 Microsoft Teams Meeting  

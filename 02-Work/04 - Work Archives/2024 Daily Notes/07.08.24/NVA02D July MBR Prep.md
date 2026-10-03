@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-08
+PARA: Archives
+---
 # SOSPES Info for June:
 
 Joe Directs

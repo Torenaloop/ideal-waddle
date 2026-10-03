@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-19
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: Lithium-Ion Battery Safety**|

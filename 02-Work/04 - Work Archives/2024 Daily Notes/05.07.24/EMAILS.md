@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-05-07
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: D2D folder**|

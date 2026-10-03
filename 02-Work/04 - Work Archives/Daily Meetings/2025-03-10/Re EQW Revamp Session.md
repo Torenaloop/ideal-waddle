@@ -1,3 +1,13 @@
+---
+type: meeting
+Date: 2025-03-10
+PARA: Archives
+People:
+  - "[[Matt Saucedo]]"
+  - "[[Jesse Kenser]]"
+  - "[[Matt Goetz]]"
+  - "[[David Nuckolls]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: EQW Revamp Session**|

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-08
+PARA: Archives
+---
 **Migrating EHS APs to 23 Safety - Linking to Crit Ops Playbook**  
 Mon, Jul 8, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

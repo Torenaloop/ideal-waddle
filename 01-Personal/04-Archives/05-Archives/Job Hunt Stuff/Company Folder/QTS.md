@@ -3,6 +3,8 @@ Person's company: "[[01-Personal/04-Archives/05-Archives/Job Hunt Stuff/Company 
 Person: Chris Henderson
 Location: Fayetteville, GA
 Salary Range: $140k
+Triage: Personal
+Triage Signals: "work: Jesse Kenser; personal: Rhett"
 ---
 
 

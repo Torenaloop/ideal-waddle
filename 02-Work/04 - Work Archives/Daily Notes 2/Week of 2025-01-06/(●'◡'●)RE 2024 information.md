@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: 2024 information**|

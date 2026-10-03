@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-06-05
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 **Total number of employees that need training: 6**
  
 - Caleb Arthure ==[Completed]==

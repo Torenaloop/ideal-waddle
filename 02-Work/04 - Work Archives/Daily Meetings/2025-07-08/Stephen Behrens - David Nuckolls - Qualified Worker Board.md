@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-07-08
+PARA: Archives
+People:
+  - "[[Stephen Behrens]]"
+  - "[[David Nuckolls]]"
+---
 **Stephen Behrens / David Nuckolls - Qualified Worker Board**  
 Tue, Jul 8, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

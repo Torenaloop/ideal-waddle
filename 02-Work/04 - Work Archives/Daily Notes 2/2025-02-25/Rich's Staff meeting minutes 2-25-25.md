@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-25
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Rich's Staff meeting minutes 2/25/25**|

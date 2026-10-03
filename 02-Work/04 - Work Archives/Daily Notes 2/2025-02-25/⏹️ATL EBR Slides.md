@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-25
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127105012-0.png)   
 # ERP Map
 

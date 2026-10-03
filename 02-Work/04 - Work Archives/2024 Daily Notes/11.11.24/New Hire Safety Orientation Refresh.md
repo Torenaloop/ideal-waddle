@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-11
+PARA: Archives
+---
 Hans Voltaire - already provided by Eileen
  
 ID who to needs to attend

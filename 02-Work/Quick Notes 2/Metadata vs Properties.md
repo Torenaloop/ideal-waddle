@@ -1,3 +1,7 @@
+---
+Triage: Work
+Triage Signals: "work: SharePoint"
+---
 Metadata and properties are related concepts, but they are not the same thing. Metadata is data that describes other data, while properties are attributes of an object that define its characteristics. In the context of a document, metadata can include information such as the author, date created, and file type, while properties can include details such as the title, author name, subject, and keywords that identify the document's topic or contents ¹.
  
 For instance, in SharePoint, metadata is information about a document that is used to categorize and classify your content. Metadata is associated with a content type as a column. Metadata can provide contextual information about your document by associating it with an author, subject, audience, language, and so on. Unlike properties, metadata are stored as columns and can be indexed and searched on by the SharePoint Search engine ¹.

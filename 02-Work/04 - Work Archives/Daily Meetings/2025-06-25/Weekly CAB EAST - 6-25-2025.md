@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-25
+PARA: Archives
+---
 **Weekly CAB EAST**  
 Wed, Jun 25, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

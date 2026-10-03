@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-02
+PARA: Archives
+---
 **Brandon Oral Board**  
 Wed, Jul 2, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

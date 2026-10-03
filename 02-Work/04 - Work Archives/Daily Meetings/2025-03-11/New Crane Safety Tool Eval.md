@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-11
+PARA: Archives
+---
 **New Crane Safety Tool Eval**  
 Tue, Mar 11, 11:00 AM - 11:50 AM  
 Microsoft Teams Meeting  

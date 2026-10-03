@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-13
+PARA: Archives
+---
 **Central Region Environmental Kick Off Meeting**  
 Thu, Mar 13, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

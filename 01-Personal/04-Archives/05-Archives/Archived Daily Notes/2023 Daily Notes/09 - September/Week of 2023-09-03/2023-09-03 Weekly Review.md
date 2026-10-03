@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: STACK, Jesse Kenser; personal: Spring break, Rhett, Baseball, Kelsey, Mom, Kongs"
+---
 ### Personal PARA Review #para #weeklyreview 
 
 - Projects

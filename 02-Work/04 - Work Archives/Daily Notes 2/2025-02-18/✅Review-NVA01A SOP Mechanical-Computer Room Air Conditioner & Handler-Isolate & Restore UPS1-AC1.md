@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-18
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 EHS Review  
 ─────────────────────────────────────────────────────────────────────────────────────────
  

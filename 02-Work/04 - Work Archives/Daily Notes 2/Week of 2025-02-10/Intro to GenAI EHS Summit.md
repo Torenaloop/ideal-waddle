@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Intro to GenAI: EHS Summit**|

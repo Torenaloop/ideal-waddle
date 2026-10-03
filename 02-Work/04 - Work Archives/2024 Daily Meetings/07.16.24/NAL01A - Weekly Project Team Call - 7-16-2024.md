@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-16
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **NAL01A - Weekly Project Team Call**  
 Tue, Jul 16, 12:00 PM - 12:45 PM  
 Microsoft Teams Meeting  

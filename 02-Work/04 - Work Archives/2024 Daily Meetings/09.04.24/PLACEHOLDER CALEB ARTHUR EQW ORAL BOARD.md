@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-04
+PARA: Archives
+---
 **PLACEHOLDER: CALEB ARTHUR EQW ORAL BOARD**  
 Wed, Sep 4, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-06-05
+PARA: Archives
+---
 **ACOMs - 5**
  
 - - [x] ~~William Arrington (NVA01A)*~~==- (Completed 6/25))==

@@ -1,3 +1,7 @@
+---
+Triage: Duplicate
+Duplicate Of: "[[01-Personal/04-Archives/Adventurer/From standard note-taking]]"
+---
 Great, that means you should already be familiar with taking notes!
 
 But hold on a second. There’s no silver bullet solution that works perfectly for everyone. Obsidian works best if you care about what we care about.

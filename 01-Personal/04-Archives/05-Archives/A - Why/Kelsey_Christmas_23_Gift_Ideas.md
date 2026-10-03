@@ -14,6 +14,9 @@ Related:
   - "[[01-Personal/02-Areas/03-Kelsey/Kelsey]]"
   - "[[Birthday 1]]"
   - "[[Rhett Christmas '23 Gift Ideas]]"
+Triage: Duplicate
+Triage Signals: "personal: Kelsey, Christmas, Laptop"
+Duplicate Of: "[[01-Personal/04-Archives/Kelsey_Christmas_23_Gift_Ideas]]"
 ---
 
 # Kelsey Christmas '23 Gift Ideas

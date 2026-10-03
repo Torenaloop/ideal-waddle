@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: STACK, Jesse Kenser, Donna Lynch, Kate Crawford, TK; personal: Mom, School, Kelsey, Dinner"
+---
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |**August**||||||2023|

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-04-10
+PARA: Archives
+---
 # EHS-ALL 2025 Goals (Premium) Planner
 
 - Max # of goals that can be added is 10

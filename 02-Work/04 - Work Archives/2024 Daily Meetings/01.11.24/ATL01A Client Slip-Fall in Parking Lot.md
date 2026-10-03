@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-01-11
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 Loss Event: Person fell on patch of ice exiting their vehicle.
  
 1st Why: Ice patch present in the parking lot AND person did not see patch of ice while exiting their vehicle.

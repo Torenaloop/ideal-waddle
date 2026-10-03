@@ -1,3 +1,20 @@
+---
+type: meeting
+Date: 2025-01-09
+PARA: Archives
+People:
+  - "[[Donna Lynch]]"
+  - "[[Boyd Sylvester]]"
+  - "[[Brandy Fischer]]"
+  - "[[David Nuckolls]]"
+  - "[[Jesse Kenser]]"
+  - "[[Josh Giberson]]"
+  - "[[Kate Crawford]]"
+  - "[[Matt Goetz]]"
+  - "[[Matt Saucedo]]"
+  - "[[Patrick Hays]]"
+  - "[[Rebecca Boyer]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**EHS Team Summit Info**|

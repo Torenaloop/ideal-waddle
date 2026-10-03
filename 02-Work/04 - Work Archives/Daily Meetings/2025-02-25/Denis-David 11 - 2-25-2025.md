@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-02-25
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **Denis/David 1:1**  
 Tue, Feb 25, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

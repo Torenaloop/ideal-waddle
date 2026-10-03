@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-17
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 **Benny/David 1:1**  
 Wed, Jul 17, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

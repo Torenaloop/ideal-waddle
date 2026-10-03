@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 2.pdf]]
 
 [https://www.makeuseof.com/notion-galleries-how-work-why-use/](https://www.makeuseof.com/notion-galleries-how-work-why-use/)

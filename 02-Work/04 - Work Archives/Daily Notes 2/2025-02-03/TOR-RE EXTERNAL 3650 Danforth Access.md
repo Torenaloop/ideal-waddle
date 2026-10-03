@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-03
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: [EXTERNAL] 3650 Danforth Access**|

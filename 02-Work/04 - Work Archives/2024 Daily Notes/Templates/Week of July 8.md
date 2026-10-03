@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 # Projects Alignment [AMR EHS Ops, OneNote '24 Projects, To-Do]
 
 |   |

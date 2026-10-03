@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-12-09
+PARA: Archives
+---
 11 invited
  
 7 accepted

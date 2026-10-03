@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-25
+PARA: Archives
+---
 **Jesse/David Sync**  
 Fri, Oct 25, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

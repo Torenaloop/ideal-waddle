@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-07-10
+PARA: Archives
+People:
+  - "[[Bryan Day]]"
+  - "[[David Nuckolls]]"
+---
 **Bryan Day EQW Board**  
 Thu, Jul 10, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

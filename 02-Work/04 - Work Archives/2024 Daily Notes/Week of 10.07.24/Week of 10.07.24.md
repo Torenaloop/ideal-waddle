@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 Things that will get accomplished this week:
  
 - [ ] Incident Management AP Learning Team Check In  

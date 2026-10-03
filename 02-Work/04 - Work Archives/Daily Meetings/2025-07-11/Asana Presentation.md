@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-11
+PARA: Archives
+---
 **Asana Presentation**  
 Fri, Jul 11, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-09-26
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: Business Case for Adopting Moziware Cimo and Vsight Products**|

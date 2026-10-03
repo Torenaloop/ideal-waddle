@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-07
+PARA: Archives
+---
 **Rich | David 1:1**  
 Fri, Mar 7, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

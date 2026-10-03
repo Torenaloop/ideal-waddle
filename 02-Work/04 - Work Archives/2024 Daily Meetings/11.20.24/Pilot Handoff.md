@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-20
+PARA: Archives
+---
 **Pilot Handoff**  
 Wed, Nov 20, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

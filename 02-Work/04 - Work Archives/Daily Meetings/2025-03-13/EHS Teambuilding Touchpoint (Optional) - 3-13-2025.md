@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-13
+PARA: Archives
+---
 **EHS Teambuilding Touchpoint (Optional)**  
 Thu, Mar 13, 2:00 PM - 3:00 PM  
 Microsoft Teams Meeting  

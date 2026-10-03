@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-11-11
+PARA: Archives
+---
 95 Slides / 150 minutes =
     
 Introduction​ (Slides 3 - 7)

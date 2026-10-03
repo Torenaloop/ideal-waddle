@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 1. [Source of Truth (12/4/23)](Source%20of%20Truth%20\(12\4\23\)%20)
 2. [Reviewing APs](Reviewing%20APs.md)
 3. [Updating APs](Updating%20APs.md)

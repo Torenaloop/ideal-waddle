@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-10-22
+PARA: Archives
+---
 **ESG Survey**  
 Tue, Oct 22, 4:00 PM - 4:30 PM  
 Microsoft Teams Meeting  

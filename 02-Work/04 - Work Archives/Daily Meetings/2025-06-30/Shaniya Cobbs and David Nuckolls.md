@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-30
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Shaniya Cobbs and David Nuckolls**  
 Mon, Jun 30, 12:00 PM - 12:45 PM  
 [https://calendly.com/events/aa09d1db-bd76-4614-a873-6e6def5e693c/microsoft_teams](https://calendly.com/events/aa09d1db-bd76-4614-a873-6e6def5e693c/microsoft_teams)  

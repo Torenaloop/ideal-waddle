@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-21
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127104953-0.png)   
 Thank you, Can you please provide a bullet pointed list of exactly which Environmental, Health, and Safety trainings are required to be given by employers to managers or supervisors in Ontario, Canada?
    

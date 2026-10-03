@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-03-05
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+---
 **NVA06A Operational Readiness Review**  
 Wed, Mar 5, 2:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: daily-note
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 ATL01A - Medical Issue - Marion Marshall - Stack Security Manager   

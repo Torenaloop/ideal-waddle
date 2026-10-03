@@ -1,3 +1,7 @@
+---
+Triage: Mixed
+Triage Signals: "work: EHS, contractor, data center, LOTO, MOP, safety; personal: Family, Resume"
+---
 JJ Keller - founded in 1950's by Jack Keller as a lawyer interpreting new transportation laws to a group of clients. Then expanded business to other areas of legal interpretation of laws intended to protect workers.
     
 What attracts me to the job:

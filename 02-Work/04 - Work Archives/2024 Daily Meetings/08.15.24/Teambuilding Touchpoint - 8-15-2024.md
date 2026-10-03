@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-15
+PARA: Archives
+---
 **Teambuilding Touchpoint**  
 Thu, Aug 15, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

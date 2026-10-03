@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-26
+PARA: Archives
+---
 **Workin' Sesh**  
 Wed, Mar 26, 11:00 AM - 12:30 PM  
 Microsoft Teams Meeting  

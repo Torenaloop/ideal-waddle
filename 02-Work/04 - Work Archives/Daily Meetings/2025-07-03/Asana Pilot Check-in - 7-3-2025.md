@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-03
+PARA: Archives
+---
 **Asana Pilot Check-in**  
 Thu, Jul 3, 11:00 AM - 12:00 PM  
 Microsoft Teams Meeting  

@@ -1,1 +1,5 @@
+---
+type: moc
+PARA: Archives
+---
 [CY24H2 Travel Planning](CY24H2%20Travel%20Planning)

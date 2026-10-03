@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-01-12
+PARA: Archives
+---
 ## Due Diligence
  ![Exported image](Files/Exported%20image%2020260127142106-0.png)   
 **Observations Overview Report (SOSPES)**

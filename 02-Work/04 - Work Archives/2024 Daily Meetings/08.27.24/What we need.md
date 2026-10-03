@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2024-08-27
+PARA: Archives
+People:
+  - "[[Eric Hinson]]"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **What we need**
 
 - NVA05A Designated Providers Workers Comp Maps (Completed) ✅ - Emergency Evacuation Plan

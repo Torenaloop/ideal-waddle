@@ -1,3 +1,10 @@
+---
+type: meeting
+PARA: Archives
+People:
+  - "[[Justin Lloyd]]"
+  - "[[David Nuckolls]]"
+---
 **In-House CPR/AED Training Discussion**  
 Fri, Apr 4, 1:00 PM - 1:25 PM  
 Microsoft Teams Meeting  

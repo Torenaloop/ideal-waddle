@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-10
+PARA: Archives
+---
 **EQW Revamp Weekly Discussion**  
 Mon, Mar 10, 11:00 AM - 12:00 PM  
 Microsoft Teams Meeting  

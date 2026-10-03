@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-04-23
+PARA: Archives
+---
 ![[Files/AHA - Gallery 1259 Coupling Replacement.pdf]]
 
 LOTO Applied - 8

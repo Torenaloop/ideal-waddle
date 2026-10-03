@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-07-08
+PARA: Archives
+---
 **Asana Presentation Run-through**  
 Tue, Jul 8, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

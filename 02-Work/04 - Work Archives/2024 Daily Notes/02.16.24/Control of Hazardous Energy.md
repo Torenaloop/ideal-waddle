@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-02-16
+PARA: Archives
+---
 ## Class exercises (Control of Hazardous Energy)
    
 

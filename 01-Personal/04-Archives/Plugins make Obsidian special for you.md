@@ -1,3 +1,6 @@
+---
+Triage: Stub
+---
 We started making Obsidian with plugins in mind because everyone seems to take notes differently. Offering a generic set of tools for a note-taker is like offering only one configuration of kitchen for passionate home cooks.
 
 There are two types of plugins in Obsidian: core plugins and community plugins.

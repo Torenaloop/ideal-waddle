@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-27
+PARA: Archives
+---
 **Electrical Safety Qualified Person Assessment**  
 Fri, Dec 27, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

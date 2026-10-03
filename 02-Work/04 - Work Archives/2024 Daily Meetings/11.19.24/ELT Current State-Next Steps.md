@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-11-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **ELT Current State/Next Steps**  
 Mon, Nov 18, 2:00 PM - 3:00 PM  
 Microsoft Teams Meeting  

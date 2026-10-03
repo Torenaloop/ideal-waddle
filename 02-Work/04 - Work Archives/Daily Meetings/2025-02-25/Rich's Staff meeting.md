@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-25
+PARA: Archives
+---
 **Rich's Staff meeting**  
 Tue, Feb 25, 9:00 AM - 10:00 AM  
 Microsoft Teams Meeting  

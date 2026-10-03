@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-26
+PARA: Archives
+---
 **Learning Team Kick Off Meeting**  
 Mon, Aug 26, 2:00 PM - 2:30 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-04
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 Pre-work Documentation
  
 - [Drawings.pdf](file:///C:\Users\DavidNuckolls\OneDrive%20-%20STACK%20INFRASTRUCTURE\Documents\02-Areas%20of%20Responsibility\NVA05A\CAB%20Items\Confined%20Space%20Entry\Drawings.pdf)

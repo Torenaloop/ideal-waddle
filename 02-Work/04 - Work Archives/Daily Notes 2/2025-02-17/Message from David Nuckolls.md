@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-17
+PARA: Archives
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Hi China - the interview coordinator has provided a time for Travis Gilbert and I to talk tomorrow at 1:30p EST. Do we have a script of questions you'd like me to ask or a particular point of emphasis?      Notes:  

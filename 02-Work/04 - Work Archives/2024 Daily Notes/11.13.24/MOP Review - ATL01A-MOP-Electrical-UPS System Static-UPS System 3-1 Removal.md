@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-13
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 Case #127852 EHS Review  
 ─────────────────────────────────────────────────────────────────────────────────────────
  

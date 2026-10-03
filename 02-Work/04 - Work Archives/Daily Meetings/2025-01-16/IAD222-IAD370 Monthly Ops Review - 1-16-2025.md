@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-16
+PARA: Archives
+---
 **IAD222/IAD370 Monthly Ops Review**  
 Thu, Jan 16, 11:30 AM - 12:30 PM  
 CHIME  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-30
+PARA: Archives
+---
 Notes
    
 6. What's the difference between a qualified person and an affected person? ✅

@@ -10,6 +10,8 @@ tags:
 Type: Media
 Related:
   - "[[02-Rhett 1]]"
+Triage: Duplicate
+Duplicate Of: "[[01-Personal/04-Archives/JJK]]"
 ---
 
 # JJK (Jujutsu Kaisen)

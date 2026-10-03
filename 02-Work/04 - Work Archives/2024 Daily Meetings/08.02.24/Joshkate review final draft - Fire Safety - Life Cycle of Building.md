@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-02
+PARA: Archives
+---
 **Josh:kate review final draft - Fire Safety - Life Cycle of Building.**  
 Fri, Aug 2, 9:00 AM - 9:50 AM  
 Microsoft Teams Meeting  

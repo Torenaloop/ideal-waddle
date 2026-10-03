@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-10-22
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **NVA05A - Security Incident/Discussion & standard**  
 Tue, Oct 22, 11:30 AM - 12:00 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-08-28
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **Weekly CAB EAST**  
 Wed, Aug 28, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

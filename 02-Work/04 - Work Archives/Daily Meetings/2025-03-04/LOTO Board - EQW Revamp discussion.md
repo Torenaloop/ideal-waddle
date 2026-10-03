@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-04
+PARA: Archives
+---
 **LOTO Board - EQW Revamp discussion**  
 Tue, Mar 4, 12:00 PM - 1:00 PM  
 Microsoft Teams Meeting  

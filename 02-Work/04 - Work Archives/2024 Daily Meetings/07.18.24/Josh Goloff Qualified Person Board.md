@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-07-18
+PARA: Archives
+People:
+  - "[[Josh Goloff]]"
+---
 **Josh Goloff Qualified Person Board**  
 Thu, Jul 18, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

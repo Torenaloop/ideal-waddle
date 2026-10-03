@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 **Key**￼Heading 1 = Notebooks￼Heading 2 = Section￼Heading 3 = Section Groups (italic)
  
 # David @ STACK INFRASTRUCTURE

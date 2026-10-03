@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-28
+PARA: Archives
+---
 **Power BI**  
 Wed, Aug 28, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

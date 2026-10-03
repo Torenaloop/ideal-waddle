@@ -1,3 +1,14 @@
+---
+type: meeting
+Date: 2025-06-18
+PARA: Archives
+People:
+  - "[[Rick Wilson]]"
+  - "[[Jesse Kenser]]"
+  - "[[Matt Saucedo]]"
+  - "[[Reid Thomas]]"
+  - "[[Ryan Arthur]]"
+---
 **Weekly CAB Review-Central**  
 Wed, Jun 18, 3:30 PM - 4:30 PM  
 Microsoft Teams Meeting  

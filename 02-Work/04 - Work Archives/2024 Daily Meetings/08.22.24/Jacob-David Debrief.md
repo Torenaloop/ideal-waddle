@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-22
+PARA: Archives
+---
 **Jacob/David Debrief**  
 Thu, Aug 22, 10:00 AM - 11:00 AM  
 Microsoft Teams Meeting  

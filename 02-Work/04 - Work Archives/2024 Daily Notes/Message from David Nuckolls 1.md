@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Sounds good on both fronts!      Notes:  

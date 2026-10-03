@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-12
+PARA: Archives
+---
 **EHS Program Manager Discussion**  
 Thu, Dec 12, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

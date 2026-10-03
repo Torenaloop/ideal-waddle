@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-06-17
+PARA: Archives
+---
 **Intel/STACK Q2 Executive Business Review**  
 Tue, Jun 17, 2:00 PM - 3:00 PM  
 7300 Souder Rd (7300 Souder Rd, New Albany, Ohio 43054); AMER - Site Activities; AMER - Site Activities  

@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-01-06
+PARA: Archives
+People:
+  - "[[Shane McDonald]]"
+  - "[[David Nuckolls]]"
+---
 **Electrical Qualified Workshop Oral Board**  
 Mon, Jan 6, 1:30 PM - 2:00 PM  
 Microsoft Teams Meeting  

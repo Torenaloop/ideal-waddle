@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-02-22
+PARA: Archives
+---
 For the East Region, the status of the Shirley Parsons 2023 audit findings are a standing agenda item that is discussed in the following touchpoints:
  
 - East Region Critical Ops VP 1:1 (Monthly)

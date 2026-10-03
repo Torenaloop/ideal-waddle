@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-06-11
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 SOSPES Should be checked at a **minimum of once a day** for your region. 
  
 **When new Observation comes in:** 

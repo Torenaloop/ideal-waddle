@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2024-07-05
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+  - "[[Donna Lynch]]"
+---
 **RE: EHS SharePoint site**  
 Fri, Jul 5, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

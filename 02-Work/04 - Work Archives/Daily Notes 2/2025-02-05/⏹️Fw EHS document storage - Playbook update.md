@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-05
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: EHS document storage - Playbook update**|

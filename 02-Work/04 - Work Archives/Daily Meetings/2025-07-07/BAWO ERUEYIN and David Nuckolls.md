@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-07-07
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 ![Exported image](Files/Exported%20image%2020260127125131-0.png) ![Exported image](Files/Exported%20image%2020260127125133-1.png)
 
 **BAWO ERUEYIN and David Nuckolls**  

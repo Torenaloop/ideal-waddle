@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2023-12-18
+PARA: Archives
+---
 SOSPES - Analytics - Custom Reports - Injury Breakdowns  
 Worthwhile  
 Can sort by Ops or "Dev" for First Aid and OSHA Recordables

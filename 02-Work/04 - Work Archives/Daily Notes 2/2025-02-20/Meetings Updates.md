@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-20
+PARA: Archives
+---
 Monthly  
 East Region  
 - [x] TJ (East Region VP of Operations)  

@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **LOTO TSO Russ electric ATS Repair MOP**  
 Wed, Feb 19, 9:00 AM - 9:30 AM  
 [Link to Outlook Item](https://outlook.office365.com/owa/?itemid=AAMkADZhNDM2YWRmLWJhNzYtNGJmYS1hODAwLWE4MGU5ZmEyMTI4NABGAAAAAAAKyp%2BY2%2FXtS4qL30BfG4%2BRBwCwwsU3mSQtS7WEqO9JZDh%2BAAAAAAENAACwwsU3mSQtS7WEqO9JZDh%2BAAFPTfNdAAA%3D&exvsurl=1&path=/calendar/item)  

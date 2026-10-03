@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-26
+PARA: Archives
+---
 **STACK Safety Orientation**  
 Tue, Nov 26, 1:00 PM - 1:45 PM  
 Microsoft Teams Meeting  

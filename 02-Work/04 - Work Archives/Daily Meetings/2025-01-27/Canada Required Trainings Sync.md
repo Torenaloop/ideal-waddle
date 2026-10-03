@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-27
+PARA: Archives
+---
 **Canada Required Trainings Sync**  
 Mon, Jan 27, 12:00 PM - 1:00 PM  
 Microsoft Teams Meeting  

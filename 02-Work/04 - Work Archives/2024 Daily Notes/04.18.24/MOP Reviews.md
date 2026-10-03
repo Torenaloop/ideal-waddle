@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-04-18
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 ## ATL01A Notes
  
 - ATL01A-SOP-Mechanical-Computer Room Air Conditioner and Handler-Data Hall 406 CRAH SAPM

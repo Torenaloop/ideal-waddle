@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-12
+PARA: Archives
+---
 **EHS Team Meeting Monthly**  
 Wed, Mar 12, 10:00 AM - 11:00 AM  
 Microsoft Teams Meeting  

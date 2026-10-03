@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Book"
+---
 ### Building a Second Brain notes:
  _Part Two: The Method, The Four Steps of CODE_  
 

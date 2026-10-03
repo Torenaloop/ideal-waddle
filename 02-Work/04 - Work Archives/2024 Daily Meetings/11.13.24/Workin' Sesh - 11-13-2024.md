@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-13
+PARA: Archives
+---
 **Workin' Sesh**  
 Wed, Nov 13, 11:00 AM - 12:30 PM  
 Microsoft Teams Meeting  

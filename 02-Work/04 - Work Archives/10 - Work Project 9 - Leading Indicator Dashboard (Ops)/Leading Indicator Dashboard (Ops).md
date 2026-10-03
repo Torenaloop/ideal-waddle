@@ -8,6 +8,7 @@ Due Date:
 tags:
   - Projects
   - Visible
+PARA: Archives
 ---
 ### Notes
 ---

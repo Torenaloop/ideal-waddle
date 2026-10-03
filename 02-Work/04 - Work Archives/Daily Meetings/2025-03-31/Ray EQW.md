@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-31
+PARA: Archives
+---
 **Ray EQW**  
 Mon, Mar 31, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

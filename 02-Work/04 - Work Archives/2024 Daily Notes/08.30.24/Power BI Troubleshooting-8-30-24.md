@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-08-30
+PARA: Archives
+---
 |   |
 |---|
 |**Code**|

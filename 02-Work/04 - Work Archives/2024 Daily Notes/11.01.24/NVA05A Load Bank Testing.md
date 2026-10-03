@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-01
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 - [x] TSO Verbiage Compliance
  
 - [x] 1:1 ratio of LOTO applied versus LOTO removed

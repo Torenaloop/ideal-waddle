@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-01-12
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 ## Due Diligence
  ![Exported image](Files/Exported%20image%2020260127142113-0.png)  
 

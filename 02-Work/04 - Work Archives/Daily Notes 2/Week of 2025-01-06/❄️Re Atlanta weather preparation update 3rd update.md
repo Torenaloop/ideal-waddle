@@ -1,3 +1,8 @@
+---
+type: daily-note
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: Atlanta weather preparation update 3rd update**|

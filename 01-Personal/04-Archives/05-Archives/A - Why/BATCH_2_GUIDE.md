@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "personal: Family, Alamo bowl, Kelsey, Christmas, Rhett, School"
+Duplicate Of: "[[01-Personal/04-Archives/BATCH_2_GUIDE]]"
+---
 # Updated Tagging Guide - Batch 2
 
 ## Files Enhanced in This Batch

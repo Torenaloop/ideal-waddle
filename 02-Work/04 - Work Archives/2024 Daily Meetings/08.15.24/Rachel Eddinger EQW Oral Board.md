@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2024-08-15
+PARA: Archives
+People:
+  - "[[Rachel Eddinger]]"
+---
 **Rachel Eddinger EQW Oral Board**  
 Thu, Aug 15, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

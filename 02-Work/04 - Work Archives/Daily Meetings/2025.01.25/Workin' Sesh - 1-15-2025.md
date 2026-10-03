@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-15
+PARA: Archives
+---
 **Workin' Sesh**  
 Wed, Jan 15, 11:00 AM - 12:30 PM  
 Microsoft Teams Meeting  

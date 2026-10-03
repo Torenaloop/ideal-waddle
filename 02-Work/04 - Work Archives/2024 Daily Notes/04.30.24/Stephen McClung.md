@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-04-30
+PARA: Archives
+---
 Was able to observe the inner workings of the COT's/Operations while working Security
  
 Was not provided the "why" when trying to conform/comply with procedures/protocols/AP's

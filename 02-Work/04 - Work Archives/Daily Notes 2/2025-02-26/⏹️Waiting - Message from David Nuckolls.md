@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-26
+PARA: Archives
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Hey Jack - with the Q2 EBR's for ATL taking place the week of 3/17, I wanted to check with you about leveraging a trip down there for me to participate (however lightly) in the EBRs and also use that week to catch who I can for the Electrical Qualified Workshop. Will that work for you and the folks/COTs?      Notes:  

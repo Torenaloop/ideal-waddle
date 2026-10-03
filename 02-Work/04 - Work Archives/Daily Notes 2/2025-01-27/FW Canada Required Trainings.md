@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-27
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**FW: Canada Required Trainings**|

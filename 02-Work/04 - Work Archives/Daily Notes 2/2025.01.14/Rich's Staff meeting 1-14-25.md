@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-14
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Rich's Staff meeting 1/14/25**|

@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-03-05
+PARA: Archives
+People:
+  - "[[Matt Goetz]]"
+  - "[[David Nuckolls]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Fw: SOSPES Tags - ESG Reporting**|

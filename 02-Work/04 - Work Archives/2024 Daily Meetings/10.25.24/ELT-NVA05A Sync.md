@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-10-25
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **ELT-NVA05A Sync**  
 Fri, Oct 25, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  

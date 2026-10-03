@@ -1,3 +1,20 @@
+---
+type: meeting
+PARA: Archives
+People:
+  - "[[Tom Harris]]"
+  - "[[Matt Honaker]]"
+  - "[[Jack Gillian]]"
+  - "[[Joe Kendra]]"
+  - "[[Austin Greenbacker]]"
+  - "[[Matt Bassett]]"
+  - "[[Todd Lipcsey]]"
+  - "[[Rachel Eddinger]]"
+  - "[[Josh Terry]]"
+  - "[[Bleau Bryant]]"
+  - "[[Dave Robertson]]"
+  - "[[Reid Thomas]]"
+---
 **Top 5 SMART Priorities**  
 **1) Familiarization of Electrical Safety/LOTO Training content**
  

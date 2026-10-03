@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-30
+PARA: Archives
+---
 ![Exported image](Files/Exported%20image%2020260127123657-0.png) ![Exported image](Files/Exported%20image%2020260127123701-1.png) ![Exported image](Files/Exported%20image%2020260127123702-2.png)
 
 **Gloria/David Meet & Greet**  

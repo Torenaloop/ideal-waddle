@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 1.pdf]]
 
 [https://adoption.microsoft.com/en-us/guides/managing-your-daily-tasks-with-microsoft-planner-microsoft-planner/](https://adoption.microsoft.com/en-us/guides/managing-your-daily-tasks-with-microsoft-planner-microsoft-planner/)

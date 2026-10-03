@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-02-25
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
+---
 **EHS EBR Deck Review-ATL01A**  
 Tue, Feb 25, 2:00 PM - 2:25 PM  
 Microsoft Teams Meeting  

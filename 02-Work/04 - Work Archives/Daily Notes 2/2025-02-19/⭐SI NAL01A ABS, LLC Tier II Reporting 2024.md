@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**SI NAL01A ABS, LLC Tier II Reporting 2024**|

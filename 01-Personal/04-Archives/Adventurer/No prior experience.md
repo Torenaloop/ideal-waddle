@@ -1,3 +1,6 @@
+---
+Triage: Stub
+---
 There are plenty of note-taking apps out there, so congratulations on finding Obsidian! You may have heard that Obsidian is really hard to use, but we assure you 
 
 There’s no silver bullet solution that works perfectly for everyone. Obsidian works best if you care about what we care about.

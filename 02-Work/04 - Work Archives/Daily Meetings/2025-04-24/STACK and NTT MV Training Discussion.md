@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-04-24
+PARA: Archives
+---
 **STACK and NTT MV Training Discussion**  
 Thu, Apr 24, 3:30 PM - 4:00 PM  
 Microsoft Teams Meeting  

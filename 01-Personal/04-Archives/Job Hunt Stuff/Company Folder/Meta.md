@@ -3,6 +3,8 @@ Location: Boise, ID
 Salary Range: 100k - 200k
 Application submitted: 9/4/23
 Application viewed: 9/18/23
+Triage: Personal
+Triage Signals: "work: safety; personal: Resume"
 ---
 Site Loss Control Specialist - Construction Safety 
 

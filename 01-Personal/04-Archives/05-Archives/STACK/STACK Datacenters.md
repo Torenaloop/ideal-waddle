@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "work: STACK, Donna Lynch, Jesse Kenser"
+Duplicate Of: "[[01-Personal/04-Archives/STACK/STACK Datacenters]]"
+---
 #JOBS 
 Applied on 8/11
 Reached out to Ruben Thissen and Donna Lynch via LinkedIn

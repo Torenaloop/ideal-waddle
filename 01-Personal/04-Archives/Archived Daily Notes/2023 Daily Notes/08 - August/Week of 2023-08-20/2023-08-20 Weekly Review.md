@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "work: TK"
+---
 ### Personal PARA Review #para #weeklyreview 
 
 - Projects

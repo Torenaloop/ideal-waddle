@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-10-25
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **PLACEHOLDER: NVA05A Event Report Document Review**  
 Fri, Oct 25, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

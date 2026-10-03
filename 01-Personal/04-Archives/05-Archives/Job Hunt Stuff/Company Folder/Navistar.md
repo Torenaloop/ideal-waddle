@@ -1,3 +1,8 @@
+---
+Triage: Duplicate
+Triage Signals: "personal: Salary"
+Duplicate Of: "[[01-Personal/04-Archives/Job Hunt Stuff/Company Folder/Navistar]]"
+---
 #JOBS 
 
 - Screening interview @ 4:30p on 8/23

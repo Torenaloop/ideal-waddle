@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-07-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **D2D Safety/Ops Sync Up**  
 Fri, Jul 19, 9:00 AM - 9:30 AM  
 Microsoft Teams Meeting  

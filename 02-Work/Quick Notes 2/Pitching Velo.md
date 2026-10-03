@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Pitching, Baseball"
+---
 The velocity of a baseball pitch comes from a combination of biomechanical factors, muscular strength, and efficient energy transfer through the kinetic chain. Here's a breakdown of where the velocity originates during a pitch:
  
 **1. Kinetic Chain**  

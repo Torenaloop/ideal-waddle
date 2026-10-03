@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-03-05
+PARA: Archives
+---
 Message from David Nuckolls saved from Teams  
 ￼Message details:  
 Hey Matt - any word back from DFW or CHI on preferred dates/times for an Env. Audit KO meeting for the Central Region?      Notes:  

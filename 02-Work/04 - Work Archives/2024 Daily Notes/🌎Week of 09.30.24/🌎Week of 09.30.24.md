@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 Things that will get accomplished this week:
  
 # - [x] Deliver EQW to NAL01A COTs

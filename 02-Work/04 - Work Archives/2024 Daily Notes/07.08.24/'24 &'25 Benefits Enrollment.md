@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-08
+PARA: Archives
+---
 #Benefits
    
 ![Exported image](Files/Exported%20image%2020260127143130-0.png)   ![Exported image](Files/Exported%20image%2020260127143132-1.png)   ![Exported image](Files/Exported%20image%2020260127143133-2.png)   ![Exported image](Files/Exported%20image%2020260127143135-3.png)   ![Exported image](Files/Exported%20image%2020260127143136-4.png)  

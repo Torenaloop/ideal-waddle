@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 Create task tracker component using "table" and not "task list"
  
 Once the task tracker table is configured to your liking, make it/create a component

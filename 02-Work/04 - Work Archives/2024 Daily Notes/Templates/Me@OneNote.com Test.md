@@ -1,3 +1,7 @@
+---
+type: daily-note
+PARA: Archives
+---
 |   |   |
 |---|---|
 |![Exported image](Files/Exported%20image%2020260127152539-0.png)|\|   \|<br>\|---\|<br>\|**David Nuckolls**\|<br>\|\\|   \\|   \\|   \\|<br>\\|---\\|---\\|---\\|<br>\\|**Operations, Health, and Safety Manager**\\|**\\\|**\\|**STACK Americas**\\|<br>\|\\|   \\|<br>\\|---\\|<br>\\|\\\|   \\\|   \\\|<br>\\\|---\\\|---\\\|<br>\\\|<br>\|e: [dnuckolls@stackinfra.com](mailto:dnuckolls@stackinfra.com)  <br>m: 405-863-1218\||

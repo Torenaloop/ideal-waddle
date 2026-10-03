@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-09
+PARA: Archives
+---
 **AR Glasses Planning Sync**  
 Tue, Jul 9, 9:30 AM - 10:00 AM  
 Microsoft Teams Meeting  

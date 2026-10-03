@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2025-01-13
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 **Bi monthly Ops leadership EAST meeting**  
 Mon, Jan 13, 12:00 PM - 1:30 PM  
 Microsoft Teams Meeting; NVA05A Conference Room - Lobby  

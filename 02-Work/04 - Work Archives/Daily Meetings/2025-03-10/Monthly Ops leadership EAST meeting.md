@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-10
+PARA: Archives
+---
 **Monthly Ops leadership EAST meeting**  
 Mon, Mar 10, 12:00 PM - 1:30 PM  
 Microsoft Teams Meeting; NVA05A Conference Room - Lobby  

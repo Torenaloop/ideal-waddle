@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-12
+PARA: Archives
+---
 **Site Leadership Checklist Brainstorm**  
 Thu, Dec 12, 1:00 PM - 2:00 PM  
 Microsoft Teams Meeting  

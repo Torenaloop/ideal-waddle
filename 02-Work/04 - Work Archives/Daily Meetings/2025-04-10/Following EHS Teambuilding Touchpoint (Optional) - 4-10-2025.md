@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-04-10
+PARA: Archives
+---
 **Following: EHS Teambuilding Touchpoint (Optional)**  
 Thu, Apr 10, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

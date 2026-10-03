@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-23
+PARA: Archives
+---
 SOSPES Tracker spreadsheet -\> place to capture SOSPES entries for OPLs (What Great Looks Like)
 
 ![Exported image](Files/Exported%20image%2020260127162347-0.png)  

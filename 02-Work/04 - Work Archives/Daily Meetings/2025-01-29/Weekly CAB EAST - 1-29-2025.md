@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-29
+PARA: Archives
+---
 **Weekly CAB EAST**  
 Wed, Jan 29, 2:30 PM - 3:00 PM  
 Microsoft Teams Meeting  

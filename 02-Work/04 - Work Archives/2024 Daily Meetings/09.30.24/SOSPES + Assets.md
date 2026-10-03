@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-09-30
+PARA: Archives
+---
 **SOSPES + Assets**  
 Mon, Sep 30, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

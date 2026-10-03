@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2024-04-11
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+  - "[[Matt Goetz]]"
+  - "[[Matt Saucedo]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**ERP/BCP/Inclement Weather AP Consolidation**|

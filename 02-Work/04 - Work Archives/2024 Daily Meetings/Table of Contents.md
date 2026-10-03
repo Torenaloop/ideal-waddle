@@ -1,3 +1,7 @@
+---
+type: moc
+PARA: Archives
+---
 1. [Page Map of This Notebook](Page%20Map%20of%20This%20Notebook)
 2. [Reoccurring Meetings](Reoccurring%20Meetings)
 3. [2023](2023.md)

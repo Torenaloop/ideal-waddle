@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-05
+PARA: Archives
+---
 ### **What to Use When pdf's**
  
 ![[Files/When to use To Do, Planner, Tasks in Teams_FINAL 050621.pdf]]

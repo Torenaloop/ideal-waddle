@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![[Files/Attachment 8.pdf]]
 
 ![[Files/Attachment_2.pdf]]

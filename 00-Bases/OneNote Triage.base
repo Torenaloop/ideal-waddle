@@ -1,0 +1,82 @@
+filters:
+  and:
+    - file.hasProperty("Triage")
+properties:
+  file.name:
+    displayName: Note
+  note.Triage Signals:
+    displayName: Why
+  file.folder:
+    displayName: Current folder
+views:
+  - type: table
+    name: Work (proposed move)
+    filters:
+      and:
+        - Triage == "Work"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - Triage
+      - Triage Signals
+      - file.size
+  - type: table
+    name: Mixed
+    filters:
+      and:
+        - Triage == "Mixed"
+    order:
+      - file.name
+      - Triage
+      - Triage Signals
+      - file.folder
+      - file.size
+  - type: table
+    name: Unclear
+    filters:
+      and:
+        - Triage == "Unclear"
+    order:
+      - file.name
+      - Triage
+      - Triage Signals
+      - file.folder
+      - file.size
+  - type: table
+    name: Personal
+    filters:
+      and:
+        - Triage == "Personal"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - Triage
+      - Triage Signals
+      - file.size
+  - type: table
+    name: Stubs
+    filters:
+      and:
+        - Triage == "Stub"
+    order:
+      - file.name
+      - Triage
+      - file.folder
+      - file.size
+    sort:
+      - property: file.size
+        direction: DESC
+  - type: table
+    name: Duplicates
+    filters:
+      and:
+        - Triage == "Duplicate"
+    order:
+      - file.name
+      - Duplicate Of
+      - file.folder
+      - file.size

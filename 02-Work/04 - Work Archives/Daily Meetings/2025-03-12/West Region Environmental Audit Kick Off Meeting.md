@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-03-12
+PARA: Archives
+---
 **West Region Environmental Audit Kick Off Meeting**  
 Wed, Mar 12, 2:00 PM - 2:50 PM  
 Microsoft Teams Meeting  

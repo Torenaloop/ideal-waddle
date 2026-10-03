@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-01-08
+PARA: Archives
+---
 - [x] Paper plates  
 - [x] Paper towels  
 - [x] Trash bags (small)  

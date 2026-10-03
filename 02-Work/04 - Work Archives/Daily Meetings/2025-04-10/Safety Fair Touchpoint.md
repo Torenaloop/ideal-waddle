@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-04-10
+PARA: Archives
+---
 **Safety Fair Touchpoint**  
 Thu, Apr 10, 1:00 PM - 1:25 PM  
 Microsoft Teams Meeting  

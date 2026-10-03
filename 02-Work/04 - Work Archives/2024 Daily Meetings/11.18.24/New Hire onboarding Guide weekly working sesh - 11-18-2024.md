@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-18
+PARA: Archives
+---
 **New Hire onboarding Guide weekly working sesh**  
 Mon, Nov 18, 1:00 PM - 2:00 PM  
 Microsoft Teams Meeting  

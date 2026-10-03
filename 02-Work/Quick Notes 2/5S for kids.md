@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 Applying the **5S methodology** to children’s rooms can be a great way to teach kids organizational skills while maintaining a tidy, functional space. The 5S methodology—**Sort, Set in Order, Shine, Standardize, and Sustain**—can be adapted creatively for a child-friendly approach. Here are strategies for each step:
  
 **1. Sort (Seiri)**

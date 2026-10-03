@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-19
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**[EXTERNAL] Order Confirmation for Electrical Safety in Data Centers Conference**|

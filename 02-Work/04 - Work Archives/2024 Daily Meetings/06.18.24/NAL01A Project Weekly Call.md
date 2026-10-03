@@ -1,3 +1,13 @@
+---
+type: meeting
+Date: 2024-06-18
+PARA: Archives
+People:
+  - "[[Matt Honaker]]"
+  - "[[Kate Crawford]]"
+  - "[[Seann McWilliams]]"
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **NAL01A - Weekly Project Team Call**  
 Tue, Jun 18, 12:00 PM - 12:30 PM  
 Microsoft Teams Meeting  

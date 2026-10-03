@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-06-26
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+---
 **Video Interview: Nurudeen Lawal - Ops EH&S Manager**  
 Thu, Jun 26, 9:00 AM - 9:45 AM  
 Microsoft Teams Meeting  

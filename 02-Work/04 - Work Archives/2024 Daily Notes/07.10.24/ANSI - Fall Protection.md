@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-07-10
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**ANSI - Fall Protection**|

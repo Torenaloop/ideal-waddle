@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2023-12-05
+PARA: Archives
+---
 - Create a safe space to learn, share “Purpose, Process, and Payoff”
  
 - Purpose: What is our “Event to Action” or Behavior we’re trying to change? It’s going from simply mowing and edging the lawn because we must, to mowing and edging the lawn in such a way that you have an award-winning lawn.

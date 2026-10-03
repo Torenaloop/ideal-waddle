@@ -1,3 +1,10 @@
+---
+type: meeting
+Date: 2025-04-24
+PARA: Archives
+People:
+  - "[[Nick Mennillo]]"
+---
 **East Coast Critical Ops Sync**  
 Thu, Apr 24, 8:00 AM - 8:25 AM  
 Microsoft Teams Meeting  

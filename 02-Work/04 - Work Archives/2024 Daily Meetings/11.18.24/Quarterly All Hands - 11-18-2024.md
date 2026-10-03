@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-11-18
+PARA: Archives
+---
 **Quarterly All Hands**  
 Mon, Nov 18, 11:30 AM - 12:15 PM  
 Microsoft Teams Meeting  

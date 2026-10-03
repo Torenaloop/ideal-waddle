@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-09
+PARA: Archives
+---
 **EHS Team Meeting Monthly**  
 Thu, Jan 9, 3:00 PM - 4:00 PM  
 Microsoft Teams Meeting  

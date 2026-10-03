@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-11-15
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 **UPS400 MOP Working Session**  
 Fri, Nov 15, 10:00 AM - 11:00 AM  
 Microsoft Teams Meeting  

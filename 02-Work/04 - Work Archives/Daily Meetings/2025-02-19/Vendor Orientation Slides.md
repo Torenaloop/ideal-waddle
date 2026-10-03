@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-19
+PARA: Archives
+---
 **Vendor Orientation Slides**  
 Wed, Feb 19, 1:00 PM - 1:15 PM  
 Microsoft Teams Meeting  

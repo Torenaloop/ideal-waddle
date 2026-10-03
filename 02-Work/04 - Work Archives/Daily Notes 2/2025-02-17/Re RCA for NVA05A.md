@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-02-17
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: RCA for NVA05A**|

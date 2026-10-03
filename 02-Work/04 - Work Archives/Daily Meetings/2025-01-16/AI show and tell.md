@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-16
+PARA: Archives
+---
 **AI show and tell**  
 Thu, Jan 16, 11:00 AM - 11:25 AM  
 Microsoft Teams Meeting  

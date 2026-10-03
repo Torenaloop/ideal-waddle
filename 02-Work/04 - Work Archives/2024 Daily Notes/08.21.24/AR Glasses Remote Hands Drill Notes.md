@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-08-21
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
+---
 We will test the Remote Hands use case for a scenario in which Jacob performs AED inspection on both AEDs at NVA01A.
  
 Jacob will wear/use the headset

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-07-26
+PARA: Archives
+---
 **Kostiantyn D. Electrical Qualified Workshop Oral Board**  
 Wed, Jul 24, 10:00 AM - 10:30 AM  
 Microsoft Teams Meeting  

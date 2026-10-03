@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-08-02
+PARA: Archives
+---
 **Nuckolls Mid-Year Review**  
 Fri, Aug 2, 3:00 PM - 3:30 PM  
 Microsoft Teams Meeting  

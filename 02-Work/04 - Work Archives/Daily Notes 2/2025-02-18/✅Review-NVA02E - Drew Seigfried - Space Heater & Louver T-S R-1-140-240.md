@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-02-18
+PARA: Archives
+---
 NVA02E - Drew Seigfried - Space Heater & Louver T-S R-1-140/240
  
 JSA Feedback

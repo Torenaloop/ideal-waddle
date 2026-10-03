@@ -1,3 +1,12 @@
+---
+type: meeting
+Date: 2024-07-16
+PARA: Archives
+People:
+  - "[[David Nuckolls]]"
+  - "[[Jesse Kenser]]"
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **TOR01A/TYO053 Monthly Ops Report**  
 Tue, Jul 16, 1:00 PM - 1:30 PM  
 Chime  

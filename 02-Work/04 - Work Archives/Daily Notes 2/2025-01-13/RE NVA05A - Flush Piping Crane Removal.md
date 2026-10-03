@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2025-01-13
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+---
 |   |   |
 |---|---|
 |**Subject**|**RE: [EXTERNAL] RE: NVA05A - Flush Piping Crane Removal**|

@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-04-28
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**[EXTERNAL] RE: PPT to Slides Manual (1 of 2)**|

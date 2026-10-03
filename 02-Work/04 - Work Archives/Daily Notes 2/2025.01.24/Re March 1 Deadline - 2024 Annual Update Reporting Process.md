@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2025-01-24
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**Re: March 1 Deadline - 2024 Annual Update Reporting Process**|

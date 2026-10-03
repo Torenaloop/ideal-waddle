@@ -1,3 +1,8 @@
+---
+type: daily-note
+Date: 2024-05-09
+PARA: Archives
+---
 |   |   |
 |---|---|
 |**Subject**|**See you in Denver!**|

@@ -1,3 +1,9 @@
+---
+type: daily-note
+Date: 2024-11-19
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/TOR01A/TOR01A|TOR01A]]"
+---
 **Evaluate sections 4 & 5 of the following sites' BCP/ERP:**
  
 - [x] NVA02D Section 4 - Communicated to Sauce  

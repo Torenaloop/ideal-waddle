@@ -1,3 +1,7 @@
+---
+Triage: Personal
+Triage Signals: "personal: Rhett, Dinner"
+---
 # 08.01.Tu
  
 ## Tasks

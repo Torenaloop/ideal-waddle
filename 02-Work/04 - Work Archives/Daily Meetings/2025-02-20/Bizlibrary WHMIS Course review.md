@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-02-20
+PARA: Archives
+---
 **Bizlibrary WHMIS Course review**  
 Thu, Feb 20, 4:00 PM - 4:30 PM  
 Microsoft Teams Meeting  

@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-06-18
+PARA: Archives
+---
 **Norfolk Southern Internal Review**  
 Tue, Jun 18, 12:30 PM - 1:00 PM  
 Microsoft Teams Meeting  

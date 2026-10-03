@@ -1,3 +1,11 @@
+---
+type: meeting
+Date: 2025-03-31
+PARA: Archives
+People:
+  - "[[George Chang]]"
+  - "[[Justin Lloyd]]"
+---
 **East Coast Critical Ops Sync**  
 Mon, Mar 31, 8:00 AM - 8:25 AM  
 Microsoft Teams Meeting  

@@ -1,3 +1,9 @@
+---
+type: meeting
+Date: 2024-06-18
+PARA: Archives
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
+---
 **Richard/David Meet & Greet**  
 Tue, Jun 18, 10:30 AM - 11:00 AM  
 Microsoft Teams Meeting  

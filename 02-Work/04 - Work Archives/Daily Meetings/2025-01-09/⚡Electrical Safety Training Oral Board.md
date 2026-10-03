@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-09
+PARA: Archives
+---
 **Electrical Safety Training Oral Board**  
 Thu, Jan 9, 4:00 PM - 4:30 PM  
 Microsoft Teams Meeting  

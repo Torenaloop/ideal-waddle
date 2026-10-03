@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2024-12-19
+PARA: Archives
+---
 **NVA02D/IAD222 Monthly Ops Report**  
 Thu, Dec 19, 11:30 AM - 12:30 PM  
 Chime  

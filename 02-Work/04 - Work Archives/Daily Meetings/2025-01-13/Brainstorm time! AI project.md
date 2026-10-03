@@ -1,3 +1,8 @@
+---
+type: meeting
+Date: 2025-01-13
+PARA: Archives
+---
 |   |
 |---|
 |\|   \|   \|<br>\|---\|---\|<br>\|**🛈**\|**Topic**  <br>Choose topic from list below\||

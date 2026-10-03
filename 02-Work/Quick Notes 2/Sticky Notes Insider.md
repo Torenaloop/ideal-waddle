@@ -1,3 +1,6 @@
+---
+Triage: Personal
+---
 ![Exported image](Files/Exported%20image%2020260127085938-0.png)
 
 ![[Files/Attachment 4.pdf]]
