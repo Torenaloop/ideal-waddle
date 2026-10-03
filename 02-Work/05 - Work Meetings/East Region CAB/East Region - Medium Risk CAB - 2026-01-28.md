@@ -1,6 +1,7 @@
 ---
 type: meeting
 Date: 2026-01-28
+Meeting Type: CAB
 ---
 **East Region – Medium Risk CAB**
 

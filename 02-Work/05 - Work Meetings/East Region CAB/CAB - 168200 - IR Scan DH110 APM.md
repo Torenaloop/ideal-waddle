@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "168200"
+Procedure Title: "IR Scan DH110 APM"
+Site: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
+Document Category: MOP + JSA
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 MOP: [NVA05A-MOP-Electrical-Thermographic Survey-Thermal Scanning Gallery 109.111.docx](https://stackinfrastructure.sharepoint.com/:w:/r/sites/Operations/_layouts/15/Doc.aspx?sourcedoc=%7B146F554A-F614-4C5F-B75C-9A0EC43D5CF4%7D&file=NVA05A-MOP-Electrical-Thermographic%20Survey-Thermal%20Scanning%20Gallery%20109.111.docx&action=default&mobileredirect=true)
 JSA: [Job Safety Analysis - NVA05A - Thermal Scanning DH110.docx](https://stackinfrastructure.sharepoint.com/:w:/s/AMER-CriticalOperations/IQCQ_jRGGJ-qQq1k1N32uFYqAbk116AvAXB7Zsc8MnNyd6w?e=rCvzEX)

@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "177804"
+Procedure Title: "Drywall Remediation in DH 110"
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+Document Category: MOP + JSA
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 MOP: [NVA06A-MOP-Electrical-Construction Support-Glycol Leak Drywall Remediation.docx](https://stackinfrastructure.sharepoint.com/:w:/r/sites/Operations/_layouts/15/Doc.aspx?sourcedoc=%7BE507D8E3-2A68-4FAE-8878-36A24615F416%7D&file=NVA06A-MOP-Electrical-Construction%20Support-Glycol%20Leak%20Drywall%20Remediation.docx&action=default&mobileredirect=true)
 JSA: [JSA - Drywall Remediation.docx](https://stackinfrastructure.sharepoint.com/:w:/s/AMER-CriticalOperations/IQCNJjBD7ORAQ6P4VxeZ7SojAVF1cJqnrnEp8sd2htdvdBo?e=o5dvms)

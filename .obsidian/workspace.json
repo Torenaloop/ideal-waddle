@@ -82,6 +82,19 @@
             }
           },
           {
+            "id": "e0d3ce26cfc5618f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Clippings Base.base",
+                "viewName": "Clippings"
+              },
+              "icon": "lucide-table",
+              "title": "Clippings Base"
+            }
+          },
+          {
             "id": "4018c42fec5b8586",
             "type": "leaf",
             "state": {
@@ -92,6 +105,67 @@
               },
               "icon": "lucide-table",
               "title": "Site Hub"
+            }
+          },
+          {
+            "id": "755c076fb0725b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ATL01A"
+            }
+          },
+          {
+            "id": "ce92569e324d2531",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Person Page.base",
+                "viewName": "Meetings"
+              },
+              "icon": "lucide-table",
+              "title": "Person Page"
+            }
+          },
+          {
+            "id": "45020ce696a030e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Work/06-Work Person/STACK People/Jack Gillian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jack Gillian"
             }
           },
           {
@@ -184,9 +258,126 @@
               "icon": "lucide-table",
               "title": "Work Site Tracker"
             }
+          },
+          {
+            "id": "fa2169425182aa22",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/People Base.base",
+                "viewName": "By Site"
+              },
+              "icon": "lucide-table",
+              "title": "People Base"
+            }
+          },
+          {
+            "id": "312586df35d096d5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Work Recently Modified.base",
+                "viewName": "By Folder"
+              },
+              "icon": "lucide-table",
+              "title": "Work Recently Modified"
+            }
+          },
+          {
+            "id": "1a1fad0d2e20ff1a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Meeting Tracker.base",
+                "viewName": "Timeline"
+              },
+              "icon": "lucide-table",
+              "title": "Meeting Tracker"
+            }
+          },
+          {
+            "id": "11bdd0f31296a69b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Discussion Items.base",
+                "viewName": "Pending"
+              },
+              "icon": "lucide-table",
+              "title": "Discussion Items"
+            }
+          },
+          {
+            "id": "82ecc535ceda2db7",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Attachments Base.base",
+                "viewName": "All images"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Attachments Base"
+            }
+          },
+          {
+            "id": "2215bc669ecfba6a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Daily.base",
+                "viewName": "Daily notes"
+              },
+              "icon": "lucide-table",
+              "title": "Daily"
+            }
+          },
+          {
+            "id": "87032a9a7c4c98a3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Evergreen.base",
+                "viewName": "Evergreen"
+              },
+              "icon": "lucide-table",
+              "title": "Evergreen"
+            }
+          },
+          {
+            "id": "8905504aebb5e70f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/23. Safety_Pre-Migration.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "23. Safety_Pre-Migration"
+            }
+          },
+          {
+            "id": "a28fe2949b376cd4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Rhett Base.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Rhett Base"
+            }
           }
         ],
-        "currentTab": 11,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -249,7 +440,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -443,18 +635,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df90c59c1612ef75",
+  "active": "81f032e17f4a64c7",
   "lastOpenFiles": [
-    "00-Bases/Projects Status Board.base",
-    "00-Bases/Meetings Base.base",
-    "00-Bases/Email Inbox.base",
-    "ATL01A Site Hub.md",
-    "00-Bases/Goals Base.base",
     "00-Bases/CAB Procedure Reviews.base",
-    "00-Bases/Site Hub.base",
+    "00-Bases/Rhett Base.base",
+    "00-Bases/23. Safety_Pre-Migration.base",
+    "00-Bases/Evergreen.base",
+    "00-Bases/Daily.base",
+    "00-Bases/Attachments Base.base",
+    "00-Bases/Discussion Items.base",
+    "00-Bases/Meeting Tracker.base",
+    "00-Bases/Work Recently Modified.base",
+    "00-Bases/People Base.base",
+    "00-Bases/Work Site Tracker.base",
+    "02-Work/02 - Work Areas/NAL01A/NAL01A.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
-    "00-Bases/Person Page.base",
-    "00-Bases/EHS Assessments.base",
+    "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
+    "02-Work/06-Work Person/STACK People/Jack Gillian.md",
+    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
+    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "ATL01A Site Hub.md",
     "Jack Gillian Hub.md",
     "04-Templates/Job Details.md",
     "04-Templates/Folder Data.md",
@@ -471,16 +673,6 @@
     "04-Templates/Person Note.md",
     "04-Templates/Project Note Template.md",
     "04-Templates/Project Note.md",
-    "04-Templates/Work Contact Card.md",
-    "04-Templates/Work Meeting.md",
-    "04-Templates/Work Task.md",
-    "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
-    "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
-    "02-Work/01 - Work Projects/Env. Audit/ENV_AUDIT_Proposed_Dates_ENHANCED.md",
-    "02-Work/01 - Work Projects/AP Updates/Project_Summary.md",
-    "02-Work/01 - Work Projects/⭐EHS Assessments (Asana)",
-    "_harmonization/templates-before",
-    "_harmonization/backup-linkfix.json",
     "Files/Pasted image 20260921145445.png",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",

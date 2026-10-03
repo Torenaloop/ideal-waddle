@@ -33,3 +33,5 @@ views:
       file.name: 409
       note.Author: 232
       note.Source: 265
+  - type: cards
+    name: View

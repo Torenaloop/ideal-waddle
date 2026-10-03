@@ -1,6 +1,7 @@
 ---
 type: meeting
 Date: 2025-10-28
+Meeting Type: CAB
 ---
 ![[Pasted image 20251028075803.png]]
 

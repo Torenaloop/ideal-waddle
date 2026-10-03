@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "177661"
+Procedure Title: "CRAH.E-1217-01 Restoration"
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+Document Category: MOP
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 Feedback
 

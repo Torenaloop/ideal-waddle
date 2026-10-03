@@ -5,6 +5,7 @@ Time: 14:30
 Location:
 People:
 tags:
+Meeting Type: CAB
 ---
 **Meeting Summary**
 

@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "177661"
+Procedure Title: "CRAH.E-1217-01 Restoration"
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+Document Category: MOP + JSA
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 MOP: [NVA06A-MOP-Mechanical-Construction Support-CRAH-1217-01 Isolation and Restoration.docx](https://stackinfrastructure.sharepoint.com/:w:/r/sites/Operations/_layouts/15/Doc.aspx?sourcedoc=%7B91C13D55-606D-41BE-AC1A-3A7E3D0DCFA7%7D&file=NVA06A-MOP-Mechanical-Construction%20Support-CRAH-1217-01%20Isolation%20and%20Restoration.docx&action=default&mobileredirect=true)
 JSA: [JSA - CRAH Isolation and Restoration.docx](https://stackinfrastructure.sharepoint.com/:w:/s/AMER-CriticalOperations/IQAsYFzATSBYSbLrt0GttVDlAbSaKJ-bOo5eMizvddmV6WI)

@@ -10,6 +10,7 @@ description: ChatGPT is your AI chatbot for everyday use. Chat with the most adv
 tags:
   - clippings
   - CAB
+Meeting Type: CAB
 ---
 ✅ **Summary of Evaluation — Electrical Switchgear “Pull the Plug” SOP**
 

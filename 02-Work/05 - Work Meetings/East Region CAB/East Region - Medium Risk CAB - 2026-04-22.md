@@ -1,8 +1,8 @@
 ---
+type: meeting
 PARA: Areas
 Status: In Progress
 Priority: Medium
-type: cab-procedure-review
 created: 2026-03-24T14:30:00
 tags:
   - cab
@@ -25,6 +25,7 @@ CAB Decision:
 Decision Date:
 Next Review Date:
 Date: 2026-04-22
+Meeting Type: CAB
 ---
 
 

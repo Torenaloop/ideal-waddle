@@ -7,6 +7,7 @@ Date: 2026-03-18
 People: []
 Project:
 tags: []
+Meeting Type: CAB
 ---
 
 ![[Pasted image 20260318081046.png]]

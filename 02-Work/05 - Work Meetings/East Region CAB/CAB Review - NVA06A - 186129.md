@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "186129"
+Procedure Title:
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+Document Category: MOP + JSA
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 
 

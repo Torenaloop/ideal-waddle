@@ -1,5 +1,14 @@
 ---
-type: meeting
+type: cab-procedure-review
+PARA: Areas
+Procedure ID: "190664"
+Procedure Title:
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
+Document Category: MOP + JSA
+Review Type:
+CAB Meeting Date:
+CAB Decision:
+Procedure Owner:
 ---
 
 The procedure covers de-energizing PDU-P1-120-02-BSW04, replacing Tap Box DD 311-312(BLUE), and re-energizing the circuit; it also identifies arc flash risk, MEWP fall risk, and 28.3 cal/cm² electrical exposure. The submitted JSA only includes one task, “Opening/Closing Breakers,” with arc flash/electrical shock controls.

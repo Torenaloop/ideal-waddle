@@ -1,6 +1,7 @@
 ---
 type: meeting
 Date: 2026-03-03
+Meeting Type: CAB
 ---
 # Consolidated — Weekly East Region Medium-Risk CAB Meeting Recaps (Paraphrased)
 **Owner:** Tom Harris (recaps sent to David Nuckolls)  

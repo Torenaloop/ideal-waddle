@@ -1,6 +1,7 @@
 ---
 type: meeting
 Date: 2026-02-11
+Meeting Type: CAB
 ---
 
 
