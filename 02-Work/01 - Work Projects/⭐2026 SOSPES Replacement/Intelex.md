@@ -19,7 +19,7 @@ mentions hamza
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [x] 
 
 ## Follow-ups
 
@@ -43,7 +43,7 @@ mentions hamza
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [x] 
 
 ## Follow-ups
 

@@ -24,7 +24,6 @@ views:
   - type: cards
     name: All images
     image: file.file
-    imageFit: ""
   - type: list
     name: Unused attachments
     filters:

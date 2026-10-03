@@ -166,9 +166,9 @@
               "type": "bases",
               "state": {
                 "file": "00-Bases/Email Inbox.base",
-                "viewName": "Inbox Board"
+                "viewName": "All Emails"
               },
-              "icon": "lucide-layout-grid",
+              "icon": "lucide-table",
               "title": "Email Inbox"
             }
           },
@@ -192,9 +192,9 @@
               "type": "bases",
               "state": {
                 "file": "00-Bases/Projects Status Board.base",
-                "viewName": "Work Projects"
+                "viewName": "Needs Triage"
               },
-              "icon": "lucide-layout-grid",
+              "icon": "lucide-table",
               "title": "Projects Status Board"
             }
           },
@@ -249,87 +249,9 @@
               "icon": "lucide-table",
               "title": "Meeting Tracker"
             }
-          },
-          {
-            "id": "11bdd0f31296a69b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Discussion Items.base",
-                "viewName": "Pending"
-              },
-              "icon": "lucide-table",
-              "title": "Discussion Items"
-            }
-          },
-          {
-            "id": "82ecc535ceda2db7",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Attachments Base.base",
-                "viewName": "All images"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Attachments Base"
-            }
-          },
-          {
-            "id": "2215bc669ecfba6a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Daily.base",
-                "viewName": "Daily notes"
-              },
-              "icon": "lucide-table",
-              "title": "Daily"
-            }
-          },
-          {
-            "id": "87032a9a7c4c98a3",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Evergreen.base",
-                "viewName": "Evergreen"
-              },
-              "icon": "lucide-table",
-              "title": "Evergreen"
-            }
-          },
-          {
-            "id": "8905504aebb5e70f",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/23. Safety_Pre-Migration.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "23. Safety_Pre-Migration"
-            }
-          },
-          {
-            "id": "a28fe2949b376cd4",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "00-Bases/Rhett Base.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Rhett Base"
-            }
           }
         ],
-        "currentTab": 22
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -391,7 +313,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -567,8 +490,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -585,20 +507,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28fe2949b376cd4",
+  "active": "cf122c3b505e3468",
   "lastOpenFiles": [
-    "00-Bases/Site Hub.base",
-    "00-Bases/Clippings Base.base",
-    "00-Bases/CAB Procedure Reviews.base",
+    "00-Bases/Work Site Tracker.base",
+    "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
     "00-Bases/Rhett Base.base",
     "00-Bases/23. Safety_Pre-Migration.base",
     "00-Bases/Evergreen.base",
     "00-Bases/Daily.base",
-    "00-Bases/Attachments Base.base",
     "00-Bases/Discussion Items.base",
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Work Recently Modified.base",
-    "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
+    "00-Bases/People Base.base",
+    "00-Bases/Projects Status Board.base",
     "02-Work/06-Work Person/STACK People/Jack Gillian.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
     "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",

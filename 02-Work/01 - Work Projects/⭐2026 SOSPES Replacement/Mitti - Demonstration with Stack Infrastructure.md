@@ -22,7 +22,7 @@ tags:
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [x] 
 
 ## Follow-ups
 

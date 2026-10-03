@@ -18,3 +18,15 @@ views:
       - Item Child Count
     columnSize:
       file.tags: 300
+  - type: cards
+    name: Card
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.folder
+      - file.links
+      - file.tags
+    imageFit: contain
+  - type: list
+    name: List

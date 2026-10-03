@@ -28,10 +28,10 @@ tags: []
 ## Decisions
 
 ## Action Items
-- [ ] 
+- [x] 
 
 ## Follow-ups
-- [ ]  Any connectors to 
-	- [ ] Asana
-	- [ ] ChatGPT
-	- [ ] Claude
+- [x] Any connectors to
+	- [x] Asana
+	- [x] ChatGPT
+	- [x] Claude
