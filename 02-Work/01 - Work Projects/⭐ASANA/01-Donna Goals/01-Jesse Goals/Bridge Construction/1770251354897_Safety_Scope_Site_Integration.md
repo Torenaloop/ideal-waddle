@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: project
+PARA: Projects
 Status: Not Started
 Priority: Low
 tags:

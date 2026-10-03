@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Manassas, VA
@@ -467,3 +468,6 @@ I struggle with this because "I" have historically not been able to complete del
 
 
  
+
+## Activity
+![[Person Page.base]]

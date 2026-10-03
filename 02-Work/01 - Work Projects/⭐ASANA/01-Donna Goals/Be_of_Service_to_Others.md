@@ -3,7 +3,7 @@ PARA: Areas
 Status: Active
 Priority: High
 Owner: EHS Organization
-Related-To: "[[2025_EHS_Org_Goal_3]], [[Leveraging_Tech_for_Continuous_Improvement]], Organizational Values"
+Related: "[[2025_EHS_Org_Goal_3]], [[Leveraging_Tech_for_Continuous_Improvement]], Organizational Values"
 tags:
   - Areas/Values
   - OpsEHS

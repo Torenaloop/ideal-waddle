@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, Work/Goal/2025, training, safety]
-Type: Training Program
+Category: Training Program
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # Fall Protection Training

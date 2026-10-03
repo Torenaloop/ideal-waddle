@@ -2,9 +2,9 @@
 PARA: Areas
 Status: Active
 Priority: Critical
-Type: Mission Statement
+Category: Mission Statement
 Owner: EHS Organization
-Related-To: "[[01-Donna_Goals]], [[2025_EHS_Organization_Goals]], Core Values"
+Related: "[[01-Donna_Goals]], [[2025_EHS_Organization_Goals]], Core Values"
 tags:
   - Areas/Mission
   - Culture/Core

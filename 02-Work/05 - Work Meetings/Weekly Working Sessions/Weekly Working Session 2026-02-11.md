@@ -1,10 +1,10 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-02-11
 updated: 2026-02-11
-meeting_date: 2026-02-11
-participants:
+Date: 2026-02-11
+People:
   - Jesse Kenser
   - David Nuckolls (EHS Manager)
   - Matt Goetz 
@@ -12,7 +12,7 @@ participants:
   - Gloria Gonzalez
   - Gerald AldaJuste
   - Shaniya Cobb
-project:
+Project:
 tags: []
 ---
 # Weekly Working Session 2026-02-11

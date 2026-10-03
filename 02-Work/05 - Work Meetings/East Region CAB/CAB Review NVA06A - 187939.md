@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 
 I compared the attached **DH110 FCW Internal Fitting Visual Inspection MOP** against the attached **CRAH Isolation and Restoration JSA**. I grouped the repeated FCW inspection sequence into common physical work tasks and excluded administrative steps such as notifications, approvals, BMS checks, CMMS updates, and sign-offs. The MOP is specifically for **internal fitting visual inspection of DH110 FCWs**, requires items including gloves, protective eyewear, protective footwear, fall protection, CRAH/FCW triangle key, and a manlift, and identifies electrical shock risk plus the operational risk of isolating more than one CRAH/FCW at a time. The JSA currently lists broader CRAH isolation/restoration tasks, including breaker opening, CRAH inspection/cleaning, scissor lift use, and glycol transfer.

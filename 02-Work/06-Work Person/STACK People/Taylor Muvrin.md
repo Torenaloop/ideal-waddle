@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Tech Ops
 Location: "[[POR03A]]"
@@ -9,3 +10,6 @@ tags:
   - TechOps
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

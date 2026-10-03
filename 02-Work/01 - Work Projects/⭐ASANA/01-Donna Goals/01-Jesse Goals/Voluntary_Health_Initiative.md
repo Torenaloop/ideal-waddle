@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: Medium
 tags:
@@ -7,7 +8,7 @@ tags:
   - Employee_Engagement
   - Culture_Carrier
   - Work/Goal/2025
-Type: Wellness Program
+Category: Wellness Program
 Goal Number: 5
 Year: 2025
 Manager: Jesse

@@ -1,9 +1,11 @@
 ---
+type: meeting
 Date: 2025-07-28
 Time:
 Location:
-Work Person: "[[Jack Gillian]]"
+People: "[[Jack Gillian]]"
 tags:
+Meeting Type: 1-on-1
 ---
 
 

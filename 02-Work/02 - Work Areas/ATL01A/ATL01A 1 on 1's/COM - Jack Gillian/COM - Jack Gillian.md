@@ -1,3 +1,8 @@
+---
+type: site-note
+Site: "[[ATL01A]]"
+PARA: Areas
+---
 Generator maintenance/runs - when will they take place? (Need to know to coordinate w/Chubb IH)  
 Audit findings action plan  
 SOSPES Items  

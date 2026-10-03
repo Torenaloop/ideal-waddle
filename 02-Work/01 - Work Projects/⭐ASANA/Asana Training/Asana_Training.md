@@ -2,8 +2,8 @@
 PARA: Resources
 Status: Active
 Priority: High
-Type: Training
-Related-To: "[[00_-_ASANA]], [[Asana_Foundations_Skill_Badge]], [[Workflow_Specialist_Certificate]]"
+Category: Training
+Related: "[[00_-_ASANA]], [[Asana_Foundations_Skill_Badge]], [[Workflow_Specialist_Certificate]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Training

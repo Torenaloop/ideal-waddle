@@ -1,12 +1,13 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-document_type: Scheduling Coordination
-status: Active
-priority: High
-date_created: 2025-02-27
-last_updated: 2025-02-27
-related_files:
+type: project
+PARA: Projects
+Project: 2025 Environmental Audit
+Document Type: Scheduling Coordination
+Status: Active
+Priority: High
+Date Created: 2025-02-27
+Last Updated: 2025-02-27
+Related Files:
   - "[[2025 Environmental Audit Project Hub]]"
   - "[[ENV AUDIT - Master Schedule and Contacts]]"
   - "[[Doc Request Questionnaire]]"
@@ -17,12 +18,12 @@ tags:
   - site-coordination
   - confirmed-dates
   - antea-group
-stakeholders:
+Stakeholders:
   - David Nuckolls (Coordinator)
   - Regional COMs (Site contacts)
   - Jesse Kenser (Project Owner)
   - Maya Anichini (Antea - Scheduling)
-regions:
+Regions:
   - West (POR, SVY)
   - Central (DFW, CHI)
   - East (ATL, NAL, NVA)

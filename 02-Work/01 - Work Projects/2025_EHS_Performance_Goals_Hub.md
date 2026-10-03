@@ -1,11 +1,11 @@
 ---
-para: Areas
-area: Operations EHS Management
-document_type: Goal Framework Hub
-annual_cycle: 2025
-status: Active
-priority: Critical
-related_files:
+PARA: Areas
+Area: Operations EHS Management
+Document Type: Goal Framework Hub
+Annual Cycle: 2025
+Status: Active
+Priority: Critical
+Related Files:
   - "[[2025 EHS Goals - Leadership]]"
   - "[[2025 EHS Goals - COMs]]"
   - "[[2025 EHS Goals - ACOM & COT]]"

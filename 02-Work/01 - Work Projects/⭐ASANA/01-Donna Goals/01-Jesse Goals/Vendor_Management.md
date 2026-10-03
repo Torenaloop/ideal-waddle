@@ -1,6 +1,6 @@
 ---
 tags: [Work/Goal/2025, Culture_Carrier]
-Type: Relationship Management
+Category: Relationship Management
 Related:
   - "[[AP Reviews]]"
 ---

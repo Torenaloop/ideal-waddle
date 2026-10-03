@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Hays
-Related-To: "[[01-Sylvester_Goals]], [[Hays_2025_Goals]], Division Management"
+Related: "[[01-Sylvester_Goals]], [[Hays_2025_Goals]], Division Management"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

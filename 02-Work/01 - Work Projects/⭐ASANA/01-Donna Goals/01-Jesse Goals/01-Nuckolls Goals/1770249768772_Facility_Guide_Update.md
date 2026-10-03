@@ -1,5 +1,5 @@
 ---
-PARA: Archive
+PARA: Archives
 Status: Complete
 Priority: High
 tags:
@@ -14,13 +14,13 @@ tags:
   - Work/Goal/2025
 Date: 2025-07-22
 Meeting Type: Teams
-Participants:
+People:
   - Lauren Dalton
   - Terry DeBell
   - Jason Welsh
   - Cullen Stapleton
 Project: NVA06A
-Related to: "[[NVA06A D2D]]"
+Related: "[[NVA06A D2D]]"
 ---
 
 # Facility Guide Update Review - NVA06A

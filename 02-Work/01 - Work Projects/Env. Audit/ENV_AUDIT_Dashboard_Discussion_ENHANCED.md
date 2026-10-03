@@ -1,20 +1,21 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-sub_project: Power BI Dashboard Development
-status: Active
-priority: High
-date: 2025-02-27
-date_range: 2025-02-20 to 2025-02-27
-email_thread: true
-thread_participants:
+type: project
+PARA: Projects
+Project: 2025 Environmental Audit
+Sub Project: Power BI Dashboard Development
+Status: Active
+Priority: High
+Date: 2025-02-27
+Date Range: 2025-02-20 to 2025-02-27
+Email Thread: true
+Thread Participants:
   - David Nuckolls (STACK)
   - Maya Anichini (Antea Group)
   - Clorece Hammitt (Antea Group)
   - Becky Matich (Antea Group)
   - Jesse Kenser (STACK)
   - Donna Lynch (STACK)
-related_files:
+Related Files:
   - "[[2025 Environmental Audit Project Hub]]"
   - "[[ENV AUDIT - Re Dashboard Discussion (Clorece Response)]]"
   - "[[ENV AUDIT - Fw Dashboard Discussion (David Forward)]]"
@@ -27,7 +28,7 @@ tags:
   - spreadsheet-controls
   - technical-coordination
   - antea-group
-stakeholders:
+Stakeholders:
   - Maya Anichini (Antea - Project Manager)
   - Clorece Hammitt (Antea - Business Analytics Lead)
   - David Nuckolls (STACK - Ops EHS Manager)

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA06A]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Jason Welsh]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

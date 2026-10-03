@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, Partnership, Leveraging_Technology_for_Continuous_Improvement, Work/Goal/2025]
-Type: Process Improvement
+Category: Process Improvement
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # Update PPE Ordering

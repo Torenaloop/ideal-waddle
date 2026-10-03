@@ -1,14 +1,15 @@
 ---
-para: Areas
-area: Site Operations Management
-site_code: ATL01A
-site_name: Atlanta Data Center
-facility_type: Data Center
-region: East
-status: Operational
-manager: Jack Gillian
-ehs_support: David Nuckolls
-related_files:
+type: hub
+PARA: Areas
+Area: Site Operations Management
+Site: "[[ATL01A]]"
+Site Name: Atlanta Data Center
+Facility Type: Data Center
+Region: East
+Status: Operational
+Manager: Jack Gillian
+EHS Support: David Nuckolls
+Related Files:
   - "[[Jack Gillian Hub]]"
   - "[[David Nuckolls Hub]]"
   - "[[2025 Environmental Audit Project Hub]]"

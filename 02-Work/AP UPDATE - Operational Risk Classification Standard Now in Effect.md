@@ -1,20 +1,20 @@
 ---
 type: email
-sender: Reid Thomas
-sender_email:
-recipient:
-date: 2026-03-25
-subject: AP UPDATE - Operational Risk Classification Standard Now in Effect
-priority:
+Sender: Reid Thomas
+Sender Email:
+Recipient:
+Date: 2026-03-25
+Subject: AP UPDATE - Operational Risk Classification Standard Now in Effect
+Priority:
   - High
-status: published
+Status: Published
 tags:
   - email
   - CAB
   - APUpdates
-projects:
-action_items:
-due_date:
+Project:
+Action Items:
+Due Date:
 ---
 ## Outlook CoPilot Prompt 
 - "Can you turn this into a flow chart that calls out what different roles need to do in chronological order"

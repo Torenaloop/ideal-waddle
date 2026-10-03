@@ -2,8 +2,8 @@
 PARA: Resources
 Status: Active
 Priority: Medium
-Type: Documentation/Reference
-Related-To: "[[00_-_ASANA]], [[Asana_Foundations_Skill_Badge]]"
+Category: Documentation/Reference
+Related: "[[00_-_ASANA]], [[Asana_Foundations_Skill_Badge]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Documentation

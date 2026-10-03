@@ -1,3 +1,6 @@
+---
+
+---
 # 2025 Work Goals Enhancement Guide
 
 > **Navigation Tip:** All file names below are clickable wiki links!
@@ -277,7 +280,7 @@ SORT "Goal Number" ASC
 ```dataview
 TABLE Status, "Due Date" as Due
 FROM #NVA06A
-WHERE Type = "Deliverable"
+WHERE Category = "Deliverable"
 SORT Status, Due
 ```
 
@@ -291,7 +294,7 @@ GROUP BY file.link
 
 ### All Work Meetings (2025)
 ```dataview
-TABLE Date, Project, Participants
+TABLE Date, Project, People
 FROM #meeting AND #Work
 WHERE Date >= date(2025-01-01)
 SORT Date DESC

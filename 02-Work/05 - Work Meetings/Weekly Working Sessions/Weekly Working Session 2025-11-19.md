@@ -1,8 +1,9 @@
 ---
-Date: ""
+type: meeting
+Date: 2025-11-19
 Time:
 Location:
-Work Person:
+People:
 tags:
 ---
 - In-person T-T-T Fall Protection

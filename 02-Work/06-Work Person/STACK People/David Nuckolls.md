@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Northern Virginia
@@ -11,3 +12,6 @@ Reports to:
   - "[[Jesse Kenser]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

@@ -1,5 +1,6 @@
 ---
-PARA: Resource
+type: hub
+PARA: Resources
 Status: Active
 Priority: High
 tags:
@@ -9,7 +10,7 @@ tags:
   - strategic
   - construction-ops-bridge
   - Work/Goal/2025
-Type: Strategic Initiative Hub
+Category: Strategic Initiative Hub
 Year: 2025
 Related:
   - "[[Bridge Construction-Ops EHS Gap]]"

@@ -1,14 +1,15 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-document_type: Master Coordination Email
-status: Active
-priority: High
-date: 2025-02-20
-email_thread: true
-from: Maya Anichini (Antea Group)
-to: STACK Leadership and Regional Managers
-related_files:
+type: email
+PARA: Projects
+Project: 2025 Environmental Audit
+Document Type: Master Coordination Email
+Status: Active
+Priority: High
+Date: 2025-02-20
+Email Thread: true
+Sender: Maya Anichini (Antea Group)
+Recipient: STACK Leadership and Regional Managers
+Related Files:
   - "[[2025 Environmental Audit Project Hub]]"
   - "[[02-Work/01 - Work Projects/Env. Audit/ENV AUDIT - Proposed Dates]]"
   - "[[Doc Request Questionnaire]]"
@@ -22,7 +23,7 @@ tags:
   - auditor-assignments
   - action-items
   - project-kickoff
-stakeholders:
+Stakeholders:
   - Jesse Kenser (STACK - Project Owner)
   - David Nuckolls (STACK - EHS Lead)
   - Matt Goetz (STACK - West Region)

@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: Critical
 Quarter: All 2025
 Owner: EHS Organization
 Scope: Organization-Wide
-Related-To: "[[2025_EHS_Organization_Goals]], [[Improve_Internal_Communications]], [[Partnership]], [[Bridge_Construction-Ops_EHS_Gap]]"
+Related: "[[2025_EHS_Organization_Goals]], [[Improve_Internal_Communications]], [[Partnership]], [[Bridge_Construction-Ops_EHS_Gap]]"
 tags:
   - Projects/Goals/2025/Organizational
   - OpsEHS

@@ -1,18 +1,19 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-status: Active - In Scheduling Phase
-priority: Critical
-project_owner: Jesse Kenser
-project_lead: David Nuckolls
-start_date: 2025-02-17
-target_completion: 2025-06-30
-vendor: Antea Group
-related_areas:
+type: project
+PARA: Projects
+Project: 2025 Environmental Audit
+Status: Active - In Scheduling Phase
+Priority: Critical
+Project Owner: Jesse Kenser
+Project Lead: David Nuckolls
+Start Date: 2025-02-17
+Target Completion: 2025-06-30
+Vendor: Antea Group
+Related Areas:
   - Operations EHS
   - Compliance
   - Data Center Operations
-related_files:
+Related Files:
   - "[[ENV AUDIT - Master Schedule and Contacts]]"
   - "[[02-Work/01 - Work Projects/Env. Audit/ENV AUDIT - Proposed Dates]]"
   - "[[Doc Request Questionnaire]]"
@@ -28,9 +29,9 @@ tags:
   - power-bi
   - multi-site-coordination
   - project-hub
-strategic_context:
+Strategic Context:
   - "[[Bridge Construction-Ops EHS Gap]]"
-stakeholder_hubs:
+Stakeholder Hubs:
   - "[[Jesse Kenser Hub]]"
   - "[[David Nuckolls Hub]]"
   - "[[Matt Goetz Hub]]"

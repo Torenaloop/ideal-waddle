@@ -1,3 +1,6 @@
+---
+type: moc
+---
 # Weekly Study Session 2025-08-07
 - x
 - x

@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 I compared the MOP for **P5-240 TFO Energization** against the existing **JSA - PDU Energization**. The MOP includes removal of long-term LOTO, UPS bypass transfers, STS breaker energization, STS bypass/normal operations, PDU main breaker energization, and return of UPS to inverter; the JSA currently contains only one task row for “Energize UODP/STSDP Breakers” with limited controls and no clearly listed hazards.
 

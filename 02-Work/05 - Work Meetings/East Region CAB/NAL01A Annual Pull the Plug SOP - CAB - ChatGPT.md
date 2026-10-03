@@ -1,4 +1,5 @@
 ---
+type: meeting
 title: ChatGPT
 source: https://chatgpt.com/g/g-68f9183440ec819182711ecac0c4719d-ehs-regulations-gpt/c/691215b2-58c8-832b-b442-4cff4ebf65b1
 author:

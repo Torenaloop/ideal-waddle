@@ -1,5 +1,5 @@
 ---
-PARA: Archive
+PARA: Archives
 Status: Complete
 Priority: Medium
 tags:
@@ -16,8 +16,8 @@ Time:
 Location: Teams/Chat
 Meeting Type: Discussion
 Project: NVA06A
-Work Person: "[[Janine Womac]]"
-Related to: "[[NVA06A D2D]]"
+People: "[[Janine Womac]]"
+Related: "[[NVA06A D2D]]"
 Parent Goal: "[[Nuckolls 2025 Goal 5]]"
 ---
 

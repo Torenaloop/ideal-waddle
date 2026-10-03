@@ -1,14 +1,16 @@
 ---
-para: Areas
-area: Site Operations Management
-document_type: COM Contact Note
-person: Jack Gillian
-role: Critical Operations Manager (COM)
-site: ATL01A
-email: jgillian@stackinfra.com
-region: East
-manager: Nicholas Mansberger
-related_files:
+type: site-note
+PARA: Areas
+Area: Site Operations Management
+Document Type: COM Contact Note
+People:
+  - "[[Jack Gillian]]"
+Role: Critical Operations Manager (COM)
+Site: "[[ATL01A]]"
+Email: jgillian@stackinfra.com
+Region: East
+Manager: Nicholas Mansberger
+Related Files:
   - "[[ATL01A Site Hub]]"
   - "[[Jack Gillian Hub]]"
   - "[[David Nuckolls Hub]]"

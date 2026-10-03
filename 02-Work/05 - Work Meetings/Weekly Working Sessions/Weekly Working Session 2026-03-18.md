@@ -1,17 +1,17 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-03-18
 updated: 2026-03-18
-meeting_date: 2026-03-18
-participants:
+Date: 2026-03-18
+People:
   - Jesse Kenser
   - Gerald AldaJuste
   - Gloria Gonzalez
   - Matt Goetz 
   - Matt Saucedo
   - Shaniya Cobb
-project:
+Project:
 tags: []
 ---
 [[TRANSCRIPT Workin' Sesh 2026-03-18.pdf]] 

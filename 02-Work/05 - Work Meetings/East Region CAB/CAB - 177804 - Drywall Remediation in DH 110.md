@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 MOP: [NVA06A-MOP-Electrical-Construction Support-Glycol Leak Drywall Remediation.docx](https://stackinfrastructure.sharepoint.com/:w:/r/sites/Operations/_layouts/15/Doc.aspx?sourcedoc=%7BE507D8E3-2A68-4FAE-8878-36A24615F416%7D&file=NVA06A-MOP-Electrical-Construction%20Support-Glycol%20Leak%20Drywall%20Remediation.docx&action=default&mobileredirect=true)
 JSA: [JSA - Drywall Remediation.docx](https://stackinfrastructure.sharepoint.com/:w:/s/AMER-CriticalOperations/IQCNJjBD7ORAQ6P4VxeZ7SojAVF1cJqnrnEp8sd2htdvdBo?e=o5dvms)
 

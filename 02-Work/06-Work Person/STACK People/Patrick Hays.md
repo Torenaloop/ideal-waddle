@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: "[[SVY01B]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Boyd Sylvester]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-02-05
 updated: 2026-02-05
-meeting_date: 2026-02-05
-participants: []
-project:
+Date: 2026-02-05
+People: []
+Project:
 tags:
 ---
 # Asana Implementation 2026-02-04

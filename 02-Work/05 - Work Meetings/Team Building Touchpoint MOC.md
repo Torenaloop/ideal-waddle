@@ -1,3 +1,6 @@
+---
+type: moc
+---
 ## 2025-09-25
 - 
 # [[2025-09-11 Team Building Touchpoint]] 

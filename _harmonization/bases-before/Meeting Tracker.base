@@ -1,0 +1,61 @@
+views:
+  - type: table
+    name: Timeline
+    filters:
+      and:
+        - file.folder.contains("Notion/Meetings")
+    order:
+      - file.name
+      - Type
+      - Event time
+      - Attendees
+      - Created by
+    sort:
+      - property: Event time
+        direction: DESC
+    columnSize:
+      file.name: 280
+      note.Type: 160
+      note.Event time: 140
+      note.Attendees: 220
+      note.Created by: 140
+  - type: table
+    name: All Meetings
+    filters:
+      and:
+        - file.folder.contains("Notion/Meetings")
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+      - Type
+      - Event time
+      - Attendees
+      - Created by
+    sort:
+      - property: Event time
+        direction: DESC
+    columnSize:
+      file.name: 280
+      note.Type: 160
+      note.Event time: 140
+      note.Attendees: 220
+      note.Created by: 140
+  - type: cards
+    name: By Type
+    filters:
+      and:
+        - file.folder.contains("Notion/Meetings")
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+      - Event time
+      - Attendees
+    sort:
+      - property: Event time
+        direction: DESC
+    cardSize: 160
+    imageFit: ""

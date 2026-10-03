@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, Partnership, Employee_Engagement, Work/Goal/2025]
-Type: Program
+Category: Program
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # In-House Audits

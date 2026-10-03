@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2026-01-13
 Time:
 Location:
-Work Person:
+People:
 tags:
 ---
 

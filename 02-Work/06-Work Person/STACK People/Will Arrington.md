@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA01A]]"
@@ -10,3 +11,6 @@ Reports to:
   - "[[Todd Lipcsey]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

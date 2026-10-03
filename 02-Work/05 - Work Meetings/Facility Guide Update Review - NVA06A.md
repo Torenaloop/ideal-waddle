@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: ""
 Time:
 Location:
-Work Person: Lauren Dalton
+People: Lauren Dalton
 tags:
 Links: "[[NVA06A D2D]]"
 ---

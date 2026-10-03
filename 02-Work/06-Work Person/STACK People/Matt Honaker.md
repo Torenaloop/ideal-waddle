@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NAL01A]]"
@@ -14,3 +15,6 @@ Reports to:
 [[NAL01A]]
 
 *NAME*
+
+## Activity
+![[Person Page.base]]

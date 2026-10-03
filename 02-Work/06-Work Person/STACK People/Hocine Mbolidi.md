@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Security
 Location: "[[Notion/NVA05A]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Bo Kamaunu]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

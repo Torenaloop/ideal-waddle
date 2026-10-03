@@ -1,16 +1,17 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-sub_project: Power BI Dashboard Development
-status: Active
-priority: High
-date: 2025-02-27
-email_thread: true
-thread_position: David's forward to Clorece
-from: David Nuckolls (STACK)
-to: Clorece Hammitt (Antea Group)
-action_type: Follow-up request
-related_files:
+type: email
+PARA: Projects
+Project: 2025 Environmental Audit
+Sub Project: Power BI Dashboard Development
+Status: Active
+Priority: High
+Date: 2025-02-27
+Email Thread: true
+Thread Position: David's forward to Clorece
+Sender: David Nuckolls (STACK)
+Recipient: Clorece Hammitt (Antea Group)
+Action Type: Follow-up request
+Related Files:
   - "[[2025 Environmental Audit Project Hub]]"
   - "[[ENV AUDIT - Dashboard Discussion]]"
   - "[[ENV AUDIT - Re Dashboard Discussion (Clorece Response)]]"
@@ -21,7 +22,7 @@ tags:
   - dashboard-dev
   - follow-up
   - technical-coordination
-stakeholders:
+Stakeholders:
   - David Nuckolls (STACK)
   - Clorece Hammitt (Antea)
   - Maya Anichini (Antea)

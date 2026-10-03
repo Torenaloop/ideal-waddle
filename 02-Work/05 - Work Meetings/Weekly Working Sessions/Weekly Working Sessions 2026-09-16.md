@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-09-16
 updated: 2026-09-16
-meeting_date: 2026-09-16
-participants: []
-project:
+Date: 2026-09-16
+People: []
+Project:
 tags: []
 ---
 # Weekly Working Sessions 2026-09-16

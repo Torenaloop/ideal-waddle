@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Project-Phase: Planning
 Owner: Jesse
 Sponsor: Donna
-Related-To: "[[Charter]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]], [[Jesse]], [[Donna]]"
+Related: "[[Charter]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]], [[Jesse]], [[Donna]]"
 tags:
   - Projects/AP-Updates
   - Projects/Compliance

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location:
@@ -19,3 +20,6 @@ tags:
 	- Under the previous person in your role, the expectation for EHS review for procedures going through CAB is that EHS puts in notes confirmation review in the "Notes" section of NetSuite.
 - Take away: 
 	- Consider what "receipts" of review/approval you want to see from key stakeholders.
+
+## Activity
+![[Person Page.base]]

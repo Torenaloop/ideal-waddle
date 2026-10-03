@@ -1,14 +1,15 @@
 ---
-para: Areas
-area: Site Operations Management
-site: ATL01A
-meeting_type: 1-on-1
-participants:
+type: meeting
+PARA: Areas
+Area: Site Operations Management
+Site: "[[ATL01A]]"
+Meeting Type: 1-on-1
+People:
   - David Nuckolls (EHS Manager)
   - Jack Gillian (COM)
-date: 2024-10-28
-status: Completed - No notes captured
-related_files:
+Date: 2024-10-28
+Status: Completed - No notes captured
+Related Files:
   - "[[ATL01A Site Hub]]"
   - "[[Jack Gillian Hub]]"
   - "[[David Nuckolls Hub]]"

@@ -1,3 +1,6 @@
+---
+type: moc
+---
 - [[2026-01-13 Weekly EHS AI Collab]]
 - [[2025-10-28 Weekly EHS AI Collab]] 
 

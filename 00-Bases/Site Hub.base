@@ -1,0 +1,68 @@
+filters:
+  and:
+    - file.inFolder("02-Work")
+    - or:
+        - Site == this
+        - Location == this
+formulas:
+  Last Modified: file.mtime.relative()
+views:
+  - type: table
+    name: People
+    filters:
+      and:
+        - type == "person"
+    groupBy:
+      property: Org
+      direction: ASC
+    order:
+      - file.name
+      - Job Title
+      - Reports to
+      - Email
+      - Phone
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - type == "meeting"
+    order:
+      - file.name
+      - Date
+      - Meeting Type
+      - People
+    sort:
+      - property: Date
+        direction: DESC
+  - type: table
+    name: CAB Reviews
+    filters:
+      and:
+        - type == "cab-procedure-review"
+    order:
+      - file.name
+      - Procedure ID
+      - Review Type
+      - CAB Meeting Date
+      - CAB Decision
+    sort:
+      - property: CAB Meeting Date
+        direction: DESC
+  - type: table
+    name: Site Notes
+    filters:
+      and:
+        - type != "person"
+        - type != "meeting"
+        - type != "cab-procedure-review"
+    order:
+      - file.name
+      - type
+      - Status
+      - formula.Last Modified
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-03-17
 updated: 2026-03-17
-meeting_date: 2026-03-17
-participants: []
-project:
+Date: 2026-03-17
+People: []
+Project:
 tags: []
 ---
 # 2026-03-17 SOSPES Lessons Learned

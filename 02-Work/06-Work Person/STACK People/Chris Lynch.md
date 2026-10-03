@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA05D]]"
@@ -15,3 +16,6 @@ Direct Reports:
   - "[[Victor Ibanez]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

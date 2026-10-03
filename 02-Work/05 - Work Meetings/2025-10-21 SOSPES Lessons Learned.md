@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-10-21
 Time: 12:00
 Location:
-Work Person:
+People:
 tags:
 ---
 [[Gerald Aldajuste]]

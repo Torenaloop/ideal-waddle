@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-09-11
 Time: 12:00
 Location:
-Work Person: Ops EHS Team
+People: Ops EHS Team
 tags:
 ---
 

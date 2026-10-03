@@ -1,3 +1,6 @@
+---
+type: moc
+---
 **East Region – Medium Risk CAB**
 
 **Meeting Minutes**

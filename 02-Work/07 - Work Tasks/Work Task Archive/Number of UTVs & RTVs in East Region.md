@@ -1,5 +1,6 @@
 ---
-Work Person: "[[Matt Saucedo]]"
+type: task
+People: "[[Matt Saucedo]]"
 Start Date: 2025-07-23
 Due Date: 2025-07-24
 Priority:

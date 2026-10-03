@@ -1,8 +1,9 @@
 ---
+type: moc
 Date: 2025-09-16
 Time: 10:30
 Location:
-Work Person: "[[Nicholas Mansberger]]"
+People: "[[Nicholas Mansberger]]"
 tags:
   - Director
 ---

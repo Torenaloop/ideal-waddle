@@ -1,9 +1,11 @@
 ---
+type: meeting
 Date: 2026-01-27
 Time:
 Location:
-Work Person: "[[James Sedoruk]]"
+People: "[[James Sedoruk]]"
 tags:
+Meeting Type: 1-on-1
 ---
 
 

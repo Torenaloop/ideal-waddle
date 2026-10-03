@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, ConstructionEHS, Work/Goal/2025, Of_Service_To_Others]
-Type: Service Program
+Category: Service Program
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # AP Reviews

@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: Critical
 Quarter: All 2025
 Owner: EHS Organization
 Scope: Organization-Wide
-Related-To: "[[01-Donna_Goals]], Core Values, Mission"
+Related: "[[01-Donna_Goals]], Core Values, Mission"
 tags:
   - Projects/Goals/2025/Organizational
   - OpsEHS

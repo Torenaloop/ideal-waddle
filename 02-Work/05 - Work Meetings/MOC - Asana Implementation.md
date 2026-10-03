@@ -1,3 +1,6 @@
+---
+type: moc
+---
 # Meetings - normally on Wednesday
 
 # March

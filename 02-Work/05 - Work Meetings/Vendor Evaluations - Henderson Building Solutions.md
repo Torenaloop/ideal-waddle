@@ -1,4 +1,5 @@
 ---
+type: meeting
 Progress:
 Priority:
 Start Date: 2025-08-26

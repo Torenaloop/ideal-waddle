@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: EHS Organization
 Scope: Organization-Wide
-Related-To: "[[2025_EHS_Organization_Goals]], [[Vendor_Management]], [[Culture_Carrier]]"
+Related: "[[2025_EHS_Organization_Goals]], [[Vendor_Management]], [[Culture_Carrier]]"
 tags:
   - Projects/Goals/2025/Organizational
   - OpsEHS

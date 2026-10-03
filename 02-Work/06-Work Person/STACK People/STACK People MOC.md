@@ -1,3 +1,6 @@
+---
+type: moc
+---
 # INDEX  
 
 ## EHS

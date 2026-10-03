@@ -1,3 +1,7 @@
+---
+type: meeting
+Date: 2026-02-11
+---
 
 
 NetSuite case 174452 now in CAB Pending.

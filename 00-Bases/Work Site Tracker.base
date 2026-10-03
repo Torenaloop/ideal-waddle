@@ -1,68 +1,59 @@
+filters:
+  and:
+    - file.inFolder("02-Work/02 - Work Areas")
 formulas:
-  Days Since Modified: date(now()) - file.mtime
+  Last Modified: file.mtime.relative()
 views:
   - type: table
     name: Site Hubs
     filters:
       and:
-        - file.folder.contains("02-Work/02 - Work Areas")
         - type == "hub"
-    groupBy:
-      property: file.folder
-      direction: ASC
     order:
       - file.name
-      - type
+      - Site
       - Status
       - tags
-      - file.mtime
-      - formula.Days Since Modified
+      - formula.Last Modified
     sort:
-      - property: file.folder
-        direction: ASC
       - property: file.name
         direction: ASC
-    columnSize:
-      file.name: 220
-      note.type: 100
-      note.Status: 110
-      note.tags: 220
-      file.mtime: 140
-      formula.Days Since Modified: 130
   - type: table
     name: All Site Content
-    filters:
-      and:
-        - file.folder.contains("02-Work/02 - Work Areas")
     groupBy:
-      property: file.folder
+      property: Site
       direction: ASC
     order:
       - file.name
       - type
       - Status
-      - tags
-      - file.mtime
-      - formula.Days Since Modified
+      - Date
+      - formula.Last Modified
     sort:
-      - property: file.folder
-        direction: ASC
       - property: file.name
         direction: ASC
-    columnSize:
-      file.name: 220
-      note.type: 100
-      note.Status: 110
-      note.tags: 220
-      file.mtime: 140
-      formula.Days Since Modified: 130
-  - type: cards
-    name: Cards
+  - type: table
+    name: Site 1-on-1s
     filters:
       and:
-        - file.folder.contains("02-Work/02 - Work Areas")
+        - type == "meeting"
     groupBy:
-      property: file.folder
+      property: Site
       direction: ASC
+    order:
+      - file.name
+      - Date
+      - People
+      - Status
+    sort:
+      - property: Date
+        direction: DESC
+  - type: cards
+    name: Cards
+    groupBy:
+      property: Site
+      direction: ASC
+    order:
+      - file.name
+      - type
     cardSize: 160
-    imageFit: ""

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA05D]]"
@@ -17,3 +18,6 @@ Reports to:
   - "[[Joe Kendra]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

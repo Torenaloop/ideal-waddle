@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 Based on review of **TX-P2-160 Oil Gauge Replacement – MOP** , the procedure **partially aligns** with a typical Control of Hazardous Energy (Lockout/Tagout) Administrative Procedure (AP), but it contains several compliance gaps and clarity issues that would likely prevent full compliance with a formal LOTO AP and OSHA 29 CFR 1910.147 / NFPA 70E requirements.
 
 Below are audit-style findings.

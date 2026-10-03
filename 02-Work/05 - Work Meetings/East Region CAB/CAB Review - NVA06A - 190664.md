@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 The procedure covers de-energizing PDU-P1-120-02-BSW04, replacing Tap Box DD 311-312(BLUE), and re-energizing the circuit; it also identifies arc flash risk, MEWP fall risk, and 28.3 cal/cm² electrical exposure. The submitted JSA only includes one task, “Opening/Closing Breakers,” with arc flash/electrical shock controls.
 

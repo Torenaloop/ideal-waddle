@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 
 ### Clarification Required Before Final Approval

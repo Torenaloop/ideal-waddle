@@ -1,14 +1,14 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-03-06
 updated: 2026-03-06
-meeting_date: 2026-03-06
-participants:
+Date: 2026-03-06
+People:
   - Brett Liddell 
   - Rachel Eddinger
   - James Hubert
-project:
+Project:
   - NVA05A
   - NVA05D
 tags:

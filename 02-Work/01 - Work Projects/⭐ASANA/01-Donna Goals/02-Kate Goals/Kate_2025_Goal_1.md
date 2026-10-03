@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -12,7 +13,7 @@ Goal Number: 1
 Year: 2025
 Manager: Kate
 Department: Construction EHS
-Type: Communication Goal
+Category: Communication Goal
 Parent Goal: "[[Kate 2025 Goals]]"
 Parent Company Goal: "[[Improve Internal Communications]]"
 Related:

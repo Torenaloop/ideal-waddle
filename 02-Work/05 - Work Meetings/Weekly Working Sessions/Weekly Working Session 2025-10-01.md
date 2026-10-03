@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-10-01
 Time: 11:00
 Location:
-Work Person:
+People:
 tags:
   - OpsEHS
 ---

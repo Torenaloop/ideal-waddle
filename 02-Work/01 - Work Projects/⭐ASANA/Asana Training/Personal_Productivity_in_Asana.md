@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
-Status: In-Progress
+Status: In Progress
 Priority: High
-Type: Training/Webinar
-Start-Date: 2025-09-05
-Due-Date: 2025-09-05
-Related-To: "[[00_-_ASANA]], [[Asana_Training]], [[2025-08-13_Asana_Implementation_MOC]]"
+Category: Training/Webinar
+Start Date: 2025-09-05
+Due Date: 2025-09-05
+Related: "[[00_-_ASANA]], [[Asana_Training]], [[2025-08-13_Asana_Implementation_MOC]]"
 tags:
   - Projects
   - Resources/Tools/Asana

@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, Visible, Improve_Internal_Communication, Work/Goal/2025]
-Type: Communication Program
+Category: Communication Program
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # Training Updates

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: "[[SVY01A]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Matt Goetz]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

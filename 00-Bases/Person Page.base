@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.inFolder("02-Work")
+formulas:
+  Last Modified: file.mtime.relative()
+views:
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - type == "meeting"
+        - list(People).contains(this)
+    order:
+      - file.name
+      - Date
+      - Meeting Type
+      - Site
+    sort:
+      - property: Date
+        direction: DESC
+  - type: table
+    name: Direct Reports
+    filters:
+      and:
+        - type == "person"
+        - list(note["Reports to"]).contains(this)
+    order:
+      - file.name
+      - Job Title
+      - Location
+      - Email
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Mentions
+    filters:
+      and:
+        - type != "person"
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - type
+      - Date
+      - formula.Last Modified
+    sort:
+      - property: file.mtime
+        direction: DESC

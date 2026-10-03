@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA01A]]"
@@ -34,7 +35,5 @@ Reports to:
 - [x] Reschedule 1 on 1 w/[[Nicholas Mansberger]]
 - [x] EQW Online Assessments - was taking, had to stop, then it timed out - does he have to take again or does it pick up where he left off?
 
-
-
-
-
+## Activity
+![[Person Page.base]]

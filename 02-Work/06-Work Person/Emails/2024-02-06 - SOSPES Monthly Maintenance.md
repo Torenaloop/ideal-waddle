@@ -1,23 +1,23 @@
 ---
 type: email
-sender: Tyler Morrow
-sender_email: tmorrow@stackinfra.com
-recipient: David Nuckolls
-date: 2024-02-06
-subject: SOSPES/Monthly Maintenance
-priority: medium
-status: unprocessed
+Sender: Tyler Morrow
+Sender Email: tmorrow@stackinfra.com
+Recipient: David Nuckolls
+Date: 2024-02-06
+Subject: SOSPES/Monthly Maintenance
+Priority: Medium
+Status: Unprocessed
 tags:
   - email
   - maintenance
   - sospes
   - equipment
-projects: 
-action_items:
+Project: 
+Action Items:
   - "Schedule Monthly LOTO audit"
   - "Schedule John Deere Gator MPM"
   - "Schedule Genie Lift MPM"
-due_date: 
+Due Date: 
 ---
 
 ## Email Details

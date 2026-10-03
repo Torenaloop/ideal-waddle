@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: "[[POR01A]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Kate Crawford]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

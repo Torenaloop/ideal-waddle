@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("01-Personal/00-Daily Notes")
+properties:
+  file.name:
+    displayName: Entry
+  note.created:
+    displayName: Created
+  note.categories:
+    displayName: Categories
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Daily notes
+    order:
+      - file.name
+      - created
+      - categories
+      - tags
+    sort:
+      - property: file.name
+        direction: DESC

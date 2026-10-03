@@ -1,3 +1,6 @@
+---
+type: moc
+---
 - [[Jack Gillian 1 on 1]]
 - [[2025-08-25 Gillian 1 on 1]]
 - 

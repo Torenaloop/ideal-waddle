@@ -1,5 +1,5 @@
 ---
-PARA: Archive
+PARA: Archives
 Status: Cancelled
 Priority: Medium
 tags:
@@ -15,7 +15,7 @@ Meeting Time: 09:00-09:30
 Meeting Type: Teams Meeting
 Project: NVA05A
 Topic: Safety/Operations Sync
-Attendees:
+People:
   - Anthony Antonellis
   - David Nuckolls
   - Andrew Van Kleeck

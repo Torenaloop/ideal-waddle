@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-09-18
 updated: 2026-09-18
-meeting_date: 2026-09-18
-participants: []
-project:
+Date: 2026-09-18
+People: []
+Project:
 tags: []
 ---
 # 2026 Safe-Secure Task Force Kick-Off Meeting

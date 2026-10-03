@@ -1,13 +1,13 @@
 ---
-para: Resources
-area: Personal Knowledge Management
-document_type: System Planning & Migration
-status: In Progress
-priority: Medium
-due_date: 
-parent_goal: PKM (Personal Knowledge Management)
-child_goal: 
-dependencies:
+PARA: Resources
+Area: Personal Knowledge Management
+Document Type: System Planning & Migration
+Status: In Progress
+Priority: Medium
+Due Date: 
+Parent Goal: PKM (Personal Knowledge Management)
+Child Goal: 
+Dependencies:
   - Obsidian setup
   - Template library
   - Plugin configuration
@@ -19,11 +19,11 @@ tags:
   - tool-migration
   - productivity
   - personal-development
-migration_sources:
+Migration Sources:
   - Outlook (meetings)
   - Asana (task management)
   - OneNote (notes)
-completion_status:
+Completion Status:
   outlook: Complete
   asana: Complete  
   onenote: Complete

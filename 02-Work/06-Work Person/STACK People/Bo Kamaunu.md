@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Security
 Location: "[[NVA02D-E]]"
@@ -10,3 +11,6 @@ tags:
 ---
 *NAME*
 #Security
+
+## Activity
+![[Person Page.base]]

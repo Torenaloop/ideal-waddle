@@ -1,14 +1,14 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-02-09
 updated: 2026-02-09
-meeting_date: 2026-02-09
-participants:
+Date: 2026-02-09
+People:
   - Donna Lynch 
   - Gloria Gonzalez
   - Patrick Hays
-project:
+Project:
   - Asana Implementation
 tags:
   - Resources/Tools/Asana

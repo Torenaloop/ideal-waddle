@@ -1,3 +1,7 @@
+---
+type: meeting
+Date: 2026-03-03
+---
 # Consolidated — Weekly East Region Medium-Risk CAB Meeting Recaps (Paraphrased)
 **Owner:** Tom Harris (recaps sent to David Nuckolls)  
 **Scope:** East Region — Medium Risk CAB weekly reviews (Nov 2025 → Feb 2026)

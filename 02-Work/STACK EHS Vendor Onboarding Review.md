@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-04-27
 updated: 2026-04-27
-meeting_date: 2026-04-27
-participants: []
-project:
+Date: 2026-04-27
+People: []
+Project:
 tags: []
 ---
 # STACK EHS Vendor Onboarding Review

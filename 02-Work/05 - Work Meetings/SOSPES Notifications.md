@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-07-30
 Time:
 Location:
-Work Person: "[[Matt Goetz]]"
+People: "[[Matt Goetz]]"
 tags:
 ---
 

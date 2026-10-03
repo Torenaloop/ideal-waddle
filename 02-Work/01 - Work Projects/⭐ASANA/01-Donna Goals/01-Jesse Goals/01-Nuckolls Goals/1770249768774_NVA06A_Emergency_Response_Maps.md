@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: project
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -11,7 +12,7 @@ tags:
   - safety-maps
   - Work/Goal/2025
 Project: NVA06A
-Type: Deliverable
+Category: Deliverable
 Parent Goal: "[[Nuckolls 2025 Goal 5]]"
 Related:
   - "[[NVA06A D2D]]"

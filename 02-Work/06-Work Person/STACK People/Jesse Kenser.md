@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Phoenix, AZ
@@ -27,3 +28,6 @@ Reports to:
 [[2025-08-27 Jesse Kenser 1 on 1]]
 
 [[Jesse Kenser 1 on 1]] 
+
+## Activity
+![[Person Page.base]]

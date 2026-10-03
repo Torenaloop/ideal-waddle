@@ -1,5 +1,5 @@
 ---
-Type: Sub-task
+Category: Sub-task
 Status: Complete
 Related:
   - "[[Nuckolls 2025 Goal 5]]"

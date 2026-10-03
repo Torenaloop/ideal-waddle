@@ -1,12 +1,12 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-09-22
 updated: 2026-09-22
-meeting_date: 2026-09-23
-participants:
+Date: 2026-09-23
+People:
   - Gloria Gonzalez
-project:
+Project:
   - Asana Implementation
 tags:
   - Work/Goal/2026

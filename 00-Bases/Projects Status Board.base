@@ -1,9 +1,12 @@
+formulas:
+  Last Modified: file.mtime.relative()
 views:
   - type: cards
     name: Work Projects
     filters:
       and:
-        - file.folder.contains("02-Work/01 - Work Projects")
+        - file.inFolder("02-Work/01 - Work Projects")
+        - type == "project"
     groupBy:
       property: Status
       direction: ASC
@@ -18,32 +21,12 @@ views:
       - property: Due Date
         direction: ASC
     cardSize: 180
-    imageFit: ""
-  - type: cards
-    name: Personal Projects
-    filters:
-      and:
-        - file.folder.contains("01-Personal/01-Projects")
-    groupBy:
-      property: Status
-      direction: ASC
-    order:
-      - file.name
-      - Priority
-      - Due Date
-      - tags
-    sort:
-      - property: Priority
-        direction: DESC
-      - property: Due Date
-        direction: ASC
-    cardSize: 180
-    imageFit: ""
   - type: table
-    name: All Projects
+    name: All Work Projects
     filters:
       and:
-        - file.folder.contains("01 - Work Projects")
+        - file.inFolder("02-Work/01 - Work Projects")
+        - type == "project"
     groupBy:
       property: Status
       direction: ASC
@@ -51,20 +34,49 @@ views:
       - file.name
       - Status
       - Priority
+      - Start Date
       - Due Date
-      - tags
+      - Parent Goal
       - file.folder
+      - formula.Last Modified
     sort:
-      - property: Status
-        direction: DESC
       - property: Priority
         direction: DESC
       - property: Due Date
         direction: ASC
-    columnSize:
-      file.name: 260
-      note.Status: 120
-      note.Priority: 90
-      note.Due Date: 110
-      note.tags: 352
-      file.folder: 200
+  - type: table
+    name: Needs Triage
+    filters:
+      and:
+        - file.inFolder("02-Work/01 - Work Projects")
+        - '!file.hasProperty("type")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - PARA
+      - Status
+      - formula.Last Modified
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: cards
+    name: Personal Projects
+    filters:
+      and:
+        - file.inFolder("01-Personal/01-Projects")
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Priority
+      - Due Date
+      - tags
+    sort:
+      - property: Priority
+        direction: DESC
+      - property: Due Date
+        direction: ASC
+    cardSize: 180

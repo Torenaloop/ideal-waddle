@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
-Status: Not-Started
+Status: Not Started
 Priority: High
 Project-Phase: Planning
 Owner: Jesse
-Related-To: "[[Charter]], [[Project_Summary]], [[ERP_Revamp]], [[ISO_Clause-Go-by]]"
+Related: "[[Charter]], [[Project_Summary]], [[ERP_Revamp]], [[ISO_Clause-Go-by]]"
 tags:
   - Projects/AP-Updates
   - Projects/Compliance

@@ -1,4 +1,5 @@
 ---
+type: goal
 tags: [OpsEHS, Work/Goal/2025, Employee_Engagement]
 Goal Number: 5
 Manager: Jesse

@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 People sitting in Indianapolis and Austin
 Workers Comp/HR people on the call

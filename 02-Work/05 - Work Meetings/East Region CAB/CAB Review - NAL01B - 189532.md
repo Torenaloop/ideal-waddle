@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 I reviewed the procedure text and the available JSA/template content. The procedure states the work is to install underground temporary-power conduit after B&G potholing, with Superior performing hydro-vac work at identified line crossings and then installing underground conduits. It also identifies line-of-fire/struck-by, site-security, environmental/exposure hazards, 34.5 kV utility circuits, and a 40 psi water utility. The Excel JHA file did not return readable task rows through the available file index, so I cannot confirm exact row-by-row coverage inside that workbook; the gaps below should be verified against the actual Excel rows.
 
 ### Task / Hazard / Control Review

@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: project
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:

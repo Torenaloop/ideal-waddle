@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA02D-E]]"
@@ -14,3 +15,6 @@ Reports to:
 
 # One on One
  - [[2026-05-15 Justin Lloyd 1 on 1]] 
+
+## Activity
+![[Person Page.base]]

@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("Clippings")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Title
+  note.author:
+    displayName: Author
+  note.created:
+    displayName: Clipped
+  note.published:
+    displayName: Published
+views:
+  - type: table
+    name: Clippings
+    order:
+      - file.name
+      - Author
+      - Source
+      - published
+      - Created
+    sort:
+      - property: Created
+        direction: DESC
+      - property: published
+        direction: ASC
+      - property: Source
+        direction: ASC
+      - property: created
+        direction: DESC
+    columnSize:
+      file.name: 409
+      note.Author: 232
+      note.Source: 265

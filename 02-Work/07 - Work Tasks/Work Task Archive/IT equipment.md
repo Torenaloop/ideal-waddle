@@ -1,5 +1,6 @@
 ---
-Work Person: "[[Gerald Aldajuste]]"
+type: task
+People: "[[Gerald Aldajuste]]"
 Start Date: 2025-07-25
 Due Date: 2025-08-01
 Priority:

@@ -11,16 +11,16 @@ tags:
   - email
 Company: STACK Infrastructure
 type: email
-sender:
-sender_email:
-recipient:
-date:
-subject:
-priority:
-status: unprocessed
-projects:
-action_items:
-due_date:
+Sender:
+Sender Email:
+Recipient:
+Date:
+Subject:
+Priority:
+Status: Unprocessed
+Project:
+Action Items:
+Due Date:
 ---
 #Construction 
 

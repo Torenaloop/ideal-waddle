@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -10,7 +11,7 @@ tags:
   - Improve_Internal_Communication
   - construction-ops-bridge
   - Work/Goal/2025
-Type: Strategic Company Goal
+Category: Strategic Company Goal
 Year: 2025
 Parent Goal: "[[Improve Internal Communications]]"
 Related:

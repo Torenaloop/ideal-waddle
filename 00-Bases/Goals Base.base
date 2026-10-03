@@ -1,37 +1,86 @@
-formulas:
-  Untitled: ""
+filters:
+  and:
+    - file.inFolder("02-Work")
+    - type == "goal"
+properties:
+  file.name:
+    displayName: Goal
+  note.Goal Number:
+    displayName: "#"
 views:
   - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder.contains("Donna Goals")
+    name: Cascade
     groupBy:
-      property: tags
+      property: Parent Goal
       direction: ASC
     order:
       - file.name
-      - 2025 Goal
-      - tags
-      - file.links
-      - Mission Pillar
+      - Goal Number
+      - Status
+      - Priority
+      - Category
+      - Employee
+      - Manager
+      - Year
     sort:
-      - property: Mission Pillar
-        direction: DESC
-      - property: formula.Untitled
+      - property: Goal Number
         direction: ASC
-      - property: file.tags
-        direction: ASC
-    columnSize:
-      file.name: 153
-      note.2025 Goal: 62
-      note.tags: 394
-      file.links: 399
-      note.Mission Pillar: 134
-  - type: list
-    name: List
+  - type: table
+    name: By Manager
     groupBy:
-      property: Due-Date
+      property: Manager
       direction: ASC
-    cardSize: 170
-    imageFit: ""
+    order:
+      - file.name
+      - Employee
+      - Goal Number
+      - Status
+      - Priority
+      - Parent Goal
+    sort:
+      - property: Goal Number
+        direction: ASC
+  - type: table
+    name: By Status
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Goal Number
+      - Priority
+      - Employee
+      - Manager
+      - Quarter
+      - Parent Goal
+    sort:
+      - property: Priority
+        direction: DESC
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - Status == "In Progress"
+    order:
+      - file.name
+      - Goal Number
+      - Priority
+      - Employee
+      - Manager
+      - Parent Goal
+    sort:
+      - property: Priority
+        direction: DESC
+  - type: table
+    name: Sub-goals of This Note
+    filters:
+      and:
+        - list(note["Parent Goal"]).contains(this)
+    order:
+      - file.name
+      - Goal Number
+      - Status
+      - Priority
+    sort:
+      - property: Goal Number
+        direction: ASC

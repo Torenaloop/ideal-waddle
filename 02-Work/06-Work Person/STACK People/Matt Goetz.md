@@ -1,13 +1,12 @@
 ---
+type: person
 Person's company: "[[STACK]]"
-Person's title:
-Person's email: mgoetz@stackinfra.com
 Company: STACK Infrastructure
 Org: EHS
 Location: "[[POR02A]]"
 Job Title: "[[Regional EHS Manager]]"
 Email:
-Phone:
+Email: mgoetz@stackinfra.com
 tags:
   - EHS
 Reports to:
@@ -24,3 +23,6 @@ Reports to:
 
 
 ## Meetings
+
+## Activity
+![[Person Page.base]]

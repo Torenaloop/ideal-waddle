@@ -1,4 +1,5 @@
 ---
+type: goal
 tags: [OpsEHS, Work/Goal/2025, Partnership, Leveraging_Technology_for_Continuous_Improvement]
 Goal Number: 6
 Manager: Jesse

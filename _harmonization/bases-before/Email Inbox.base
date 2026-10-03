@@ -1,0 +1,59 @@
+formulas:
+  Days Waiting: date(now()) - date(prop("date"))
+views:
+  - type: cards
+    name: Inbox Board
+    filters:
+      and:
+        - file.folder.contains("02-Work/06-Work Person/Emails")
+        - type == "email"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - sender
+      - priority
+      - due_date
+      - formula.Days Waiting
+    sort:
+      - property: priority
+        direction: DESC
+      - property: due_date
+        direction: ASC
+    cardSize: 180
+    imageFit: ""
+  - type: table
+    name: All Emails
+    filters:
+      and:
+        - file.folder.contains("02-Work/06-Work Person/Emails")
+        - type == "email"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - sender
+      - subject
+      - priority
+      - status
+      - date
+      - due_date
+      - formula.Days Waiting
+    sort:
+      - property: status
+        direction: ASC
+      - property: priority
+        direction: DESC
+      - property: date
+        direction: DESC
+    columnSize:
+      file.name: 260
+      note.sender: 160
+      note.subject: 280
+      note.priority: 90
+      note.status: 110
+      note.date: 110
+      note.due_date: 110
+      formula.Days Waiting: 110

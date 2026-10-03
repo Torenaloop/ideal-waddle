@@ -1,3 +1,7 @@
+---
+type: meeting
+Date: 2025-10-28
+---
 ![[Pasted image 20251028075803.png]]
 
 Locks applied (7)

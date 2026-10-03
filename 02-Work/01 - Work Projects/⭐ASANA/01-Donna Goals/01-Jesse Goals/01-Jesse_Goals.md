@@ -1,5 +1,6 @@
 ---
-PARA: Resource
+type: goal
+PARA: Resources
 Status: Active
 Priority: Critical
 tags:
@@ -9,7 +10,7 @@ tags:
   - leadership
   - executive
 Year: 2025
-Type: Executive Goals Overview
+Category: Executive Goals Overview
 Manager: Jesse
 Reports to: Donna (CEO/Executive level)
 Department: Operations EHS

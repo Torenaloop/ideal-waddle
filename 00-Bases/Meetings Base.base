@@ -1,52 +1,77 @@
 filters:
   and:
-    - file.inFolder("02-Work/05 - Work Meetings")
-    - '!file.name.contains("Template")'
+    - file.inFolder("02-Work")
+    - type == "meeting"
 properties:
-  note.date:
-    displayName: Date
-  note.people:
-    displayName: People
-  note.type:
-    displayName: Type
   file.name:
     displayName: Meeting
-  note.org:
-    displayName: Org
+  note.Meeting Type:
+    displayName: Type
 views:
   - type: table
-    name: Table
+    name: All Meetings
     order:
       - file.name
-      - date
-      - type
-      - people
+      - Date
+      - Meeting Type
+      - People
+      - Site
     sort:
-      - property: date
+      - property: Date
         direction: DESC
   - type: table
-    name: Person
-    filters:
-      and:
-        - list(people).contains(this)
+    name: By Type
+    groupBy:
+      property: Meeting Type
+      direction: ASC
     order:
       - file.name
-      - date
-      - type
-      - people
+      - Date
+      - People
+      - Site
     sort:
-      - property: date
-        direction: ASC
+      - property: Date
+        direction: DESC
   - type: table
-    name: Type
+    name: 1-on-1s
     filters:
       and:
-        - list(type).contains(this)
+        - note["Meeting Type"] == "1-on-1"
+    groupBy:
+      property: People
+      direction: ASC
     order:
       - file.name
-      - date
-      - people
-      - org
+      - Date
+      - Site
+      - Status
     sort:
-      - property: date
+      - property: Date
+        direction: DESC
+  - type: table
+    name: This Person
+    filters:
+      or:
+        - list(People).contains(this)
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - Date
+      - Meeting Type
+      - People
+    sort:
+      - property: Date
+        direction: DESC
+  - type: table
+    name: This Site
+    filters:
+      and:
+        - Site == this
+    order:
+      - file.name
+      - Date
+      - Meeting Type
+      - People
+    sort:
+      - property: Date
         direction: DESC

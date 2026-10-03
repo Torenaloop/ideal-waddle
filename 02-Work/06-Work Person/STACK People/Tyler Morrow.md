@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NAL01A]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Matt Honaker]]"
 ---
 [[NAL01A]]
+
+## Activity
+![[Person Page.base]]

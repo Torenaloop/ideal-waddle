@@ -1,3 +1,7 @@
+---
+type: meeting
+Date: 2025-07-16
+---
 ## Agenda
 - Training Budget
 - D2D Checklist Standardization

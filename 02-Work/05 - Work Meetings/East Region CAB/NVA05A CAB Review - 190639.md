@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 ## Provisional comparison
 
 The JSA follows the general isolation/restoration sequence, but it has several critical gaps and should be revised before use. The analysis below compares the uploaded JSA against the 21-page MOP.

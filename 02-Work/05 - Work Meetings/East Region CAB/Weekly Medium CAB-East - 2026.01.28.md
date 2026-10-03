@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2026-01-28
 Time: 14:30
 Location:
-Work Person:
+People:
 tags:
 ---
 **East Region – Medium Risk CAB**

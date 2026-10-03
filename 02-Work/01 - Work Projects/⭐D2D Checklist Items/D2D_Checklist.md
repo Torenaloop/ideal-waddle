@@ -1,5 +1,5 @@
 ---
-PARA: Area
+PARA: Areas
 Status: Active
 Priority: High
 tags:
@@ -8,7 +8,7 @@ tags:
   - process
   - D2D-checklist
   - methodology
-Type: Process Documentation
+Category: Process Documentation
 Related:
   - "[[NVA05A Project]]"
 ---

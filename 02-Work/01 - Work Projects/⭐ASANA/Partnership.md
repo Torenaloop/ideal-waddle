@@ -2,9 +2,9 @@
 PARA: Areas
 Status: Active
 Priority: Critical
-Type: Core Value
+Category: Core Value
 Owner: EHS Organization
-Related-To: "[[2025_EHS_Org_Goal_4]], [[Improve_Internal_Communications]], [[Our_Mission]]"
+Related: "[[2025_EHS_Org_Goal_4]], [[Improve_Internal_Communications]], [[Our_Mission]]"
 tags:
   - Areas/Values
   - Culture/Core

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Tech Ops
 Location: SeaTac, WA
@@ -10,3 +11,6 @@ tags:
 ---
 *NAME*
 #TechOps
+
+## Activity
+![[Person Page.base]]

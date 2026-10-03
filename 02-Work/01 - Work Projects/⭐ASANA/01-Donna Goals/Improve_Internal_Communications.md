@@ -3,7 +3,7 @@ PARA: Areas
 Status: Active
 Priority: Critical
 Owner: EHS Organization
-Related-To: "[[2025_EHS_Org_Goal_4]], [[Partnership]], [[Bridge_Construction-Ops_EHS_Gap]]"
+Related: "[[2025_EHS_Org_Goal_4]], [[Partnership]], [[Bridge_Construction-Ops_EHS_Gap]]"
 tags:
   - Areas/Communications
   - OpsEHS

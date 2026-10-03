@@ -3,7 +3,7 @@ PARA: Areas
 Status: Active
 Priority: High
 Owner: EHS Organization
-Related-To: "[[2025_EHS_Org_Goal_2]], [[Visible]], [[Kate_2025_Goal_1]]"
+Related: "[[2025_EHS_Org_Goal_2]], [[Visible]], [[Kate_2025_Goal_1]]"
 tags:
   - Areas/Culture
   - OpsEHS

@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-09-24
 updated: 2026-09-24
-meeting_date: 2026-09-24
-participants: []
-project:
+Date: 2026-09-24
+People: []
+Project:
 tags: []
 ---
 # 2026-09-24 Regional EHS Ops Meeting

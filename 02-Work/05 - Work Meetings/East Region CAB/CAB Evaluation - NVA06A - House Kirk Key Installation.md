@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 2026-01-07
 
 5 locks applied

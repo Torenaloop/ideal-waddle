@@ -1,5 +1,6 @@
 ---
-From: "[[Tyler Morrow]]"
+type: email
+Sender: "[[Tyler Morrow]]"
 Date: 2026-02-06
 Date time: 8:45
 Subject:

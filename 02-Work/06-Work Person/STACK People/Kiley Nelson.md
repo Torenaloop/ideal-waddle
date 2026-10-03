@@ -1,4 +1,5 @@
 ---
+type: person
 Company:
 Org: Critical Operations
 Location:
@@ -10,3 +11,5 @@ tags:
 *NAME*
 First name Kai, but goes by Kiley
 
+## Activity
+![[Person Page.base]]

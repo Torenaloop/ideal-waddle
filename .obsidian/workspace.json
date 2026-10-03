@@ -80,9 +80,21 @@
               "icon": "lucide-file",
               "title": "ISS Project Update 2026-08-06"
             }
+          },
+          {
+            "id": "a7018595842f73ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b298b57a84bd0513",
+  "active": "a7018595842f73ce",
   "lastOpenFiles": [
     "Bluetooth Keyboard + iPhone.md",
     "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",

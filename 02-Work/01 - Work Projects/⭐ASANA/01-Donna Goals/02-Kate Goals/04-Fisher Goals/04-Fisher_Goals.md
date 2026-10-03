@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Fisher
-Related-To: "[[Fisher_2025_Goal_1]], [[Nuckolls_2025_Goal_5]], Division Management"
+Related: "[[Fisher_2025_Goal_1]], [[Nuckolls_2025_Goal_5]], Division Management"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA02D-E]]"
@@ -33,3 +34,6 @@ Reports to:
 
 
 # Notes
+
+## Activity
+![[Person Page.base]]

@@ -1,12 +1,12 @@
 ---
 type: project
-status: active
+Status: Active
 created: 2026-09-09
 updated: 2026-09-09
-owner:
+Owner:
   - "[[David Nuckolls]]"
-start: 2026-09-09
-due: 2026-12-31
+Start Date: 2026-09-09
+Due Date: 2026-12-31
 tags:
   - Work/Goal/2026
 ---

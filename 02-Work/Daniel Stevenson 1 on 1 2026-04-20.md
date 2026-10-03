@@ -1,12 +1,12 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-04-20
 updated: 2026-04-20
-meeting_date: 2026-04-20
-participants:
+Date: 2026-04-20
+People:
   - Daniel Stevenson
-project:
+Project:
   - NVA02DE
 tags: []
 ---

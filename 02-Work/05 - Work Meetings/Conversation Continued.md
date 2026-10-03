@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 Perfect — that’s very helpful. You’re in a **phased rollout** scenario:
 
 - **Now → Dec 31, 2025**: Only 3 users (you + 2 collaborators) have Advanced features

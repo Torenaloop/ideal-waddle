@@ -1,6 +1,6 @@
 ---
-PARA: Area
-Status: Done 🙌
+PARA: Areas
+Status: Complete
 Priority: Medium
 type: cab-procedure-review
 created: 2026-03-24T14:30:00
@@ -24,6 +24,7 @@ Management Approval:
 CAB Decision:
 Decision Date:
 Next Review Date:
+Date: 2026-04-15
 ---
 
 # East Region - Medium Risk CAB - 2026-04-15 Transcript

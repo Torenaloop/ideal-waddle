@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA02D-E]]"
@@ -14,3 +15,6 @@ tags:
 #East #PWC
  
  - [ ] Collaborate w/China/TechOps on creating a BOM w/EHS-related items #JoeKendra 
+
+## Activity
+![[Person Page.base]]

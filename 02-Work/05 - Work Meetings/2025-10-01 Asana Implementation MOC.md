@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-10-01
 Time: 13:00
 Location:
-Work Person:
+People:
 tags:
   - Work/Project
   - Asana

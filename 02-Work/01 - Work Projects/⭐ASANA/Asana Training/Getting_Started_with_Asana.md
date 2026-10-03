@@ -1,10 +1,10 @@
 ---
 PARA: Resources
-Status: Completed
+Status: Complete
 Priority: High
-Type: Training/Notes
+Category: Training/Notes
 Format: Live Training
-Related-To: "[[00_-_ASANA]], [[Asana_Training]]"
+Related: "[[00_-_ASANA]], [[Asana_Training]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Training

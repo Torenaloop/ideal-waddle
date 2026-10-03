@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-12-11
 Time: 14:30
 Location:
-Work Person:
+People:
 tags:
 ---
 **Critical Operations (CritOps)**

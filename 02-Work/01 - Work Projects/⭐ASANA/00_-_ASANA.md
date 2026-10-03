@@ -1,10 +1,11 @@
 ---
+type: hub
 PARA: Resources
 Status: Active
 Priority: High
-Type: Hub
+Category: Hub
 Owner: You
-Related-To: "[[2025_EHS_Org_Goal_3]], [[Leveraging_Tech_for_Continuous_Improvement]], [[Be_of_Service_to_Others]]"
+Related: "[[2025_EHS_Org_Goal_3]], [[Leveraging_Tech_for_Continuous_Improvement]], [[Be_of_Service_to_Others]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Hub

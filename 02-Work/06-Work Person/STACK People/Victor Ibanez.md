@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA05D]]"
@@ -11,3 +12,6 @@ Reports to:
   - "[[Tony Antonellis]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

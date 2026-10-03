@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Tech Ops
 Location: Northern Virginia
@@ -11,3 +12,6 @@ Reports to:
   - "[[Tom Harris]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

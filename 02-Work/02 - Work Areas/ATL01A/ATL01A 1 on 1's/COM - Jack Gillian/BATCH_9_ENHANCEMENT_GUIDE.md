@@ -1,10 +1,13 @@
 ---
+type: site-note
 # Site-Specific Enhancement Guide
 ## Batch 9: ATL01A (Atlanta Data Center)
 
 ### Overview
 This batch consists of **9 files** (7 enhanced + 2 new hubs) focused on **site-specific operational management** for ATL01A. This introduces a new pattern: **site-level knowledge organization** that will scale across all 14 data center facilities.
 
+Site: "[[ATL01A]]"
+PARA: Areas
 ---
 
 ## Files Enhanced in This Batch

@@ -1,12 +1,12 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-04-24
 updated: 2026-04-24
-meeting_date: 2026-04-27
-participants:
+Date: 2026-04-27
+People:
   - Gerald AldaJuste
-project:
+Project:
   - Asana Implementation
   - Bi-Annual Ops EHS Assessment
 tags:

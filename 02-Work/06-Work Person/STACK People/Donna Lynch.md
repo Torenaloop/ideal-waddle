@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Park City, UT
@@ -23,4 +24,5 @@ Reports to:
 	- [[Matt Saucedo]]
 [[Gloria Gonzalez]]
 
-
+## Activity
+![[Person Page.base]]

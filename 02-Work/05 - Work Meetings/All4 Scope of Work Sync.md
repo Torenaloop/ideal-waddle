@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2026-01-14
 Time: 10:30
 Location: Virtual
-Work Person:
+People:
 tags:
 ---
 [[Jesse Kenser]] - accepted

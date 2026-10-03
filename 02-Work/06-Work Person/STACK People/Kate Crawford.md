@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Nashville, TN
@@ -11,3 +12,6 @@ Reports to:
   - "[[Donna Lynch]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

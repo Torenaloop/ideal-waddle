@@ -1,14 +1,15 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-02-16
 updated: 2026-02-16
-meeting_date: 2026-02-16
-participants:
+Date: 2026-02-16
+People:
   - Daniel Stevenson
-project:
+Project:
   - NVA02DE
 tags: []
+Meeting Type: 1-on-1
 ---
 # Untitled 3
 

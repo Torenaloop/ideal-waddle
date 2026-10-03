@@ -1,4 +1,5 @@
 ---
+type: goal
 tags: [OpsEHS, ConstructionEHS, Work/Goal/2025, Of_Service_To_Others]
 Goal Number: 7
 Manager: Jesse

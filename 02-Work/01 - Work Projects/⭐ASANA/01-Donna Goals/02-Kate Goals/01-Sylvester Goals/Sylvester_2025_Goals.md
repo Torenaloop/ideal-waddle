@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Sylvester
-Related-To: "[[01-Sylvester_Goals]], [[Hays_2025_Goals]], [[Jesse]], [[Kate]]"
+Related: "[[01-Sylvester_Goals]], [[Hays_2025_Goals]], [[Jesse]], [[Kate]]"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

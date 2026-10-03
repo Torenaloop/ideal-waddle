@@ -1,3 +1,6 @@
+---
+type: moc
+---
 
 # September
 - [[Weekly Working Sessions 2026-09-16]]

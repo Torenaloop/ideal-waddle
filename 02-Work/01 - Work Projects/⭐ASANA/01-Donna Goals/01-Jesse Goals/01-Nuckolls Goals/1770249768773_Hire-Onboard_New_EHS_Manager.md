@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -12,7 +13,7 @@ tags:
   - Work/Goal/2025
 Goal Number: 3
 Year: 2025
-Type: Team Building
+Category: Team Building
 Parent Goal: "[[Nuckolls 2025 Goals]]"
 Related:
   - "[[Gerald Aldajuste]]"

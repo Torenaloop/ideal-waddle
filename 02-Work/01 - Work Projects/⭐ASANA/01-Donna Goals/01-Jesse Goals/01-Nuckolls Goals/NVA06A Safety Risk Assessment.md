@@ -2,8 +2,8 @@
 Date: 2025-07-29
 Time:
 Location:
-Work Person: "[[Janine Womac]]"
-Related to: "[[NVA06A D2D]]"
+People: "[[Janine Womac]]"
+Related: "[[NVA06A D2D]]"
 tags:
   - OpsEHS
   - Work/Goal/2025

@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 
 
 For the following MOPs

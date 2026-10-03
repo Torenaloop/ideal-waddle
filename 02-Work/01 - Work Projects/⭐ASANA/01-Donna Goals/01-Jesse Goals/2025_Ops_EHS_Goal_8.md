@@ -1,4 +1,5 @@
 ---
+type: goal
 tags: [OpsEHS, Work/Goal/2025, Culture_Carrier, Improve_Internal_Communication]
 Goal Number: 8
 Manager: Jesse

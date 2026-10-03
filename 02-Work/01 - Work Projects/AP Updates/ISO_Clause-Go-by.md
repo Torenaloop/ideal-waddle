@@ -2,8 +2,8 @@
 PARA: Resources
 Status: Active
 Priority: High
-Type: Reference/Compliance
-Related-To: "[[Charter]], [[Project_Summary]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]]"
+Category: Reference/Compliance
+Related: "[[Charter]], [[Project_Summary]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]]"
 tags:
   - Resources/Compliance
   - ISO/Standards

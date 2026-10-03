@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-09-12
 Time: 13:00
 Location:
-Work Person: "[[Tony Badolato]]"
+People: "[[Tony Badolato]]"
 tags:
   - Projects
   - Leveraging_Technology_for_Continuous_Improvement

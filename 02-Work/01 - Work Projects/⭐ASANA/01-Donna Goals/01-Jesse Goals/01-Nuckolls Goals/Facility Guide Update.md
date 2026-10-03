@@ -1,7 +1,11 @@
 ---
 Date: 2025-07-22
 Meeting Type: Teams
-Participants: Lauren Dalton, Terry DeBell, Jason Welsh, Cullen Stapleton
+People:
+  - Lauren Dalton
+  - Terry DeBell
+  - "[[Jason Welsh]]"
+  - Cullen Stapleton
 tags:
   - OpsEHS
   - ConstructionEHS

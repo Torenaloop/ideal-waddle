@@ -1,18 +1,18 @@
 ---
 type: email
-sender: Daniel Stevenson
-sender_email:
-recipient:
-date: 2026-05-06
-subject: Work Related Injury Incident 5/5/26
-priority:
+Sender: Daniel Stevenson
+Sender Email:
+Recipient:
+Date: 2026-05-06
+Subject: Work Related Injury Incident 5/5/26
+Priority:
   - High
-status: unprocessed
+Status: Unprocessed
 tags:
   - email
-projects:
-action_items:
-due_date:
+Project:
+Action Items:
+Due Date:
 ---
 
 ## Email Details

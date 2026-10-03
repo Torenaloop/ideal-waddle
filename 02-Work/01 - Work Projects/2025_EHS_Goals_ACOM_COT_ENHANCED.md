@@ -1,12 +1,12 @@
 ---
-para: Areas
-area: Operations EHS Management
-document_type: Performance Scorecard
-role_level: Individual Contributor (ACOM & COT)
-annual_cycle: 2025
-status: Active
-priority: High
-related_files:
+PARA: Areas
+Area: Operations EHS Management
+Document Type: Performance Scorecard
+Role Level: Individual Contributor (ACOM & COT)
+Annual Cycle: 2025
+Status: Active
+Priority: High
+Related Files:
   - "[[2025 EHS Performance Goals Hub]]"
   - "[[2025 EHS Goals - Leadership]]"
   - "[[2025 EHS Goals - COMs]]"
@@ -20,13 +20,13 @@ tags:
   - individual-contributor
   - safety-culture
   - personal-development
-key_metrics:
+Key Metrics:
   - Personal incident response
   - Safety observation participation
   - Training completion
   - Safe work practices
   - Near miss reporting
-strategic_context:
+Strategic Context:
   - "[[Bridge Construction-Ops EHS Gap]]"
   - "[[2025 Environmental Audit Project Hub]]"
 ---

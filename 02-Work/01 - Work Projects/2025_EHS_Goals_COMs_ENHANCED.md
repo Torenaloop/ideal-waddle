@@ -1,12 +1,12 @@
 ---
-para: Areas
-area: Operations EHS Management
-document_type: Performance Scorecard
-role_level: Critical Operations Manager (COM)
-annual_cycle: 2025
-status: Active
-priority: High
-related_files:
+PARA: Areas
+Area: Operations EHS Management
+Document Type: Performance Scorecard
+Role Level: Critical Operations Manager (COM)
+Annual Cycle: 2025
+Status: Active
+Priority: High
+Related Files:
   - "[[2025 EHS Performance Goals Hub]]"
   - "[[2025 EHS Goals - Leadership]]"
   - "[[2025 EHS Goals - ACOM & COT]]"
@@ -22,14 +22,14 @@ tags:
   - environmental-compliance
   - sospes
   - incident-response
-key_metrics:
+Key Metrics:
   - Incident notification timeliness
   - Environmental audit completion
   - NOV (Notice of Violation) tracking
   - SOSPES observations
   - EHS training completion
   - Safety culture development
-strategic_context:
+Strategic Context:
   - "[[Bridge Construction-Ops EHS Gap]]"
   - "[[2025 Environmental Audit Project Hub]]"
 ---

@@ -1,13 +1,15 @@
 ---
-para: Areas
-area: Site Operations Management
-person_type: Critical Operations Manager (COM)
-person: Jack Gillian
-site: ATL01A
-email: jgillian@stackinfra.com
-region: East
-manager: David Nuckolls
-related_files:
+type: site-note
+PARA: Areas
+Area: Site Operations Management
+Person Type: Critical Operations Manager (COM)
+People:
+  - "[[Jack Gillian]]"
+Site: "[[ATL01A]]"
+Email: jgillian@stackinfra.com
+Region: East
+Manager: David Nuckolls
+Related Files:
   - "[[ATL01A Site Hub]]"
   - "[[Jack Gillian Contact Note]]"
   - "[[David Nuckolls Hub]]"

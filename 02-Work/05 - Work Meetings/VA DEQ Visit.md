@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-09-18
 Time: 09:00
 Location: NVA05A
-Work Person:
+People:
 tags:
   - VA_DEQ
   - NVA05A

@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -9,7 +10,7 @@ tags:
   - COMs
   - management
   - Work/Goal/2025
-Type: Goals Document
+Category: Goals Document
 Parent Goal: "[[Nuckolls 2025 Goal 2]]"
 Related:
   - "[[Nuckolls 2025 Goals]]"

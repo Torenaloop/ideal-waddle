@@ -1,3 +1,8 @@
+---
+type: site-note
+Site: "[[ATL01A]]"
+PARA: Areas
+---
 1. [COM - Jack Gillian](COM%20-%20Jack%20Gillian.md)
     1. [2023-11-28](01-Personal/04-Archives/Archived%20Daily%20Notes/2023%20Daily%20Notes/11%20-%20November/Week%20of%202023-11-26/2023-11-28.md)
     2. [2024-01-29](2024-01-29)

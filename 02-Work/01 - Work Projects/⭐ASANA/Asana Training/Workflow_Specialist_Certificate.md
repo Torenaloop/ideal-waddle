@@ -2,10 +2,10 @@
 PARA: Resources
 Status: Future
 Priority: Medium
-Type: Training/Certification
+Category: Training/Certification
 Time-Commitment: 8-10 hours
 Cost: $299 USD (Currently FREE - Limited Time)
-Related-To: "[[00_-_ASANA]], [[Asana_Training]], [[Asana_Foundations_Skill_Badge]]"
+Related: "[[00_-_ASANA]], [[Asana_Training]], [[Asana_Foundations_Skill_Badge]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Training

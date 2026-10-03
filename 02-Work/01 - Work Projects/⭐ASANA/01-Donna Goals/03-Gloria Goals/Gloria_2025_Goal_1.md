@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: Q1-Q4 2025
 Owner: Gloria
-Related-To: "[[03-Gloria_Goals]], [[Bridge Construction-Ops EHS Gap]]"
+Related: "[[03-Gloria_Goals]], [[Bridge Construction-Ops EHS Gap]]"
 tags:
   - Projects/Goals/2025
   - OpsEHS

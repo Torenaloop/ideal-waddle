@@ -1,12 +1,12 @@
 ---
-para: Areas
-area: Operations EHS Management
-document_type: Performance Scorecard
-role_level: Leadership (SVP, VP, Sr. Director, Director)
-annual_cycle: 2025
-status: Active
-priority: Critical
-related_files:
+PARA: Areas
+Area: Operations EHS Management
+Document Type: Performance Scorecard
+Role Level: Leadership (SVP, VP, Sr. Director, Director)
+Annual Cycle: 2025
+Status: Active
+Priority: Critical
+Related Files:
   - "[[2025 EHS Performance Goals Hub]]"
   - "[[2025 EHS Goals - COMs]]"
   - "[[2025 EHS Goals - ACOM & COT]]"
@@ -21,13 +21,13 @@ tags:
   - strategic-oversight
   - safety-culture
   - environmental-compliance
-key_metrics:
+Key Metrics:
   - Strategic EHS leadership
   - Organizational culture development
   - Regulatory compliance oversight
   - Safety program effectiveness
   - Cross-functional collaboration
-strategic_context:
+Strategic Context:
   - "[[Bridge Construction-Ops EHS Gap]]"
   - "[[2025 Environmental Audit Project Hub]]"
 ---

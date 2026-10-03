@@ -1,5 +1,5 @@
 ---
-PARA: Resource
+PARA: Resources
 Status: Active
 Priority: High
 tags: [SPCC, spill-response, EHS, workflow]

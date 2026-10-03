@@ -2,10 +2,10 @@
 PARA: Resources
 Status: Not Started
 Priority: Critical
-Type: Training/Certification
+Category: Training/Certification
 Time-Commitment: 2-3 hours
 Cost: FREE
-Related-To: "[[00_-_ASANA]], [[Asana_Training]], [[2025_EHS_Org_Goal_3]]"
+Related: "[[00_-_ASANA]], [[Asana_Training]], [[2025_EHS_Org_Goal_3]]"
 tags:
   - Resources/Tools/Asana
   - Resources/Training

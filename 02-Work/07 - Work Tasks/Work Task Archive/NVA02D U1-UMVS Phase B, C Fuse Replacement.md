@@ -1,5 +1,6 @@
 ---
-Work Person:
+type: task
+People:
 Start Date: ""
 Due Date: ""
 Priority:

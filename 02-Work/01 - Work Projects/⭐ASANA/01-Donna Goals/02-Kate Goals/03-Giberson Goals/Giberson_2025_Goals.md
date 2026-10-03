@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Giberson
-Related-To: "[[03-Giberson_Goals]], [[01-Sylvester_Goals]]"
+Related: "[[03-Giberson_Goals]], [[01-Sylvester_Goals]]"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

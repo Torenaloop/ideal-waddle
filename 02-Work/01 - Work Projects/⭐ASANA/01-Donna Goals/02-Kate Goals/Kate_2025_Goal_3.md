@@ -1,4 +1,5 @@
 ---
+type: goal
 tags: [ConstructionEHS, Work/Goal/2025]
 Goal Number: 3
 Manager: Kate

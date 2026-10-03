@@ -1,11 +1,12 @@
 ---
-para: Projects
-project: 2025 Environmental Audit
-status: Active
-priority: High
-date_created: 2025-02-20
-last_updated: 2025-02-27
-related_files:
+type: project
+PARA: Projects
+Project: 2025 Environmental Audit
+Status: Active
+Priority: High
+Date Created: 2025-02-20
+Last Updated: 2025-02-27
+Related Files:
   - "[[2025 Environmental Audit Project Hub]]"
   - "[[ENV AUDIT - Master Schedule and Contacts]]"
   - "[[02-Work/01 - Work Projects/Env. Audit/ENV AUDIT - Proposed Dates]]"
@@ -16,7 +17,7 @@ tags:
   - document-prep
   - compliance
   - pre-audit
-stakeholders:
+Stakeholders:
   - Jesse Kenser
   - David Nuckolls
   - Maya Anichini (Antea Group)

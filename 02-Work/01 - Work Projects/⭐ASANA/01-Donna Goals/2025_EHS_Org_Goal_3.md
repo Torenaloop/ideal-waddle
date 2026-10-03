@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: EHS Organization
 Scope: Organization-Wide
-Related-To: "[[2025_EHS_Organization_Goals]], [[Leveraging_Tech_for_Continuous_Improvement]], [[Be_of_Service_to_Others]]"
+Related: "[[2025_EHS_Organization_Goals]], [[Leveraging_Tech_for_Continuous_Improvement]], [[Be_of_Service_to_Others]]"
 tags:
   - Projects/Goals/2025/Organizational
   - OpsEHS

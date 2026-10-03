@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: email
+PARA: Projects
 Status: Complete
 Priority: High
 tags:
@@ -14,8 +15,8 @@ Date Received: 2024-10-14
 Date Original: 2024-09-03
 Subject: Emergency Evacuation Maps
 Project: NVA05A
-From: Anthony Antonellis
-To:
+Sender: Anthony Antonellis
+Recipient:
   - Andrew Van Kleeck
   - David Nuckolls
   - Eric Hinson

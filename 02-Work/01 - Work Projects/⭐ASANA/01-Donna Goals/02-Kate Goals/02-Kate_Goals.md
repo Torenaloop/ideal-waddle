@@ -1,5 +1,6 @@
 ---
-PARA: Resource
+type: goal
+PARA: Resources
 Status: Active
 Priority: High
 tags:
@@ -8,7 +9,7 @@ tags:
   - goals
   - leadership
 Year: 2025
-Type: Goals Overview
+Category: Goals Overview
 Manager: Kate
 Department: Construction EHS
 Reports to: Donna (CEO/Executive level)

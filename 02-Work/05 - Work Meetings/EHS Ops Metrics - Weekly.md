@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: ""
 Time:
 Location:
-Work Person:
+People:
 tags:
 ---
 

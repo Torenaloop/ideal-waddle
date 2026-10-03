@@ -1,12 +1,12 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-05-28
 updated: 2026-05-28
-meeting_date: 2026-05-28
-participants:
+Date: 2026-05-28
+People:
   - Mark Maynard
-project:
+Project:
   - NAL01B
 tags: []
 ---

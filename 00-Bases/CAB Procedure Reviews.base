@@ -1,0 +1,71 @@
+filters:
+  and:
+    - file.inFolder("02-Work")
+    - type == "cab-procedure-review"
+properties:
+  file.name:
+    displayName: Review
+  note.Procedure ID:
+    displayName: ID
+  note.CAB Meeting Date:
+    displayName: CAB Date
+views:
+  - type: table
+    name: All Reviews
+    order:
+      - file.name
+      - Procedure ID
+      - Site
+      - Review Type
+      - Review Due Date
+      - CAB Meeting Date
+      - CAB Decision
+      - Procedure Owner
+      - Status
+    sort:
+      - property: CAB Meeting Date
+        direction: DESC
+  - type: table
+    name: By Site
+    groupBy:
+      property: Site
+      direction: ASC
+    order:
+      - file.name
+      - Procedure ID
+      - Review Type
+      - CAB Meeting Date
+      - CAB Decision
+      - Procedure Owner
+    sort:
+      - property: CAB Meeting Date
+        direction: DESC
+  - type: table
+    name: Awaiting Decision
+    filters:
+      and:
+        - note["CAB Decision"].isEmpty()
+    order:
+      - file.name
+      - Procedure ID
+      - Site
+      - Review Due Date
+      - CAB Meeting Date
+      - Procedure Owner
+    sort:
+      - property: Review Due Date
+        direction: ASC
+  - type: table
+    name: This Site
+    filters:
+      and:
+        - Site == this
+    order:
+      - file.name
+      - Procedure ID
+      - Review Type
+      - CAB Meeting Date
+      - CAB Decision
+    sort:
+      - property: CAB Meeting Date
+        direction: DESC

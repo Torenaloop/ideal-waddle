@@ -1,5 +1,5 @@
 ---
-PARA: Area
+PARA: Areas
 Status: In Progress
 Priority: Medium
 type: cab-procedure-review
@@ -12,7 +12,7 @@ Procedure Title: NVA06A - FTE of U3-MVS-02 & U4-MVS-01
 Procedure Version: "-"
 Document Category:
   - Maintenance
-Site: NVA06A
+Site: "[[NVA06A]]"
 Review Type: High
 Review Trigger:
 Review Due Date: 2026-03-16

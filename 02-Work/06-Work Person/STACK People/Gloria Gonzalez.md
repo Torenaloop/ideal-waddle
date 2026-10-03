@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: EHS
 Location: Denver, CO
@@ -53,3 +54,6 @@ A few notes: I used "Gloria Gonzalez" based on what you mentioned — double-che
 4. **Verification Method** — Multi-select: Document Review (blue), Physical Inspection (green), Visual Verification (aqua), Employee Interview (purple)
 5. **Frequency** — Single-select: Annual (red), Biannual Audit (orange), Quarterly (yellow), Monthly (yellow-green), Daily (green), Per Use (aqua), Ongoing (blue)
 6. **Regulatory Reference** — Text field
+
+## Activity
+![[Person Page.base]]

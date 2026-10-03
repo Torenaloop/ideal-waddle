@@ -1,3 +1,6 @@
+---
+type: meeting
+---
 Ryan Meeks Cooling Tower and Heat Exchangers
 - Falls
 - Working with a lot of metal cuts/abrasions

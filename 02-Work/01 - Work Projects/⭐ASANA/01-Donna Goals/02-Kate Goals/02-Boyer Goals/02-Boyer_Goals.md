@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Boyer
-Related-To: "[[Boyer_2025_Goal_1]], Division Management"
+Related: "[[Boyer_2025_Goal_1]], Division Management"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

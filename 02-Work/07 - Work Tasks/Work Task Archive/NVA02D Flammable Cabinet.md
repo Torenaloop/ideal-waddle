@@ -1,5 +1,6 @@
 ---
-Work Person: "[[Ramon Rodriguez]]"
+type: task
+People: "[[Ramon Rodriguez]]"
 Start Date: 2025-08-25
 Due Date: 2025-08-26
 Priority:

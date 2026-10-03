@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-10-02
 updated: 2026-10-02
-meeting_date: 2026-10-02
-participants: []
-project:
+Date: 2026-10-02
+People: []
+Project:
 tags: []
 ---
 # Vector Solutions

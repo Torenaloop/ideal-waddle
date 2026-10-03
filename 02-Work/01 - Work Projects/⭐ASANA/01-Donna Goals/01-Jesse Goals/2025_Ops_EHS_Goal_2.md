@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: goal
+PARA: Projects
 Status: In Progress
 Priority: High
 tags:
@@ -9,7 +10,7 @@ tags:
   - Projects/Goals/2025/Organizational
 Goal Number: 2
 Year: 2025
-Type: Executive Goal
+Category: Executive Goal
 Manager: Jesse
 Parent Goal: "[[Jesse 2025 Goals]]"
 Related:

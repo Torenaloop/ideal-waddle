@@ -1,14 +1,15 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Project-Phase: Planning
-Start-Date: 2024-12-14
+Start Date: 2024-12-14
 Target-Date: TBD
 Owner: Jesse
 Sponsor: Donna
 Stakeholders: "[[Jesse]], [[Donna]], EHS Leadership Team"
-Related-To: "[[Project_Summary]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]]"
+Related: "[[Project_Summary]], [[ERP_Revamp]], [[ERP_vs_BCP_Gap_Analysis]]"
 tags:
   - Projects/AP-Updates
   - Projects/Compliance

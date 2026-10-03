@@ -1,1 +1,4 @@
+---
+type: meeting
+---
 ![[Meeting Notes for Asana Check-in 01272026.pdf]]

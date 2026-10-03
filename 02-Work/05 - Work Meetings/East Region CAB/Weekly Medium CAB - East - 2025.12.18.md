@@ -1,8 +1,9 @@
 ---
+type: meeting
 Date: 2025-12-18
 Time: 14:30
 Location:
-Work Person:
+People:
 tags:
 ---
 **Meeting Summary**

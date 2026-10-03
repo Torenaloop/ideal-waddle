@@ -1,11 +1,11 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-09-28
 updated: 2026-09-28
-meeting_date: 2026-09-28
-participants: []
-project:
+Date: 2026-09-28
+People: []
+Project:
 tags: []
 ---
 # Safety MOJO - Demonstration with Stack Infrastructure

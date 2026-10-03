@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA06A]]"
@@ -15,3 +16,6 @@ Direct Reports:
   - "[[Kaitlyn Lail]]"
 ---
 *NAME*
+
+## Activity
+![[Person Page.base]]

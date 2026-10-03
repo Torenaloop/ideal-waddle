@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: Critical
 Quarter: All 2025
 Owner: Donna
 Scope: EHS Organization-Wide
-Related-To: "[[2025_EHS_Organization_Goals]], [[Jesse_2025_Goals]], [[Kate_2025_Goals]], [[Our_Mission]]"
+Related: "[[2025_EHS_Organization_Goals]], [[Jesse_2025_Goals]], [[Kate_2025_Goals]], [[Our_Mission]]"
 tags:
   - Projects/Goals/2025/Organizational
   - OpsEHS

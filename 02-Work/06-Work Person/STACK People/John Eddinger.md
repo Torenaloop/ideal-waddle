@@ -1,4 +1,5 @@
 ---
+type: person
 Company: STACK Infrastructure
 Org: Critical Operations
 Location: "[[NVA02D-E]]"
@@ -28,3 +29,6 @@ Send john mock up loop page
 - Send John mock up loop page...
 - 10/22 Security Drill
 - See Stevenson template for KPIs
+
+## Activity
+![[Person Page.base]]

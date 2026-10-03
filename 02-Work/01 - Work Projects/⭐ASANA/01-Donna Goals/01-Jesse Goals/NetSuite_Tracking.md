@@ -1,6 +1,6 @@
 ---
 tags: [OpsEHS, Partnership, Leveraging_Technology_for_Continuous_Improvement, Work/Goal/2025]
-Type: Technology Initiative
+Category: Technology Initiative
 Parent Goal: "[[Jesse 2025 Goals]]"
 ---
 # NetSuite Tracking

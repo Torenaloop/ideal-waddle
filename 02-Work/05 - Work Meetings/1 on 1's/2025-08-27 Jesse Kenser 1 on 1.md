@@ -1,9 +1,11 @@
 ---
+type: meeting
 Date: 2025-08-27
 Time:
 Location:
-Work Person: "[[Jesse Kenser]]"
+People: "[[Jesse Kenser]]"
 tags:
+Meeting Type: 1-on-1
 ---
 
 ## Levering Tech for Continuous Improvement

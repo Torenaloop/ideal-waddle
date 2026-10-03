@@ -1,10 +1,11 @@
 ---
+type: project
 PARA: Projects
 Status: Active
 Priority: High
 Quarter: All 2025
 Owner: Sylvester
-Related-To: "[[Hays_Goals]], [[Sylvester_2025_Goals]], Regional EHS Leadership"
+Related: "[[Hays_Goals]], [[Sylvester_2025_Goals]], Regional EHS Leadership"
 tags:
   - Projects/Goals/2025
   - ConstructionEHS

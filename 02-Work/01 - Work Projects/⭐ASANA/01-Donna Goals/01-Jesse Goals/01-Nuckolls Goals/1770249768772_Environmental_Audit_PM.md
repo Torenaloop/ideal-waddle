@@ -1,5 +1,6 @@
 ---
-PARA: Project
+type: project
+PARA: Projects
 Status: In Progress
 Priority: Medium
 tags:
@@ -11,7 +12,7 @@ tags:
   - compliance
   - audit
   - Work/Goal/2025
-Type: Program Documentation
+Category: Program Documentation
 Parent Goal: "[[Nuckolls 2025 Goal 4]]"
 Related:
   - "[[Nuckolls 2025 Goals]]"

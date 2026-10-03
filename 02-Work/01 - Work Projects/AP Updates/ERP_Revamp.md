@@ -1,11 +1,12 @@
 ---
+type: project
 PARA: Projects
-Status: In-Progress
+Status: In Progress
 Priority: High
 Project-Phase: Planning
-Start-Date: 2024-12-14
+Start Date: 2024-12-14
 Owner: Jesse
-Related-To: "[[Charter]], [[Project_Summary]], [[ERP_vs_BCP_Gap_Analysis]], [[ISO_Clause-Go-by]], [[Donna]]"
+Related: "[[Charter]], [[Project_Summary]], [[ERP_vs_BCP_Gap_Analysis]], [[ISO_Clause-Go-by]], [[Donna]]"
 tags:
   - Projects/AP-Updates
   - Projects/Compliance

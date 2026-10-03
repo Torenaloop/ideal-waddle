@@ -1,3 +1,10 @@
+---
+type: meeting
+Site: "[[ATL01A]]"
+PARA: Areas
+Date: 2024-05-22
+Meeting Type: 1-on-1
+---
 **Benny/David 1:1**  
 Wed, May 22, 1:00 PM - 1:30 PM  
 Microsoft Teams Meeting  
