@@ -1,7 +1,12 @@
 ---
-Person's company:
-Person's title:
-Person's email: undefined
+type: person
+Company:
+Job Title:
+Email:
+Org:
+Location:
+Phone:
+Reports to:
 ---
 
 # [[People]]
@@ -13,3 +18,6 @@ Person's email: undefined
 
 
 ## Meetings
+
+## Activity
+![[Person Page.base]]

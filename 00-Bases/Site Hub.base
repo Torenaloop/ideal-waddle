@@ -52,10 +52,23 @@ views:
       - property: CAB Meeting Date
         direction: DESC
   - type: table
+    name: Assessments
+    filters:
+      and:
+        - type == "assessment"
+    order:
+      - file.name
+      - Program
+      - Audit Phase
+      - Conformance %
+      - Open Findings
+      - Asana URL
+  - type: table
     name: Site Notes
     filters:
       and:
         - type != "person"
+        - type != "assessment"
         - type != "meeting"
         - type != "cab-procedure-review"
     order:

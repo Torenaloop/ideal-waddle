@@ -5,13 +5,13 @@ created: 2026-02-11
 updated: 2026-02-11
 Date: 2026-02-11
 People:
-  - Jesse Kenser
+  - "[[Jesse Kenser]]"
   - David Nuckolls (EHS Manager)
-  - Matt Goetz 
-  - Matt Saucedo
-  - Gloria Gonzalez
+  - "[[Matt Goetz]]"
+  - "[[Matt Saucedo]]"
+  - "[[Gloria Gonzalez]]"
   - Gerald AldaJuste
-  - Shaniya Cobb
+  - "[[Shaniya Cobb]]"
 Project:
 tags: []
 ---

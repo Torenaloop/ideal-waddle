@@ -1,17 +1,17 @@
 ---
 type: email
-sender: 
-sender_email: 
-recipient: 
-date: 
-subject: 
-priority: 
-status: unprocessed
+Sender: 
+Sender Email: 
+Recipient: 
+Date: 
+Subject: 
+Priority: 
+Status: Unprocessed
 tags:
   - email
-projects: 
-action_items: 
-due_date: 
+Project: 
+Action Items: 
+Due Date: 
 ---
 
 ## Email Details

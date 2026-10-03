@@ -1,6 +1,6 @@
 ---
 type: site-note
-Site: "[[NAL01A]]"
+Site: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
 PARA: Areas
 ---
 [[Nationwide]]

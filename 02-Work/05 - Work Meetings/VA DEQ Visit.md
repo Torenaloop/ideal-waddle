@@ -2,7 +2,7 @@
 type: meeting
 Date: 2025-09-18
 Time: 09:00
-Location: NVA05A
+Location: "[[02-Work/02 - Work Areas/NVA05A/NVA05A|NVA05A]]"
 People:
 tags:
   - VA_DEQ

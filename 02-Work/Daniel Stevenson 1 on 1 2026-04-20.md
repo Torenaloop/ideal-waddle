@@ -5,7 +5,7 @@ created: 2026-04-20
 updated: 2026-04-20
 Date: 2026-04-20
 People:
-  - Daniel Stevenson
+  - "[[Daniel Stevenson]]"
 Project:
   - NVA02DE
 tags: []

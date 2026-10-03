@@ -6,7 +6,7 @@ Document Type: COM Contact Note
 People:
   - "[[Jack Gillian]]"
 Role: Critical Operations Manager (COM)
-Site: "[[ATL01A]]"
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
 Email: jgillian@stackinfra.com
 Region: East
 Manager: Nicholas Mansberger

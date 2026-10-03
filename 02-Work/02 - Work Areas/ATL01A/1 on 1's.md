@@ -1,6 +1,6 @@
 ---
 type: site-note
-Site: "[[ATL01A]]"
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
 PARA: Areas
 ---
 

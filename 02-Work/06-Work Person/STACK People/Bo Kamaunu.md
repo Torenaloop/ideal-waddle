@@ -2,7 +2,7 @@
 type: person
 Company: STACK Infrastructure
 Org: Security
-Location: "[[NVA02D-E]]"
+Location: "[[02-Work/02 - Work Areas/NVA02D-E/NVA02D-E|NVA02D-E]]"
 Job Title: Regional Manager
 Email: bkamaunu@stackinfra.com
 Phone: 541-233-6606

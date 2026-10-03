@@ -1,5 +1,5 @@
 ---
-PARA: Area
+PARA: Areas
 Status: In Progress
 Priority: Medium
 type: cab-procedure-review

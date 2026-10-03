@@ -1,6 +1,6 @@
 ---
 type: evergreen
-status: active
+Status: Active
 created: {{date}}
 updated: {{date}}
 tags: []

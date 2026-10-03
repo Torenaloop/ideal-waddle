@@ -82,19 +82,112 @@
             }
           },
           {
+            "id": "4018c42fec5b8586",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Site Hub.base",
+                "viewName": "People"
+              },
+              "icon": "lucide-table",
+              "title": "Site Hub"
+            }
+          },
+          {
+            "id": "ddb7e042b8f056de",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/EHS Assessments.base",
+                "viewName": "2026 H&S Audit"
+              },
+              "icon": "lucide-table",
+              "title": "EHS Assessments"
+            }
+          },
+          {
             "id": "a7018595842f73ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "00-Bases/CAB Procedure Reviews.base",
+                "viewName": "All Reviews"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "icon": "lucide-table",
+              "title": "CAB Procedure Reviews"
+            }
+          },
+          {
+            "id": "393a8e66eac9ed08",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Goals Base.base",
+                "viewName": "Cascade"
+              },
+              "icon": "lucide-table",
+              "title": "Goals Base"
+            }
+          },
+          {
+            "id": "45b4b12c8446c199",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Email Inbox.base",
+                "viewName": "Inbox Board"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Email Inbox"
+            }
+          },
+          {
+            "id": "b00bb22cb7dee93e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Meetings Base.base",
+                "viewName": "All Meetings"
+              },
+              "icon": "lucide-table",
+              "title": "Meetings Base"
+            }
+          },
+          {
+            "id": "0e2eaea0dc0d22dd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Projects Status Board.base",
+                "viewName": "Work Projects"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Projects Status Board"
+            }
+          },
+          {
+            "id": "df90c59c1612ef75",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00-Bases/Work Site Tracker.base",
+                "viewName": "Site Hubs"
+              },
+              "icon": "lucide-table",
+              "title": "Work Site Tracker"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -350,48 +443,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7018595842f73ce",
+  "active": "df90c59c1612ef75",
   "lastOpenFiles": [
-    "Bluetooth Keyboard + iPhone.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/ISS Project Update 2026-08-06.md",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/STATUS UPDATE 2026 H&S Audit - 2026-10-02.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/SOSPES REPLACEMENT MOC.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Vector Solutions.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Safety MOJO - Demonstration with Stack Infrastructure.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Mitti - Demonstration with Stack Infrastructure.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement/Intelex.md",
-    "02-Work/05 - Work Meetings/STACK EHS Onboarding - CTHX Questionnaire.md",
-    "Clippings/Exclusive AI giants, unions join forces for data center fight.md",
-    "Clippings/I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.md",
-    "Clippings/Weird Al Never Grew Up. Neither Did These Fans (or Their Dads).md",
-    "02-Work/05 - Work Meetings/Weekly Working Sessions/MOC - Weekly Working Session.md",
-    "02-Work/05 - Work Meetings/2026 Safe-Secure Task Force Kick-Off Meeting.md",
-    "02-Work/05 - Work Meetings/Gloria-David Asana Sync.md",
-    "02-Work/05 - Work Meetings/Ops-Construction Sync NVA05.md",
-    "02-Work/05 - Work Meetings/2026-09-24 Regional EHS Ops Meeting.md",
-    "Clippings/Kansas Hasn’t Elected a Democrat to the Senate Since 1932. Adam Hamilton Could Change That.md",
-    "01-Personal/Weekly U.S. Data Center EHS Brief",
-    "02-Work/06-Work Person/STACK People/People Base.base",
-    "Clippings/The Four TV Shows That Heralded America’s Fall.md",
-    "Clippings/Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’.md",
-    "Clippings/Post by @DKThomp on X.md",
-    "02-Work/05 - Work Meetings/MOC - Region EHS Ops Meetings.md",
-    "Clippings/As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker.md",
-    "02-Work/01 - Work Projects/⭐2026 SOSPES Replacement",
-    "Files/Pasted image 20260921145445.png",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/SITE INFO FOR 2026 Health and Safety Audits.md",
-    "02-Work/Work Folder Open Tasks.md",
-    "02-Work/Daniel Stevenson 1 on 1 2026-04-20.md",
-    "00-Bases/People Base.base",
+    "00-Bases/Projects Status Board.base",
+    "00-Bases/Meetings Base.base",
+    "00-Bases/Email Inbox.base",
+    "ATL01A Site Hub.md",
     "00-Bases/Goals Base.base",
+    "00-Bases/CAB Procedure Reviews.base",
+    "00-Bases/Site Hub.base",
+    "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
+    "00-Bases/Person Page.base",
+    "00-Bases/EHS Assessments.base",
+    "Jack Gillian Hub.md",
+    "04-Templates/Job Details.md",
+    "04-Templates/Folder Data.md",
+    "04-Templates/Weekly Review 2.0.md",
+    "04-Templates/AP Review Template.md",
+    "04-Templates/Standard Note.md",
+    "04-Templates/Reference Note.md",
+    "04-Templates/Email Template.md",
+    "04-Templates/Evergreen-Concept Note.md",
+    "04-Templates/Jesse Kenser 1 on 1.md",
+    "04-Templates/Medium CAB Template.md",
+    "04-Templates/Meeting Note.md",
+    "04-Templates/People.md",
+    "04-Templates/Person Note.md",
+    "04-Templates/Project Note Template.md",
+    "04-Templates/Project Note.md",
+    "04-Templates/Work Contact Card.md",
+    "04-Templates/Work Meeting.md",
+    "04-Templates/Work Task.md",
+    "02-Work/01 - Work Projects/2025 Operations EHS Goals - SVP, VP, Sr. Dir. Director.md",
+    "02-Work/01 - Work Projects/Ecosystem_Replication_ENHANCED.md",
+    "02-Work/01 - Work Projects/Env. Audit/ENV_AUDIT_Proposed_Dates_ENHANCED.md",
+    "02-Work/01 - Work Projects/AP Updates/Project_Summary.md",
+    "02-Work/01 - Work Projects/⭐EHS Assessments (Asana)",
+    "_harmonization/templates-before",
+    "_harmonization/backup-linkfix.json",
+    "Files/Pasted image 20260921145445.png",
     "Files/Pasted image 20260825091437.png",
     "Files/Pasted image 20260825090807.png",
     "02-Work/00 - Canvas/Canvas 2025-09-29.canvas",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits/STACK_HS_Audit_Prep_Setup_Guide.docx",
-    "02-Work/01 - Work Projects/⭐2026 H&S Audits",
     "Files/Pasted image 20260727171447.png",
-    "Files/Nick S1 Board Questions.xlsx",
-    "Files/EHS Incident Reporting_Mar 2025 - Appendix B -AMER AP Incident Management Procedure.pdf",
     "02-Work/01 - Work Projects/⭐ASANA/Asana Strategy Map.canvas",
     "02-Work/00 - Canvas/Dashboard.canvas",
     "02-Work/00 - Canvas/Goals_Projects_Tasks.canvas",
@@ -402,7 +496,6 @@
     "Files/Pasted image 20260501090742.png",
     "Files/Pasted image 20260501090855.png",
     "Files/Pasted image 20260521104525.png",
-    "2026.06.23 Bi-Weekly East Managers Meeting.docx",
     "02-Work/00 - Canvas/Canvas Log.canvas",
     "02-Work/00 - Canvas/Vertical Column Dashboard.canvas",
     "01-Personal/04-Archives/05-Archives/2023-09-01 - CANVAS PRACTIC 1.canvas",

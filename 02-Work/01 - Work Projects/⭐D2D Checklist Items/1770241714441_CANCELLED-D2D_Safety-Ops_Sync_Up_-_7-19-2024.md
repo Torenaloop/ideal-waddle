@@ -17,11 +17,11 @@ Project: NVA05A
 Topic: Safety/Operations Sync
 People:
   - Anthony Antonellis
-  - David Nuckolls
+  - "[[David Nuckolls]]"
   - Andrew Van Kleeck
-  - Rebecca Boyer
+  - "[[Rebecca Boyer]]"
   - Carmen Pacheco
-  - Kate Crawford
+  - "[[Kate Crawford]]"
 Related:
   - "[[NVA05A Project]]"
   - "[[D2D Checklist]]"

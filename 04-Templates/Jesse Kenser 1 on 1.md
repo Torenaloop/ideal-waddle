@@ -1,13 +1,14 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: 2026-02-18
 updated: 2026-02-18
-meeting_date: 2026-02-18
-participants:
-  - Jesse Kenser
-project:
+Date: 2026-02-18
+People:
+  - "[[Jesse Kenser]]"
+Project:
   - David/Jesse 1:1 
+Meeting Type: 1-on-1
 tags: []
 ---
 # Jesse Kenser 1 on 1

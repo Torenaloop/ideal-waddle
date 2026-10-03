@@ -5,7 +5,7 @@ created: 2026-02-18
 updated: 2026-02-18
 Date: 2026-02-18
 People:
-  - Jesse Kenser
+  - "[[Jesse Kenser]]"
 Project:
   - David/Jesse 1:1 
 tags: []

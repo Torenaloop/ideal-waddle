@@ -2,7 +2,7 @@
 type: person
 Company: STACK Infrastructure
 Org: Critical Operations
-Location: "[[NVA01A]]"
+Location: "[[02-Work/02 - Work Areas/NVA01A/NVA01A|NVA01A]]"
 Job Title: ACOM
 Email: warrington@stackinfra.com
 Phone: (757) 389-3636

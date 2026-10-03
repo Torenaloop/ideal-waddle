@@ -1,11 +1,14 @@
 ---
 type: project
-status: active
+Status: Active
 created: {{date}}
 updated: {{date}}
-owner:
-start: {{date}}
-due:
+Owner:
+Start Date: {{date}}
+Due Date:
+PARA: Projects
+Priority:
+Parent Goal:
 tags: []
 ---
 # {{title}}

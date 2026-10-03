@@ -5,8 +5,8 @@ created: 2026-02-18
 updated: 2026-02-18
 Date: 2026-02-18
 People:
-  - Donna Lynch 
-  - Gloria Gonzalez
+  - "[[Donna Lynch]]"
+  - "[[Gloria Gonzalez]]"
 Project:
   - Asana Implementation
 tags: []

@@ -5,12 +5,12 @@ created: 2026-05-27
 updated: 2026-05-27
 Date: 2026-05-27
 People:
-  - Jesse Kenser
-  - Matt Goetz 
-  - Matt Saucedo
+  - "[[Jesse Kenser]]"
+  - "[[Matt Goetz]]"
+  - "[[Matt Saucedo]]"
   - Gerald AldaJuste
-  - Gloria Gonzalez
-  - Shaniya Cobb
+  - "[[Gloria Gonzalez]]"
+  - "[[Shaniya Cobb]]"
 Project:
 tags: []
 ---

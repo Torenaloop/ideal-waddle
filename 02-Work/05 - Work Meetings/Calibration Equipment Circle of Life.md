@@ -5,8 +5,8 @@ created: 2026-03-06
 updated: 2026-03-06
 Date: 2026-03-06
 People:
-  - Brett Liddell 
-  - Rachel Eddinger
+  - "[[Brett Liddell]]"
+  - "[[Rachel Eddinger]]"
   - James Hubert
 Project:
   - NVA05A

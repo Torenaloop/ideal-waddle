@@ -17,7 +17,7 @@ Meeting Type: Teams
 People:
   - Lauren Dalton
   - Terry DeBell
-  - Jason Welsh
+  - "[[Jason Welsh]]"
   - Cullen Stapleton
 Project: NVA06A
 Related: "[[NVA06A D2D]]"

@@ -2,7 +2,7 @@
 type: person
 Company: STACK Infrastructure
 Org: Critical Operations
-Location: "[[NAL01A]]"
+Location: "[[02-Work/02 - Work Areas/NAL01A/NAL01A|NAL01A]]"
 Job Title: "[[COT]]"
 Email: rhopkins@stackinfra.com
 Phone: 812-290-1476

@@ -2,8 +2,13 @@
 type: person
 created: {{date}}
 updated: {{date}}
-role:
-organization:
+Company:
+Org:
+Location:
+Job Title:
+Email:
+Phone:
+Reports to:
 tags: []
 ---
 # {{title}}
@@ -14,4 +19,5 @@ tags: []
 
 ## Related Notes
 
-
+## Activity
+![[Person Page.base]]

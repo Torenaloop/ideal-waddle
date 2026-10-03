@@ -2,7 +2,7 @@
 type: person
 Company: STACK Infrastructure
 Org: Critical Operations
-Location: "[[NVA05D]]"
+Location: "[[02-Work/02 - Work Areas/NVA05D/NVA05D|NVA05D]]"
 Job Title: ACOM
 Email:
 Phone:

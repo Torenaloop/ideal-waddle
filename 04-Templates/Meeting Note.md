@@ -1,11 +1,13 @@
 ---
 type: meeting
-status: active
+Status: Active
 created: {{date}}
 updated: {{date}}
-meeting_date: {{date}}
-participants: []
-project:
+Date: {{date}}
+People: []
+Project:
+Meeting Type:
+Site:
 tags: []
 ---
 # {{title}}

@@ -1,6 +1,6 @@
 ---
 type: hub
-Site: "[[NVA05D]]"
+Site: "[[02-Work/02 - Work Areas/NVA05D/NVA05D|NVA05D]]"
 PARA: Areas
 ---
 # NVA05D

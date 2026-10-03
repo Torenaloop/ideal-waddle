@@ -52,6 +52,11 @@ VALUES = {
 SITE_FOLDERS = {"ATL01A": "ATL01A", "NAL01A": "NAL01A", "NVA01A": "NVA01A",
                 "NVA02D-E": "NVA02D-E", "NVA05A": "NVA05A", "NVA05D": "NVA05D",
                 "NVA06A-B": "NVA06A", "TOR01A": "TOR01A"}
+SITE_PATHS = {"ATL01A": "ATL01A", "NAL01A": "NAL01A", "NVA01A": "NVA01A", "NVA02D-E": "NVA02D-E",
+              "NVA05A": "NVA05A", "NVA05D": "NVA05D", "NVA06A": "NVA06A-B", "TOR01A": "TOR01A"}
+def site_link(c):
+    """Full-path link: Notion/ holds same-named site notes, so bare [[CODE]] is ambiguous."""
+    return f'"[[02-Work/02 - Work Areas/{SITE_PATHS[c]}/{c}|{c}]]"' if c in SITE_PATHS else f'"[[{c}]]"'
 SITE_RE = re.compile(r"^[A-Z]{3}\d{2}[A-Z](-[A-Z])?$")
 KEY_RE = re.compile(r"^([A-Za-z][A-Za-z0-9 _'\-\.]{0,39}):(\s.*|)$")
 EMPTY = {"", '""', "''", "[]", "null", "~"}
@@ -138,7 +143,7 @@ def process(rel, text, people):
                 set_inline(e, table[v.lower()]); log.append(f"{k}: {v} -> {table[v.lower()]}")
     e = get(entries, "Site")
     if e and len(e[1]) == 1 and SITE_RE.match(unq(inline(e))):
-        v = unq(inline(e)); set_inline(e, f'"[[{v}]]"'); log.append(f"Site: {v} -> [[{v}]]")
+        v = unq(inline(e)); set_inline(e, site_link(v)); log.append(f"Site: {v} -> [[{v}]]")
     e = get(entries, "People")
     if e and len(e[1]) == 1:
         v = unq(inline(e))
@@ -173,7 +178,7 @@ def process(rel, text, people):
     elif top == "02 - Work Areas" and len(parts) > 3:
         site = SITE_FOLDERS.get(parts[2])
         if site:
-            ensure(entries, "Site", f'"[[{site}]]"', log)
+            ensure(entries, "Site", site_link(site), log)
             ensure(entries, "PARA", "Areas", log)
             d = file_date(stem)
             if stem in (parts[2], site) or stem.endswith("_Site_Hub"): set_type("hub")

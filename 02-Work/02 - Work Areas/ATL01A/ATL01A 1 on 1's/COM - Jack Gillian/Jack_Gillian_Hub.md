@@ -5,7 +5,7 @@ Area: Site Operations Management
 Person Type: Critical Operations Manager (COM)
 People:
   - "[[Jack Gillian]]"
-Site: "[[ATL01A]]"
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
 Email: jgillian@stackinfra.com
 Region: East
 Manager: David Nuckolls

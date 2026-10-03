@@ -4,17 +4,17 @@
 
 ```handlebars
 ---
-para: {{#if (contains title "ENV AUDIT")}}Projects{{else if (contains title "EHS Goals")}}Areas{{else}}Areas{{/if}}
-area: {{#if (contains title "ATL01A")}}Site Operations Management{{else}}Work Communications{{/if}}
-document_type: Email
-from: "{{#if author}}{{author}}{{else}}[Extract from content]{{/if}}"
-to: "[Your name/email]"
-date: "{{date:YYYY-MM-DD}}"
-received: "{{time:YYYY-MM-DD HH:mm}}"
-subject: "{{title}}"
-site: {{#if (contains title "ATL01A")}}ATL01A{{else if (contains title "CHI01")}}CHI01A{{else if (contains title "DFW01")}}DFW01A{{else if (contains title "POR01")}}POR{{else if (contains title "NVA01")}}NVA01A{{else if (contains title "NAL01")}}NAL01A{{else if (contains title "TOR01")}}TOR01A{{else if (contains title "SVY01")}}SVY01A{{/if}}
-project: {{#if (contains title "Environmental Audit")}}2025 Environmental Audit{{else if (contains title "EHS Goals")}}2025 EHS Performance Goals{{/if}}
-related_files:
+PARA: {{#if (contains title "ENV AUDIT")}}Projects{{else if (contains title "EHS Goals")}}Areas{{else}}Areas{{/if}}
+Area: {{#if (contains title "ATL01A")}}Site Operations Management{{else}}Work Communications{{/if}}
+Document Type: Email
+Sender: "{{#if author}}{{author}}{{else}}[Extract from content]{{/if}}"
+Recipient: "[Your name/email]"
+Date: "{{date:YYYY-MM-DD}}"
+Received: "{{time:YYYY-MM-DD HH:mm}}"
+Subject: "{{title}}"
+Site: {{#if (contains title "ATL01A")}}ATL01A{{else if (contains title "CHI01")}}CHI01A{{else if (contains title "DFW01")}}DFW01A{{else if (contains title "POR01")}}POR{{else if (contains title "NVA01")}}NVA01A{{else if (contains title "NAL01")}}NAL01A{{else if (contains title "TOR01")}}TOR01A{{else if (contains title "SVY01")}}SVY01A{{/if}}
+Project: {{#if (contains title "Environmental Audit")}}2025 Environmental Audit{{else if (contains title "EHS Goals")}}2025 EHS Performance Goals{{/if}}
+Related Files:
   - "[[David Nuckolls Hub]]"
 {{#if (contains title "Jesse Kenser")}}  - "[[Jesse Kenser Hub]]"{{/if}}
 {{#if (contains title "Jack Gillian")}}  - "[[Jack Gillian Hub]]"{{/if}}
@@ -376,11 +376,11 @@ If the full template is too complex, here's a minimal version:
 
 ```handlebars
 ---
-para: Areas
-document_type: Email
-from: "{{author}}"
-date: "{{date:YYYY-MM-DD}}"
-subject: "{{title}}"
+PARA: Areas
+Document Type: Email
+Sender: "{{author}}"
+Date: "{{date:YYYY-MM-DD}}"
+Subject: "{{title}}"
 tags:
   - email
   - work

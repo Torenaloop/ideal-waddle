@@ -6,7 +6,7 @@ type: site-note
 ### Overview
 This batch consists of **9 files** (7 enhanced + 2 new hubs) focused on **site-specific operational management** for ATL01A. This introduces a new pattern: **site-level knowledge organization** that will scale across all 14 data center facilities.
 
-Site: "[[ATL01A]]"
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
 PARA: Areas
 ---
 

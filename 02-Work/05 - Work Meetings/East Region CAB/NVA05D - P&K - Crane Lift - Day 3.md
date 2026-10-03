@@ -12,7 +12,7 @@ Procedure Title: NVA05D - P&K - Crane Lift - Day 3
 Procedure Version: "-"
 Document Category:
   - Maintenance
-Site: "[[NVA05D]]"
+Site: "[[02-Work/02 - Work Areas/NVA05D/NVA05D|NVA05D]]"
 Review Type: High
 Review Trigger:
 Review Due Date: 2026-03-24

@@ -2,7 +2,7 @@
 type: hub
 PARA: Areas
 Area: Site Operations Management
-Site: "[[ATL01A]]"
+Site: "[[02-Work/02 - Work Areas/ATL01A/ATL01A|ATL01A]]"
 Site Name: Atlanta Data Center
 Facility Type: Data Center
 Region: East

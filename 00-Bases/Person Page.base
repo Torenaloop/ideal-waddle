@@ -9,7 +9,9 @@ views:
     filters:
       and:
         - type == "meeting"
-        - list(People).contains(this)
+        - or:
+            - list(People).contains(this)
+            - file.hasLink(this.file)
     order:
       - file.name
       - Date

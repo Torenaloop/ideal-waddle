@@ -12,7 +12,7 @@ Procedure Title: NVA06A - FTE of U3-MVS-02 & U4-MVS-01
 Procedure Version: "-"
 Document Category:
   - Maintenance
-Site: "[[NVA06A]]"
+Site: "[[02-Work/02 - Work Areas/NVA06A-B/NVA06A|NVA06A]]"
 Review Type: High
 Review Trigger:
 Review Due Date: 2026-03-16

@@ -1,0 +1,100 @@
+filters:
+  and:
+    - file.inFolder("02-Work")
+    - type == "assessment"
+properties:
+  file.name:
+    displayName: Assessment
+  note.Conformance %:
+    displayName: Conf. %
+  note.Critical & High Findings:
+    displayName: Crit/High
+  note.Not Applicable:
+    displayName: N/A
+views:
+  - type: table
+    name: 2026 H&S Audit
+    filters:
+      and:
+        - Program == "2026 H&S Audit"
+    groupBy:
+      property: Audit Phase
+      direction: ASC
+    order:
+      - file.name
+      - Site
+      - Region
+      - Lead Auditor
+      - Fieldwork Date
+      - Conformance %
+      - Open Findings
+      - Critical & High Findings
+      - Asana URL
+    sort:
+      - property: Fieldwork Date
+        direction: ASC
+  - type: table
+    name: Bi-annual
+    filters:
+      and:
+        - Program == "Bi-annual EHS Assessment"
+    groupBy:
+      property: Region
+      direction: ASC
+    order:
+      - file.name
+      - Site
+      - Audit Phase
+      - Conformance %
+      - Met
+      - Not Met
+      - Not Applicable
+      - Unscored
+      - As Of
+      - Asana URL
+    sort:
+      - property: Conformance %
+        direction: ASC
+  - type: table
+    name: By Site
+    groupBy:
+      property: Site Code
+      direction: ASC
+    order:
+      - file.name
+      - Program
+      - Audit Phase
+      - Conformance %
+      - Open Findings
+      - Asana URL
+    sort:
+      - property: Program
+        direction: ASC
+  - type: table
+    name: Open Findings
+    filters:
+      and:
+        - note["Open Findings"] > 0
+    order:
+      - file.name
+      - Program
+      - Region
+      - Open Findings
+      - Critical & High Findings
+      - Conformance %
+      - Asana URL
+    sort:
+      - property: Open Findings
+        direction: DESC
+  - type: table
+    name: This Site
+    filters:
+      and:
+        - Site == this
+    order:
+      - file.name
+      - Program
+      - Audit Phase
+      - Conformance %
+      - Open Findings
+      - Asana URL
