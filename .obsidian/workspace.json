@@ -375,10 +375,19 @@
               "icon": "lucide-table",
               "title": "Rhett Base"
             }
+          },
+          {
+            "id": "3f8162a662c95c9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -440,8 +449,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da6315c9360488fa",
@@ -635,8 +643,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f032e17f4a64c7",
+  "active": "3f8162a662c95c9b",
   "lastOpenFiles": [
+    "02-Work/SPCC - SHAREPOINT - Examples.md",
     "00-Bases/CAB Procedure Reviews.base",
     "00-Bases/Rhett Base.base",
     "00-Bases/23. Safety_Pre-Migration.base",
@@ -647,7 +656,6 @@
     "00-Bases/Meeting Tracker.base",
     "00-Bases/Work Recently Modified.base",
     "00-Bases/People Base.base",
-    "00-Bases/Work Site Tracker.base",
     "02-Work/02 - Work Areas/NAL01A/NAL01A.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A 1 on 1's/COM - Jack Gillian/ATL01A_Site_Hub.md",
     "02-Work/02 - Work Areas/ATL01A/ATL01A.md",
